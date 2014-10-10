@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Justin D. Yeakel
 locale:           en_US
 url:              http://localhost:4000
 
@@ -26,21 +26,21 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Justin D. Yeakel
   avatar: bio-photo.jpg
-  bio: "Describe your self."
+  bio: "Omidyar Postdoctoral Fellow at the Santa Fe Institute"
   email: 
   disqus-shortname: 
-  twitter: #username
+  twitter: jdyeakel
   facebook: #username
   google:
-    plus: #username
+    plus: jdyeakel
     analytics: 
     verify: 
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
+  github: jdyeakel
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
