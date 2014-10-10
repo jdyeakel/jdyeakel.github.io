@@ -5,9 +5,8 @@ tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 image:
-  feature: texture-feature-02.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
+  feature: cgraphs.jpg
+  credit: jdyeakel
 ---
 
 I am currently an Omidyar postdoctoral fellow at the Santa Fe Institute in New Mexico.
