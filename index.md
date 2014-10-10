@@ -7,3 +7,5 @@ image:
   credit: Texture Lovers
   creditlink: http://texturelovers.com
 ---
+Welcome to my website.
+I am just getting things up and running, so updates to follow shortly.
