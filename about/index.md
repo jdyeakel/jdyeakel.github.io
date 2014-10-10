@@ -24,6 +24,6 @@ I am interested in the physical and biological constraints that shape trophic in
 
 Research is fun and is best when done with friends. Working with colleagues in Santa Fe & Albuquerque NM, Vancouver BC, California, Brazil, and Germany (among other places), we are currently investigating how geographical constraints impact metapopulation and food web dynamics, how the evolution and formation of grasslands impacted mammalian evolution, and to what extent diet-switching behaviors change as a function of habitat patchiness and how this alters the structure and dynamics of food webs.
 
-My wife Charlene Chow is an artist – check out her website here! link: http://charleneeliz.wordpress.com
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+My wife Charlene Chow is an artist. [Check out her website here!](http://charleneeliz.wordpress.com)
+
