@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the Theme
+title: Justin D. Yeakel
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
@@ -10,16 +10,16 @@ image:
   creditlink: http://texturelovers.com
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+I am currently an Omidyar postdoctoral fellow at the Santa Fe Institute in New Mexico.
 
-## Minimal Mistakes is all about:
+I am interested in the physical and biological constraints that shape trophic interactions, and how changes in these interactions impact community dynamics over evolutionary time. I generally use network-theoretic approaches – combined with empirical measures of interactions e.g. stable isotopic data – to try to understand how species interactions trickle up to impact the structure and functioning of ecological communities. My long-term interests fall into 3 core themes:
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
+*the proximate drivers and ultimate effects of species interactions
+*the effects of large-scale (spatial and temporal) factors on community assembly and dis-assembly
+*the interplay between landscape structure and population/community dynamics
+
+Research is fun and is best when done with friends. Working with colleagues in Santa Fe & Albuquerque NM, Vancouver BC, California, Brazil, and Germany (among other places), we are currently investigating how geographical constraints impact metapopulation and food web dynamics, how the evolution and formation of grasslands impacted mammalian evolution, and to what extent diet-switching behaviors change as a function of habitat patchiness and how this alters the structure and dynamics of food webs.
+
+My wife Charlene Chow is an artist – check out her website here! link: http://charleneeliz.wordpress.com
 
 <a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
