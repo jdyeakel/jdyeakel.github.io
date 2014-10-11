@@ -10,9 +10,9 @@ comments: true
 Current Position
 =========
 
-Omidyar Fellow, Santa Fe Institute
-Santa Fe, New Mexico
-Email: jdyeakel at gmail.com
+Omidyar Fellow, Santa Fe Institute  
+Santa Fe, New Mexico  
+Email: jdyeakel at gmail.com  
 
 
 Past Positions
