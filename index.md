@@ -15,6 +15,3 @@ These different approachs are meant to inform our understanding of the underlyin
 
 ***
 
-I am a quantitative ecologist primarily interested in how trophic interactions between animals impact the structure and functioning of ecological communities.
-My work does not focus on a model organism or ecosystem, but instead is aimed towards exploring general underlying processes that influence a wide variety of ecosystems.
-Moreover, I have a deep interest in using paleontological and/or historical data to understand how biological systems change over longer timescales that are not accessible using traditional ecological approaches.
