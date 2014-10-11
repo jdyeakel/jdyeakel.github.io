@@ -10,7 +10,7 @@ Justin Douglas Yeakel
 
 Omidyar Fellow, Santa Fe Institute
 Santa Fe, New Mexico
-Email: sean at seananderson.ca
+Email: jdyeakel at gmail.com
 
 Education
 =========
