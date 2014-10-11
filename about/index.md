@@ -8,9 +8,6 @@ image:
   feature: cgraphs.jpg
   credit: jdyeakel
 ---
-
-I am currently an Omidyar postdoctoral fellow at the Santa Fe Institute in New Mexico.
-
 ## Interests
 
 I am interested in the physical and biological constraints that shape trophic interactions, and how changes in these interactions impact community dynamics over evolutionary time. I generally use network-theoretic approaches – combined with empirical measures of interactions e.g. stable isotopic data – to try to understand how species interactions trickle up to impact the structure and functioning of ecological communities. My long-term interests fall into 3 core themes:
