@@ -34,15 +34,15 @@ Past Positions
 Publications
 =========
 2014
-:	Yeakel, J. D., Pires, M. M., Rudolf, L., Dominy, N. J., Koch, P. L., Guimarães, P. R., Jr, & Gross, T. (2014). Collapse of an ecological network in Ancient Egypt. *Proceedings of the National Academy of Sciences*, 111(40), 14472–14477. doi:10.1073/pnas.1408471111   
+:	* Yeakel, J. D., Pires, M. M., Rudolf, L., Dominy, N. J., Koch, P. L., Guimarães, P. R., Jr, & Gross, T. (2014). Collapse of an ecological network in Ancient Egypt. *Proceedings of the National Academy of Sciences*, 111(40), 14472–14477. doi:10.1073/pnas.1408471111   
 
-	Moore, J. W., Yeakel, J. D., Peard, D., Lough, J., & Beere, M. (2014). Life-history diversity and its importance to population stability and persistence of a migratory fish: steelhead in two large North American watersheds. Journal of Animal Ecology. doi:10.1111/1365-2656.12212  
+	* Moore, J. W., Yeakel, J. D., Peard, D., Lough, J., & Beere, M. (2014). Life-history diversity and its importance to population stability and persistence of a migratory fish: steelhead in two large North American watersheds. Journal of Animal Ecology. doi:10.1111/1365-2656.12212  
 
-	Yeakel, J. D., Moore, J. W., Guimarães, P. R., Jr, & de Aguiar, M. A. M. (2014). Synchronisation and stability in river metapopulation networks. Ecology Letters, 17(3), 273–283. doi:10.1111/ele.12228  
+	* Yeakel, J. D., Moore, J. W., Guimarães, P. R., Jr, & de Aguiar, M. A. M. (2014). Synchronisation and stability in river metapopulation networks. Ecology Letters, 17(3), 273–283. doi:10.1111/ele.12228  
 
-	Yeakel, J., & Mangel, M. (2014). A generalized perturbation approach for exploring stock recruitment relationships. Theoretical Ecology, 1–13.  
+	* Yeakel, J., & Mangel, M. (2014). A generalized perturbation approach for exploring stock recruitment relationships. Theoretical Ecology, 1–13.  
 
-	Yeakel, J. D., Dominy, N. J., Koch, P. L., & Mangel, M. (2014). Functional morphology, stable isotopes, and human evolution: a model of consilience. Evolution, 68, 190–203. doi:10.1111/evo.12240  
+	* Yeakel, J. D., Dominy, N. J., Koch, P. L., & Mangel, M. (2014). Functional morphology, stable isotopes, and human evolution: a model of consilience. Evolution, 68, 190–203. doi:10.1111/evo.12240  
 
 2013
 :	Yeakel, J. D., Guimarães, P. R., Jr, Bocherens, H., & Koch, P. L. (2013). The impact of climate change on the structure of Pleistocene food webs across the mammoth steppe. Proceedings of the Royal Society of London Series B-Biological Sciences, 280(1762), 20130239–20130239. doi:10.1016/j.cub.2007.09.059  
