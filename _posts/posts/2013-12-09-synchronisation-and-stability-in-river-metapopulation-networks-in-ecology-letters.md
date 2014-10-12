@@ -1,0 +1,24 @@
+---
+layout: post
+title: "Synchronisation and Stability in River Metapopulation Networks in Ecology Letters"
+modified:
+categories: posts
+excerpt: "The immigration and emigration of individuals to and from populations within a metapopulation allows abundant populations to rescue those nearing extinction. This is an important trait of metapopulation dynamics, however this ‘rescue effect’ is destroyed if the populations are synchronized: if all populations are at low abundance at the same time, they cannot rescue each other."
+tags: []
+image:
+  feature:
+date: 2013-12-09T00:00:00-07:00
+---
+
+
+The immigration and emigration of individuals to and from populations within a metapopulation allows abundant populations to rescue those nearing extinction. This is an important trait of metapopulation dynamics, however this ‘rescue effect’ is destroyed if the populations are synchronized: if all populations are at low abundance at the same time, they cannot rescue each other. Moreover, the structure of interactions within a metapopulation (which controls how individuals can flow from one population to another) has a large impact on the dynamics of the whole system. The structure of a metapopulation may be influenced by any feature on the landscape that influences how an animal moves, including geological features such as mountains, the occurrence of water sources, or the distribution of forests, grasslands, or deserts. In aquatic populations that inhabit rivers, the geological constraints of watersheds dictate which populations interact.
+
+---
+
+In a paper that we just published in Ecology Letters [1], we explore how the specialized structure of river networks impacts both the sizes of fluctuations within populations, as well as the extent to which river populations can become synchronized as the result of river network structure. We show that river networks confer dual stability by both decreasing the fluctuations of riverine metapopulations, and providing a natural buffering against synchronization. We also show that altering river structure – for example by linking otherwise separated river branches with canals – has a large effect on dynamics, increasing the potential that populations can become synchronized. We finish by discussing the idea that the size of the organism (and by extension its mobility) changes the structure of the metapopulation that is distributed within a given watershed. This has a large impact on synchronization, and poses some exciting unanswered questions in metapopulation theory. Check out the paper on the website here.
+
+---
+
+Appendices: The Appendices were not posted on the official website. Until that is resolved, please find them here.
+
+[1] Yeakel, J. D., Moore, J. W., Guimarães, P. R., Jr, & de Aguiar, M. A. M. (2013). Synchronisation and stability in river metapopulation networks. Ecology Letters. doi:10.1111/ele.12228 Link

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "First Post"
+title: "New Website"
 modified:
 categories: posts
 excerpt:
