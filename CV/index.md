@@ -10,6 +10,8 @@ Justin Douglas Yeakel
 Omidyar Fellow, Santa Fe Institute  
 Santa Fe, New Mexico  
 Email: jdyeakel at gmail.com  
+[Google Scholar](http://scholar.google.com/citations?user=nWHtsZYAAAAJ&hl=en&oi=sra)
+
 
 
 Past Positions
