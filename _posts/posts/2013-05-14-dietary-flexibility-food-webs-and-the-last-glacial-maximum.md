@@ -3,7 +3,7 @@ layout: post
 title: "Dietary Flexibility, Food Webs, and the Last Glacial Maximum"
 modified:
 categories: posts
-excerpt:
+excerpt: "We look at spatial and temporal variation in diet on both species-specific and community-level scales. We show that dietary flexibility distinguished bears and wolves, while large cats had relatively inflexible diets over space. We also show that trophic interactions among species in the mammoth steppe (ranging from Europe to the Yukon) were structured differently in western Europe than Alaska, however these structures were relatively unchanged across the Last Glacial Maximum."
 tags: []
 image:
   feature:
