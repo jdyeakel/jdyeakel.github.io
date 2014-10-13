@@ -1,6 +1,6 @@
 ---
 layout: page
-excerpt: "A responsive Jekyll theme with editorial tendencies by designer Michael Rose."
+excerpt: "Quantitative ecology, population dynamics, ecological networks"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: aspens.jpg
