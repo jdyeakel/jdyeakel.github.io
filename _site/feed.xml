@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
 <link rel="alternate" type="text/html" href="http://localhost:4000" />
-<updated>2014-10-12T13:48:41-06:00</updated>
+<updated>2014-10-12T17:59:09-06:00</updated>
 <id>http://localhost:4000/</id>
 <author>
   <name>Justin D. Yeakel</name>
@@ -207,6 +207,32 @@
 &lt;/ol&gt;
 
   &lt;p&gt;&lt;a href=&quot;http://localhost:4000/posts/exploring-the-constraints-of-hominin-foraging-behaviors/&quot;&gt;Exploring the Constraints of Hominin Foraging Behaviors&lt;/a&gt; was originally published by Justin D. Yeakel at &lt;a href=&quot;http://localhost:4000&quot;&gt;Justin D. Yeakel&lt;/a&gt; on September 10, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Dietary Flexibility, Food Webs, and the Last Glacial Maximum]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/posts/dietary-flexibility-food-webs-and-the-last-glacial-maximum/" />
+  <id>http://localhost:4000/posts/dietary-flexibility-food-webs-and-the-last-glacial-maximum</id>
+  <published>2013-05-14T00:00:00-06:00</published>
+  <updated>2013-05-14T00:00:00-06:00</updated>
+  <author>
+    <name>Justin D. Yeakel</name>
+    <uri>http://localhost:4000</uri>
+    <email>jdyeakel@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;We just had a paper published in the &lt;a href=&quot;http://rspb.royalsocietypublishing.org/content/280/1762/20130239.short?rss=1&quot;&gt;Proceedings of the Royal Society B: Biological Sciences&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The paper is on the structure of food webs before, during, and after the Last Glacial Maximum – a global scale climatic event that impacted mammalian communities across the world. We look at spatial and temporal variation in diet on both species-specific and community-level scales. We show that dietary flexibility distinguished bears and wolves, while large cats had relatively inflexible diets over space. We also show that trophic interactions among species in the mammoth steppe (ranging from Europe to the Yukon) were structured differently in western Europe than Alaska, however these structures were relatively unchanged across the Last Glacial Maximum.  Check out the &lt;a href=&quot;http://news.ucsc.edu/2013/05/mammoth-steppe.html&quot;&gt;press release&lt;/a&gt;.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;a href=&quot;/images/mammoth.jpg&quot;&gt;&lt;img src=&quot;/images/mammoth.jpg&quot; /&gt;&lt;/a&gt;
+	&lt;figcaption&gt;&lt;a href=&quot;/images/mammoth.jpg&quot; title=&quot;Mammoth tusks are still found in the arctic landscape, remnants of the mammoth steppe ecosystem that supported a diverse assemblage of large-bodied mammals.&quot;&gt;Mammoth tusks are still found in the arctic landscape, remnants of the mammoth steppe ecosystem that supported a diverse assemblage of large-bodied mammals.&lt;/a&gt;.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/posts/dietary-flexibility-food-webs-and-the-last-glacial-maximum/&quot;&gt;Dietary Flexibility, Food Webs, and the Last Glacial Maximum&lt;/a&gt; was originally published by Justin D. Yeakel at &lt;a href=&quot;http://localhost:4000&quot;&gt;Justin D. Yeakel&lt;/a&gt; on May 14, 2013.&lt;/p&gt;</content>
 </entry>
 
 </feed>

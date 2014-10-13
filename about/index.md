@@ -5,7 +5,7 @@ tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 image:
-  feature: cgraphs.jpg
+  feature: tracks_leadville.jpg
   credit: jdyeakel
 ---
 ## Interests
@@ -16,11 +16,11 @@ I am interested in the physical and biological constraints that shape trophic in
 * the effects of large-scale (spatial and temporal) factors on community assembly and dis-assembly
 * the interplay between landscape structure and population/community dynamics
 
-## Research
+---
 
-Research is fun and is best when done with friends. Working with colleagues in Santa Fe & Albuquerque NM, Vancouver BC, California, Brazil, and Germany (among other places), we are currently investigating how geographical constraints impact metapopulation and food web dynamics, how the evolution and formation of grasslands impacted mammalian evolution, and to what extent diet-switching behaviors change as a function of habitat patchiness and how this alters the structure and dynamics of food webs.
+Other stuff goes here...
 
-***
+---
 
 My wife Charlene Chow is an artist. [Check out her website here!](http://charleneeliz.wordpress.com)
 
