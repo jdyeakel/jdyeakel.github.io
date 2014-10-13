@@ -11,11 +11,27 @@ date: 2014-09-08T00:00:00-06:00
 ---
 
 
-We recently published a paper in the Proceedings of the National Academy of Sciences [link] detailing the collapse of the Egyptian mammalian community across the second half of the Holocene (see this link for the UCSC press release). The project was a collaboration between myself, Mathias Pires, and Lars Rudolf along with coauthors Paulo Guimarães Jr., Nathaniel Dominy, Paul Koch, and Thilo Gross. We used paleontological, archeological, and historical information – including records of artistic works – of species occurrences in Ancient Egypt to reconstruct the pattern of extinctions over ca. 6000 years. Remarkably, some of the largest changes in the community coincided with previously recorded aridification pulses in Egypt that have been associated with cultural collapse and socio-political turnover. We then used mathematical modeling to determine the consequences of the extinctions in Egypt, and found that the loss of species richness had large impacts on the stability of the community as well as the roles of individual species within the ecosystem.  
+We recently published a [paper in the Proceedings of the National Academy of Sciences](http://www.pnas.org/content/111/40/14472.abstract) detailing the collapse of the Egyptian mammalian community across the second half of the Holocene (see this link for the UCSC press release). The project was a collaboration between myself, Mathias Pires, and Lars Rudolf along with coauthors Paulo Guimarães Jr., Nathaniel Dominy, Paul Koch, and Thilo Gross. We used paleontological, archeological, and historical information – including records of artistic works – of species occurrences in Ancient Egypt to reconstruct the pattern of extinctions over ca. 6000 years. Remarkably, some of the largest changes in the community coincided with previously recorded aridification pulses in Egypt that have been associated with cultural collapse and socio-political turnover. We then used mathematical modeling to determine the consequences of the extinctions in Egypt, and found that the loss of species richness had large impacts on the stability of the community as well as the roles of individual species within the ecosystem.  
+
+
+
+> [See a Brazilian infographic of the extinction events!](http://infograficos.estadao.com.br/public/cidades/extincoes-egito/)
+
+
+
+In 2009, Nate Dominy (then a professor of Anthropology at UC-Santa Cruz and now at Dartmouth) and I visited the traveling Tutankhamen exhibit in San Francisco, where a startling array of artifacts, sculptures, and carvings were on display. One of the more striking realizations was the amount of detail and the abundance of animal representations in the exhibit. In fact, Egyptian artisans were keen observers of the natural world and recorded these observations in their work. For example, the tombs of pharaohs were illustrated with depictions of hunting scenes, providing a glimpse of the natural world during that time period. The cumulative body of paleontological, archeological, and historical evidence reveals a world very different than what is seen in Egypt today – lions, wild dogs, striped hyenas, elephants, giraffes, wildebeest, hartebeest, and many species of gazelle were common Egyptian fauna. This startlingly rich animal community is familiar to us in our modern world, but we would expect to find it in East Africa. In fact, at the end of the Pleistocene (11.7 thousand years ago), there were 37 large-bodied mammalian species in Egypt, whereas there are only 8 remaining today. What happened?   
 
 ---
 
-In 2009, Nate Dominy (then a professor of Anthropology at UC-Santa Cruz and now at Dartmouth) and I visited the traveling Tutankhamen exhibit in San Francisco, where a startling array of artifacts, sculptures, and carvings were on display. One of the more striking realizations was the amount of detail and the abundance of animal representations in the exhibit. In fact, Egyptian artisans were keen observers of the natural world and recorded these observations in their work. For example, the tombs of pharaohs were illustrated with depictions of hunting scenes, providing a glimpse of the natural world during that time period. The cumulative body of paleontological, archeological, and historical evidence reveals a world very different than what is seen in Egypt today – lions, wild dogs, striped hyenas, elephants, giraffes, wildebeest, hartebeest, and many species of gazelle were common Egyptian fauna. This startlingly rich animal community is familiar to us in our modern world, but we would expect to find it in East Africa. In fact, at the end of the Pleistocene (11.7 thousand years ago), there were 37 large-bodied mammalian species in Egypt, whereas there are only 8 remaining today. What happened?   
+> Egypt in the News!  
+
+- [Science](http://news.sciencemag.org/biology/2014/09/clues-animal-extinctions-found-walls-egyptian-tombs)
+- [Nature](http://www.nature.com/news/ancient-art-fills-in-egypt-s-ecological-history-1.13528)
+- [Smithsonian](http://www.smithsonianmag.com/ist/?next=/science/egypts-mammal-extinctions-tracked-through-6000-years-art-180952641/)
+- [UCSC press release](http://news.ucsc.edu/2014/09/egyptian-mammals.html)
+- [NBC News](http://www.nbcnews.com/science/environment/ancient-egyptian-art-opens-window-mammal-extinctions-n198511)
+- [Financial Times](http://www.ft.com/cms/s/0/5aa098ac-4904-11e4-9f63-00144feab7de.html)
+- [Discovery](http://news.discovery.com/animals/egypts-ancient-animals-killed-by-climate-and-civilization-140915.htm)
 
 ---
 
