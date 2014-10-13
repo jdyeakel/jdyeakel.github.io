@@ -19,6 +19,6 @@ image:
 ## Spatial Heterogeneity
 
 
-## Ecological and Evolutionary Nice--space Dynamics
+## Ecological and Evolutionary Niche--space Dynamics
 
 
