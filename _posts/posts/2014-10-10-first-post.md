@@ -3,7 +3,7 @@ layout: post
 title: "New Website"
 modified:
 categories: posts
-excerpt:
+excerpt: "This is my first post to my GitHub website powered by Jekyll. I have a lot to learn."
 tags: []
 image:
   feature:
