@@ -15,3 +15,12 @@ These different approachs are meant to inform our understanding of the underlyin
 
 ***
 
+```
+<span style="font-size:2em;">News</span>   
+
+We recently published a paper documenting changes to the Egyptian mammalian food web in PNAS.   
+
+Check out a post on the paper, as well as links to news coverage and a cool infographic [here](/posts/collapse-of-an-ancient-egyptian-food-web-in-pnas)
+
+```
+
