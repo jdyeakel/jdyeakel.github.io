@@ -73,6 +73,13 @@ pre-2011
 	* Yeakel, J. D., Bennett, N. C., Koch, P. L., & Dominy, N. J. The isotopic ecology of African mole rats informs hypotheses on the evolution of human diet. *Proceedings of the Royal Society of London Series B-Biological Sciences* 274(1619), 1723–1730. doi:10.1098/rspb.2007.0330 
 
 
+Popular Articles
+===========
+:	* Yeakel, J. D., Dunne, J. A. *American Scientist* In prep.
+
+
+
+
 Invited Seminars
 ===========
 * University of California, Merced. Ecological networks over time and space: from species interactions to community dynamics. March 2014.
