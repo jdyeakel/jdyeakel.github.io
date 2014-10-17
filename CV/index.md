@@ -13,8 +13,8 @@ Email: jdyeakel at gmail.com
 [Google Scholar](http://scholar.google.com/citations?user=nWHtsZYAAAAJ&hl=en&oi=sra)  
 
 
-> **Beginning 1/1/2016**
-> Assestant Professor, 
+> **Beginning 1/1/2016**  
+> Assistant Professor, 
 > School of Natural Sciences  
 > University of California, Merced
 
