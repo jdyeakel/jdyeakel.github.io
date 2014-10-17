@@ -10,8 +10,13 @@ Justin Douglas Yeakel
 Omidyar Fellow, Santa Fe Institute  
 Santa Fe, New Mexico  
 Email: jdyeakel at gmail.com  
-[Google Scholar](http://scholar.google.com/citations?user=nWHtsZYAAAAJ&hl=en&oi=sra)
+[Google Scholar](http://scholar.google.com/citations?user=nWHtsZYAAAAJ&hl=en&oi=sra)  
 
+
+> **Beginning 1/1/2016**
+> Assestant Professor, 
+> School of Natural Sciences  
+> University of California, Merced
 
 
 Past Positions
