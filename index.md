@@ -18,5 +18,3 @@ My wife and I moved to Santa Fe during the summer of 2014 after having spent two
 At the Santa Fe Institute, I am exploring how different spatial structures impact consumer-resource relationships, and how these constraints 'trickle--up' to impact the structure of biological communities.
 In addition, I am currently building theoretical models of niche evolution, as well as developing methods to inform models of niche use from stable isotopic data.
 These different approachs are meant to inform our understanding of the underlying constraints driving resource-use at the individual, species, and community levels.
-
-

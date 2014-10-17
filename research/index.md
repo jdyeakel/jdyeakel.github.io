@@ -6,9 +6,10 @@ modified:
 excerpt:
 tags: [Research]
 image:
-  feature: mud_flats.jpg
+  feature: mudflats.jpg
   credit: jdyeakel
 ---
+
 
 ## Variability of trophic interactions
 
@@ -19,6 +20,6 @@ image:
 ## Spatial Heterogeneity
 
 
-## Ecological and Evolutionary Niche--space Dynamics
+## Ecological and Evolutionary Niche Dynamics
 
 
