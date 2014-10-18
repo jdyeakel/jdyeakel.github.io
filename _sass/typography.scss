@@ -108,6 +108,42 @@ blockquote {
 	}
 }
 
+/* CV */
+/*lists*/
+dt {
+	position: relative;
+	left: 0;
+	top: 25px;
+	color: #626262;
+	font-size: 14px;
+	text-transform: none;
+	width: 57px;
+}
+
+dd {
+	border-left: 1px solid #dfdfdf;
+	margin: -5px 0 -15px 63px;
+	padding: 0 0 0 9px;
+}
+
+dl {
+	margin-bottom: 20px;
+	margin-top: -20px;
+}
+
+img {
+	border: 0px solid #ccc;
+}
+
+img.bigpicture {
+	margin-left: -210px;
+}
+
+.headshot {
+	float: left;
+	margin: 8px 30px 10px 0px;
+}
+
 // Paragraphs
 // --------------------------------------------------
 p {
@@ -120,6 +156,8 @@ p {
 		}
 	}
 }
+
+
 
 // Code
 // --------------------------------------------------
