@@ -62,6 +62,5 @@ These ideas are currently being approached theoretically with [Thilo Gross and L
 We have a review of some common methods of exploring niche use with stable isotopes [here](http://asmjournals.org/doi/abs/10.1644/11-MAMM-S-187.1), and are currently investigating some new appoaches.
 
 > **If any of these topics are of interest to you...**
-> I'll be starting as an Assistant Professor at the University of California, Merced (gateway to Yosemite) on January 1, 2016, and looking to work with excited students interested in applying both theoretical and empirical approaches to unravel ecological complexities!   
-> Send me an email!
+> I'll be starting as an Assistant Professor at the University of California, Merced (gateway to Yosemite) on January 1, 2016, and looking to work with excited students interested in applying both theoretical and empirical approaches to unravel ecological complexities! [Send me an email!](mailto:jdyeakel@gmail.com)
 
