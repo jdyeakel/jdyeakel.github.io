@@ -61,7 +61,7 @@ I'm generally interested in how the processes of diversification and extinction 
 These ideas are currently being approached theoretically with [Thilo Gross and Lars Rudolf](http://biond.org) at the University of Bristol, while I'm also exploring how to quantify different aspects of dynamic niche use via stable isotopes ratios with [Seth Newsome at the Univeristy of New Mexico](http://sethnewsome.org/sethnewsome/Home.html).
 We have a review of some common methods of exploring niche use with stable isotopes [here](http://asmjournals.org/doi/abs/10.1644/11-MAMM-S-187.1), and are currently investigating some new appoaches.
 
-#### If any of these topics are of interest to you...
-
-I'll be starting as an Assistant Professor at the University of California, Merced (gateway to Yosemite) on January 1, 2016, and looking to work with excited students interested in applying both theoretical and empirical approaches to unravel ecological complexities! Send me an email!
+> **If any of these topics are of interest to you...**
+> I'll be starting as an Assistant Professor at the University of California, Merced (gateway to Yosemite) on January 1, 2016, and looking to work with excited students interested in applying both theoretical and empirical approaches to unravel ecological complexities!   
+> Send me an email!
 
