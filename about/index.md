@@ -21,7 +21,7 @@ I am interested in the physical and biological constraints that shape trophic in
 ###Background
 
 I graduated in 2004 from Kent State University in Ohio (my home state) with a degree in Biological Anthropology, a minor in biology, and specializing in outdoor education (I spent two years working at LongAcre Expeditions, and am a graduate of the NOLS Alaska summer course).
-After reading Chaos by James Glieck in 2003, and his beautiful descriptions of the Santa Cruz campus, I sent a random email to Paul Koch, a professor at UCSC specializing in using stable isotopes to study mdoern and paleo ecosystems.
+After reading Chaos by James Glieck in 2003, and his beautiful descriptions of the Santa Cruz campus, I sent a random email to Paul Koch, a professor at UCSC specializing in using stable isotopes to study modern and paleo ecosystems.
 He ended up offering me a job in the mass spec facility at UCSC, where I worked for two years before becoming a graduate student in the Ecology and Evolutionary Biology Department.
 
 
