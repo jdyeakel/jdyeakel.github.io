@@ -18,7 +18,3 @@ My wife and I moved to Santa Fe during the summer of 2014 after having spent two
 At the Santa Fe Institute, I am exploring how different spatial structures impact consumer-resource relationships, and how these constraints 'trickle--up' to impact the structure of biological communities.
 In addition, I am currently building theoretical models of niche evolution, as well as developing methods to inform models of niche use from stable isotopic data.
 These different approachs are meant to inform our understanding of the underlying constraints driving resource-use at the individual, species, and community levels.
-
----
-
-<a class="twitter-timeline" href="https://twitter.com/jdyeakel" data-widget-id="528631885069422593">Tweets by @jdyeakel</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
