@@ -34,8 +34,9 @@ Full Professor, University of California, Santa Cruz
 <br>
 [**Marc Mangel**](http://users.soe.ucsc.edu/~msmangel/)  
 Distinguished Professor, University of California, Santa Cruz  
+Center for Stock Assessment and Research   
 University of Bergen, Norway   
-*Theoretical biology, behavioral ecology, stochastic processes, stock assessment science*   
+*Theoretical biology, behavioral ecology, stochastic processes, stock dynamics*   
 <br>
 [**Jonathan W. Moore**](http://moorelab.wix.com/moorelab)  
 Associate Professor, Simon Fraser University, Canada  
