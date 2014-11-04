@@ -35,12 +35,12 @@ Publications
 =========
 
 *In prep*
-:	* Moore J. W. , Nesbitt H. K. , <span style="color:#377EB8;">Yeakel, J. D.</span>, Beakes M., Phillis C., Braun D., Lichota C., Carr-Harris C., Atlas W., Scott D., Patterson D., Thompson L. The emergence of stability in river watersheds. In Revision: *Ecology*.
-
-	* Galetti M., Guevara R., Neves C., Rodarte R. R., Moreira M., <span style="color:#377EB8;">Yeakel, J. D.</span>, Hopkins III, J. Cascading effects of defaunation: population-level and dietary shifts in rodents following the extinction of a large herbivore. In Review at: *Journal of Animal Ecology*
+:	* Galetti M., Guevara R., Neves C., Rodarte R. R., Moreira M., <span style="color:#377EB8;">Yeakel, J. D.</span>, Hopkins III, J. Cascading effects of defaunation: population-level and dietary shifts in rodents following the extinction of a large herbivore. In Review at: *Journal of Animal Ecology*
 
 2014
-:	* <span style="color:#377EB8;">Yeakel, J. D.</span>, Pires, M. M., Rudolf, L., Dominy, N. J., Koch, P. L., Guimarães, P. R., Jr, & Gross, T. Collapse of an ecological network in Ancient Egypt. *Proceedings of the National Academy of Sciences*, 111(40), 14472–14477. doi:10.1073/pnas.1408471111   
+:	* Moore J. W. , Nesbitt H. K. , <span style="color:#377EB8;">Yeakel, J. D.</span>, Beakes M., Phillis C., Braun D., Lichota C., Carr-Harris C., Atlas W., Scott D., Patterson D., Thompson L. The emergence of stability in river watersheds. *Ecology: in press*.   
+
+	* <span style="color:#377EB8;">Yeakel, J. D.</span>, Pires, M. M., Rudolf, L., Dominy, N. J., Koch, P. L., Guimarães, P. R., Jr, & Gross, T. Collapse of an ecological network in Ancient Egypt. *Proceedings of the National Academy of Sciences*, 111(40), 14472–14477. doi:10.1073/pnas.1408471111   
 
 	* Moore, J. W., <span style="color:#377EB8;">Yeakel, J. D.</span>, Peard, D., Lough, J., & Beere, M. Life-history diversity and its importance to population stability and persistence of a migratory fish: steelhead in two large North American watersheds. *Journal of Animal Ecology* doi:10.1111/1365-2656.12212  
 
