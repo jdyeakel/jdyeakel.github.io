@@ -3,7 +3,7 @@ layout: post
 title: "GSA Travel Fail"
 modified:
 categories: posts
-excerpt:
+excerpt: "I've always wanted to go to the Geological Society of America conference -- I have a lot of friends who are geologists/geophysicists and go every year, and always enjoy it. I finally got a chance to go when I was invited to give a talk on techniques in reconstructing paleo ecosystems at the meeting in Vancouver, so I jumped at the chance. It looked like a great symposium and a fun opportunity to meet some people whose work that I admired."
 tags: []
 image:
   feature:
