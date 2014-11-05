@@ -9,6 +9,8 @@ comments: true
 Justin Douglas Yeakel  
 Omidyar Fellow, Santa Fe Institute  
 Santa Fe, New Mexico  
+Internal Mentor: Jennifer A. Dunne   
+External SFI Mentor: John Harte   
 Email: jdyeakel at gmail.com  
 [Google Scholar](http://scholar.google.com/citations?user=nWHtsZYAAAAJ&hl=en&oi=sra)  
 
@@ -40,37 +42,37 @@ Publications
 2014
 :	* Moore J. W. , Nesbitt H. K. , <span style="color:#377EB8;">Yeakel, J. D.</span>, Beakes M., Phillis C., Braun D., Lichota C., Carr-Harris C., Atlas W., Scott D., Patterson D., Thompson L. Emergent stability in a large free-flowing watershed. *Ecology: in press*.   
 
-	* <span style="color:#377EB8;">Yeakel, J. D.</span>, Pires, M. M., Rudolf, L., Dominy, N. J., Koch, P. L., Guimarães, P. R., Jr, & Gross, T. Collapse of an ecological network in Ancient Egypt. *Proceedings of the National Academy of Sciences*, 111(40), 14472–14477. doi:10.1073/pnas.1408471111   
+	* <span style="color:#377EB8;">Yeakel, J. D.</span>, Pires, M. M., Rudolf, L., Dominy, N. J., Koch, P. L., Guimarães, P. R., Jr, & Gross, T. [Collapse of an ecological network in Ancient Egypt](/publications/Proceedings of the National Academy of Sciences 2014 Yeakel.pdf). *Proceedings of the National Academy of Sciences*, 111(40), 14472–14477. doi:10.1073/pnas.1408471111   
 
-	* Moore, J. W., <span style="color:#377EB8;">Yeakel, J. D.</span>, Peard, D., Lough, J., & Beere, M. Life-history diversity and its importance to population stability and persistence of a migratory fish: steelhead in two large North American watersheds. *Journal of Animal Ecology* doi:10.1111/1365-2656.12212  
+	* Moore, J. W., <span style="color:#377EB8;">Yeakel, J. D.</span>, Peard, D., Lough, J., & Beere, M. [Life-history diversity and its importance to population stability and persistence of a migratory fish: steelhead in two large North American watersheds](/publications/J. Anim. Ecol. 2014 Moore.pdf). *Journal of Animal Ecology* doi:10.1111/1365-2656.12212  
 
-	* <span style="color:#377EB8;">Yeakel, J. D.</span>, Moore, J. W., Guimarães, P. R., Jr, & de Aguiar, M. A. M. (2014). Synchronisation and stability in river metapopulation networks. *Ecology Letters* 17(3), 273–283. doi:10.1111/ele.12228  
+	* <span style="color:#377EB8;">Yeakel, J. D.</span>, Moore, J. W., Guimarães, P. R., Jr, & de Aguiar, M. A. M. (2014). [Synchronisation and stability in river metapopulation networks](/publications/Ecol. Lett. 2014 Yeakel.pdf). *Ecology Letters* 17(3), 273–283. doi:10.1111/ele.12228  
 
-	* <span style="color:#377EB8;">Yeakel, J. D.</span>, & Mangel, M. A generalized perturbation approach for exploring stock recruitment relationships. *Theoretical Ecology* 1–13. doi:10.1007/s12080-014-0230-z  
+	* <span style="color:#377EB8;">Yeakel, J. D.</span>, & Mangel, M. [A generalized perturbation approach for exploring stock recruitment relationships](/publications/Theor. Ecol. 2014 Yeakel.pdf). *Theoretical Ecology* 1–13. doi:10.1007/s12080-014-0230-z  
 
-	* <span style="color:#377EB8;">Yeakel, J. D.</span>, Dominy, N. J., Koch, P. L., & Mangel, M. Functional morphology, stable isotopes, and human evolution: a model of consilience. *Evolution* 68, 190–203. doi:10.1111/evo.12240  
+	* <span style="color:#377EB8;">Yeakel, J. D.</span>, Dominy, N. J., Koch, P. L., & Mangel, M. [Functional morphology, stable isotopes, and human evolution: a model of consilience](/publications/Evolution 2014 Yeakel.pdf). *Evolution* 68, 190–203. doi:10.1111/evo.12240  
 
 2013
-:	* <span style="color:#377EB8;">Yeakel, J. D.</span>, Guimarães, P. R., Jr, Bocherens, H., & Koch, P. L. The impact of climate change on the structure of Pleistocene food webs across the mammoth steppe. *Proceedings of the Royal Society of London Series B-Biological Sciences* 280(1762), 20130239–20130239. doi:10.1016/j.cub.2007.09.059  
+:	* <span style="color:#377EB8;">Yeakel, J. D.</span>, Guimarães, P. R., Jr, Bocherens, H., & Koch, P. L. [The impact of climate change on the structure of Pleistocene food webs across the mammoth steppe](/publications/Proc. Roy. Soc. B 2013 Yeakel.pdf). *Proceedings of the Royal Society of London Series B-Biological Sciences* 280(1762), 20130239–20130239. doi:10.1016/j.cub.2007.09.059  
 
 2012
-:	* <span style="color:#377EB8;">Yeakel, J. D.</span>, Guimarães, P. R., Jr, Novak, M., Fox-Dobbs, K., & Koch, P. L. Probabilistic patterns of interaction: the effects of link-strength variability on food web structure. *Journal of the Royal Society Interface* 9(77), 3219–3228. doi:10.1073/pnas.192407699  
+:	* <span style="color:#377EB8;">Yeakel, J. D.</span>, Guimarães, P. R., Jr, Novak, M., Fox-Dobbs, K., & Koch, P. L. [Probabilistic patterns of interaction: the effects of link-strength variability on food web structure](/publications/J. R. Soc. Interface 2012 Yeakel.pdf). *Journal of the Royal Society Interface* 9(77), 3219–3228. doi:10.1073/pnas.192407699  
 
-	* Moritz, G. L., Fourie, N., <span style="color:#377EB8;">Yeakel, J. D.</span>, Phillips-Conroy, J. E., Jolly, C. J., Koch, P. L., & Dominy, N. J. Baboons, Water, and the Ecology of Oxygen Stable Isotopes in an Arid Hybrid Zone. *Physiological and Biochemical Zoology* 85(5), 421–430. doi:10.1086/667533  
+	* Moritz, G. L., Fourie, N., <span style="color:#377EB8;">Yeakel, J. D.</span>, Phillips-Conroy, J. E., Jolly, C. J., Koch, P. L., & Dominy, N. J. [Baboons, Water, and the Ecology of Oxygen Stable Isotopes in an Arid Hybrid Zone](/publications/Physiological and Biochemical Zoology 2012 Moritz.pdf). *Physiological and Biochemical Zoology* 85(5), 421–430. doi:10.1086/667533  
 
-	* Newsome, S. D., <span style="color:#377EB8;">Yeakel, J. D.</span>, Wheatley, P. V., & Tinker, M. T. Tools for quantifying isotopic niche space and dietary variation at the individual and population level. *Journal of Mammalogy* 93(2), 329–341.  
+	* Newsome, S. D., <span style="color:#377EB8;">Yeakel, J. D.</span>, Wheatley, P. V., & Tinker, M. T. [Tools for quantifying isotopic niche space and dietary variation at the individual and population level](/publications/J. Mammal. 2012 Newsome.pdf). *Journal of Mammalogy* 93(2), 329–341.  
 
 2011
-:	* <span style="color:#377EB8;">Yeakel, J. D.</span>, Novak, M., Guimarães, P. R., Jr, Dominy, N. J., Koch, P. L., Ward, E. J., et al. Merging resource availability with isotope mixing models: the role of neutral interaction assumptions. *PLoS ONE* 6(7), e22015. doi:10.1371/journal.pone.0022015.t002   
+:	* <span style="color:#377EB8;">Yeakel, J. D.</span>, Novak, M., Guimarães, P. R., Jr, Dominy, N. J., Koch, P. L., Ward, E. J., et al. [Merging resource availability with isotope mixing models: the role of neutral interaction assumptions](/publications/Theor. Ecol. 2011 Yeakel.pdf). *PLoS ONE* 6(7), e22015. doi:10.1371/journal.pone.0022015.t002   
 
-	* <span style="color:#377EB8;">Yeakel, J. D.</span>, Stiefs, D., Novak, M., & Gross, T. Generalized modeling of ecological population dynamics. *Theoretical Ecology* 4(2), 179–194. doi:10.1007/s12080-011-0112-6   
+	* <span style="color:#377EB8;">Yeakel, J. D.</span>, Stiefs, D., Novak, M., & Gross, T. [Generalized modeling of ecological population dynamics](/publications/Theor. Ecol. 2011 Yeakel.pdf). *Theoretical Ecology* 4(2), 179–194. doi:10.1007/s12080-011-0112-6   
 
 pre-2011
-:	* <span style="color:#377EB8;">Yeakel, J. D.</span>, Patterson, B. D., Fox-Dobbs, K., Okumura, M., Cerling, T., Moore, J., et al. Cooperation and individuality among man-eating lions. *Proceedings of the National Academy of Sciences of the USA* 106, 19040–19043. doi:10.1073/pnas.0905309106  
+:	* <span style="color:#377EB8;">Yeakel, J. D.</span>, Patterson, B. D., Fox-Dobbs, K., Okumura, M., Cerling, T., Moore, J., et al. [Cooperation and individuality among man-eating lions](/publications/Proc. Natl. Acad. Sci. USA 2009 Yeakel.pdf). *Proceedings of the National Academy of Sciences of the USA* 106, 19040–19043. doi:10.1073/pnas.0905309106  
 
-	* Dominy, N. J., Vogel, E. R., <span style="color:#377EB8;">Yeakel, J. D.</span>, Constantino, P. J., & Lucas, P. W. Mechanical properties of plant underground storage organs and implications for dietary models of early hominins. *Evolutionary Biology* 35(3), 159–175. doi:10.1007/s11692-008-9026-7  
+	* Dominy, N. J., Vogel, E. R., <span style="color:#377EB8;">Yeakel, J. D.</span>, Constantino, P. J., & Lucas, P. W. [Mechanical properties of plant underground storage organs and implications for dietary models of early hominins](/publications/Evol. Biol. 2008 Dominy.pdf). *Evolutionary Biology* 35(3), 159–175. doi:10.1007/s11692-008-9026-7  
 
-	* <span style="color:#377EB8;">Yeakel, J. D.</span>, Bennett, N. C., Koch, P. L., & Dominy, N. J. The isotopic ecology of African mole rats informs hypotheses on the evolution of human diet. *Proceedings of the Royal Society of London Series B-Biological Sciences* 274(1619), 1723–1730. doi:10.1098/rspb.2007.0330 
+	* <span style="color:#377EB8;">Yeakel, J. D.</span>, Bennett, N. C., Koch, P. L., & Dominy, N. J. [The isotopic ecology of African mole rats informs hypotheses on the evolution of human diet](/publications/Proc. Roy. Soc. B 2007 Yeakel.pdf). *Proceedings of the Royal Society of London Series B-Biological Sciences* 274(1619), 1723–1730. doi:10.1098/rspb.2007.0330 
 
 
 Popular Articles
