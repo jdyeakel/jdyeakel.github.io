@@ -63,7 +63,7 @@ Publications
 	* Newsome, S. D., <span style="color:#377EB8;">Yeakel, J. D.</span>, Wheatley, P. V., & Tinker, M. T. [Tools for quantifying isotopic niche space and dietary variation at the individual and population level](/publications/J. Mammal. 2012 Newsome.pdf). *Journal of Mammalogy* 93(2), 329–341.  
 
 2011
-:	* <span style="color:#377EB8;">Yeakel, J. D.</span>, Novak, M., Guimarães, P. R., Jr, Dominy, N. J., Koch, P. L., Ward, E. J., et al. [Merging resource availability with isotope mixing models: the role of neutral interaction assumptions](/publications/Theor. Ecol. 2011 Yeakel.pdf). *PLoS ONE* 6(7), e22015. doi:10.1371/journal.pone.0022015.t002   
+:	* <span style="color:#377EB8;">Yeakel, J. D.</span>, Novak, M., Guimarães, P. R., Jr, Dominy, N. J., Koch, P. L., Ward, E. J., et al. [Merging resource availability with isotope mixing models: the role of neutral interaction assumptions](/publications/PLoS ONE 2011 Yeakel.pdf). *PLoS ONE* 6(7), e22015. doi:10.1371/journal.pone.0022015.t002   
 
 	* <span style="color:#377EB8;">Yeakel, J. D.</span>, Stiefs, D., Novak, M., & Gross, T. [Generalized modeling of ecological population dynamics](/publications/Theor. Ecol. 2011 Yeakel.pdf). *Theoretical Ecology* 4(2), 179–194. doi:10.1007/s12080-011-0112-6   
 
