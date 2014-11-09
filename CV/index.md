@@ -37,7 +37,7 @@ Publications
 =========
 
 *In prep*
-:	* Galetti M., Guevara R., Neves C., Rodarte R. R., Moreira M., <span style="color:#377EB8;">Yeakel, J. D.</span>, Hopkins III, J. Cascading effects of defaunation: population-level and dietary shifts in rodents following the extinction of a large herbivore. In Review at: *Journal of Animal Ecology*
+:	* Galetti M., Guevara R., Neves C., Rodarte R. R., Moreira M., Hopkins III, J., <span style="color:#377EB8;">Yeakel, J. D.</span>. Cascading effects of defaunation: population-level and dietary shifts in rodents following the extinction of a large herbivore. In Review at: *Journal of Animal Ecology*
 
 2014
 :	* Moore J. W. , Nesbitt H. K. , <span style="color:#377EB8;">Yeakel, J. D.</span>, Beakes M., Phillis C., Braun D., Lichota C., Carr-Harris C., Atlas W., Scott D., Patterson D., Thompson L. Emergent stability in a large free-flowing watershed. *Ecology: in press*.   
