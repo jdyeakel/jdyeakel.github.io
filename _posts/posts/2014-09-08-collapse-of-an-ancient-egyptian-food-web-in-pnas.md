@@ -32,6 +32,9 @@ In 2009, Nate Dominy (then a professor of Anthropology at UC-Santa Cruz and now 
 - [NBC News](http://www.nbcnews.com/science/environment/ancient-egyptian-art-opens-window-mammal-extinctions-n198511)
 - [Financial Times](http://www.ft.com/cms/s/0/5aa098ac-4904-11e4-9f63-00144feab7de.html)
 - [Discovery](http://news.discovery.com/animals/egypts-ancient-animals-killed-by-climate-and-civilization-140915.htm)
+- [Dartmouth Now](http://now.dartmouth.edu/2014/09/art-sheds-new-light-on-the-ecology-of-ancient-egypt/)
+- [Mongabay.com](http://news.mongabay.com/2014/1201-smuga-otto-ucsc-egypt.html#sthash.uLn7GSux.dpbs)
+
 
 ---
 
