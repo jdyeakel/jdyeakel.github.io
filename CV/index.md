@@ -42,7 +42,7 @@ Publications
 2014
 :	* Moore J. W. , Nesbitt H. K. , <span style="color:#377EB8;">Yeakel, J. D.</span>, Beakes M., Phillis C., Braun D., Lichota C., Carr-Harris C., Atlas W., Scott D., Patterson D., Thompson L. Emergent stability in a large free-flowing watershed. *Ecology: in press*.   
 
-	* <span style="color:#377EB8;">Yeakel, J. D.</span>, Pires, M. M., Rudolf, L., Dominy, N. J., Koch, P. L., Guimarães, P. R., Jr, & Gross, T. Recovering ecological pattern and process in Ancient Egypt. *Proceedings of the National Academy of Sciences: in press*.
+	* <span style="color:#377EB8;">Yeakel, J. D.</span>, Pires, M. M., Rudolf, L., Dominy, N. J., Koch, P. L., Guimarães, P. R., Jr, & Gross, T. Recovering ecological pattern and process in Ancient Egypt. *Proceedings of the National Academy of Sciences: in press*.   
 
 	* <span style="color:#377EB8;">Yeakel, J. D.</span>, Pires, M. M., Rudolf, L., Dominy, N. J., Koch, P. L., Guimarães, P. R., Jr, & Gross, T. [Collapse of an ecological network in Ancient Egypt](/publications/Proceedings of the National Academy of Sciences 2014 Yeakel.pdf). *Proceedings of the National Academy of Sciences*, 111(40), 14472–14477. doi:10.1073/pnas.1408471111 [**Blog Post**](/posts/collapse-of-an-ancient-egyptian-food-web-in-pnas/)   
 
@@ -145,8 +145,10 @@ Professional and Meeting Presentations
 
 Service -- Refereed Journals
 ==========
+* Nature Communications
 * Ecology Letters
 * Proceedings of the National Academy of Sciences
+* Quaternary Science Reviews
 * Proceedings of the Royal Society B: Biological Sciences
 * Fisheries Research
 * Theoretical Ecology
