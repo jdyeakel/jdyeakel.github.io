@@ -53,7 +53,7 @@ Publications
 	* <span style="color:#377EB8;">Yeakel, J. D.</span>, Dominy, N. J., Koch, P. L., & Mangel, M. [Functional morphology, stable isotopes, and human evolution: a model of consilience](/publications/Evolution 2014 Yeakel.pdf). *Evolution* 68, 190–203. doi:10.1111/evo.12240  [**Blog Post**](/posts/exploring-the-constraints-of-hominin-foraging-behaviors/)  
 
 2013
-:	* <span style="color:#377EB8;">Yeakel, J. D.</span>, Guimarães, P. R., Jr, Bocherens, H., & Koch, P. L. [The impact of climate change on the structure of Pleistocene food webs across the mammoth steppe](/publications/Proc. Roy. Soc. B 2013 Yeakel.pdf). *Proceedings of the Royal Society of London Series B-Biological Sciences* 280(1762), 20130239–20130239. doi:10.1016/j.cub.2007.09.059 [**Blog Post**](/posts/dietary-flexibility-food-webs-and-the-last-glacial-maximum/)  
+:	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1016/j.cub.2007.09.059"></div> <<span style="color:#377EB8;">Yeakel, J. D.</span>, Guimarães, P. R., Jr, Bocherens, H., & Koch, P. L. [The impact of climate change on the structure of Pleistocene food webs across the mammoth steppe](/publications/Proc. Roy. Soc. B 2013 Yeakel.pdf). *Proceedings of the Royal Society of London Series B-Biological Sciences* 280(1762), 20130239–20130239. doi:10.1016/j.cub.2007.09.059 [**Blog Post**](/posts/dietary-flexibility-food-webs-and-the-last-glacial-maximum/)  
 
 2012
 :	* <span style="color:#377EB8;">Yeakel, J. D.</span>, Guimarães, P. R., Jr, Novak, M., Fox-Dobbs, K., & Koch, P. L. [Probabilistic patterns of interaction: the effects of link-strength variability on food web structure](/publications/J. R. Soc. Interface 2012 Yeakel.pdf). *Journal of the Royal Society Interface* 9(77), 3219–3228. doi:10.1073/pnas.192407699  
@@ -65,10 +65,10 @@ Publications
 2011
 :	* <span style="color:#377EB8;">Yeakel, J. D.</span>, Novak, M., Guimarães, P. R., Jr, Dominy, N. J., Koch, P. L., Ward, E. J., et al. [Merging resource availability with isotope mixing models: the role of neutral interaction assumptions](/publications/PLoS ONE 2011 Yeakel.pdf). *PLoS ONE* 6(7), e22015. doi:10.1371/journal.pone.0022015.t002   
 
-	* <span style="color:#377EB8;">Yeakel, J. D.</span>, Stiefs, D., Novak, M., & Gross, T. [Generalized modeling of ecological population dynamics](/publications/Theor. Ecol. 2011 Yeakel.pdf). *Theoretical Ecology* 4(2), 179–194. doi:10.1007/s12080-011-0112-6   
+	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1007/s12080-011-0112-6"></div> <span style="color:#377EB8;">Yeakel, J. D.</span>, Stiefs, D., Novak, M., & Gross, T. [Generalized modeling of ecological population dynamics](/publications/Theor. Ecol. 2011 Yeakel.pdf). *Theoretical Ecology* 4(2), 179–194. doi:10.1007/s12080-011-0112-6   
 
 pre-2011
-:	* <span style="color:#377EB8;">Yeakel, J. D.</span>, Patterson, B. D., Fox-Dobbs, K., Okumura, M., Cerling, T., Moore, J., et al. [Cooperation and individuality among man-eating lions](/publications/Proc. Natl. Acad. Sci. USA 2009 Yeakel.pdf). *Proceedings of the National Academy of Sciences of the USA* 106, 19040–19043. doi:10.1073/pnas.0905309106  
+:	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1073/pnas.0905309106"></div> <span style="color:#377EB8;">Yeakel, J. D.</span>, Patterson, B. D., Fox-Dobbs, K., Okumura, M., Cerling, T., Moore, J., et al. [Cooperation and individuality among man-eating lions](/publications/Proc. Natl. Acad. Sci. USA 2009 Yeakel.pdf). *Proceedings of the National Academy of Sciences of the USA* 106, 19040–19043. doi:10.1073/pnas.0905309106  
 
 	* Dominy, N. J., Vogel, E. R., <span style="color:#377EB8;">Yeakel, J. D.</span>, Constantino, P. J., & Lucas, P. W. [Mechanical properties of plant underground storage organs and implications for dietary models of early hominins](/publications/Evol. Biol. 2008 Dominy.pdf). *Evolutionary Biology* 35(3), 159–175. doi:10.1007/s11692-008-9026-7  
 
