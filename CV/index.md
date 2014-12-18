@@ -43,6 +43,7 @@ Publications
 :	* Moore J. W. , Nesbitt H. K. , <span style="color:#377EB8;">Yeakel, J. D.</span>, Beakes M., Phillis C., Braun D., Lichota C., Carr-Harris C., Atlas W., Scott D., Patterson D., Thompson L. Emergent stability in a large free-flowing watershed. *Ecology: in press*.   
 
 	* <span style="color:#377EB8;">Yeakel, J. D.</span>, Pires, M. M., Rudolf, L., Dominy, N. J., Koch, P. L., Guimarães, P. R., Jr, & Gross, T. [Collapse of an ecological network in Ancient Egypt](/publications/Proceedings of the National Academy of Sciences 2014 Yeakel.pdf). *Proceedings of the National Academy of Sciences*, 111(40), 14472–14477. doi:10.1073/pnas.1408471111 [**Blog Post**](/posts/collapse-of-an-ancient-egyptian-food-web-in-pnas/) 
+
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1073/pnas.1408471111"></div>  
 
 	* Moore, J. W., <span style="color:#377EB8;">Yeakel, J. D.</span>, Peard, D., Lough, J., & Beere, M. [Life-history diversity and its importance to population stability and persistence of a migratory fish: steelhead in two large North American watersheds](/publications/J. Anim. Ecol. 2014 Moore.pdf). *Journal of Animal Ecology* doi:10.1111/1365-2656.12212 [**Blog Post**](/exploring-the-life-history-diversity-of-steelhead-salmon/)  
