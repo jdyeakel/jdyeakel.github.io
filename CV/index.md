@@ -145,6 +145,7 @@ Professional and Meeting Presentations
 
 Service -- Refereed Journals
 ==========
+* Nature Communications
 * Ecology Letters
 * Proceedings of the National Academy of Sciences
 * Proceedings of the Royal Society B: Biological Sciences
