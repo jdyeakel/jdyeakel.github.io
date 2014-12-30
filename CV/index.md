@@ -76,14 +76,14 @@ pre-2011
 
 	* <span style="color:#377EB8;">Yeakel, J. D.</span>, Bennett, N. C., Koch, P. L., & Dominy, N. J. [The isotopic ecology of African mole rats informs hypotheses on the evolution of human diet](/publications/Proc. Roy. Soc. B 2007 Yeakel.pdf). *Proceedings of the Royal Society of London Series B-Biological Sciences* 274(1619), 1723–1730. doi:10.1098/rspb.2007.0330 
 
+<br>
 
 Popular Articles
 ===========
 2014
 :	* <span style="color:#377EB8;">Yeakel, J. D.</span>, Dunne, J. A. *American Scientist* In prep.
 
-
-
+<br>
 
 Invited Seminars
 ===========
@@ -101,6 +101,7 @@ Invited Seminars
 * University of California, Berkeley. The adaptive response of grazing monkeys to aridification in Africa. October, 2007.
 * Kent State University. Paleo-dietary ecology: Did hominins utilize underground storage organs? November, 2006.
 
+<br>
 
 Fellowships and Grants
 ==========
@@ -117,6 +118,7 @@ Fellowships and Grants
 * Department of Anthropology Internal Research Grant (Fall 2006) $800
 * National Science Foundation Graduate Research Fellowship; 2006 $90000 
 
+<br>
 
 Professional and Meeting Presentations
 ==========
@@ -142,6 +144,7 @@ Professional and Meeting Presentations
 * Applications of Stable Isotope Techniques to Ecological Studies. August 2006 (Poster)
 * Society of Vertebrate Paleontology. Oct. 2005 (Talk)
 
+<br>
 
 Service -- Refereed Journals
 ==========
@@ -161,12 +164,14 @@ Service -- Refereed Journals
 * Geochimica et Cosmochimica Acta
 * PloS One
 * Journal of Archaeological Science
- 
+
+<br> 
 
 Service -- Refereed Grant Agencies
 ==========
 * European Research Council (2014)
 
+<br>
 
 Press
 ==========
