@@ -122,8 +122,9 @@ Fellowships and Grants
 
 Professional and Meeting Presentations
 ==========
-* Geological Society of America. October 2014 ([Talk fail... funny story]())
-* Networks on Networks Working Group. Göttingen, Germany. Septemver 2014 (Talk)
+* Dynamics Of and On Networks. Santa Fe Institute. December 2014 (Talk)
+* Geological Society of America. October 2014
+* Networks on Networks Working Group. Göttingen, Germany. September 2014 (Talk)
 * IDEAS Symposium; Simon Fraser University. January 2014 (Talk)
 * Ecological Society of America Annual Meeting. August 2013 (Talk)
 * IDEAS Symposium; Simon Fraser University. December 2012 (Talk)
