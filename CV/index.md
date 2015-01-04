@@ -37,7 +37,9 @@ Publications
 =========
 
 *In prep*
-:	* Galetti M., Guevara R., Neves C., Rodarte R. R., Moreira M., Hopkins III, J., <span style="color:#377EB8;">Yeakel, J. D.</span> Cascading effects of defaunation: population-level and dietary shifts in rodents following the extinction of a large herbivore. In Review at: *Journal of Animal Ecology*
+:	* <span style="color:#377EB8;">Yeakel, J. D.</span>, Dunne, J. A. Ancient ecosystems unraveled: exploring the complexity of past food webs. *American Scientist*
+
+	* Galetti M., Guevara R., Neves C., Rodarte R. R., Moreira M., Hopkins III, J., <span style="color:#377EB8;">Yeakel, J. D.</span> Cascading effects of defaunation: population-level and dietary shifts in rodents following the extinction of a large herbivore. In Review at: *Journal of Animal Ecology*
 
 2014
 :	* Moore J. W. , Nesbitt H. K. , <span style="color:#377EB8;">Yeakel, J. D.</span>, Beakes M., Phillis C., Braun D., Lichota C., Carr-Harris C., Atlas W., Scott D., Patterson D., Thompson L. Emergent stability in a large free-flowing watershed. *Ecology: in press*.   
@@ -75,13 +77,6 @@ pre-2011
 	* Dominy, N. J., Vogel, E. R., <span style="color:#377EB8;">Yeakel, J. D.</span>, Constantino, P. J., & Lucas, P. W. [Mechanical properties of plant underground storage organs and implications for dietary models of early hominins](/publications/Evol. Biol. 2008 Dominy.pdf). *Evolutionary Biology* 35(3), 159–175. doi:10.1007/s11692-008-9026-7  
 
 	* <span style="color:#377EB8;">Yeakel, J. D.</span>, Bennett, N. C., Koch, P. L., & Dominy, N. J. [The isotopic ecology of African mole rats informs hypotheses on the evolution of human diet](/publications/Proc. Roy. Soc. B 2007 Yeakel.pdf). *Proceedings of the Royal Society of London Series B-Biological Sciences* 274(1619), 1723–1730. doi:10.1098/rspb.2007.0330 
-
-<br>
-
-Popular Articles
-===========
-2014
-:	* <span style="color:#377EB8;">Yeakel, J. D.</span>, Dunne, J. A. *American Scientist* In prep.
 
 <br>
 
