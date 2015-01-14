@@ -41,10 +41,12 @@ Publications
 
 	* Galetti M., Guevara R., Neves C., Rodarte R. R., Moreira M., Hopkins III, J., <span style="color:#377EB8;">Yeakel, J. D.</span> Cascading effects of defaunation: population-level and dietary shifts in rodents following the extinction of a large herbivore. In Review at: *Biological Conservation*
 
+2015
+:	* <span style="color:#377EB8;">Yeakel, J. D.</span>, Pires, M. M., Rudolf, L., Dominy, N. J., Koch, P. L., Guimarães, P. R., Jr, & Gross, T. [Recovering ecological pattern and process in Ancient Egypt](http://www.pnas.org/content/early/2015/01/07/1422646112.extract) *Proceedings of the National Academy of Sciences*, pg 201422546. doi:10.1073/pnas.1422646112. 
+
+
 2014
 :	* Moore J. W. , Nesbitt H. K. , <span style="color:#377EB8;">Yeakel, J. D.</span>, Beakes M., Phillis C., Braun D., Lichota C., Carr-Harris C., Atlas W., Scott D., Patterson D., Thompson L. Emergent stability in a large free-flowing watershed. *Ecology: in press*.   
-
-	* <span style="color:#377EB8;">Yeakel, J. D.</span>, Pires, M. M., Rudolf, L., Dominy, N. J., Koch, P. L., Guimarães, P. R., Jr, & Gross, T. [Recovering ecological pattern and process in Ancient Egypt](http://www.pnas.org/content/early/2015/01/07/1422646112.extract) *Proceedings of the National Academy of Sciences*, pg 201422546. doi:10.1073/pnas.1422646112. 
 
 	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1073/pnas.1408471111"></div> <span style="color:#377EB8;">Yeakel, J. D.</span>, Pires, M. M., Rudolf, L., Dominy, N. J., Koch, P. L., Guimarães, P. R., Jr, & Gross, T. [Collapse of an ecological network in Ancient Egypt](/publications/Proceedings of the National Academy of Sciences 2014 Yeakel.pdf). *Proceedings of the National Academy of Sciences*, 111(40), 14472–14477. doi:10.1073/pnas.1408471111 [**Blog Post**](/posts/collapse-of-an-ancient-egyptian-food-web-in-pnas/) 
 
