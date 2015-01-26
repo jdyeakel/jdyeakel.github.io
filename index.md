@@ -9,6 +9,7 @@ image:
 
 > <span style="font-size:2em;">News</span>   
 > *1/20/15*: A [rebuttal to our Egypt paper](http://www.pnas.org/content/112/3/E239.extract.html?etoc), a note documenting [similar patterns in the Levant](http://www.pnas.org/content/112/3/E238.extract.html?etoc), and [our response](http://www.pnas.org/content/112/3/E240.extract.html?etoc) in PNAS.      
+>   
 > *09/09/14*: We recently published a paper documenting changes to the Egyptian mammalian food web over the last 6000 years in PNAS.   
 > Check out a post on the paper, as well as links to news coverage and a cool infographic [here](/posts/collapse-of-an-ancient-egyptian-food-web-in-pnas)
 
