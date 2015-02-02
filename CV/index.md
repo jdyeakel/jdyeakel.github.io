@@ -150,6 +150,7 @@ Service -- Refereed Journals
 * Ecology Letters
 * Proceedings of the National Academy of Sciences
 * Proceedings of the Royal Society B: Biological Sciences
+* Methods in Ecology and Evolution
 * Fisheries Research
 * Theoretical Ecology
 * Ecology and Evolution
