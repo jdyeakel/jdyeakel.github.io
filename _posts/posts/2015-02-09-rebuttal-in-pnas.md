@@ -3,8 +3,8 @@ layout: post
 title: "Rebuttal in PNAS"
 modified:
 categories: posts
-excerpt: Recently, our paper on reconstructing and analyzing the structure and function of ecological networks in Ancient Egypt (published in PNAS this past September), recieved two letters to the editor.
-One letter was written by Dr. Linda Evans, an Egyptologist studying the roles of animals in ancient Egypt, and one was by a research team at the University of Haifa, Israel.
+excerpt: "Recently, our paper on reconstructing and analyzing the structure and function of ecological networks in Ancient Egypt (published in PNAS this past September), recieved two letters to the editor.
+One letter was written by Dr. Linda Evans, an Egyptologist studying the roles of animals in ancient Egypt, and one was by a research team at the University of Haifa, Israel."
 tags: []
 image:
   feature:
