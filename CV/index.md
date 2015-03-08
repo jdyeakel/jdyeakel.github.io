@@ -42,13 +42,13 @@ Publications
 	* Galetti M., Guevara R., Neves C., Rodarte R. R., Moreira M., Hopkins III, J., <span style="color:#377EB8;">Yeakel, J. D.</span> Cascading effects of defaunation: population-level and dietary shifts in rodents following the extinction of a large herbivore. In Review at: *Biological Conservation*
 
 2015
-:	* <span style="color:#377EB8;">Yeakel, J. D.</span>, Pires, M. M., Rudolf, L., Dominy, N. J., Koch, P. L., Guimarães, P. R., Jr, & Gross, T. [Recovering ecological pattern and process in Ancient Egypt](http://www.pnas.org/content/early/2015/01/07/1422646112.extract) *Proceedings of the National Academy of Sciences*, pg 201422546. doi:10.1073/pnas.1422646112. 
+:	* Moore J. W., Beakes M., Nesbitt H. K., <span style="color:#377EB8;">Yeakel, J. D.</span>, Patterson D., Thompson L., Phillis C., Braun D., Favaro C., Scott D., Carr-Harris C., Atlas W. [Emergent stability in a large free-flowing watershed](http://www.esajournals.org/doi/abs/10.1890/14-0326.1). *Ecology*, 96(2), 340-347. doi:10.1890/14-0326.1    
+
+	* <span style="color:#377EB8;">Yeakel, J. D.</span>, Pires, M. M., Rudolf, L., Dominy, N. J., Koch, P. L., Guimarães, P. R., Jr, & Gross, T. [Recovering ecological pattern and process in Ancient Egypt](http://www.pnas.org/content/early/2015/01/07/1422646112.extract) *Proceedings of the National Academy of Sciences*, pg 201422546. doi:10.1073/pnas.1422646112. 
 
 
 2014
-:	* Moore J. W., Beakes M., Nesbitt H. K., <span style="color:#377EB8;">Yeakel, J. D.</span>, Patterson D., Thompson L., Phillis C., Braun D., Favaro C., Scott D., Carr-Harris C., Atlas W. [Emergent stability in a large free-flowing watershed](http://www.esajournals.org/doi/abs/10.1890/14-0326.1). *Ecology*.    
-
-	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1073/pnas.1408471111"></div> <span style="color:#377EB8;">Yeakel, J. D.</span>, Pires, M. M., Rudolf, L., Dominy, N. J., Koch, P. L., Guimarães, P. R., Jr, & Gross, T. [Collapse of an ecological network in Ancient Egypt](/publications/Proceedings of the National Academy of Sciences 2014 Yeakel.pdf). *Proceedings of the National Academy of Sciences*, 111(40), 14472–14477. doi:10.1073/pnas.1408471111 [**Blog Post**](/posts/collapse-of-an-ancient-egyptian-food-web-in-pnas/) 
+:	*  <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1073/pnas.1408471111"></div> <span style="color:#377EB8;">Yeakel, J. D.</span>, Pires, M. M., Rudolf, L., Dominy, N. J., Koch, P. L., Guimarães, P. R., Jr, & Gross, T. [Collapse of an ecological network in Ancient Egypt](/publications/Proceedings of the National Academy of Sciences 2014 Yeakel.pdf). *Proceedings of the National Academy of Sciences*, 111(40), 14472–14477. doi:10.1073/pnas.1408471111 [**Blog Post**](/posts/collapse-of-an-ancient-egyptian-food-web-in-pnas/) 
 
 	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1111/1365-2656.12212"></div> Moore, J. W., <span style="color:#377EB8;">Yeakel, J. D.</span>, Peard, D., Lough, J., & Beere, M. [Life-history diversity and its importance to population stability and persistence of a migratory fish: steelhead in two large North American watersheds](/publications/J. Anim. Ecol. 2014 Moore.pdf). *Journal of Animal Ecology* doi:10.1111/1365-2656.12212 [**Blog Post**](/posts/exploring-the-life-history-diversity-of-steelhead-salmon/)  
 
