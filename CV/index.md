@@ -37,7 +37,7 @@ Publications
 =========
 
 *In prep*
-:	* <span style="color:#377EB8;">Yeakel, J. D.</span>, Dunne, J. A. Ancient ecosystems unraveled: exploring the complexity of past food webs. *American Scientist*
+:	* <span style="color:#377EB8;">Yeakel, J. D.</span>, Dunne, J. A. Modern lessons from ancient food webs. *American Scientist* Due out soon... stay tuned!
 
 	* Galetti M., Guevara R., Neves C., Rodarte R. R., Moreira M., Hopkins III, J., <span style="color:#377EB8;">Yeakel, J. D.</span> Cascading effects of defaunation: population-level and dietary shifts in rodents following the extinction of a large herbivore. In Review at: *Biological Conservation*
 
