@@ -40,7 +40,7 @@ Publications
 :	* Galetti M., Guevara R., Neves C., Rodarte R. R., Moreira M., Hopkins III, J., <span style="color:#377EB8;">Yeakel, J. D.</span> Cascading effects of defaunation: population-level and dietary shifts in rodents following the extinction of a large herbivore. In Review at: *Biological Conservation*
 
 2015
-:	* <span style="color:#377EB8;">Yeakel, J. D.</span>, Dunne, J. A. Modern lessons from ancient food webs. *American Scientist*, 103, 188-195.   
+:	* <span style="color:#377EB8;">Yeakel, J. D.</span>, Dunne, J. A. [Modern lessons from ancient food webs](http://jdyeakel.github.io/pdfs/2015-05Yeakel.pdf). *American Scientist*, 103, 188-195.   
 
 	* Moore J. W., Beakes M., Nesbitt H. K., <span style="color:#377EB8;">Yeakel, J. D.</span>, Patterson D., Thompson L., Phillis C., Braun D., Favaro C., Scott D., Carr-Harris C., Atlas W. [Emergent stability in a large free-flowing watershed](http://www.esajournals.org/doi/abs/10.1890/14-0326.1). *Ecology*, 96(2), 340-347. doi:10.1890/14-0326.1    
 
