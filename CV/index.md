@@ -35,8 +35,9 @@ Past Positions
 
 Publications
 =========
-
-(**In prep**)
+<!---
+*In prep**)
+-->
 2015
 :	* Galetti M., Guevara R., Neves C., Rodarte R. R., Moreira M., Hopkins III, J., <span style="color:#377EB8;">Yeakel, J. D.</span> Cascading effects of defaunation: population-level and dietary shifts in rodents following the extinction of a large herbivore. *Biological Conservation* In press     
 
