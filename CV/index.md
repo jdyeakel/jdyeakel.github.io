@@ -75,12 +75,13 @@ Publications
 	4. <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1007/s12080-011-0112-6"></div> <span style="color:#377EB8;">Yeakel, J. D.</span>, Stiefs, D., Novak, M., & Gross, T. [Generalized modeling of ecological population dynamics](/publications/Theor. Ecol. 2011 Yeakel.pdf). *Theoretical Ecology* 4(2), 179–194. doi:10.1007/s12080-011-0112-6   
 
 pre-2011
-:	3. <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1073/pnas.0905309106"></div> <span style="color:#377EB8;">Yeakel, J. D.</span>, Patterson, B. D., Fox-Dobbs, K., Okumura, M., Cerling, T., Moore, J., et al. [Cooperation and individuality among man-eating lions](/publications/Proc. Natl. Acad. Sci. USA 2009 Yeakel.pdf). *Proceedings of the National Academy of Sciences of the USA* 106, 19040–19043. doi:10.1073/pnas.0905309106  
+:	<ol>
+<li item="3">  <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1073/pnas.0905309106"></div> <span style="color:#377EB8;">Yeakel, J. D.</span>, Patterson, B. D., Fox-Dobbs, K., Okumura, M., Cerling, T., Moore, J., et al. [Cooperation and individuality among man-eating lions](/publications/Proc. Natl. Acad. Sci. USA 2009 Yeakel.pdf). *Proceedings of the National Academy of Sciences of the USA* 106, 19040–19043. doi:10.1073/pnas.0905309106  
 
-	2. Dominy, N. J., Vogel, E. R., <span style="color:#377EB8;">Yeakel, J. D.</span>, Constantino, P. J., & Lucas, P. W. [Mechanical properties of plant underground storage organs and implications for dietary models of early hominins](/publications/Evol. Biol. 2008 Dominy.pdf). *Evolutionary Biology* 35(3), 159–175. doi:10.1007/s11692-008-9026-7  
+<li item="2">  Dominy, N. J., Vogel, E. R., <span style="color:#377EB8;">Yeakel, J. D.</span>, Constantino, P. J., & Lucas, P. W. [Mechanical properties of plant underground storage organs and implications for dietary models of early hominins](/publications/Evol. Biol. 2008 Dominy.pdf). *Evolutionary Biology* 35(3), 159–175. doi:10.1007/s11692-008-9026-7  
 
-	1. <span style="color:#377EB8;">Yeakel, J. D.</span>, Bennett, N. C., Koch, P. L., & Dominy, N. J. [The isotopic ecology of African mole rats informs hypotheses on the evolution of human diet](/publications/Proc. Roy. Soc. B 2007 Yeakel.pdf). *Proceedings of the Royal Society of London Series B-Biological Sciences* 274(1619), 1723–1730. doi:10.1098/rspb.2007.0330 
-
+<li item="1"> <span style="color:#377EB8;">Yeakel, J. D.</span>, Bennett, N. C., Koch, P. L., & Dominy, N. J. [The isotopic ecology of African mole rats informs hypotheses on the evolution of human diet](/publications/Proc. Roy. Soc. B 2007 Yeakel.pdf). *Proceedings of the Royal Society of London Series B-Biological Sciences* 274(1619), 1723–1730. doi:10.1098/rspb.2007.0330 
+</ol>
 <br>
 
 Invited Seminars
