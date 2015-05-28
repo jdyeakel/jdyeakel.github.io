@@ -9,8 +9,7 @@ comments: true
 Justin Douglas Yeakel  
 Omidyar Fellow, Santa Fe Institute  
 Santa Fe, New Mexico  
-Internal Mentor: Jennifer A. Dunne   
-External SFI Mentor: John Harte   
+Internal Mentor: Jennifer A. Dunne    
 Email: jdyeakel at gmail.com  
 [Google Scholar](http://scholar.google.com/citations?user=nWHtsZYAAAAJ&hl=en&oi=sra)  
 
