@@ -38,7 +38,8 @@ Publications
 *In prep**)
 -->
 2015
-:	* Galetti M., Guevara R., Neves C., Rodarte R. R., Moreira M., Hopkins III, J., <span style="color:#377EB8;">Yeakel, J. D.</span> Cascading effects of defaunation: population-level and dietary shifts in rodents following the extinction of a large herbivore. *Biological Conservation* In press.     
+:	* Galetti M., Guevara R., Neves C. L., Rodarte R. R., Bovendorp, R. S. Moreira M., Hopkins III, J. B., <span style="color:#377EB8;">Yeakel, J. D.</span> Defaunation affects the populations and diets of rodents in Neotropical rainforests. *Biological Conservation*, 190, 2-7.     
+
 
 	* <span style="color:#377EB8;">Yeakel, J. D.</span>, Dunne, J. A. [Modern lessons from ancient food webs](http://jdyeakel.github.io/pdfs/2015-05Yeakel.pdf). *American Scientist*, 103, 188-195.   
 
