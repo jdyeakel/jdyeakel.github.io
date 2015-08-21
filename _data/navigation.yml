@@ -1,10 +1,13 @@
 # Site navigation links
 
-- title: About
-  url: /about/
+- title: People
+  url: /people/
 
 - title: Research
   url: /research/
+
+- title: Teaching
+  url: /teaching/
 
 - title: Collaborators
   url: /collab/

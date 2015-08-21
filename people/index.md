@@ -8,16 +8,71 @@ image:
   feature: tracks-leadville.jpg
   credit: jdyeakel
 ---
-## Interests
+## What we do
 
-I am interested in the physical and biological constraints that shape trophic interactions, and how changes in these interactions impact community dynamics over evolutionary time. I generally use network-theoretic approaches – combined with empirical measures of interactions e.g. stable isotopic data – to try to understand how species interactions trickle up to impact the structure and functioning of ecological communities. My long-term interests fall into 3 core themes:
+Our group is generally interested in the physical and biological constraints that shape trophic interactions, and how changes in these interactions impact community dynamics over both ecological and evolutionary time. 
+We employ both theoretical as well as empirical approaches to address many different aspects of problems that fall within this central focus, including but not limited to:   
+
+* Nonlinear dynamics   
+* Stochastic processes   
+* Dynamic programming   
+* Stable isotopes   
+* Historical records
+* Paleontological data   
+
+
+<!---
+I generally use network-theoretic approaches – combined with empirical measures of interactions e.g. stable isotopic data – to try to understand how species interactions trickle up to impact the structure and functioning of ecological communities. My long-term interests fall into 3 core themes:
 
 * the proximate drivers and ultimate effects of species interactions
 * the effects of large-scale (spatial and temporal) factors on community assembly and dis-assembly
 * the interplay between landscape structure and population/community dynamics
+-->
+
+
+## Who we are
+
+<span style="text-align=left;font-size:1.5em;color:#377EB8;">Principle Investigator</span>   
+<div>
+<p style="float: left;padding-right:25px"><img src="/images/justin-web.jpg" width="100"></p>    
+<b>Justin D. Yeakel:</b> In a nutshell, I am fascinated by the ecological and physiological constraints that drive trophic interactions between species, and how such interactions trickle up to impact populations and communities over large spatial and temporal scales. <BR> <BR>
+</div>       
+
+<BR CLEAR="...">   
+
+--- 
+
+<span style="text-align=left;font-size:1.5em;color:#377EB8;">Postdoctoral Researchers</span>   
+<div>
+<p style="float: left;padding-right:25px"><img src="/images/person.jpg" width="100"></p> <b>Your name here!</b> Boldy go where no postdoc has gone before... <BR> <BR> <BR> <BR> <BR>
+</div>      
+
+<BR CLEAR="...">
 
 ---
 
+<span style="text-align=left;font-size:1.5em;color:#377EB8;">Graduate Researchers</span> 
+<div>
+<p style="float: left;padding-right:25px"><img src="/images/spock.jpg" width="100"></p>
+<b>Your name here!</b> Explore strange new dynamics...  <BR> <BR> <BR> <BR> <BR> <BR>     
+</div>     
+
+<BR CLEAR="...">   
+
+---    
+
+<span style="text-align=left;font-size:1.5em;color:#377EB8;">Undergraduate Researchers</span>     
+<div>   
+<p style="float: left;padding-right:25px"><img src="/images/person.jpg" width="100"></p>
+<b>Your name here!</b> Seek out new discoveries and new phenomena...<BR> <BR> <BR> <BR> 
+</div>   
+
+
+
+
+         
+
+<!---
 ###Background
 
 I graduated in 2004 from Kent State University in Ohio (my home state) with a degree in Biological Anthropology, a minor in biology, and specializing in outdoor education (I spent two years working at LongAcre Expeditions, and am a graduate of the NOLS Alaska summer course).
@@ -34,9 +89,7 @@ Not being a specialist in any one system, it was a humbling and exciting experie
 As of June, 2014 I began as an Omidyar Postdoctoral Fellow at the Santa Fe Institute in Santa Fe, New Mexico. SFI has no boundaries between disciplines, and I feel lucky to work alongside so many excellent people spanning so many subject areas.
 Check out the rest of my website for info on research interests and news of recent work! Thanks for visiting,  
 &nbsp;&nbsp;&nbsp;&nbsp;*-JD Yeakel, October 2014*
-
-
----
-
+-->
+<!---
 My wife Charlene Chow is an artist. [Check out her website here!](http://charleneeliz.wordpress.com)
-
+-->

@@ -3,7 +3,7 @@
   
   
   <url>
-    <loc>http://jdyeakel.github.io/posts/rebuttal-in-pnas/</loc>
+    <loc>http://localhost:4000/posts/rebuttal-in-pnas/</loc>
     
     <lastmod>2015-02-09T10:40:26-07:00</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://jdyeakel.github.io/posts/gsa-travel-fail/</loc>
+    <loc>http://localhost:4000/posts/gsa-travel-fail/</loc>
     
     <lastmod>2014-11-04T18:26:47-07:00</lastmod>
     
@@ -19,7 +19,7 @@
   </url>
   
   <url>
-    <loc>http://jdyeakel.github.io/posts/first-post/</loc>
+    <loc>http://localhost:4000/posts/first-post/</loc>
     
     <lastmod>2014-10-10T10:56:01-06:00</lastmod>
     
@@ -27,7 +27,7 @@
   </url>
   
   <url>
-    <loc>http://jdyeakel.github.io/posts/collapse-of-an-ancient-egyptian-food-web-in-pnas/</loc>
+    <loc>http://localhost:4000/posts/collapse-of-an-ancient-egyptian-food-web-in-pnas/</loc>
     
     <lastmod>2014-09-08T00:00:00-06:00</lastmod>
     
@@ -35,7 +35,7 @@
   </url>
   
   <url>
-    <loc>http://jdyeakel.github.io/posts/a-perturbation-approach-to-explore-stock-recruitment-relationships/</loc>
+    <loc>http://localhost:4000/posts/a-perturbation-approach-to-explore-stock-recruitment-relationships/</loc>
     
     <lastmod>2014-08-25T00:00:00-06:00</lastmod>
     
@@ -43,7 +43,7 @@
   </url>
   
   <url>
-    <loc>http://jdyeakel.github.io/posts/exploring-the-life-history-diversity-of-steelhead-salmon/</loc>
+    <loc>http://localhost:4000/posts/exploring-the-life-history-diversity-of-steelhead-salmon/</loc>
     
     <lastmod>2014-02-28T00:00:00-07:00</lastmod>
     
@@ -51,7 +51,7 @@
   </url>
   
   <url>
-    <loc>http://jdyeakel.github.io/posts/synchronisation-and-stability-in-river-metapopulation-networks-in-ecology-letters/</loc>
+    <loc>http://localhost:4000/posts/synchronisation-and-stability-in-river-metapopulation-networks-in-ecology-letters/</loc>
     
     <lastmod>2013-12-09T00:00:00-07:00</lastmod>
     
@@ -59,7 +59,7 @@
   </url>
   
   <url>
-    <loc>http://jdyeakel.github.io/posts/exploring-the-constraints-of-hominin-foraging-behaviors/</loc>
+    <loc>http://localhost:4000/posts/exploring-the-constraints-of-hominin-foraging-behaviors/</loc>
     
     <lastmod>2013-09-10T00:00:00-06:00</lastmod>
     
@@ -67,7 +67,7 @@
   </url>
   
   <url>
-    <loc>http://jdyeakel.github.io/posts/dietary-flexibility-food-webs-and-the-last-glacial-maximum/</loc>
+    <loc>http://localhost:4000/posts/dietary-flexibility-food-webs-and-the-last-glacial-maximum/</loc>
     
     <lastmod>2013-05-14T00:00:00-06:00</lastmod>
     
@@ -76,50 +76,57 @@
   
   
   <url>
-    <loc>http://jdyeakel.github.io/collab/</loc>
-    <lastmod>2015-02-09T15:33:03-07:00</lastmod>
+    <loc>http://localhost:4000/CV/</loc>
+    <lastmod>2015-08-20T23:56:16-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>http://jdyeakel.github.io/CV/</loc>
-    <lastmod>2015-02-09T15:33:03-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  
-  <url>
-    <loc>http://jdyeakel.github.io/</loc>
-    <lastmod>2015-02-09T15:33:03-07:00</lastmod>
+    <loc>http://localhost:4000/</loc>
+    <lastmod>2015-08-20T23:56:16-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
-    <loc>http://jdyeakel.github.io/research/</loc>
-    <lastmod>2015-02-09T15:33:03-07:00</lastmod>
+    <loc>http://localhost:4000/people/</loc>
+    <lastmod>2015-08-20T23:56:16-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>http://jdyeakel.github.io/theme-setup/</loc>
-    <lastmod>2015-02-09T15:33:03-07:00</lastmod>
+    <loc>http://localhost:4000/collab/</loc>
+    <lastmod>2015-08-20T23:56:16-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>http://jdyeakel.github.io/about/</loc>
-    <lastmod>2015-02-09T15:33:03-07:00</lastmod>
+    <loc>http://localhost:4000/teaching/</loc>
+    <lastmod>2015-08-20T23:56:16-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>http://jdyeakel.github.io/posts/</loc>
-    <lastmod>2015-02-09T15:33:03-07:00</lastmod>
+    <loc>http://localhost:4000/theme-setup/</loc>
+    <lastmod>2015-08-20T23:56:16-06:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/research/</loc>
+    <lastmod>2015-08-20T23:56:16-06:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/posts/</loc>
+    <lastmod>2015-08-20T23:56:16-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
