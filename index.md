@@ -17,13 +17,13 @@ image:
 > *Starting 1/1/16*: The **Quantitative EcoDynamics (QED) group** will be opening in the School of Natural Sciences at the University of California, Merced. Join us in the Gateway to Yosemite: Undergraduate and Graduate positions available! [see lab flyer](http://jdyeakel.github.io/pdfs/YeakelLabFlyer.pdf)
 > <br>
 > *10/12/15*: A new paper on the isotopic niche in [ArXiv](http://arxiv.org/abs/1510.00767) with collaborators Uttam Bhat, Emma Elliott Smith, and Seth Newsome. This paper is submitted to *Frontiers in Ecology and Evolution* for a special issue on stable isotopes and food webs.
-> <br>   
+> <br>
 > *7/10/15*: Our Egypt work was summarized in the July issue of National Geographic magazine!
-> <br>    
+> <br>
 > *4/15/15*: A new article in American Scientist with Jennifer Dunne: **Modern lessons from ancient food webs** [pdf](http://jdyeakel.github.io/pdfs/2015-05Yeakel.pdf) | [cover](http://www.americanscientist.org/Libraries/images/20154614224311023-2015-05Cover.jpg)
-> <br>   
+> <br>
 > *1/20/15*: A [rebuttal to our Egypt paper](http://www.pnas.org/content/112/3/E239.extract.html?etoc), a note documenting [similar patterns in the Levant](http://www.pnas.org/content/112/3/E238.extract.html?etoc), and [our response](http://www.pnas.org/content/112/3/E240.extract.html?etoc) in PNAS.
-> <br>     
+> <br>
 > *09/09/14*: We recently published a paper documenting changes to the Egyptian mammalian food web over the last 6000 years in PNAS. Check out a post on the paper, as well as links to news coverage and a cool infographic [here](/posts/collapse-of-an-ancient-egyptian-food-web-in-pnas)
 
 <!---
