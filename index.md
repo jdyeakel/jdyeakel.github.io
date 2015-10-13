@@ -20,7 +20,7 @@ image:
 > <br>   
 > *7/10/15*: Our Egypt work was summarized in the July issue of National Geographic magazine!   
 > <br>    
-> *4/15/15*: A new article in American Scientist with Jennifer Dunne: **Modern lessons from ancient food webs** [pdf](http://jdyeakel.github.io/pdfs/2015-05Yeakel.pdf) | [cover](http://www.americanscientist.org/Libraries/images/20154614224311023-2015-05Cover.jpg)      
+> *4/15/15*: A new article in American Scientist with Jennifer Dunne: **Modern lessons from ancient food webs** [pdf](http://jdyeakel.github.io/pdfs/2015-05Yeakel.pdf) | [cover](http://www.americanscientist.org/Libraries/images/20154614224311023-2015-05Cover.jpg)  
 > <br>   
 > *1/20/15*: A [rebuttal to our Egypt paper](http://www.pnas.org/content/112/3/E239.extract.html?etoc), a note documenting [similar patterns in the Levant](http://www.pnas.org/content/112/3/E238.extract.html?etoc), and [our response](http://www.pnas.org/content/112/3/E240.extract.html?etoc) in PNAS.      
 > <br>     
