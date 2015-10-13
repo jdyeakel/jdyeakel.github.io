@@ -15,6 +15,8 @@ image:
 
 > ##~~News~~   
 > *Starting 1/1/16*: The **Quantitative EcoDynamics (QED) group** will be opening in the School of Natural Sciences at the University of California, Merced. Join us in the Gateway to Yosemite: Undergraduate and Graduate positions available! [see lab flyer](http://jdyeakel.github.io/pdfs/YeakelLabFlyer.pdf)   
+> <br>
+> *10/12/15*: A new paper on the isotopic niche in [ArXiv](http://arxiv.org/abs/1510.00767) with collaborators Uttam Bhat, Emma Elliott Smith, and Seth Newsome. This paper is submitted to *Frontiers in Ecology and Evolution* for a special issue on stable isotopes and food webs.
 > <br>   
 > *7/10/15*: Our Egypt work was summarized in the July issue of National Geographic magazine!   
 > <br>    
