@@ -39,7 +39,7 @@ Publications
 -->
 
 *In prep*
-:	* <span style="color:#377EB8;">Yeakel J.D.</span>, Bhat U., Smith  E.E., Newsome S.D. Exploring the isotopic niche: isotopic variance, physiological incorporation, and the temporal dynamics of foraging. Written for: *Frontiers in Ecology and Evolution*. [ArXiv preprint](http://arxiv.org/abs/1510.00767)    
+:	* <span style="color:#377EB8;">Yeakel J.D.</span>, Bhat U., Smith  E.E., Newsome S.D. Exploring the isotopic niche: isotopic variance, physiological incorporation, and the temporal dynamics of foraging. Written for: *Frontiers in Ecology and Evolution*. [ArXiv preprint](http://arxiv.org/abs/1510.00767).    
 
 	* Crowley B, Melin A.D., <span style="color:#377EB8;">Yeakel J.D.</span>, Dominy N.J. Oxygen isotope values reflect the ecology and physiology of Neotropical mammals. Written for: *Frontiers in Ecology and Evolution*.     
 
