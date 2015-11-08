@@ -41,15 +41,14 @@ Publications
 *In prep*
 :	* <span style="color:#377EB8;">Yeakel J.D.</span>, Bhat U., Smith  E.E., Newsome S.D. Exploring the isotopic niche: isotopic variance, physiological incorporation, and the temporal dynamics of foraging. Written for: *Frontiers in Ecology and Evolution*. [ArXiv preprint](http://arxiv.org/abs/1510.00767).    
 
-	* Crowley B, Melin A.D., <span style="color:#377EB8;">Yeakel J.D.</span>, Dominy N.J. Oxygen isotope values reflect the ecology and physiology of Neotropical mammals. Written for: *Frontiers in Ecology and Evolution*.     
-
 	* <span style="color:#377EB8;">Yeakel J.D.</span>, Redner S. The dynamic effects of starvation on populations. Written for: *Theoretical Ecology*.     
 
 
 
 2015
-:	* Galetti M., Guevara R., Neves C. L., Rodarte R. R., Bovendorp, R. S. Moreira M., Hopkins III, J. B., <span style="color:#377EB8;">Yeakel, J. D.</span> Defaunation affects the populations and diets of rodents in Neotropical rainforests. *Biological Conservation*, 190, 2-7.     
+:	* Crowley B, Melin A.D., <span style="color:#377EB8;">Yeakel J.D.</span>, Dominy N.J. [Oxygen isotope values reflect the ecology and physiology of Neotropical mammals.](http://journal.frontiersin.org/article/10.3389/fevo.2015.00127/abstract) *Frontiers in Ecology and Evolution*.     
 
+	* Galetti M., Guevara R., Neves C. L., Rodarte R. R., Bovendorp, R. S. Moreira M., Hopkins III, J. B., <span style="color:#377EB8;">Yeakel, J. D.</span> Defaunation affects the populations and diets of rodents in Neotropical rainforests. *Biological Conservation*, 190, 2-7.     
 
 	* <span style="color:#377EB8;">Yeakel, J. D.</span>, Dunne, J. A. [Modern lessons from ancient food webs](http://jdyeakel.github.io/pdfs/2015-05Yeakel.pdf). *American Scientist*, 103, 188-195.   
 
