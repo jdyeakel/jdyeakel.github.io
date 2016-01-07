@@ -39,10 +39,12 @@ Publications
 -->
 
 *In prep*
-:	* <span style="color:#377EB8;">Yeakel J.D.</span>, Bhat U., Smith  E.E., Newsome S.D. Exploring the isotopic niche: isotopic variance, physiological incorporation, and the temporal dynamics of foraging. Written for: *Frontiers in Ecology and Evolution*. [ArXiv preprint](http://arxiv.org/abs/1510.00767).    
+:	* <span style="color:#377EB8;">Yeakel J.D.</span>, Redner S. The dynamic effects of starvation on populations. Written for: *Theoretical Ecology*.     
 
-	* <span style="color:#377EB8;">Yeakel J.D.</span>, Redner S. The dynamic effects of starvation on populations. Written for: *Theoretical Ecology*.     
+2016
+:	* <span style="color:#377EB8;">Yeakel J.D.</span>, Bhat U., Smith  E.E., Newsome S.D. Exploring the isotopic niche: isotopic variance, physiological incorporation, and the temporal dynamics of foraging. *Frontiers in Ecology and Evolution*. Accepted. [ArXiv preprint](http://arxiv.org/abs/1510.00767).    
 
+	* Dominy N.J., <span style="color:#377EB8;">Yeakel J.D.</span>, Bhat U., Ramsden L., Wrangham R.W., Lucas P.W. How chimpanzees acquire and use sensory information to select figs. In Review at *Journal of the Royal Society Interface Focus*.     
 
 
 2015
