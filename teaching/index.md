@@ -15,3 +15,9 @@ image:
 > ### [The Natural History of Dinosaurs (Spring, 2016)](http://jdyeakel.github.io/teaching/dinos/)   
 > 65 million quarters of a second in the making
 
+<br>
+
+> ### Ecological Dynamics   
+> Coming soon   
+
+
