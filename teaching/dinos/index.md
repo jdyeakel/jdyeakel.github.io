@@ -12,6 +12,20 @@ image:
 
 ---
 
-Lecture PDFs   
+## Info
+*	Class time/location:
+*	Section time/location:
+*	Office hours:
+*	Syllabus
 
-*	1 & 2: [Timescales, fossilization, and taphonomy](http://jdyeakel.github.io/slides/dinos/01_02_Intro.pdf)  
+## Lecture PDFs   
+
+*	Lectures 1 & 2: [Timescales, fossilization, and taphonomy](http://jdyeakel.github.io/slides/dinos/01_02_Intro.pdf)   
+
+
+
+
+
+## Discussion Section materials
+
+ 
