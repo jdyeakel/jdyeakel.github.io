@@ -13,9 +13,9 @@ image:
 ---
 
 ## Info
-*	Class time/location:
-*	Section time/location:
-*	Office hours:
+*	Class time/location: MWF 11:30-12:30 in CLSSRM 114
+*	Section time/location: M 1:30-2:20 in CLSSRM 282; M 2:30-3:20 in CLSSRM 282
+*	Office hours: Justin (MW 2:00-4:00 in SE1 288); Paola TBD; Bobby TBD 
 *	Syllabus
 
 ## Lecture PDFs   
