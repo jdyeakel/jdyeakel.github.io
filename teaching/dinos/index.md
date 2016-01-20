@@ -20,7 +20,7 @@ image:
 
 ## Lecture PDFs   
 
-*	Lectures 1 & 2: [Timescales, fossilization, and taphonomy](http://jdyeakel.github.io/slides/dinos/01_02_Intro.pdf)   
+*	Lectures 1: [Timescales & fossilization](http://jdyeakel.github.io/slides/dinos/01_Intro.pdf)   
 
 
 
