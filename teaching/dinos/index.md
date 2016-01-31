@@ -24,7 +24,7 @@ image:
 *	Lecture 2: [Taphonomy, Time, & Evolution 1](http://jdyeakel.github.io/slides/dinos/02_fossilization.pdf)   
 *	Lecture 3: [Classification & Evolution 2](http://jdyeakel.github.io/slides/dinos/03_Classification_Evol.pdf)
 *	Lecture 4: [Early Life History 1](http://jdyeakel.github.io/slides/dinos/04_EarlyLifeHistory1.pdf)   
-
+*	Lecture 5: [Early Life History 2](http://jdyeakel.github.io/slides/dinos/05_EarlyLifeHistory2.pdf)   
 
 
 
