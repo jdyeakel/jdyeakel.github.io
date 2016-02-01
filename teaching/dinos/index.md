@@ -25,7 +25,7 @@ image:
 *	Lecture 3: [Classification & Evolution 2](http://jdyeakel.github.io/slides/dinos/03_Classification_Evol.pdf)
 *	Lecture 4: [Early Life History 1](http://jdyeakel.github.io/slides/dinos/04_EarlyLifeHistory1.pdf)   
 *	Lecture 5: [Early Life History 2](http://jdyeakel.github.io/slides/dinos/05_EarlyLifeHistory2.pdf)   
-
+*	Lecture 6: [The Permo-Triassic Boundary](http://jdyeakel.github.io/slides/dinos/06_Permo_Triassic.pdf)    
 
 
 
