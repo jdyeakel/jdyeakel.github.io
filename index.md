@@ -7,13 +7,13 @@ image:
   credit: jdyeakel
 ---
 
-#Quantitative EcoDynamics Group    
+# Quantitative EcoDynamics Group    
 
 <!-- <span style="font-size:1em;">School of Natural Sciences @ UC-Merced</span> --> 
 
-###School of Natural Sciences @ UC-Merced
+### School of Natural Sciences @ UC-Merced
 
-> ##~~News~~   
+> ## ~~News~~   
 > *Starting 1/1/16*: The **Quantitative EcoDynamics (QED) group** will be opening in the School of Natural Sciences at the University of California, Merced. Join us in the Gateway to Yosemite: Undergraduate and Graduate positions available! [see lab flyer](http://jdyeakel.github.io/pdfs/YeakelLabFlyer.pdf)
 > <br>   
 > *11/11/15*: A radio interview for Cafe Radio on KSFR 101.1... Listen [here](http://jdyeakel.github.io/media/Yeakel_RadioCafe.mp3)
