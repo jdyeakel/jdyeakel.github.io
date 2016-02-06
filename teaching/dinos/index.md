@@ -20,14 +20,19 @@ image:
 
 ## Lecture PDFs   
 
-*	Lectures 1: [Timescales & fossilization](http://jdyeakel.github.io/slides/dinos/01_Intro.pdf)   
+*	Lecture 1: [Timescales & fossilization](http://jdyeakel.github.io/slides/dinos/01_Intro.pdf)   
 *	Lecture 2: [Taphonomy, Time, & Evolution 1](http://jdyeakel.github.io/slides/dinos/02_fossilization.pdf)   
 *	Lecture 3: [Classification & Evolution 2](http://jdyeakel.github.io/slides/dinos/03_Classification_Evol.pdf)
 *	Lecture 4: [Early Life History 1](http://jdyeakel.github.io/slides/dinos/04_EarlyLifeHistory1.pdf)   
 *	Lecture 5: [Early Life History 2](http://jdyeakel.github.io/slides/dinos/05_EarlyLifeHistory2.pdf)   
 *	Lecture 6: [The Permo-Triassic Boundary](http://jdyeakel.github.io/slides/dinos/06_Permo_Triassic.pdf)   
 *	Lecture 7: [Introduction to Dinosauria](http://jdyeakel.github.io/slides/dinos/07_Dinosauria.pdf)    
+*	Lecture 8: [Thyreophora 1](http://jdyeakel.github.io/slides/dinos/08_Thyreophora1.pdf)   
+*	Lecture 9: Thyreophora 2   
+*	Lecture 10: *Review*
+*	Study Notes for Lectures 1-10 (Coming soon)
 
+<hr>
 
 
 ## Discussion Section materials
