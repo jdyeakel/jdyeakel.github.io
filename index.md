@@ -16,6 +16,8 @@ image:
 > ## ~~News~~   
 > *Starting 1/1/16*: The **Quantitative EcoDynamics (QED) group** will be opening in the School of Natural Sciences at the University of California, Merced. Join us in the Gateway to Yosemite: Undergraduate and Graduate positions available! [see lab flyer](http://jdyeakel.github.io/pdfs/YeakelLabFlyer.pdf)
 > <br>   
+> *02/08/16*: Paper published in *Frontiers of Ecology and Evolution* on the *isotopic niche*. Find it open access on the [Frontiers website](http://journal.frontiersin.org/article/10.3389/fevo.2016.00001/full). 
+> <br>   
 > *11/11/15*: A radio interview for Cafe Radio on KSFR 101.1... Listen [here](http://jdyeakel.github.io/media/Yeakel_RadioCafe.mp3)
 > <br>   
 > *11/07/15*: A new paper in *Frontiers in Ecology and Evolution* on using Oxygen stable isotopes to explore ecological niches: [Crowley et al. Do oxygen isotope values in collagen reflect the ecology and physiology of neotropical mammals?](http://journal.frontiersin.org/article/10.3389/fevo.2015.00127/abstract) 
