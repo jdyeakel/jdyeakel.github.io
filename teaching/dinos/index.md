@@ -18,6 +18,12 @@ image:
 *	Office hours: Justin (MW 2-4 in SE1 288); Paola (W 12:25-1:25 SE1 398; Bobby (MW 10-11 in alcove near SE1 281)
 *	[Syllabus](http://jdyeakel.github.io/teaching/dinos/NatHistDinosaurs_SyllabusSpring2016.pdf)   
 
+
+> **Exam 1: Friday, February 12, 2016**
+> You will need the long-green SCANTRON (No. 882-E)
+> [Click here to see a picture of the required SCANTRON form](http://jdyeakel.github.io/teaching/dinos/scantron.jpg)   
+
+
 ## Lecture PDFs   
 
 *	Lecture 1: [Timescales & fossilization](http://jdyeakel.github.io/slides/dinos/01_Intro.pdf)   
