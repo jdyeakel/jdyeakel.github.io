@@ -21,8 +21,8 @@ image:
 
 > **Exam 1: Friday, February 12, 2016**   
 > You will need the long-green SCANTRON (No. 882-E)   
-> [Click here to see a picture of the required SCANTRON form](http://jdyeakel.github.io/teaching/dinos/scantron.jpg)   
-
+> [Click here to see a picture of the required SCANTRON form](http://jdyeakel.github.io/teaching/dinos/scantron.jpg)      
+> [Click here for the answer key to **Exam 1**](http://jdyeakel.github.io/teaching/dinos/nedry.jpg)   
 
 ## Lecture PDFs   
 
