@@ -28,9 +28,9 @@ image:
 *	Lecture 6: [The Permo-Triassic Boundary](http://jdyeakel.github.io/slides/dinos/06_Permo_Triassic.pdf)   
 *	Lecture 7: [Introduction to Dinosauria](http://jdyeakel.github.io/slides/dinos/07_Dinosauria.pdf)    
 *	Lecture 8: [Thyreophora 1](http://jdyeakel.github.io/slides/dinos/08_Thyreophora1.pdf)   
-*	Lecture 9: Thyreophora 2   
+*	Lecture 9: [Thyreophora 2](http://jdyeakel.github.io/slides/dinos/09_Thyreophora2.pdf)   
 *	Lecture 10: *Review*
-*	Study Notes for Lectures 1-10 (Coming soon)
+*	[Study Notes for Lectures 1-10](http://jdyeakel.github.io/teaching/dinos/Notes1.pdf)   
 
 <hr>
 
