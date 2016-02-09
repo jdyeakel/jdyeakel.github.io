@@ -19,8 +19,8 @@ image:
 *	[Syllabus](http://jdyeakel.github.io/teaching/dinos/NatHistDinosaurs_SyllabusSpring2016.pdf)   
 
 
-> **Exam 1: Friday, February 12, 2016**
-> You will need the long-green SCANTRON (No. 882-E)
+> **Exam 1: Friday, February 12, 2016**   
+> You will need the long-green SCANTRON (No. 882-E)   
 > [Click here to see a picture of the required SCANTRON form](http://jdyeakel.github.io/teaching/dinos/scantron.jpg)   
 
 
