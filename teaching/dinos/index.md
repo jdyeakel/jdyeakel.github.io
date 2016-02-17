@@ -37,9 +37,13 @@ image:
 *	Lecture 9: [Thyreophora 2](http://jdyeakel.github.io/slides/dinos/09_Thyreophora2.pdf)   
 *	Lecture 10: *Review*
 *	[Study Notes for Lectures 1-10](http://jdyeakel.github.io/teaching/dinos/Notes1.pdf)   
+*	Lecture 11: Exam 1   
 
 <hr>
 
+*	Lecture 12: [Thyreophora 3: Ankylosauria](http://jdyeakel.github.io/slides/12_Ankylosauria.pdf)   
+
+<hr>
 
 ## Discussion Section materials
 
