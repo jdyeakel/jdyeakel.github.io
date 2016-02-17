@@ -41,7 +41,7 @@ image:
 
 <hr>
 
-*	Lecture 12: [Thyreophora 3: Ankylosauria](http://jdyeakel.github.io/slides/12_Ankylosauria.pdf)   
+*	Lecture 12: [Thyreophora 3: Ankylosauria](http://jdyeakel.github.io/slides/dinos/12_Ankylosauria.pdf)   
 
 <hr>
 
