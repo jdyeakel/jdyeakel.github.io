@@ -43,10 +43,15 @@ image:
 
 *	Lecture 12: [Thyreophora 3: Ankylosauria](http://jdyeakel.github.io/slides/dinos/12_Ankylosauria.pdf)   
 *	Lecture 13: [Pachycephalosaurs 1](http://jdyeakel.github.io/slides/dinos/13_Pachy.pdf)   
+*	Lecture 14: [Pachycephalosaurs 2 & Intro to Ceratopsians](http//jdyeakel.github.io/slides/dinos/14_Pachy2Ceratops.pdf)   
+
 
 
 <hr>
 
 ## Discussion Section materials
-
+*	Section 1 - Systematics & Cladistics   
+*	Section 2 - Anatomy   
+*	Section 3 - Review for Exam 1   
+*	Section 4 - Cancelled due to Audio-visual issues!   
  
