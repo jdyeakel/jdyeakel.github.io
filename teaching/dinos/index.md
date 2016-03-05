@@ -46,7 +46,9 @@ image:
 *	Lecture 13: [Pachycephalosaurs 1](http://jdyeakel.github.io/slides/dinos/13_Pachy.pdf)   
 *	Lecture 14: [Pachycephalosaurs 2 & Intro to Ceratopsians](http//jdyeakel.github.io/slides/dinos/14_Pachy2Ceratops.pdf)   
 *	Lecture 15: [Ceratopsians](http://jdyeakel.github.io/slides/dinos/15_Ceratopsia2.pdf)   
-*	Lecture 16: [Ornithopods 1](http://jdyeakel.github.io/slides/dinos/16_Ornithopods_1.pdf)   
+*	Lecture 16: [Ornithopods 1](http://jdyeakel.github.io/slides/dinos/16_Ornithopods_1.pdf)  
+*	Lecture 17: [Ornithopods 2](http://jdyeakel.github.io/slides/dinos/17_Ornithopods_2.pdf)   
+*	Lectures 18 & 19: [Sauropods](http://jdyeakel.github.io/slides/dinos/18_19_Sauropods.pdf)    
 
 
 <hr>
