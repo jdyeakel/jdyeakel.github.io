@@ -58,4 +58,6 @@ image:
 *	Section 2 - Anatomy   
 *	Section 3 - Review for Exam 1   
 *	Section 4 - Cancelled due to Audio-visual issues!   
+*	Section 5 - Writing your paper abstracts   
+*	Section 6 - Review for Exam 2   
  
