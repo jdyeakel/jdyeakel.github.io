@@ -20,10 +20,10 @@ image:
 *	[Abstract Instructions](http://jdyeakel.github.io/teaching/dinos/Abstract_inst.pdf): Due March 7th in Section. *The abstract **must** be typed, or it will not be accepted*. Paper instructions to follow. Final paper is due April 25th in Section.    
 
 
-> **Exam 1: Friday, February 12, 2016**   
+> **Exam 2: Friday, March 11, 2016**   
 > You will need the long-green SCANTRON (No. 882-E)   
 > [Click here to see a picture of the required SCANTRON form](http://jdyeakel.github.io/teaching/dinos/scantron.jpg)      
-> [Click here for the answer key to **Exam 1**](http://jdyeakel.github.io/teaching/dinos/nedry.jpg)   
+> [Click here for the answer key to **Exam 2**](http://jdyeakel.github.io/teaching/dinos/nedry.jpg)   
 
 ## Lecture PDFs   
 
@@ -49,7 +49,8 @@ image:
 *	Lecture 16: [Ornithopods 1](http://jdyeakel.github.io/slides/dinos/16_Ornithopods_1.pdf)  
 *	Lecture 17: [Ornithopods 2](http://jdyeakel.github.io/slides/dinos/17_Ornithopods_2.pdf)   
 *	Lectures 18 & 19: [Sauropods](http://jdyeakel.github.io/slides/dinos/18_19_Sauropods.pdf)    
-
+*	Lecture 20: American Experience *Dinosaur Wars*   
+*	[Study Notes for Lectures 12-20](http://jdyeakel.github.io/teaching/dinos/Notes_2.pdf)   
 
 <hr>
 
