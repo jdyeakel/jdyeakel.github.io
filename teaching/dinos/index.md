@@ -49,7 +49,7 @@ image:
 *	Lecture 16: [Ornithopods 1](http://jdyeakel.github.io/slides/dinos/16_Ornithopods_1.pdf)  
 *	Lecture 17: [Ornithopods 2](http://jdyeakel.github.io/slides/dinos/17_Ornithopods_2.pdf)   
 *	Lectures 18 & 19: [Sauropods](http://jdyeakel.github.io/slides/dinos/18_19_Sauropods.pdf)    
-*	Lecture 20: American Experience *Dinosaur Wars*   
+*	Lecture 20: American Experience *Dinosaur Wars*. [Reading assignment](https://en.wikipedia.org/wiki/Bone_Wars)      
 *	[Study Notes for Lectures 12-20](http://jdyeakel.github.io/teaching/dinos/Notes_2.pdf)   
 
 <hr>
