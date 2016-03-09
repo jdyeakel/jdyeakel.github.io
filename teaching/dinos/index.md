@@ -51,6 +51,8 @@ image:
 *	Lectures 18 & 19: [Sauropods](http://jdyeakel.github.io/slides/dinos/18_19_Sauropods.pdf)    
 *	Lecture 20: American Experience *Dinosaur Wars*. Cancelled due to AV issues.   
 *	[Study Notes for Lectures 12-20](http://jdyeakel.github.io/teaching/dinos/Notes_2.pdf)   
+*	Lecture 21: [Exam 2 Review](http://jdyeakel.github.io/slides/dinos/21_ReviewExam2.pdf)   
+
 
 <hr>
 
