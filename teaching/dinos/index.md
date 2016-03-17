@@ -53,6 +53,10 @@ image:
 *	[Study Notes for Lectures 12-20](http://jdyeakel.github.io/teaching/dinos/Notes_2.pdf)   
 *	Lecture 21: [Exam 2 Review](http://jdyeakel.github.io/slides/dinos/21_ReviewExam2.pdf)   
 *	Lecture 22: Exam 2   
+
+<hr>
+
+
 *	Lecture 23: [Dinosaur Metabolism 1](http://jdyeakel.github.io/slides/dinos/23_Metabolism_1.pdf)   
 *	Lecture 24: [Dinosaur Metabolism 2](http://jdyeakel.github.io/slides/dinos/24_Metabolism_2.pdf)   
 
