@@ -44,7 +44,7 @@ Publications
 2016
 :	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.3389/fevo.2016.00001"></div> <span style="color:#377EB8;">Yeakel J.D.</span>, Bhat U., Smith  E.E., Newsome S.D. Exploring the isotopic niche: isotopic variance, physiological incorporation, and the temporal dynamics of foraging. [*Frontiers in Ecology and Evolution*](http://journal.frontiersin.org/article/10.3389/fevo.2016.00001/full#)    
 
-	* Dominy N.J., <span style="color:#377EB8;">Yeakel J.D.</span>, Bhat U., Ramsden L., Wrangham R.W., Lucas P.W. How chimpanzees acquire and use sensory information to select figs. In Review at *Journal of the Royal Society Interface Focus*.     
+	* Dominy N.J., <span style="color:#377EB8;">Yeakel J.D.</span>, Bhat U., Ramsden L., Wrangham R.W., Lucas P.W. How chimpanzees acquire and use sensory information to select figs. *Journal of the Royal Society Interface Focus*. **In press**     
 
 
 2015
