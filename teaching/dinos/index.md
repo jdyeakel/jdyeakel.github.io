@@ -17,8 +17,8 @@ image:
 *	Section time/location: M 1:30-2:20 in CLSSRM 282; M 2:30-3:20 in CLSSRM 282
 *	Office hours: Justin (MW 2-4 in SE1 288); Paola (W 12:25-1:25 SE1 398; Bobby (MW 10-11 in alcove near SE1 281)
 *	[Syllabus](http://jdyeakel.github.io/teaching/dinos/NatHistDinosaurs_SyllabusSpring2016.pdf)   
-*	[Abstract Instructions](http://jdyeakel.github.io/teaching/dinos/Abstract_inst.pdf): Due March 7th in Section. *The abstract **must** be typed, or it will not be accepted*. Paper instructions to follow. Final paper is due April 25th in Section.    
-
+*	[Abstract Instructions](http://jdyeakel.github.io/teaching/dinos/Abstract_inst.pdf): Due March 7th in Section. *The abstract **must** be typed, or it will not be accepted*. Paper instructions to follow.    
+*	[Paper Instructions](http://jdyeakel.github.io/teaching/dinos/Paper_inst.pdf): Final paper is due **April 25th in section**.   
 
 > **Exam 2: Friday, March 11, 2016**   
 > You will need the long-green SCANTRON (No. 882-E)   
