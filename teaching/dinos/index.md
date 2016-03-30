@@ -58,9 +58,9 @@ image:
 
 
 *	Lecture 23: [Dinosaur Metabolism 1](http://jdyeakel.github.io/slides/dinos/23_Metabolism_1.pdf)   
-*	Lecture 24: [Dinosaur Metabolism 2](http://jdyeakel.github.io/slides/dinos/24_Metabolism_2.pdf). **Reading assignment: Chapter 12 Fastovsky**   
+*	Lecture 24: [Dinosaur Metabolism 2](http://jdyeakel.github.io/slides/dinos/24_Metabolism_2.pdf). **Reading: Chapter 12 Fastovsky**   
 *	Lecture 25: [Dinosaur Metabolism 3](http://jdyeakel.github.io/slides/dinos/25_Metabolism_3.pdf).       
-
+*	Lecture 26: [Theropods 1](http://jdyeakel.github.io/slides/dinos/26_Theropods_1.pdf) **Reading: Chapter 9 Fastovsky**      
 
 <hr>
 
