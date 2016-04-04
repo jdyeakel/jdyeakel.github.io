@@ -20,10 +20,10 @@ image:
 *	[Abstract Instructions](http://jdyeakel.github.io/teaching/dinos/Abstract_inst.pdf): Due March 7th in Section. *The abstract **must** be typed, or it will not be accepted*. Paper instructions to follow.    
 *	[Paper Instructions](http://jdyeakel.github.io/teaching/dinos/Paper_inst.pdf): Final paper is due **April 25th in section**.   
 
-> **Exam 2: Friday, March 11, 2016**   
+> **Exam 3: Friday, April 11, 2016**   
 > You will need the long-green SCANTRON (No. 882-E)   
 > [Click here to see a picture of the required SCANTRON form](http://jdyeakel.github.io/teaching/dinos/scantron.jpg)      
-> [Click here for the answer key to **Exam 2**](http://jdyeakel.github.io/teaching/dinos/nedry.jpg)   
+> [Click here for the answer key to **Exam 3**](http://jdyeakel.github.io/teaching/dinos/nedry.jpg)   
 
 ## Lecture PDFs   
 
