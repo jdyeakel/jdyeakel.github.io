@@ -61,6 +61,7 @@ image:
 *	Lecture 24: [Dinosaur Metabolism 2](http://jdyeakel.github.io/slides/dinos/24_Metabolism_2.pdf). **Reading: Chapter 12 Fastovsky**   
 *	Lecture 25: [Dinosaur Metabolism 3](http://jdyeakel.github.io/slides/dinos/25_Metabolism_3.pdf).       
 *	Lecture 26: [Theropods 1](http://jdyeakel.github.io/slides/dinos/26_Theropods_1.pdf) **Reading: Chapter 9 Fastovsky**      
+*	Lecture 27: [Theropods 2](http://jdyeakel.github.io/slides/dinos/27_Theropods_2.pdf)     
 
 <hr>
 
@@ -71,4 +72,6 @@ image:
 *	Section 4 - Cancelled due to Audio-visual issues!   
 *	Section 5 - Writing your paper abstracts   
 *	Section 6 - Review for Exam 2   
- 
+*	Section 7 - American Experience   
+*	Section 8 - Jack Horner *Building a Dinosaur*    
+*	Section 9 - Review for Exam 3   
