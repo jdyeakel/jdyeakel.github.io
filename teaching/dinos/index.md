@@ -62,7 +62,7 @@ image:
 *	Lecture 25: [Dinosaur Metabolism 3](http://jdyeakel.github.io/slides/dinos/25_Metabolism_3.pdf).       
 *	Lecture 26: [Theropods 1](http://jdyeakel.github.io/slides/dinos/26_Theropods_1.pdf) **Reading: Chapter 9 Fastovsky**      
 *	Lecture 27: [Theropods 2](http://jdyeakel.github.io/slides/dinos/27_Theropods_2.pdf)     
-*	Lecture 28; [Theropods 3](http://jdyeakel.github.io/slides/dinos/28_Theropods_3.pdf)   
+*	Lecture 28: [Theropods 3](http://jdyeakel.github.io/slides/dinos/28_Theropods_3.pdf)   
 
 <hr>
 
