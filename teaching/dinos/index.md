@@ -20,7 +20,7 @@ image:
 *	[Abstract Instructions](http://jdyeakel.github.io/teaching/dinos/Abstract_inst.pdf): Due March 7th in Section. *The abstract **must** be typed, or it will not be accepted*. Paper instructions to follow.    
 *	[Paper Instructions](http://jdyeakel.github.io/teaching/dinos/Paper_inst.pdf): Final paper is due **April 25th in section**.   
 
-> **Exam 3: Friday, April 11, 2016**   
+> **Exam 3: Wednesday, April 13, 2016**   
 > You will need the long-green SCANTRON (No. 882-E)   
 > [Click here to see a picture of the required SCANTRON form](http://jdyeakel.github.io/teaching/dinos/scantron.jpg)      
 > [Click here for the answer key to **Exam 3**](http://jdyeakel.github.io/teaching/dinos/nedry.jpg)   
@@ -63,6 +63,8 @@ image:
 *	Lecture 26: [Theropods 1](http://jdyeakel.github.io/slides/dinos/26_Theropods_1.pdf) **Reading: Chapter 9 Fastovsky**      
 *	Lecture 27: [Theropods 2](http://jdyeakel.github.io/slides/dinos/27_Theropods_2.pdf)     
 *	Lecture 28: [Theropods 3](http://jdyeakel.github.io/slides/dinos/28_Theropods_3.pdf)   
+*	Lecture 29: [Theropods 4](http://jdyeakel.github.io/slides/dinos/29_Theropods_4.pdf)   
+*	[Study Notes for Lectures 23-29](http://jdyeakel.github.io/teaching/dinos/Notes_3.pdf)   
 
 <hr>
 
