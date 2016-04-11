@@ -50,7 +50,7 @@ Publications
 2015
 :	* Crowley B, Melin A.D., <span style="color:#377EB8;">Yeakel J.D.</span>, Dominy N.J. [Oxygen isotope values reflect the ecology and physiology of Neotropical mammals.](http://journal.frontiersin.org/article/10.3389/fevo.2015.00127/abstract) *Frontiers in Ecology and Evolution*, 3, 1-8.     
 
-	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="doi:10.1016/j.biocon.2015.04.032"></div> <Galetti M., Guevara R., Neves C. L., Rodarte R. R., Bovendorp, R. S. Moreira M., Hopkins III, J. B., <span style="color:#377EB8;">Yeakel, J. D.</span> Defaunation affects the populations and diets of rodents in Neotropical rainforests. *Biological Conservation*, 190, 2-7.     
+	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="doi:10.1016/j.biocon.2015.04.032"></div> Galetti M., Guevara R., Neves C. L., Rodarte R. R., Bovendorp, R. S. Moreira M., Hopkins III, J. B., <span style="color:#377EB8;">Yeakel, J. D.</span> Defaunation affects the populations and diets of rodents in Neotropical rainforests. *Biological Conservation*, 190, 2-7.     
 
 	* <span style="color:#377EB8;">Yeakel, J. D.</span>, Dunne, J. A. [Modern lessons from ancient food webs](http://jdyeakel.github.io/pdfs/2015-05Yeakel.pdf). *American Scientist*, 103, 188-195.   
 
