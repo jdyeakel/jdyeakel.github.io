@@ -84,4 +84,5 @@ image:
 *	Section 6 - Review for Exam 2   
 *	Section 7 - American Experience   
 *	Section 8 - Jack Horner *Building a Dinosaur*    
-*	Section 9 - Review for Exam 3   
+*	Section 9 - Review for Exam 3  
+*	Section 10 - Writing you paper... bring materials!    
