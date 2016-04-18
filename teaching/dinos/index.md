@@ -19,6 +19,8 @@ image:
 *	[Syllabus](http://jdyeakel.github.io/teaching/dinos/NatHistDinosaurs_SyllabusSpring2016.pdf)   
 *	[Abstract Instructions](http://jdyeakel.github.io/teaching/dinos/Abstract_inst.pdf): Due March 7th in Section. *The abstract **must** be typed, or it will not be accepted*. Paper instructions to follow.    
 *	[Paper Instructions](http://jdyeakel.github.io/teaching/dinos/Paper_inst.pdf): Final paper is due **April 25th in section**.   
+*	[How to write a paper in college: *Some advice*](http://jdyeakel.github.io/teaching/dinos/Paper_inst2.pdf)   
+
 
 > **Exam 3: Wednesday, April 13, 2016**   
 > You will need the long-green SCANTRON (No. 882-E)   
@@ -65,6 +67,11 @@ image:
 *	Lecture 28: [Theropods 3](http://jdyeakel.github.io/slides/dinos/28_Theropods_3.pdf)   
 *	Lecture 29: [Theropods 4](http://jdyeakel.github.io/slides/dinos/29_Theropods_4.pdf)   
 *	[Study Notes for Lectures 23-29](http://jdyeakel.github.io/teaching/dinos/Notes_3.pdf)   
+*	Lecture 30: Review   
+*	Lecture 31: Exam 3   
+<hr>  
+*	Lecture 32: [Origin of Birds 1](http://jdyeakel.github.io/slides/dinos/32_Birds_1.pdf)   
+
 
 <hr>
 
