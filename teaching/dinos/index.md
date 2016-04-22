@@ -70,7 +70,7 @@ image:
 *	Lecture 30: Review   
 *	Lecture 31: Exam 3   
 <hr>  
-*	Lecture 32: [Origin of Birds 1](http://jdyeakel.github.io/slides/dinos/32_Birds_1.pdf)
+*	Lecture 32: [Origin of Birds 1](http://jdyeakel.github.io/slides/dinos/32_Birds_1.pdf) **Reading: Chapters 10 & 11**
 *	Lecture 33: [Origin of Birds 2](http://jdyeakel.github.io/slides/dinos/33_Birds_2.pdf)
 *	Lecture 34: [Flying Reptiles](http://jdyeakel.github.io/slides/dinos/34_Flying_Reptiles.pdf)      
 
