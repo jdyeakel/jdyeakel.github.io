@@ -73,6 +73,9 @@ image:
 *	Lecture 32: [Origin of Birds 1](http://jdyeakel.github.io/slides/dinos/32_Birds_1.pdf) **Reading: Chapters 10 & 11**
 *	Lecture 33: [Origin of Birds 2](http://jdyeakel.github.io/slides/dinos/33_Birds_2.pdf)
 *	Lecture 34: [Flying Reptiles](http://jdyeakel.github.io/slides/dinos/34_Flying_Reptiles.pdf)      
+*	Lecture 35: [Swimming Reptiles 1](http://jdyeakel.github.io/slides/dinos/35_Swimming_Reptiles_1.pdf)
+*	lecture 36: [Swimming Reptiles 2](http://jdyeakel.github.io/slides/dinos/36_Swimming_Reptiles_2.pdf)   
+
 
 
 <hr>
