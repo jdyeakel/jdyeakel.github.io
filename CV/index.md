@@ -42,7 +42,7 @@ Publications
 :	* <span style="color:#377EB8;">Yeakel J.D.</span>, Redner S. The dynamic effects of starvation on populations. Written for: *Theoretical Ecology*.     
 
 2016
-:	* Novak M., <span style="color:#377EB8;">Yeakel J.D.</span>, Noble A.E., Doak D.F., Emmerson M., Estes J.A., Jacob U., Tinker M.T., Wootton J.T. Characterizing species interaction: What is the community matrix? *Annual Review of Ecology, Evolution, and Systematics*, 47. **Available in December, 2016**.  
+:	* Novak M., <span style="color:#377EB8;">Yeakel J.D.</span>, Noble A.E., Doak D.F., Emmerson M., Estes J.A., Jacob U., Tinker M.T., Wootton J.T. Characterizing species interactions: What is the community matrix? *Annual Review of Ecology, Evolution, and Systematics*, 47. **Available in December, 2016**.  
 
 	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1098/rsfs.2016.0001"></div> Dominy N.J., <span style="color:#377EB8;">Yeakel J.D.</span>, Bhat U., Ramsden L., Wrangham R.W., Lucas P.W. [How chimpanzees integrate sensory information to select figs](http://rsfs.royalsocietypublishing.org/content/6/3/20160001). *Journal of the Royal Society Interface Focus*, 6, 20160001.        
 
