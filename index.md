@@ -13,7 +13,9 @@ image:
 
 ### School of Natural Sciences @ UC-Merced
 
-> ## ~~News~~   
+> ## ~News~   
+> *04/22/16*: Paper published in *Interface Focus* on integrating sensory information among Chimpanzees! [Check it out here](http://rsfs.royalsocietypublishing.org/content/6/3/20160001)
+> <br>  
 > *Starting 1/1/16*: The **Quantitative EcoDynamics (QED) group** will be opening in the School of Natural Sciences at the University of California, Merced. Join us in the Gateway to Yosemite: Undergraduate and Graduate positions available! [see lab flyer](http://jdyeakel.github.io/pdfs/YeakelLabFlyer.pdf)
 > <br>   
 > *02/08/16*: Paper published in *Frontiers of Ecology and Evolution* on the *isotopic niche*. Find it open access on the [Frontiers website](http://journal.frontiersin.org/article/10.3389/fevo.2016.00001/full). 
