@@ -74,7 +74,8 @@ image:
 *	Lecture 33: [Origin of Birds 2](http://jdyeakel.github.io/slides/dinos/33_Birds_2.pdf)
 *	Lecture 34: [Flying Reptiles](http://jdyeakel.github.io/slides/dinos/34_Flying_Reptiles.pdf)      
 *	Lecture 35: [Swimming Reptiles 1](http://jdyeakel.github.io/slides/dinos/35_Swimming_Reptiles_1.pdf)
-*	lecture 36: [Swimming Reptiles 2](http://jdyeakel.github.io/slides/dinos/36_Swimming_Reptiles_2.pdf)   
+*	Lecture 36: [Swimming Reptiles 2](http://jdyeakel.github.io/slides/dinos/36_Swimming_Reptiles_2.pdf)   
+*	Lecture 37: [Swimming Reptiles 3](http://jdyeakel.github.io/slides/dinos/37_Swimming_Reptiles_3.pdf)
 
 
 
@@ -90,4 +91,6 @@ image:
 *	Section 7 - American Experience   
 *	Section 8 - Jack Horner *Building a Dinosaur*    
 *	Section 9 - Review for Exam 3  
-*	Section 10 - Writing you paper... bring materials!    
+*	Section 10 - Writing you paper... bring materials!   
+*	Section 11 - *Walking with Dinosaurs: Giants of the Skies*
+*	Section 12 - Review for Exam 4 
