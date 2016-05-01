@@ -3,11 +3,9 @@ layout: page
 excerpt: "Quantitative ecology, population dynamics, ecological networks"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: aspens.jpg
+  feature: aspens2.jpg
   credit: jdyeakel
 ---
-
-# Quantitative EcoDynamics Group    
 
 <!-- <span style="font-size:1em;">School of Natural Sciences @ UC-Merced</span> --> 
 
