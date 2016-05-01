@@ -44,11 +44,11 @@ I generally use network-theoretic approaches – combined with empirical measure
 
 <span style="text-align=left;font-size:1.5em;color:#377EB8;">Postdoctoral Researchers</span>   
 <div>
-<p style="float: left;padding-right:25px"><img src="/images/JP-web.jpg" width="100"></p> <b>Jean-Philippe Gibert</b> "I study how phenotypic variation affects the structure and dynamics of complex food webs and how this effect is mediated by environmental factors such as temperature. To do so, I integrate information across systems and taxa and often combine mathematical, computational and empirical tools." <BR> <BR> <BR>
+<p style="float: left;padding-right:25px"><img src="/images/JP-web.jpg" width="100"></p> <b>[Jean-Philippe Gibert](http://jeanpgibert.weebly.com)</b> "I study how phenotypic variation affects the structure and dynamics of complex food webs and how this effect is mediated by environmental factors such as temperature. To do so, I integrate information across systems and taxa and often combine mathematical, computational and empirical tools." <BR> <BR> <BR>
 </div>      
 
 <div>
-<p style="float: left;padding-right:25px"><img src="/images/Jack-web.jpg" width="100"></p> <b>John (Jack) Hopkins III</b> "I primarily conduct empirical field-based research that uses a variety of sampling methods and quantitative approaches to investigate the effects of environmental change on species interactions, wildlife-habitat relationships, and the foraging behavior and nutrition of free-ranging mammals." <BR> <BR>
+<p style="float: left;padding-right:25px"><img src="/images/Jack-web.jpg" width="100"></p> <b>[John (Jack) Hopkins III](http://jackhopkinswildlife.com)</b> "I primarily conduct empirical field-based research that uses a variety of sampling methods and quantitative approaches to investigate the effects of environmental change on species interactions, wildlife-habitat relationships, and the foraging behavior and nutrition of free-ranging mammals." <BR> <BR>
 </div>      
 
 <BR CLEAR="...">
