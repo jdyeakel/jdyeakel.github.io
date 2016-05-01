@@ -72,7 +72,7 @@ I generally use network-theoretic approaches – combined with empirical measure
 
 <span style="text-align=left;font-size:1.5em;color:#377EB8;">Undergraduate Researchers</span>     
 <div>   
-<p style="float: left;padding-right:25px"><img src="/images/person.jpg" width="100"></p>
+<p style="float: left;padding-right:25px"><img src="/images/spock.jpg" width="100"></p>
 <b>Your name here!</b> Seek out new discoveries and new phenomena...<BR> <BR> <BR> <BR> 
 </div>   
 
