@@ -44,7 +44,7 @@ I generally use network-theoretic approaches – combined with empirical measure
 
 <span style="text-align=left;font-size:1.5em;color:#377EB8;">Postdoctoral Researchers</span>   
 <div>
-<p style="float: left;padding-right:25px"><img src="/images/JP-web.jpg" width="100"></p> <b>Jean-Philippe Gibert</b> "I study how phenotypic variation affects the structure and dynamics of complex food webs and how this effect is mediated by environmental factors such as temperature. To do so, I integrate information across systems and taxa and often combine mathematical, computational and empirical tools." <BR> <BR> <BR> <BR> <BR>
+<p style="float: left;padding-right:25px"><img src="/images/JP-web.jpg" width="100"></p> <b>Jean-Philippe Gibert</b> "I study how phenotypic variation affects the structure and dynamics of complex food webs and how this effect is mediated by environmental factors such as temperature. To do so, I integrate information across systems and taxa and often combine mathematical, computational and empirical tools." <BR> <BR>
 </div>      
 
 <BR CLEAR="...">
@@ -54,12 +54,12 @@ I generally use network-theoretic approaches – combined with empirical measure
 <span style="text-align=left;font-size:1.5em;color:#377EB8;">Graduate Researchers</span> 
 <div>
 <p style="float: left;padding-right:25px"><img src="/images/person.jpg" width="100"></p>
-<b>Ritwika VPS</b> "I joined UC Merced as a physics grad student in Fall 2015. I have long been interested in the scope of using physics to solve problems in ecology and evolutionary biology, hence my interest in the Yeakel lab. Currently, I work on an eclectic collection of problems which includes looking at vocalisation in human infants as an acoustic foraging process, studying the dynamics of a population of foragers given a choice of strategies, and looking at the collective motion of phototactic bacteria."  <BR> <BR> <BR> <BR> <BR> <BR>     
+<b>Ritwika VPS</b> "I joined UC Merced as a physics grad student in Fall 2015. I have long been interested in the scope of using physics to solve problems in ecology and evolutionary biology, hence my interest in the Yeakel lab. Currently, I work on an eclectic collection of problems which includes looking at vocalisation in human infants as an acoustic foraging process, studying the dynamics of a population of foragers given a choice of strategies, and looking at the collective motion of phototactic bacteria."  <BR> <BR>     
 </div>     
 
 <div>
 <p style="float: left;padding-right:25px"><img src="/images/Taran-web.jpg" width="100"></p>
-<b>Taran Rallings</b> "I am interested in how we set conservation baselines. I want to use modelling, food web theory, and paleocology to compare modern and historical communities with an eye to  conservation and restoration. This includes questions of how to best restore food webs to early baselines - the usefulness of ecological surrogates and de-extinction, stabilizing reintroduction orders, etc. This information may help us make better decisions about existing projects like Pleistocene Park and help structure future rewilding attempts."  <BR> <BR> <BR> <BR> <BR> <BR>     
+<b>Taran Rallings</b> "I am interested in how we set conservation baselines. I want to use modelling, food web theory, and paleocology to compare modern and historical communities with an eye to  conservation and restoration. This includes questions of how to best restore food webs to early baselines - the usefulness of ecological surrogates and de-extinction, stabilizing reintroduction orders, etc. This information may help us make better decisions about existing projects like Pleistocene Park and help structure future rewilding attempts."  <BR> <BR>     
 </div>     
 
 <BR CLEAR="...">   
