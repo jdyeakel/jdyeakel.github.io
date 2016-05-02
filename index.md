@@ -12,6 +12,8 @@ image:
 ### School of Natural Sciences @ UC-Merced
 
 > ## ~News~   
+> *05/01/16*: **Annual Review of Ecology, Evolution, & Systematics** recently announced our paper titled [Characterizing Species Interactions to Understand Press Perturbations: What Is the Community Matrix?](http://www.annualreviews.org/doi/abs/10.1146/annurev-ecolsys-032416-010215)... to be published in December! 
+> <br>
 > *04/22/16*: Paper published in *Interface Focus* on integrating sensory information among Chimpanzees! [Check it out here](http://rsfs.royalsocietypublishing.org/content/6/3/20160001)
 > <br>  
 > *Starting 1/1/16*: The **Quantitative EcoDynamics (QED) group** will be opening in the School of Natural Sciences at the University of California, Merced. Join us in the Gateway to Yosemite: Undergraduate and Graduate positions available! [see lab flyer](http://jdyeakel.github.io/pdfs/YeakelLabFlyer.pdf)
