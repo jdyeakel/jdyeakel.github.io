@@ -76,7 +76,11 @@ image:
 *	Lecture 35: [Swimming Reptiles 1](http://jdyeakel.github.io/slides/dinos/35_Swimming_Reptiles_1.pdf)
 *	Lecture 36: [Swimming Reptiles 2](http://jdyeakel.github.io/slides/dinos/36_Swimming_Reptiles_2.pdf)   
 *	Lecture 37: [Swimming Reptiles 3](http://jdyeakel.github.io/slides/dinos/37_Swimming_Reptiles_3.pdf)
-
+*	Lecture 38: [Mesozoic World 1](http://jdyeakel.github.io/slides/dinos/38_MesozoicWorld_Crocs_Mammals_1.pdf) **Reading: Chapter 13**
+*	Lecture 39: [Mesozoic World 2](http://jdyeakel.github.io/slides/dinos/39_MesozoicWorld_Crocs_Mammals_2.pdf)
+* 	Lecture 40: [KT Extinction](http://jdyeakel.github.io/slides/dinos/40_KT_Extinction.pdf) **Reading: Chapter 16**
+*	[Study Notes for Lectures 32-40](http://jdyeakel.github.io/teaching/dinos/Notes_4.pdf)
+*	Lecture 41: Review (on Friday)
 
 
 <hr>
