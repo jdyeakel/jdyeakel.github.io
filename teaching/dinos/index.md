@@ -80,7 +80,7 @@ image:
 *	Lecture 39: [Mesozoic World 2](http://jdyeakel.github.io/slides/dinos/39_MesozoicWorld_Crocs_Mammals_2.pdf)
 * 	Lecture 40: [KT Extinction](http://jdyeakel.github.io/slides/dinos/40_KT_Extinction.pdf) **Reading: Chapter 16**
 *	[Study Notes for Lectures 32-40](http://jdyeakel.github.io/teaching/dinos/Notes_4.pdf)
-*	Lecture 41: Review (on Friday)
+*	Lecture 41: [Review](http://jdyeakel.github.io/slides/dinos/41_KT_2_Review.pdf)
 
 
 <hr>
