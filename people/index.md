@@ -57,7 +57,7 @@ I generally use network-theoretic approaches – combined with empirical measure
 
 <span style="text-align=left;font-size:1.5em;color:#377EB8;">Graduate Researchers</span> 
 <div>
-<p style="float: left;padding-right:25px"><img src="/images/person.jpg" width="100"></p>
+<p style="float: left;padding-right:25px"><img src="/images/Ritwika-web.jpg" width="100"></p>
 <b>Ritwika VPS</b> "I joined UC Merced as a physics grad student in Fall 2015. I have long been interested in the scope of using physics to solve problems in ecology and evolutionary biology, hence my interest in the Yeakel lab. Currently, I work on an eclectic collection of problems which includes looking at vocalisation in human infants as an acoustic foraging process, studying the dynamics of a population of foragers given a choice of strategies, and looking at the collective motion of phototactic bacteria."  <BR> <BR>     
 </div>     
 
