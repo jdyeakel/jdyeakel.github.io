@@ -12,6 +12,8 @@ image:
 ### Life & Environmental Sciences @ UC-Merced
 
 > ## ~News~   
+> *08/25/16*: We are excited to welcome [Jean Philippe Gibert](http://jeanpgibert.weebly.com) (McDonnell postdoctoral fellow) and Taran Rallings (Graduate student, QSB) into the lab. Welcome!  
+> <br>   
 > *05/01/16*: **Annual Review of Ecology, Evolution, & Systematics** recently announced our paper titled [Characterizing Species Interactions to Understand Press Perturbations: What Is the Community Matrix?](http://www.annualreviews.org/doi/abs/10.1146/annurev-ecolsys-032416-010215) led by the illustrious [Mark Novak](http://people.oregonstate.edu/~novakm/)... to be published in December! 
 > <br>  
 > *04/25/16*: [Jack Hopkins](http://jackhopkinswildlife.com) officially joins us to work on stable isotopes, shifting niches, and dynamic diets... welcome Jack!
