@@ -38,8 +38,6 @@ Publications
 *In prep**)
 -->
 
-(**In prep*
-:	* <span style="color:#377EB8;">Yeakel J.D.</span>, Redner S. The dynamic effects of starvation on populations. Written for: *Theoretical Ecology*.*)     
 
 2016
 :	* <span style="color:#377EB8;">Yeakel J.D.</span>, Kempes C.P., Redner S. The dynamics of starvation and recovery. In review at *PNAS*.   
