@@ -40,7 +40,7 @@ Publications
 
 
 2016
-:	* <span style="color:#377EB8;">Yeakel J.D.</span>, Kempes C.P., Redner S. The dynamics of starvation and recovery. In review at *PNAS*.   
+:	* <span style="color:#377EB8;">Yeakel J.D.</span>, Kempes C.P., Redner S. The dynamics of starvation and recovery. In review at *PNAS*. [ArXiv version](http://arxiv.org/abs/1608.08995)   
 	
 	* Dominy N.J., <span style="color:#377EB8;">Yeakel J.D.</span>. *Frankenstein* and the horrors of competitive exclusion. *TBD*.   
 	
