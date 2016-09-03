@@ -42,7 +42,7 @@ Publications
 2016
 :	* <span style="color:#377EB8;">Yeakel J.D.</span>, Kempes C.P., Redner S. The dynamics of starvation and recovery. In review at *PNAS*. [ArXiv version](http://arxiv.org/abs/1608.08995)   
 	
-	* Dominy N.J., <span style="color:#377EB8;">Yeakel J.D.</span>. *Frankenstein* and the horrors of competitive exclusion. *TBD*.   
+	* Dominy N.J., <span style="color:#377EB8;">Yeakel J.D.</span>. *Frankenstein* and the horrors of competitive exclusion. *Bioscience*. In press.   
 	
 	* Novak M., <span style="color:#377EB8;">Yeakel J.D.</span>, Noble A.E., Doak D.F., Emmerson M., Estes J.A., Jacob U., Tinker M.T., Wootton J.T. [Characterizing species interactions: What is the community matrix?](http://www.annualreviews.org/doi/abs/10.1146/annurev-ecolsys-032416-010215) *Annual Review of Ecology, Evolution, and Systematics*, 47. **Available in December, 2016**.  
 
