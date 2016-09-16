@@ -78,7 +78,7 @@ I generally use network-theoretic approaches – combined with empirical measure
 
 <span style="text-align=left;font-size:1.5em;color:#377EB8;">Lab Alumni</span>
 <div>
-<p style="float: left;padding-right:25px"><img src="/images/Jack-web.jpg" width="100"></p> <b><a href="http://jackhopkinswildlife.com">John (Jack) Hopkins III</a></b> "I primarily conduct empirical field-based research that uses a variety of sampling methods and quantitative approaches to investigate the effects of environmental change on species interactions, wildlife-habitat relationships, and the foraging behavior and nutrition of free-ranging mammals." <BR> <BR>
+<p style="float: left;padding-right:25px"><img src="/images/Jack-web.jpg" width="100"></p> <b><a href="http://jackhopkinswildlife.com">John (Jack) Hopkins III</a></b> ***Assistant Professor, Unity College ME*** "I primarily conduct empirical field-based research that uses a variety of sampling methods and quantitative approaches to investigate the effects of environmental change on species interactions, wildlife-habitat relationships, and the foraging behavior and nutrition of free-ranging mammals." <BR> <BR>
 </div>      
 
 
