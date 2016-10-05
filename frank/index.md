@@ -11,4 +11,8 @@ image:
 
 ### Frankenstein module test  
 
-<embed src="http://jdyeakel.github.io/frank/FrankensteinCompetition.cdf" width="588" height="380">
+<script type="text/javascript" src="http://www.wolfram.com/cdf-player/plugin/v2.1/cdfplugin.js"></script>
+<script type="text/javascript">
+    var cdf = new cdfplugin();
+    cdf.embed('VoronoiDiagram.cdf', 588, 380);
+</script>
