@@ -11,4 +11,4 @@ image:
 
 ### Frankenstein module test  
 
-<embed src="http://jdyeakel.github.io/frank/FrankensteinCompetition.cdf" width="588" height="380">
+<embed src="http://jdyeakel.github.io/frank/FrankensteinCompetition.cdf" width="650" height="450">

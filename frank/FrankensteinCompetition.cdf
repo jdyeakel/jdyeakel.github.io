@@ -1,32 +1,12 @@
-(* Content-type: application/vnd.wolfram.cdf.text *)
-
-(*** Wolfram CDF File ***)
-(* http://www.wolfram.com/cdf *)
-
-(* CreatedBy='Mathematica 10.0' *)
-
-(*************************************************************************)
-(*                                                                       *)
-(*  The Mathematica License under which this file was created prohibits  *)
-(*  restricting third parties in receipt of this file from republishing  *)
-(*  or redistributing it by any means, including but not limited to      *)
-(*  rights management or terms of use, without the express consent of    *)
-(*  Wolfram Research, Inc. For additional information concerning CDF     *)
-(*  licensing and redistribution see:                                    *)
-(*                                                                       *)
-(*        www.wolfram.com/cdf/adopting-cdf/licensing-options.html        *)
-(*                                                                       *)
-(*************************************************************************)
-
 (*CacheID: 234*)
 (* Internal cache information:
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
-NotebookDataPosition[      1064,         20]
-NotebookDataLength[     24043,        574]
-NotebookOptionsPosition[     24592,        569]
-NotebookOutlinePosition[     24954,        585]
-CellTagsIndexPosition[     24911,        582]
+NotebookDataPosition[         0,          0]
+NotebookDataLength[     24042,        574]
+NotebookOptionsPosition[     23528,        549]
+NotebookOutlinePosition[     23890,        565]
+CellTagsIndexPosition[     23847,        562]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -585,14 +565,11 @@ CellTagsIndex->{}
 (*NotebookFileOutline
 Notebook[{
 Cell[CellGroupData[{
-Cell[1486, 35, 14665, 347, 19, "Input",
+Cell[422, 15, 14665, 347, 19, "Input",
  CellOpen->False],
-Cell[16154, 384, 8422, 182, 504, "Output"]
+Cell[15090, 364, 8422, 182, 504, "Output"]
 }, Open  ]]
 }
 ]
 *)
 
-(* End of internal cache information *)
-
-(* NotebookSignature Avpx8UubuaZ2XCwJtz7KmiRa *)
