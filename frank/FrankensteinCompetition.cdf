@@ -23,281 +23,279 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[      1064,         20]
-NotebookDataLength[     20708,        505]
-NotebookOptionsPosition[     21257,        500]
-NotebookOutlinePosition[     21619,        516]
-CellTagsIndexPosition[     21576,        513]
+NotebookDataLength[     24043,        574]
+NotebookOptionsPosition[     24592,        569]
+NotebookOutlinePosition[     24954,        585]
+CellTagsIndexPosition[     24911,        582]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
 Notebook[{
 
 Cell[CellGroupData[{
-Cell[BoxData[{
- RowBox[{
-  RowBox[{"Off", "[", 
-   RowBox[{"InterpolatingFunction", "::", "dmval"}], "]"}], 
-  ";"}], "\[IndentingNewLine]", 
- RowBox[{
-  RowBox[{
-   RowBox[{"CompDynStart", "[", 
-    RowBox[{
-    "rh_", ",", "rm_", ",", "ahm_", ",", "c_", ",", "k1_", ",", 
-     "InitialHPower_", ",", "T_"}], "]"}], " ", ":=", "\[IndentingNewLine]", 
-   "\[IndentingNewLine]", 
-   RowBox[{"NDSolve", "[", 
-    RowBox[{
-     RowBox[{"{", "\[IndentingNewLine]", 
-      RowBox[{
-       RowBox[{
-        RowBox[{
-         RowBox[{"H", "'"}], "[", "t", "]"}], " ", "\[Equal]", 
-        RowBox[{"rh", "*", 
-         RowBox[{"H", "[", "t", "]"}], "*", 
-         RowBox[{"(", 
-          RowBox[{"1", "-", 
-           FractionBox[
-            RowBox[{
-             RowBox[{"H", "[", "t", "]"}], "+", 
-             RowBox[{"ahm", "*", 
-              RowBox[{"M", "[", "t", "]"}]}]}], "k1"]}], ")"}]}]}], ",", 
-       "\[IndentingNewLine]", 
-       RowBox[{
-        RowBox[{
-         RowBox[{"M", "'"}], "[", "t", "]"}], " ", "\[Equal]", 
-        RowBox[{"rm", "*", 
-         RowBox[{"M", "[", "t", "]"}], "*", 
-         RowBox[{"(", 
-          RowBox[{"1", "-", 
-           FractionBox[
-            RowBox[{
-             RowBox[{"M", "[", "t", "]"}], "+", 
-             RowBox[{
-              RowBox[{"(", 
-               FractionBox["ahm", "c"], ")"}], "*", 
-              RowBox[{"H", "[", "t", "]"}]}]}], "k1"]}], ")"}]}]}], ",", 
-       "\[IndentingNewLine]", 
-       RowBox[{
-        RowBox[{"H", "[", "0", "]"}], "\[Equal]", 
-        RowBox[{"10", "^", "InitialHPower"}]}], ",", 
-       RowBox[{
-        RowBox[{"M", "[", "0", "]"}], "\[Equal]", "2"}], ",", 
-       "\[IndentingNewLine]", 
-       RowBox[{"WhenEvent", "[", "\[IndentingNewLine]", 
-        RowBox[{
-         RowBox[{
-          RowBox[{"M", "[", "t", "]"}], "\[Equal]", 
-          RowBox[{"0.9", "*", 
-           RowBox[{"(", "k1", ")"}]}]}], ",", "\[IndentingNewLine]", 
-         RowBox[{
-          RowBox[{"end", "=", "t"}], ";", "\[IndentingNewLine]", 
-          RowBox[{"Hend", " ", "=", " ", 
-           RowBox[{"H", "[", "t", "]"}]}], ";", "\[IndentingNewLine]", 
-          RowBox[{"Mend", " ", "=", " ", 
-           RowBox[{"M", "[", "t", "]"}]}], ";", "\[IndentingNewLine]", 
-          "\"\<StopIntegration\>\""}]}], "\[IndentingNewLine]", "]"}]}], 
-      "\[IndentingNewLine]", "}"}], ",", 
-     RowBox[{"{", 
-      RowBox[{"H", ",", "M"}], "}"}], ",", 
-     RowBox[{"{", 
-      RowBox[{"t", ",", "0", ",", "T"}], "}"}], ",", 
-     RowBox[{"MaxSteps", "\[Rule]", "Infinity"}], ",", 
-     RowBox[{"InterpolationOrder", "\[Rule]", "All"}]}], "]"}]}], 
-  ";"}], "\[IndentingNewLine]", 
- RowBox[{
-  RowBox[{
-   RowBox[{"CompDynEnd", "[", 
-    RowBox[{
-    "rh_", ",", "rm_", ",", "ahm_", ",", "c_", ",", "k2_", ",", "T_", ",", 
-     "Mstart_", ",", "Tstart_"}], "]"}], " ", ":=", "\[IndentingNewLine]", 
-   "\[IndentingNewLine]", 
-   RowBox[{"NDSolve", "[", 
-    RowBox[{
-     RowBox[{"{", "\[IndentingNewLine]", 
-      RowBox[{
-       RowBox[{
-        RowBox[{
-         RowBox[{"H", "'"}], "[", "t", "]"}], " ", "\[Equal]", 
-        RowBox[{"rh", "*", 
-         RowBox[{"H", "[", "t", "]"}], "*", 
-         RowBox[{"(", 
-          RowBox[{"1", "-", 
-           FractionBox[
-            RowBox[{
-             RowBox[{"H", "[", "t", "]"}], "+", 
-             RowBox[{"ahm", "*", 
-              RowBox[{"M", "[", "t", "]"}]}]}], "k2"]}], ")"}]}]}], ",", 
-       "\[IndentingNewLine]", 
-       RowBox[{
-        RowBox[{
-         RowBox[{"M", "'"}], "[", "t", "]"}], " ", "\[Equal]", 
-        RowBox[{"rm", "*", 
-         RowBox[{"M", "[", "t", "]"}], "*", 
-         RowBox[{"(", 
-          RowBox[{"1", "-", 
-           FractionBox[
-            RowBox[{
-             RowBox[{"M", "[", "t", "]"}], "+", 
-             RowBox[{
-              RowBox[{"(", 
-               FractionBox["ahm", "c"], ")"}], "*", 
-              RowBox[{"H", "[", "t", "]"}]}]}], "k2"]}], ")"}]}]}], ",", 
-       "\[IndentingNewLine]", 
-       RowBox[{
-        RowBox[{"H", "[", "Tstart", "]"}], "\[Equal]", 
-        RowBox[{"10", "*", 
-         RowBox[{"10", "^", "9"}]}]}], ",", 
-       RowBox[{
-        RowBox[{"M", "[", "Tstart", "]"}], "\[Equal]", "Mstart"}]}], 
-      "\[IndentingNewLine]", "}"}], ",", 
-     RowBox[{"{", 
-      RowBox[{"H", ",", "M"}], "}"}], ",", 
-     RowBox[{"{", 
-      RowBox[{"t", ",", "Tstart", ",", "T"}], "}"}], ",", 
-     RowBox[{"MaxSteps", "\[Rule]", "Infinity"}], ",", 
-     RowBox[{"InterpolationOrder", "\[Rule]", "All"}]}], "]"}]}], 
-  ";"}], "\[IndentingNewLine]", 
+Cell[BoxData[
  RowBox[{"Manipulate", "[", "\[IndentingNewLine]", 
   RowBox[{
-   RowBox[{"With", "[", 
+   RowBox[{
+    RowBox[{"Off", "[", 
+     RowBox[{"InterpolatingFunction", "::", "dmval"}], "]"}], ";", 
+    "\[IndentingNewLine]", 
     RowBox[{
-     RowBox[{"{", 
+     RowBox[{"CompDynStart", "[", 
       RowBox[{
-       RowBox[{"rh", "=", "0.0067"}], ",", 
-       RowBox[{"rm", "=", 
-        RowBox[{"0.0067", "*", "1.5"}]}], ",", 
-       RowBox[{"ahm", "=", "8"}], ",", 
-       RowBox[{"c", "=", "10"}], ",", 
-       RowBox[{"InitialHPower", "=", "IH"}], ",", 
-       RowBox[{"k1", "=", "K1"}], ",", 
-       RowBox[{"k2", "=", 
-        RowBox[{"10", "*", 
-         RowBox[{"10", "^", "9"}]}]}], ",", 
-       RowBox[{"T", "=", 
-        RowBox[{"10", "^", "4"}]}], ",", 
-       RowBox[{"Mstart", "=", "Mend"}], ",", 
-       RowBox[{"Tstart", "=", "end"}]}], "}"}], ",", "\[IndentingNewLine]", 
-     RowBox[{
-      RowBox[{"Quiet", "[", 
-       RowBox[{"Traj1", "=", 
-        RowBox[{"Evaluate", "[", 
-         RowBox[{
-          RowBox[{"{", 
-           RowBox[{
-            RowBox[{"H", "[", "t", "]"}], ",", 
-            RowBox[{"M", "[", "t", "]"}]}], "}"}], "/.", 
-          RowBox[{"CompDynStart", "[", 
-           RowBox[{
-           "rh", ",", "rm", ",", "ahm", ",", "c", ",", "k1", ",", 
-            "InitialHPower", ",", "T"}], "]"}]}], " ", "]"}]}], "]"}], ";", 
+      "rh_", ",", "rm_", ",", "ahm_", ",", "c_", ",", "k1_", ",", 
+       "InitialHPower_", ",", "T_"}], "]"}], " ", ":=", "\[IndentingNewLine]",
       "\[IndentingNewLine]", 
-      RowBox[{"Quiet", "[", 
-       RowBox[{"Traj2", "=", 
-        RowBox[{"Evaluate", "[", 
-         RowBox[{
-          RowBox[{"{", 
-           RowBox[{
-            RowBox[{"H", "[", "t", "]"}], ",", 
-            RowBox[{"M", "[", "t", "]"}]}], "}"}], "/.", 
-          RowBox[{"CompDynEnd", "[", 
-           RowBox[{
-           "rh", ",", "rm", ",", "ahm", ",", "c", ",", "k2", ",", "T", ",", 
-            "Mstart", ",", "Tstart"}], "]"}]}], " ", "]"}]}], "]"}], ";", 
-      "\[IndentingNewLine]", 
-      RowBox[{"Show", "[", 
+     RowBox[{"NDSolve", "[", 
+      RowBox[{
        RowBox[{"{", "\[IndentingNewLine]", 
         RowBox[{
-         RowBox[{"LogPlot", "[", 
-          RowBox[{"Traj1", ",", 
-           RowBox[{"{", 
-            RowBox[{"t", ",", "0", ",", "end"}], "}"}], ",", 
-           RowBox[{"PlotRange", "\[Rule]", 
-            RowBox[{"{", 
-             RowBox[{
-              RowBox[{"{", 
-               RowBox[{"0", ",", "T"}], "}"}], ",", 
-              RowBox[{"{", 
-               RowBox[{"1", ",", 
-                RowBox[{"10", "*", 
-                 RowBox[{"10", "^", "12"}]}]}], "}"}]}], "}"}]}], ",", 
-           RowBox[{"AspectRatio", "\[Rule]", "1"}], ",", 
-           RowBox[{"Frame", "\[Rule]", "True"}], ",", 
-           RowBox[{"FrameLabel", "\[Rule]", 
-            RowBox[{"{", 
-             RowBox[{
-             "\"\<Years after 1816\>\"", ",", "\"\<Population size\>\""}], 
-             "}"}]}], ",", 
-           RowBox[{"PlotStyle", "\[Rule]", 
-            RowBox[{"{", 
-             RowBox[{
-              RowBox[{"ColorData", "[", 
-               RowBox[{"97", ",", "1"}], "]"}], ",", 
-              RowBox[{"ColorData", "[", 
-               RowBox[{"97", ",", "3"}], "]"}]}], "}"}]}], ",", 
-           RowBox[{"PlotLegends", "\[Rule]", 
-            RowBox[{"LineLegend", "[", 
-             RowBox[{"{", 
-              RowBox[{"\"\<Humans\>\"", ",", "\"\<Creatures\>\""}], "}"}], 
-             "]"}]}]}], "]"}], ",", "\[IndentingNewLine]", 
-         RowBox[{"LogPlot", "[", 
-          RowBox[{"Traj2", ",", 
-           RowBox[{"{", 
-            RowBox[{"t", ",", "end", ",", "T"}], "}"}], ",", 
-           RowBox[{"PlotRange", "\[Rule]", 
-            RowBox[{"{", 
-             RowBox[{"1", ",", "All"}], "}"}]}], ",", 
-           RowBox[{"PlotStyle", "\[Rule]", 
-            RowBox[{"{", 
-             RowBox[{
-              RowBox[{"ColorData", "[", 
-               RowBox[{"97", ",", "1"}], "]"}], ",", 
-              RowBox[{"ColorData", "[", 
-               RowBox[{"97", ",", "3"}], "]"}]}], "}"}]}]}], "]"}], ",", 
+         RowBox[{
+          RowBox[{
+           RowBox[{"H", "'"}], "[", "t", "]"}], " ", "\[Equal]", 
+          RowBox[{"rh", "*", 
+           RowBox[{"H", "[", "t", "]"}], "*", 
+           RowBox[{"(", 
+            RowBox[{"1", "-", 
+             FractionBox[
+              RowBox[{
+               RowBox[{"H", "[", "t", "]"}], "+", 
+               RowBox[{"ahm", "*", 
+                RowBox[{"M", "[", "t", "]"}]}]}], "k1"]}], ")"}]}]}], ",", 
          "\[IndentingNewLine]", 
-         RowBox[{"Graphics", "[", 
-          RowBox[{"{", 
+         RowBox[{
+          RowBox[{
+           RowBox[{"M", "'"}], "[", "t", "]"}], " ", "\[Equal]", 
+          RowBox[{"rm", "*", 
+           RowBox[{"M", "[", "t", "]"}], "*", 
+           RowBox[{"(", 
+            RowBox[{"1", "-", 
+             FractionBox[
+              RowBox[{
+               RowBox[{"M", "[", "t", "]"}], "+", 
+               RowBox[{
+                RowBox[{"(", 
+                 FractionBox["ahm", "c"], ")"}], "*", 
+                RowBox[{"H", "[", "t", "]"}]}]}], "k1"]}], ")"}]}]}], ",", 
+         "\[IndentingNewLine]", 
+         RowBox[{
+          RowBox[{"H", "[", "0", "]"}], "\[Equal]", 
+          RowBox[{"10", "^", "InitialHPower"}]}], ",", 
+         RowBox[{
+          RowBox[{"M", "[", "0", "]"}], "\[Equal]", "2"}], ",", 
+         "\[IndentingNewLine]", 
+         RowBox[{"WhenEvent", "[", "\[IndentingNewLine]", 
+          RowBox[{
            RowBox[{
-            RowBox[{"ColorData", "[", 
-             RowBox[{"97", ",", "1"}], "]"}], ",", "Dashed", ",", 
-            RowBox[{"Thickness", "[", "0.005", "]"}], ",", 
-            RowBox[{"Line", "[", 
+            RowBox[{"M", "[", "t", "]"}], "\[Equal]", 
+            RowBox[{"0.9", "*", 
+             RowBox[{"(", "k1", ")"}]}]}], ",", "\[IndentingNewLine]", 
+           RowBox[{
+            RowBox[{"end", "=", "t"}], ";", "\[IndentingNewLine]", 
+            RowBox[{"Hend", " ", "=", " ", 
+             RowBox[{"H", "[", "t", "]"}]}], ";", "\[IndentingNewLine]", 
+            RowBox[{"Mend", " ", "=", " ", 
+             RowBox[{"M", "[", "t", "]"}]}], ";", "\[IndentingNewLine]", 
+            "\"\<StopIntegration\>\""}]}], "\[IndentingNewLine]", "]"}]}], 
+        "\[IndentingNewLine]", "}"}], ",", 
+       RowBox[{"{", 
+        RowBox[{"H", ",", "M"}], "}"}], ",", 
+       RowBox[{"{", 
+        RowBox[{"t", ",", "0", ",", "T"}], "}"}], ",", 
+       RowBox[{"MaxSteps", "\[Rule]", "Infinity"}], ",", 
+       RowBox[{"InterpolationOrder", "\[Rule]", "All"}]}], "]"}]}], ";", 
+    "\[IndentingNewLine]", 
+    RowBox[{
+     RowBox[{"CompDynEnd", "[", 
+      RowBox[{
+      "rh_", ",", "rm_", ",", "ahm_", ",", "c_", ",", "k2_", ",", "T_", ",", 
+       "Mstart_", ",", "Tstart_"}], "]"}], " ", ":=", "\[IndentingNewLine]", 
+     "\[IndentingNewLine]", 
+     RowBox[{"NDSolve", "[", 
+      RowBox[{
+       RowBox[{"{", "\[IndentingNewLine]", 
+        RowBox[{
+         RowBox[{
+          RowBox[{
+           RowBox[{"H", "'"}], "[", "t", "]"}], " ", "\[Equal]", 
+          RowBox[{"rh", "*", 
+           RowBox[{"H", "[", "t", "]"}], "*", 
+           RowBox[{"(", 
+            RowBox[{"1", "-", 
+             FractionBox[
+              RowBox[{
+               RowBox[{"H", "[", "t", "]"}], "+", 
+               RowBox[{"ahm", "*", 
+                RowBox[{"M", "[", "t", "]"}]}]}], "k2"]}], ")"}]}]}], ",", 
+         "\[IndentingNewLine]", 
+         RowBox[{
+          RowBox[{
+           RowBox[{"M", "'"}], "[", "t", "]"}], " ", "\[Equal]", 
+          RowBox[{"rm", "*", 
+           RowBox[{"M", "[", "t", "]"}], "*", 
+           RowBox[{"(", 
+            RowBox[{"1", "-", 
+             FractionBox[
+              RowBox[{
+               RowBox[{"M", "[", "t", "]"}], "+", 
+               RowBox[{
+                RowBox[{"(", 
+                 FractionBox["ahm", "c"], ")"}], "*", 
+                RowBox[{"H", "[", "t", "]"}]}]}], "k2"]}], ")"}]}]}], ",", 
+         "\[IndentingNewLine]", 
+         RowBox[{
+          RowBox[{"H", "[", "Tstart", "]"}], "\[Equal]", 
+          RowBox[{"10", "*", 
+           RowBox[{"10", "^", "9"}]}]}], ",", 
+         RowBox[{
+          RowBox[{"M", "[", "Tstart", "]"}], "\[Equal]", "Mstart"}]}], 
+        "\[IndentingNewLine]", "}"}], ",", 
+       RowBox[{"{", 
+        RowBox[{"H", ",", "M"}], "}"}], ",", 
+       RowBox[{"{", 
+        RowBox[{"t", ",", "Tstart", ",", "T"}], "}"}], ",", 
+       RowBox[{"MaxSteps", "\[Rule]", "Infinity"}], ",", 
+       RowBox[{"InterpolationOrder", "\[Rule]", "All"}]}], "]"}]}], ";", 
+    "\[IndentingNewLine]", "\[IndentingNewLine]", 
+    RowBox[{"With", "[", 
+     RowBox[{
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{"rh", "=", "0.0067"}], ",", 
+        RowBox[{"rm", "=", 
+         RowBox[{"0.0067", "*", "1.5"}]}], ",", 
+        RowBox[{"ahm", "=", "8"}], ",", 
+        RowBox[{"c", "=", "10"}], ",", 
+        RowBox[{"InitialHPower", "=", "IH"}], ",", 
+        RowBox[{"k1", "=", "K1"}], ",", 
+        RowBox[{"k2", "=", 
+         RowBox[{"10", "*", 
+          RowBox[{"10", "^", "9"}]}]}], ",", 
+        RowBox[{"T", "=", 
+         RowBox[{"10", "^", "4"}]}], ",", 
+        RowBox[{"Mstart", "=", "Mend"}], ",", 
+        RowBox[{"Tstart", "=", "end"}]}], "}"}], ",", "\[IndentingNewLine]", 
+      RowBox[{
+       RowBox[{"Quiet", "[", 
+        RowBox[{"Traj1", "=", 
+         RowBox[{"Evaluate", "[", 
+          RowBox[{
+           RowBox[{"{", 
+            RowBox[{
+             RowBox[{"H", "[", "t", "]"}], ",", 
+             RowBox[{"M", "[", "t", "]"}]}], "}"}], "/.", 
+           RowBox[{"CompDynStart", "[", 
+            RowBox[{
+            "rh", ",", "rm", ",", "ahm", ",", "c", ",", "k1", ",", 
+             "InitialHPower", ",", "T"}], "]"}]}], " ", "]"}]}], "]"}], ";", 
+       "\[IndentingNewLine]", 
+       RowBox[{"Quiet", "[", 
+        RowBox[{"Traj2", "=", 
+         RowBox[{"Evaluate", "[", 
+          RowBox[{
+           RowBox[{"{", 
+            RowBox[{
+             RowBox[{"H", "[", "t", "]"}], ",", 
+             RowBox[{"M", "[", "t", "]"}]}], "}"}], "/.", 
+           RowBox[{"CompDynEnd", "[", 
+            RowBox[{
+            "rh", ",", "rm", ",", "ahm", ",", "c", ",", "k2", ",", "T", ",", 
+             "Mstart", ",", "Tstart"}], "]"}]}], " ", "]"}]}], "]"}], ";", 
+       "\[IndentingNewLine]", 
+       RowBox[{"Show", "[", 
+        RowBox[{"{", "\[IndentingNewLine]", 
+         RowBox[{
+          RowBox[{"LogPlot", "[", 
+           RowBox[{"Traj1", ",", 
+            RowBox[{"{", 
+             RowBox[{"t", ",", "0", ",", "end"}], "}"}], ",", 
+            RowBox[{"PlotRange", "\[Rule]", 
              RowBox[{"{", 
               RowBox[{
                RowBox[{"{", 
-                RowBox[{"end", ",", 
-                 RowBox[{"Log", "@", "Hend"}]}], "}"}], ",", 
+                RowBox[{"0", ",", "T"}], "}"}], ",", 
                RowBox[{"{", 
-                RowBox[{"end", ",", 
-                 RowBox[{"Log", "@", 
-                  RowBox[{"(", 
-                   RowBox[{"10", "*", 
-                    RowBox[{"10", "^", "9"}]}], ")"}]}]}], "}"}]}], "}"}], 
-             "]"}]}], "}"}], "]"}], ",", "\[IndentingNewLine]", 
-         RowBox[{"Graphics", "[", 
-          RowBox[{"Text", "[", 
-           RowBox[{"\"\<Global Comp.\>\"", ",", 
+                RowBox[{"1", ",", 
+                 RowBox[{"10", "*", 
+                  RowBox[{"10", "^", "12"}]}]}], "}"}]}], "}"}]}], ",", 
+            RowBox[{"AspectRatio", "\[Rule]", "1"}], ",", 
+            RowBox[{"Frame", "\[Rule]", "True"}], ",", 
+            RowBox[{"FrameLabel", "\[Rule]", 
+             RowBox[{"{", 
+              RowBox[{
+              "\"\<Years after 1816\>\"", ",", "\"\<Population size\>\""}], 
+              "}"}]}], ",", 
+            RowBox[{"PlotStyle", "\[Rule]", 
+             RowBox[{"{", 
+              RowBox[{
+               RowBox[{"ColorData", "[", 
+                RowBox[{"97", ",", "1"}], "]"}], ",", 
+               RowBox[{"ColorData", "[", 
+                RowBox[{"97", ",", "3"}], "]"}]}], "}"}]}], ",", 
+            RowBox[{"PlotLegends", "\[Rule]", 
+             RowBox[{"LineLegend", "[", 
+              RowBox[{"{", 
+               RowBox[{"\"\<Humans\>\"", ",", "\"\<Creatures\>\""}], "}"}], 
+              "]"}]}]}], "]"}], ",", "\[IndentingNewLine]", 
+          RowBox[{"LogPlot", "[", 
+           RowBox[{"Traj2", ",", 
             RowBox[{"{", 
-             RowBox[{"end", ",", 
-              RowBox[{"Log", "@", 
-               RowBox[{"(", 
-                RowBox[{"10", "^", "11"}], ")"}]}]}], "}"}]}], "]"}], "]"}], 
-         ",", "\[IndentingNewLine]", 
-         RowBox[{"Graphics", "[", 
-          RowBox[{"Arrow", "[", 
+             RowBox[{"t", ",", "end", ",", "T"}], "}"}], ",", 
+            RowBox[{"PlotRange", "\[Rule]", 
+             RowBox[{"{", 
+              RowBox[{"1", ",", "All"}], "}"}]}], ",", 
+            RowBox[{"PlotStyle", "\[Rule]", 
+             RowBox[{"{", 
+              RowBox[{
+               RowBox[{"ColorData", "[", 
+                RowBox[{"97", ",", "1"}], "]"}], ",", 
+               RowBox[{"ColorData", "[", 
+                RowBox[{"97", ",", "3"}], "]"}]}], "}"}]}]}], "]"}], ",", 
+          "\[IndentingNewLine]", 
+          RowBox[{"Graphics", "[", 
            RowBox[{"{", 
             RowBox[{
+             RowBox[{"ColorData", "[", 
+              RowBox[{"97", ",", "1"}], "]"}], ",", "Dashed", ",", 
+             RowBox[{"Thickness", "[", "0.005", "]"}], ",", 
+             RowBox[{"Line", "[", 
+              RowBox[{"{", 
+               RowBox[{
+                RowBox[{"{", 
+                 RowBox[{"end", ",", 
+                  RowBox[{"Log", "@", "Hend"}]}], "}"}], ",", 
+                RowBox[{"{", 
+                 RowBox[{"end", ",", 
+                  RowBox[{"Log", "@", 
+                   RowBox[{"(", 
+                    RowBox[{"10", "*", 
+                    RowBox[{"10", "^", "9"}]}], ")"}]}]}], "}"}]}], "}"}], 
+              "]"}]}], "}"}], "]"}], ",", "\[IndentingNewLine]", 
+          RowBox[{"Graphics", "[", 
+           RowBox[{"Text", "[", 
+            RowBox[{"\"\<Global Comp.\>\"", ",", 
              RowBox[{"{", 
               RowBox[{"end", ",", 
                RowBox[{"Log", "@", 
                 RowBox[{"(", 
-                 RowBox[{"10", "^", "10.9"}], ")"}]}]}], "}"}], ",", 
-             RowBox[{"{", 
-              RowBox[{"end", ",", 
-               RowBox[{"Log", "@", 
-                RowBox[{"(", 
-                 RowBox[{"10", "^", "10.1"}], ")"}]}]}], "}"}]}], "}"}], 
-           "]"}], "]"}]}], "\[IndentingNewLine]", "}"}], "]"}]}]}], 
-    "\[IndentingNewLine]", "]"}], ",", 
+                 RowBox[{"10", "^", "11"}], ")"}]}]}], "}"}]}], "]"}], "]"}], 
+          ",", "\[IndentingNewLine]", 
+          RowBox[{"Graphics", "[", 
+           RowBox[{"Arrow", "[", 
+            RowBox[{"{", 
+             RowBox[{
+              RowBox[{"{", 
+               RowBox[{"end", ",", 
+                RowBox[{"Log", "@", 
+                 RowBox[{"(", 
+                  RowBox[{"10", "^", "10.9"}], ")"}]}]}], "}"}], ",", 
+              RowBox[{"{", 
+               RowBox[{"end", ",", 
+                RowBox[{"Log", "@", 
+                 RowBox[{"(", 
+                  RowBox[{"10", "^", "10.1"}], ")"}]}]}], "}"}]}], "}"}], 
+            "]"}], "]"}]}], "\[IndentingNewLine]", "}"}], "]"}]}]}], 
+     "\[IndentingNewLine]", "]"}]}], ",", 
    RowBox[{"{", 
     RowBox[{
      RowBox[{"{", 
@@ -356,7 +354,7 @@ Cell[BoxData[{
     RowBox[{
      RowBox[{"{", 
       RowBox[{"bookMark", ",", "\"\<Europe\>\""}], "}"}], ",", "None"}], 
-    "}"}]}], "\[IndentingNewLine]", "]"}]}], "Input",
+    "}"}]}], "\[IndentingNewLine]", "]"}]], "Input",
  CellOpen->False,
  CellChangeTimes->{{3.684596333696332*^9, 3.684596345204221*^9}, {
    3.684596383117826*^9, 3.684596415427936*^9}, {3.6845965216867447`*^9, 
@@ -381,13 +379,14 @@ Cell[BoxData[{
    3.684673589375586*^9, 3.684673644763959*^9}, {3.684673717884748*^9, 
    3.6846737651060343`*^9}, {3.684673816221916*^9, 3.684673889977099*^9}, {
    3.684674362920289*^9, 3.684674371152234*^9}, {3.684674877909853*^9, 
-   3.684674971217514*^9}, {3.6846754330704203`*^9, 3.68467544183438*^9}}],
+   3.684674971217514*^9}, {3.6846754330704203`*^9, 3.68467544183438*^9}, {
+   3.6846801256906557`*^9, 3.6846801284030333`*^9}}],
 
 Cell[BoxData[
  TagBox[
   StyleBox[
    DynamicModuleBox[{$CellContext`bookMark$$ = "Europe", $CellContext`IH$$ = 
-    3.68, $CellContext`K1$$ = 4.41*^8, Typeset`show$$ = True, 
+    8.8, $CellContext`K1$$ = 1.95*^8, Typeset`show$$ = True, 
     Typeset`bookmarkList$$ = {}, Typeset`bookmarkMode$$ = "Menu", 
     Typeset`animator$$, Typeset`animvar$$ = 1, Typeset`name$$ = 
     "\"untitled\"", Typeset`specs$$ = {{{
@@ -409,64 +408,134 @@ Cell[BoxData[
       Manipulate`Dump`ThisIsNotAControl}, {{
        Hold[$CellContext`bookMark$$], "Europe"}, 0}}, Typeset`size$$ = {
     463., {170., 175.}}, Typeset`update$$ = 0, Typeset`initDone$$, 
-    Typeset`skipInitDone$$ = True, $CellContext`K1$12705$$ = 
-    0, $CellContext`IH$12706$$ = 0}, 
+    Typeset`skipInitDone$$ = True, $CellContext`K1$59759$$ = 
+    0, $CellContext`IH$59760$$ = 0}, 
     DynamicBox[Manipulate`ManipulateBoxes[
      1, StandardForm, 
       "Variables" :> {$CellContext`bookMark$$ = "Europe", $CellContext`IH$$ = 
         8.8, $CellContext`K1$$ = 600000000}, "ControllerVariables" :> {
-        Hold[$CellContext`K1$$, $CellContext`K1$12705$$, 0], 
-        Hold[$CellContext`IH$$, $CellContext`IH$12706$$, 0]}, 
+        Hold[$CellContext`K1$$, $CellContext`K1$59759$$, 0], 
+        Hold[$CellContext`IH$$, $CellContext`IH$59760$$, 0]}, 
       "OtherVariables" :> {
        Typeset`show$$, Typeset`bookmarkList$$, Typeset`bookmarkMode$$, 
         Typeset`animator$$, Typeset`animvar$$, Typeset`name$$, 
         Typeset`specs$$, Typeset`size$$, Typeset`update$$, Typeset`initDone$$,
-         Typeset`skipInitDone$$}, "Body" :> 
-      With[{$CellContext`rh = 0.0067, $CellContext`rm = 
-         0.0067 1.5, $CellContext`ahm = 8, $CellContext`c = 
-         10, $CellContext`InitialHPower = $CellContext`IH$$, $CellContext`k1 = \
+         Typeset`skipInitDone$$}, "Body" :> (Off[
+         MessageName[
+         InterpolatingFunction, "dmval"]]; $CellContext`CompDynStart[
+          Pattern[$CellContext`rh, 
+           Blank[]], 
+          Pattern[$CellContext`rm, 
+           Blank[]], 
+          Pattern[$CellContext`ahm, 
+           Blank[]], 
+          Pattern[$CellContext`c, 
+           Blank[]], 
+          Pattern[$CellContext`k1, 
+           Blank[]], 
+          Pattern[$CellContext`InitialHPower, 
+           Blank[]], 
+          Pattern[$CellContext`T, 
+           Blank[]]] := 
+        NDSolve[{
+          Derivative[
+            1][$CellContext`H][$CellContext`t] == $CellContext`rh \
+$CellContext`H[$CellContext`t] (
+             1 - ($CellContext`H[$CellContext`t] + $CellContext`ahm \
+$CellContext`M[$CellContext`t])/$CellContext`k1), 
+           Derivative[
+            1][$CellContext`M][$CellContext`t] == $CellContext`rm \
+$CellContext`M[$CellContext`t] (
+             1 - ($CellContext`M[$CellContext`t] + \
+($CellContext`ahm/$CellContext`c) \
+$CellContext`H[$CellContext`t])/$CellContext`k1), $CellContext`H[0] == 
+           10^$CellContext`InitialHPower, $CellContext`M[0] == 2, 
+           
+           WhenEvent[$CellContext`M[$CellContext`t] == 
+            0.9 $CellContext`k1, $CellContext`end = $CellContext`t; \
+$CellContext`Hend = $CellContext`H[$CellContext`t]; $CellContext`Mend = \
+$CellContext`M[$CellContext`t]; 
+            "StopIntegration"]}, {$CellContext`H, $CellContext`M}, \
+{$CellContext`t, 0, $CellContext`T}, MaxSteps -> Infinity, InterpolationOrder -> 
+          All]; $CellContext`CompDynEnd[
+          Pattern[$CellContext`rh, 
+           Blank[]], 
+          Pattern[$CellContext`rm, 
+           Blank[]], 
+          Pattern[$CellContext`ahm, 
+           Blank[]], 
+          Pattern[$CellContext`c, 
+           Blank[]], 
+          Pattern[$CellContext`k2, 
+           Blank[]], 
+          Pattern[$CellContext`T, 
+           Blank[]], 
+          Pattern[$CellContext`Mstart, 
+           Blank[]], 
+          Pattern[$CellContext`Tstart, 
+           Blank[]]] := 
+        NDSolve[{
+          Derivative[
+            1][$CellContext`H][$CellContext`t] == $CellContext`rh \
+$CellContext`H[$CellContext`t] (
+             1 - ($CellContext`H[$CellContext`t] + $CellContext`ahm \
+$CellContext`M[$CellContext`t])/$CellContext`k2), 
+           Derivative[
+            1][$CellContext`M][$CellContext`t] == $CellContext`rm \
+$CellContext`M[$CellContext`t] (
+             1 - ($CellContext`M[$CellContext`t] + \
+($CellContext`ahm/$CellContext`c) \
+$CellContext`H[$CellContext`t])/$CellContext`k2), \
+$CellContext`H[$CellContext`Tstart] == 
+           10 10^9, $CellContext`M[$CellContext`Tstart] == \
+$CellContext`Mstart}, {$CellContext`H, $CellContext`M}, {$CellContext`t, \
+$CellContext`Tstart, $CellContext`T}, MaxSteps -> Infinity, 
+          InterpolationOrder -> All]; 
+       With[{$CellContext`rh = 0.0067, $CellContext`rm = 
+          0.0067 1.5, $CellContext`ahm = 8, $CellContext`c = 
+          10, $CellContext`InitialHPower = $CellContext`IH$$, $CellContext`k1 = \
 $CellContext`K1$$, $CellContext`k2 = 10 10^9, $CellContext`T = 
-         10^4, $CellContext`Mstart = $CellContext`Mend, $CellContext`Tstart = \
+          10^4, $CellContext`Mstart = $CellContext`Mend, $CellContext`Tstart = \
 $CellContext`end}, Quiet[$CellContext`Traj1 = Evaluate[
-            ReplaceAll[{
-              $CellContext`H[$CellContext`t], 
-              $CellContext`M[$CellContext`t]}, 
-             $CellContext`CompDynStart[$CellContext`rh, $CellContext`rm, \
+             ReplaceAll[{
+               $CellContext`H[$CellContext`t], 
+               $CellContext`M[$CellContext`t]}, 
+              $CellContext`CompDynStart[$CellContext`rh, $CellContext`rm, \
 $CellContext`ahm, $CellContext`c, $CellContext`k1, \
 $CellContext`InitialHPower, $CellContext`T]]]]; 
-        Quiet[$CellContext`Traj2 = Evaluate[
-            ReplaceAll[{
-              $CellContext`H[$CellContext`t], 
-              $CellContext`M[$CellContext`t]}, 
-             $CellContext`CompDynEnd[$CellContext`rh, $CellContext`rm, \
+         Quiet[$CellContext`Traj2 = Evaluate[
+             ReplaceAll[{
+               $CellContext`H[$CellContext`t], 
+               $CellContext`M[$CellContext`t]}, 
+              $CellContext`CompDynEnd[$CellContext`rh, $CellContext`rm, \
 $CellContext`ahm, $CellContext`c, $CellContext`k2, $CellContext`T, \
 $CellContext`Mstart, $CellContext`Tstart]]]]; Show[{
-           
-           LogPlot[$CellContext`Traj1, {$CellContext`t, 0, $CellContext`end}, 
-            PlotRange -> {{0, $CellContext`T}, {1, 10 10^12}}, AspectRatio -> 
-            1, Frame -> True, 
-            FrameLabel -> {"Years after 1816", "Population size"}, PlotStyle -> {
-              ColorData[97, 1], 
-              ColorData[97, 3]}, PlotLegends -> 
-            LineLegend[{"Humans", "Creatures"}]], 
-           
-           LogPlot[$CellContext`Traj2, {$CellContext`t, $CellContext`end, \
+            
+            LogPlot[$CellContext`Traj1, {$CellContext`t, 0, $CellContext`end},
+              PlotRange -> {{0, $CellContext`T}, {1, 10 10^12}}, AspectRatio -> 
+             1, Frame -> True, 
+             FrameLabel -> {"Years after 1816", "Population size"}, PlotStyle -> {
+               ColorData[97, 1], 
+               ColorData[97, 3]}, PlotLegends -> 
+             LineLegend[{"Humans", "Creatures"}]], 
+            
+            LogPlot[$CellContext`Traj2, {$CellContext`t, $CellContext`end, \
 $CellContext`T}, PlotRange -> {1, All}, PlotStyle -> {
-              ColorData[97, 1], 
-              ColorData[97, 3]}], 
-           Graphics[{
-             ColorData[97, 1], Dashed, 
-             Thickness[0.005], 
-             Line[{{$CellContext`end, 
-                Log[$CellContext`Hend]}, {$CellContext`end, 
-                Log[10 10^9]}}]}], 
-           Graphics[
-            Text["Global Comp.", {$CellContext`end, 
-              Log[10^11]}]], 
-           Graphics[
-            Arrow[{{$CellContext`end, 
-               Log[10^10.9]}, {$CellContext`end, 
-               Log[10^10.1]}}]]}]], 
+               ColorData[97, 1], 
+               ColorData[97, 3]}], 
+            Graphics[{
+              ColorData[97, 1], Dashed, 
+              Thickness[0.005], 
+              Line[{{$CellContext`end, 
+                 Log[$CellContext`Hend]}, {$CellContext`end, 
+                 Log[10 10^9]}}]}], 
+            Graphics[
+             Text["Global Comp.", {$CellContext`end, 
+               Log[10^11]}]], 
+            Graphics[
+             Arrow[{{$CellContext`end, 
+                Log[10^10.9]}, {$CellContext`end, 
+                Log[10^10.1]}}]]}]]), 
       "Specifications" :> {{{$CellContext`K1$$, 600000000, 
           "Initial carrying capacity"}, 10, 
          600000000}, {{$CellContext`IH$$, 8.8, "Initial human population"}, 0,
@@ -495,7 +564,7 @@ $CellContext`T}, PlotRange -> {1, All}, PlotStyle -> {
    Deployed->True,
    StripOnInput->False],
   Manipulate`InterpretManipulate[1]]], "Output",
- CellChangeTimes->{3.684679489213717*^9}]
+ CellChangeTimes->{3.684679489213717*^9, 3.684680129560874*^9}]
 }, Open  ]]
 },
 WindowSize->{755, 821},
@@ -516,9 +585,9 @@ CellTagsIndex->{}
 (*NotebookFileOutline
 Notebook[{
 Cell[CellGroupData[{
-Cell[1486, 35, 14234, 348, 19, "Input",
+Cell[1486, 35, 14665, 347, 19, "Input",
  CellOpen->False],
-Cell[15723, 385, 5518, 112, 504, "Output"]
+Cell[16154, 384, 8422, 182, 504, "Output"]
 }, Open  ]]
 }
 ]
@@ -526,4 +595,4 @@ Cell[15723, 385, 5518, 112, 504, "Output"]
 
 (* End of internal cache information *)
 
-(* NotebookSignature vx02E3lZR@jvoAwaOYCBtvzp *)
+(* NotebookSignature Avpx8UubuaZ2XCwJtz7KmiRa *)
