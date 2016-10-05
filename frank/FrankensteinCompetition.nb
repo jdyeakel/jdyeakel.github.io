@@ -1,32 +1,19 @@
-(* Content-type: application/vnd.wolfram.cdf.text *)
+(* Content-type: application/vnd.wolfram.mathematica *)
 
-(*** Wolfram CDF File ***)
-(* http://www.wolfram.com/cdf *)
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
 
 (* CreatedBy='Mathematica 10.0' *)
-
-(*************************************************************************)
-(*                                                                       *)
-(*  The Mathematica License under which this file was created prohibits  *)
-(*  restricting third parties in receipt of this file from republishing  *)
-(*  or redistributing it by any means, including but not limited to      *)
-(*  rights management or terms of use, without the express consent of    *)
-(*  Wolfram Research, Inc. For additional information concerning CDF     *)
-(*  licensing and redistribution see:                                    *)
-(*                                                                       *)
-(*        www.wolfram.com/cdf/adopting-cdf/licensing-options.html        *)
-(*                                                                       *)
-(*************************************************************************)
 
 (*CacheID: 234*)
 (* Internal cache information:
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
-NotebookDataPosition[      1064,         20]
-NotebookDataLength[     20708,        505]
-NotebookOptionsPosition[     21257,        500]
-NotebookOutlinePosition[     21619,        516]
-CellTagsIndexPosition[     21576,        513]
+NotebookDataPosition[       158,          7]
+NotebookDataLength[     20707,        505]
+NotebookOptionsPosition[     20351,        487]
+NotebookOutlinePosition[     20713,        503]
+CellTagsIndexPosition[     20670,        500]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -516,9 +503,9 @@ CellTagsIndex->{}
 (*NotebookFileOutline
 Notebook[{
 Cell[CellGroupData[{
-Cell[1486, 35, 14234, 348, 19, "Input",
+Cell[580, 22, 14234, 348, 19, "Input",
  CellOpen->False],
-Cell[15723, 385, 5518, 112, 504, "Output"]
+Cell[14817, 372, 5518, 112, 504, "Output"]
 }, Open  ]]
 }
 ]
@@ -526,4 +513,3 @@ Cell[15723, 385, 5518, 112, 504, "Output"]
 
 (* End of internal cache information *)
 
-(* NotebookSignature vx02E3lZR@jvoAwaOYCBtvzp *)
