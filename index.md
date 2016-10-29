@@ -12,7 +12,7 @@ image:
 ### Life & Environmental Sciences @ UC-Merced
 
 > ## ~News~  
-> *10/28/16*: Excited to announce a new article co-authored with Nate Dominy on **Frankenstein and the horrors of competetive exclusion** in [BioScience](http://bioscience.oxfordjournals.org/cgi/content/full/biw133?ijkey=R3ZFUghwvm9zFz2&keytype=ref) just in time for Halloween :jack_o_lantern:
+> *10/28/16*: Excited to announce a new article co-authored with Nate Dominy on **Frankenstein and the horrors of competetive exclusion** in [BioScience](http://bioscience.oxfordjournals.org/cgi/content/full/biw133?ijkey=R3ZFUghwvm9zFz2&keytype=ref) just in time for Halloween
 > <br>   
 > *09/16/16*:**Annual Review of Ecology, Evolution, & Systematics** made available the preprint to our paper titled [Characterizing Species Interactions to Understand Press Perturbations: What Is the Community Matrix?](http://www.annualreviews.org/doi/abs/10.1146/annurev-ecolsys-032416-010215) led by the illustrious [Mark Novak](http://people.oregonstate.edu/~novakm/)!
 > <br>  
