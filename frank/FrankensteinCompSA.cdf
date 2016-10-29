@@ -1,12 +1,32 @@
+(* Content-type: application/vnd.wolfram.cdf.text *)
+
+(*** Wolfram CDF File ***)
+(* http://www.wolfram.com/cdf *)
+
+(* CreatedBy='Mathematica 10.0' *)
+
+(*************************************************************************)
+(*                                                                       *)
+(*  The Mathematica License under which this file was created prohibits  *)
+(*  restricting third parties in receipt of this file from republishing  *)
+(*  or redistributing it by any means, including but not limited to      *)
+(*  rights management or terms of use, without the express consent of    *)
+(*  Wolfram Research, Inc. For additional information concerning CDF     *)
+(*  licensing and redistribution see:                                    *)
+(*                                                                       *)
+(*        www.wolfram.com/cdf/adopting-cdf/licensing-options.html        *)
+(*                                                                       *)
+(*************************************************************************)
+
 (*CacheID: 234*)
 (* Internal cache information:
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
-NotebookDataPosition[         0,          0]
-NotebookDataLength[     24030,        574]
-NotebookOptionsPosition[     23516,        549]
-NotebookOutlinePosition[     23878,        565]
-CellTagsIndexPosition[     23835,        562]
+NotebookDataPosition[      1064,         20]
+NotebookDataLength[     22233,        552]
+NotebookOptionsPosition[     22692,        543]
+NotebookOutlinePosition[     23142,        563]
+CellTagsIndexPosition[     23099,        560]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -335,38 +355,13 @@ Cell[BoxData[
      RowBox[{"{", 
       RowBox[{"bookMark", ",", "\"\<Europe\>\""}], "}"}], ",", "None"}], 
     "}"}]}], "\[IndentingNewLine]", "]"}]], "Input",
- CellOpen->False,
- CellChangeTimes->{{3.684596333696332*^9, 3.684596345204221*^9}, {
-   3.684596383117826*^9, 3.684596415427936*^9}, {3.6845965216867447`*^9, 
-   3.684596625749658*^9}, {3.684596686739855*^9, 3.6845967308954277`*^9}, {
-   3.6845967868873568`*^9, 3.684596825260557*^9}, {3.6845999694379673`*^9, 
-   3.684599990393537*^9}, {3.684600051021625*^9, 3.684600051221957*^9}, {
-   3.6846002076233997`*^9, 3.6846005384896584`*^9}, {3.684600591773375*^9, 
-   3.684600593528693*^9}, {3.684600649462737*^9, 3.684600652037298*^9}, {
-   3.684600870449545*^9, 3.684600872115103*^9}, {3.6846009492807503`*^9, 
-   3.6846010217983713`*^9}, {3.6846013939097233`*^9, 3.684601489865144*^9}, {
-   3.684601521548088*^9, 3.684601675859783*^9}, {3.6846017635671673`*^9, 
-   3.684601903149778*^9}, 3.6846019737291517`*^9, {3.684602170475642*^9, 
-   3.6846021727573357`*^9}, {3.6846047970944633`*^9, 3.684604814866477*^9}, {
-   3.684604854614447*^9, 3.6846048849448547`*^9}, {3.684604916648595*^9, 
-   3.684604920414679*^9}, {3.684604962009788*^9, 3.6846049626385803`*^9}, {
-   3.6846052408471403`*^9, 3.684605242257503*^9}, {3.684608919268716*^9, 
-   3.684608960673057*^9}, {3.6846090250817623`*^9, 3.684609025524975*^9}, {
-   3.6846090846563177`*^9, 3.6846090905884933`*^9}, {3.6846122496059713`*^9, 
-   3.684612270639015*^9}, {3.684672587133233*^9, 3.684672587227708*^9}, {
-   3.684672636934908*^9, 3.684672784669301*^9}, {3.6846730760017767`*^9, 
-   3.684673146493273*^9}, {3.684673355060133*^9, 3.68467341707698*^9}, {
-   3.684673589375586*^9, 3.684673644763959*^9}, {3.684673717884748*^9, 
-   3.6846737651060343`*^9}, {3.684673816221916*^9, 3.684673889977099*^9}, {
-   3.684674362920289*^9, 3.684674371152234*^9}, {3.684674877909853*^9, 
-   3.684674971217514*^9}, {3.6846754330704203`*^9, 3.68467544183438*^9}, {
-   3.6846801256906557`*^9, 3.6846801284030333`*^9}}],
+ CellOpen->False],
 
 Cell[BoxData[
  TagBox[
   StyleBox[
-   DynamicModuleBox[{$CellContext`bookMark$$ = "Europe", $CellContext`IH$$ = 
-    8.8, $CellContext`K1$$ = 1.12*^8, Typeset`show$$ = True, 
+   DynamicModuleBox[{$CellContext`bookMark$$ = "Amazon", $CellContext`IH$$ = 
+    4.64, $CellContext`K1$$ = 1.383*^6, Typeset`show$$ = True, 
     Typeset`bookmarkList$$ = {}, Typeset`bookmarkMode$$ = "Menu", 
     Typeset`animator$$, Typeset`animvar$$ = 1, Typeset`name$$ = 
     "\"untitled\"", Typeset`specs$$ = {{{
@@ -388,14 +383,14 @@ Cell[BoxData[
       Manipulate`Dump`ThisIsNotAControl}, {{
        Hold[$CellContext`bookMark$$], "Europe"}, 0}}, Typeset`size$$ = {
     463., {170., 175.}}, Typeset`update$$ = 0, Typeset`initDone$$, 
-    Typeset`skipInitDone$$ = True, $CellContext`K1$1856350$$ = 
-    0, $CellContext`IH$1856351$$ = 0}, 
+    Typeset`skipInitDone$$ = True, $CellContext`K1$936400$$ = 
+    0, $CellContext`IH$936401$$ = 0}, 
     DynamicBox[Manipulate`ManipulateBoxes[
      1, StandardForm, 
       "Variables" :> {$CellContext`bookMark$$ = "Europe", $CellContext`IH$$ = 
         8.8, $CellContext`K1$$ = 600000000}, "ControllerVariables" :> {
-        Hold[$CellContext`K1$$, $CellContext`K1$1856350$$, 0], 
-        Hold[$CellContext`IH$$, $CellContext`IH$1856351$$, 0]}, 
+        Hold[$CellContext`K1$$, $CellContext`K1$936400$$, 0], 
+        Hold[$CellContext`IH$$, $CellContext`IH$936401$$, 0]}, 
       "OtherVariables" :> {
        Typeset`show$$, Typeset`bookmarkList$$, Typeset`bookmarkMode$$, 
         Typeset`animator$$, Typeset`animvar$$, Typeset`name$$, 
@@ -543,12 +538,15 @@ $CellContext`T}, PlotRange -> {1, All}, PlotStyle -> {
     UntrackedVariables:>{Typeset`size$$}], "Manipulate",
    Deployed->True,
    StripOnInput->False],
-  Manipulate`InterpretManipulate[1]]], "Output",
- CellChangeTimes->{3.6846807091537933`*^9}]
+  Manipulate`InterpretManipulate[1]]], "Output"]
 }, Open  ]]
 },
-WindowSize->{755, 821},
-WindowMargins->{{-976, Automatic}, {Automatic, -387}},
+WindowSize->{613, 640},
+Visible->True,
+ScrollingOptions->{"VerticalScrollRange"->Fit},
+ShowCellBracket->Automatic,
+CellContext->Notebook,
+TrackCellChangeTimes->False,
 FrontEndVersion->"10.0 for Mac OS X x86 (32-bit, 64-bit Kernel) (September 9, \
 2014)",
 StyleDefinitions->"Default.nb"
@@ -565,11 +563,14 @@ CellTagsIndex->{}
 (*NotebookFileOutline
 Notebook[{
 Cell[CellGroupData[{
-Cell[422, 15, 14665, 347, 19, "Input",
+Cell[1486, 35, 12823, 322, 1360, "Input",
  CellOpen->False],
-Cell[15090, 364, 8410, 182, 504, "Output"]
+Cell[14312, 359, 8364, 181, 504, "Output"]
 }, Open  ]]
 }
 ]
 *)
 
+(* End of internal cache information *)
+
+(* NotebookSignature ZwpyfCkYHozywAwAvn5YHM8d *)

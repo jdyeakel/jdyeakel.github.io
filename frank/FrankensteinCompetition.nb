@@ -1,12 +1,19 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 10.0' *)
+
 (*CacheID: 234*)
 (* Internal cache information:
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
-NotebookDataPosition[         0,          0]
-NotebookDataLength[     24030,        574]
-NotebookOptionsPosition[     23516,        549]
-NotebookOutlinePosition[     23878,        565]
-CellTagsIndexPosition[     23835,        562]
+NotebookDataPosition[       158,          7]
+NotebookDataLength[     27838,        668]
+NotebookOptionsPosition[     27498,        651]
+NotebookOutlinePosition[     27860,        667]
+CellTagsIndexPosition[     27817,        664]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -20,12 +27,21 @@ Cell[BoxData[
     RowBox[{"Off", "[", 
      RowBox[{"InterpolatingFunction", "::", "dmval"}], "]"}], ";", 
     "\[IndentingNewLine]", 
+    RowBox[{"(*", 
+     RowBox[{
+      RowBox[{"InitialHValues", " ", "=", " ", 
+       RowBox[{"Table", "[", 
+        RowBox[{
+         RowBox[{"10", "^", "i"}], ",", 
+         RowBox[{"{", 
+          RowBox[{"i", ",", "0", ",", "10", ",", "0.01"}], "}"}]}], "]"}]}], 
+      ";"}], "*)"}], "\[IndentingNewLine]", 
     RowBox[{
      RowBox[{"CompDynStart", "[", 
       RowBox[{
-      "rh_", ",", "rm_", ",", "ahm_", ",", "c_", ",", "k1_", ",", 
-       "InitialHPower_", ",", "T_"}], "]"}], " ", ":=", "\[IndentingNewLine]",
-      "\[IndentingNewLine]", 
+      "rh_", ",", "rm_", ",", "ahm_", ",", "c_", ",", "k1_", ",", "InitialH_",
+        ",", "T_"}], "]"}], " ", ":=", "\[IndentingNewLine]", 
+     "\[IndentingNewLine]", 
      RowBox[{"NDSolve", "[", 
       RowBox[{
        RowBox[{"{", "\[IndentingNewLine]", 
@@ -59,8 +75,7 @@ Cell[BoxData[
                 RowBox[{"H", "[", "t", "]"}]}]}], "k1"]}], ")"}]}]}], ",", 
          "\[IndentingNewLine]", 
          RowBox[{
-          RowBox[{"H", "[", "0", "]"}], "\[Equal]", 
-          RowBox[{"10", "^", "InitialHPower"}]}], ",", 
+          RowBox[{"H", "[", "0", "]"}], "\[Equal]", "InitialH"}], ",", 
          RowBox[{
           RowBox[{"M", "[", "0", "]"}], "\[Equal]", "2"}], ",", 
          "\[IndentingNewLine]", 
@@ -144,9 +159,9 @@ Cell[BoxData[
         RowBox[{"rh", "=", "0.0067"}], ",", 
         RowBox[{"rm", "=", 
          RowBox[{"0.0067", "*", "1.5"}]}], ",", 
-        RowBox[{"ahm", "=", "8"}], ",", 
+        RowBox[{"ahm", "=", "3.5"}], ",", 
         RowBox[{"c", "=", "10"}], ",", 
-        RowBox[{"InitialHPower", "=", "IH"}], ",", 
+        RowBox[{"InitialH", "=", "IH"}], ",", 
         RowBox[{"k1", "=", "K1"}], ",", 
         RowBox[{"k2", "=", 
          RowBox[{"10", "*", 
@@ -166,8 +181,8 @@ Cell[BoxData[
              RowBox[{"M", "[", "t", "]"}]}], "}"}], "/.", 
            RowBox[{"CompDynStart", "[", 
             RowBox[{
-            "rh", ",", "rm", ",", "ahm", ",", "c", ",", "k1", ",", 
-             "InitialHPower", ",", "T"}], "]"}]}], " ", "]"}]}], "]"}], ";", 
+            "rh", ",", "rm", ",", "ahm", ",", "c", ",", "k1", ",", "InitialH",
+              ",", "T"}], "]"}]}], " ", "]"}]}], "]"}], ";", 
        "\[IndentingNewLine]", 
        RowBox[{"Quiet", "[", 
         RowBox[{"Traj2", "=", 
@@ -282,14 +297,58 @@ Cell[BoxData[
       RowBox[{"K1", ",", 
        RowBox[{"600", "*", 
         RowBox[{"10", "^", "6"}]}], ",", 
-       "\"\<Initial carrying capacity\>\""}], "}"}], ",", "10", ",", 
-     RowBox[{"600", "*", 
-      RowBox[{"10", "^", "6"}]}]}], "}"}], ",", 
+       "\"\<Initial carrying capacity\>\""}], "}"}], ",", 
+     RowBox[{"10", "^", "0"}], ",", 
+     RowBox[{"10", "^", "10"}], ",", "\[IndentingNewLine]", 
+     RowBox[{
+      RowBox[{"Row", "[", 
+       RowBox[{"{", 
+        RowBox[{
+         RowBox[{"Slider", "[", 
+          RowBox[{
+           RowBox[{"Dynamic", "[", 
+            RowBox[{
+             RowBox[{"Log10", "[", "#", "]"}], ",", 
+             RowBox[{
+              RowBox[{"(", 
+               RowBox[{"K1", "=", 
+                RowBox[{"10", "^", "#"}]}], ")"}], "&"}]}], "]"}], ",", 
+           RowBox[{"Log10", "[", "#2", "]"}]}], "]"}], ",", "\"\< \>\"", ",", 
+         
+         RowBox[{"InputField", "[", 
+          RowBox[{"#", ",", 
+           RowBox[{"Appearance", "\[Rule]", "\"\<Frameless\>\""}], ",", 
+           RowBox[{"BaseStyle", "\[Rule]", "\"\<Labeled\>\""}]}], "]"}]}], 
+        "}"}], "]"}], "&"}]}], "}"}], ",", 
    RowBox[{"{", 
     RowBox[{
      RowBox[{"{", 
-      RowBox[{"IH", ",", "8.8", ",", "\"\<Initial human population\>\""}], 
-      "}"}], ",", "0", ",", "10"}], "}"}], ",", "\[IndentingNewLine]", 
+      RowBox[{"IH", ",", 
+       RowBox[{"178", "*", 
+        RowBox[{"10", "^", "6"}]}], ",", "\"\<Initial human population\>\""}],
+       "}"}], ",", 
+     RowBox[{"10", "^", "0"}], ",", 
+     RowBox[{"10", "^", "10"}], ",", "\[IndentingNewLine]", 
+     RowBox[{
+      RowBox[{"Row", "[", 
+       RowBox[{"{", 
+        RowBox[{
+         RowBox[{"Slider", "[", 
+          RowBox[{
+           RowBox[{"Dynamic", "[", 
+            RowBox[{
+             RowBox[{"Log10", "[", "#", "]"}], ",", 
+             RowBox[{
+              RowBox[{"(", 
+               RowBox[{"IH", "=", 
+                RowBox[{"10", "^", "#"}]}], ")"}], "&"}]}], "]"}], ",", 
+           RowBox[{"Log10", "[", "#2", "]"}]}], "]"}], ",", "\"\< \>\"", ",", 
+         
+         RowBox[{"InputField", "[", 
+          RowBox[{"#", ",", 
+           RowBox[{"Appearance", "\[Rule]", "\"\<Frameless\>\""}], ",", 
+           RowBox[{"BaseStyle", "\[Rule]", "\"\<Labeled\>\""}]}], "]"}]}], 
+        "}"}], "]"}], "&"}]}], "}"}], ",", "\[IndentingNewLine]", 
    RowBox[{"(*", 
     RowBox[{"bookmark", " ", "control"}], "*)"}], "\[IndentingNewLine]", 
    RowBox[{"Grid", "[", 
@@ -314,13 +373,16 @@ Cell[BoxData[
                   RowBox[{"K1", "=", 
                    RowBox[{"600", "*", 
                     RowBox[{"10", "^", "6"}]}]}], ";", 
-                  RowBox[{"IH", "=", "8.25"}]}], ",", "\[IndentingNewLine]", 
+                  RowBox[{"IH", "=", 
+                   RowBox[{"178", "*", 
+                    RowBox[{"10", "^", "6"}]}]}]}], ",", 
+                 "\[IndentingNewLine]", 
                  RowBox[{"bookMark", "\[Equal]", "\"\<Amazon\>\""}], ",", 
                  RowBox[{
                   RowBox[{"K1", "=", 
                    RowBox[{"1.383", "*", 
                     RowBox[{"10", "^", "6"}]}]}], ";", 
-                  RowBox[{"IH", "=", "4.64"}]}]}], "\[IndentingNewLine]", 
+                  RowBox[{"IH", "=", "44000"}]}]}], "\[IndentingNewLine]", 
                 "]"}]}], "}"}], "&"}]}], "]"}], ",", 
           RowBox[{"{", 
            RowBox[{"\"\<Europe\>\"", ",", "\"\<Amazon\>\""}], "}"}], ",", 
@@ -335,7 +397,6 @@ Cell[BoxData[
      RowBox[{"{", 
       RowBox[{"bookMark", ",", "\"\<Europe\>\""}], "}"}], ",", "None"}], 
     "}"}]}], "\[IndentingNewLine]", "]"}]], "Input",
- CellOpen->False,
  CellChangeTimes->{{3.684596333696332*^9, 3.684596345204221*^9}, {
    3.684596383117826*^9, 3.684596415427936*^9}, {3.6845965216867447`*^9, 
    3.684596625749658*^9}, {3.684596686739855*^9, 3.6845967308954277`*^9}, {
@@ -360,19 +421,41 @@ Cell[BoxData[
    3.6846737651060343`*^9}, {3.684673816221916*^9, 3.684673889977099*^9}, {
    3.684674362920289*^9, 3.684674371152234*^9}, {3.684674877909853*^9, 
    3.684674971217514*^9}, {3.6846754330704203`*^9, 3.68467544183438*^9}, {
-   3.6846801256906557`*^9, 3.6846801284030333`*^9}}],
+   3.6846801256906557`*^9, 3.6846801284030333`*^9}, 3.6846824097706757`*^9, {
+   3.684682625806389*^9, 3.684682663706766*^9}, {3.684682697625424*^9, 
+   3.684682792063568*^9}, {3.684682932888352*^9, 3.684682946687292*^9}, {
+   3.6846831087735786`*^9, 3.6846831238883343`*^9}, {3.6846832127002573`*^9, 
+   3.684683221154769*^9}, {3.6846834366406727`*^9, 3.68468354648487*^9}, 
+   3.6846861649384108`*^9, {3.6846862346274157`*^9, 3.684686239957426*^9}, 
+   3.684686285939375*^9, 3.6865770465338163`*^9, {3.686577098788637*^9, 
+   3.68657712800489*^9}}],
 
 Cell[BoxData[
  TagBox[
   StyleBox[
-   DynamicModuleBox[{$CellContext`bookMark$$ = "Europe", $CellContext`IH$$ = 
-    8.8, $CellContext`K1$$ = 1.12*^8, Typeset`show$$ = True, 
-    Typeset`bookmarkList$$ = {}, Typeset`bookmarkMode$$ = "Menu", 
-    Typeset`animator$$, Typeset`animvar$$ = 1, Typeset`name$$ = 
-    "\"untitled\"", Typeset`specs$$ = {{{
-       Hold[$CellContext`K1$$], 600000000, "Initial carrying capacity"}, 10, 
-      600000000}, {{
-       Hold[$CellContext`IH$$], 8.8, "Initial human population"}, 0, 10}, {
+   DynamicModuleBox[{$CellContext`bookMark$$ = "Amazon", $CellContext`IH$$ = 
+    6.918309709189363*^6, $CellContext`K1$$ = 1.9952623149688788`*^7, 
+    Typeset`show$$ = True, Typeset`bookmarkList$$ = {}, 
+    Typeset`bookmarkMode$$ = "Menu", Typeset`animator$$, Typeset`animvar$$ = 
+    1, Typeset`name$$ = "\"untitled\"", Typeset`specs$$ = {{{
+       Hold[$CellContext`K1$$], 600000000, "Initial carrying capacity"}, 1, 
+      10000000000, 
+      Dynamic[Row[{
+         Slider[
+          Dynamic[
+           Log10[#], ($CellContext`K1$$ = 10^#)& ], 
+          Log10[#2]], " ", 
+         InputField[#, Appearance -> "Frameless", BaseStyle -> 
+          "Labeled"]}]& ]}, {{
+       Hold[$CellContext`IH$$], 178000000, "Initial human population"}, 1, 
+      10000000000, 
+      Dynamic[Row[{
+         Slider[
+          Dynamic[
+           Log10[#], ($CellContext`IH$$ = 10^#)& ], 
+          Log10[#2]], " ", 
+         InputField[#, Appearance -> "Frameless", BaseStyle -> 
+          "Labeled"]}]& ]}, {
       Hold[
        Grid[{{
           Style["Scenario", Bold], 
@@ -381,21 +464,21 @@ Cell[BoxData[
            Dynamic[$CellContext`bookMark$$, {$CellContext`bookMark$$ = #; 
              Which[$CellContext`bookMark$$ == 
                "Europe", $CellContext`K1$$ = 600 10^6; $CellContext`IH$$ = 
-                8.25, $CellContext`bookMark$$ == 
+                178 10^6, $CellContext`bookMark$$ == 
                "Amazon", $CellContext`K1$$ = 1.383 10^6; $CellContext`IH$$ = 
-                4.64]}& ], {"Europe", "Amazon"}, Appearance -> 
+                44000]}& ], {"Europe", "Amazon"}, Appearance -> 
            "Horizontal"]}}, Spacings -> {0.5, 1}, Frame -> False]], 
       Manipulate`Dump`ThisIsNotAControl}, {{
        Hold[$CellContext`bookMark$$], "Europe"}, 0}}, Typeset`size$$ = {
     463., {170., 175.}}, Typeset`update$$ = 0, Typeset`initDone$$, 
-    Typeset`skipInitDone$$ = True, $CellContext`K1$1856350$$ = 
-    0, $CellContext`IH$1856351$$ = 0}, 
+    Typeset`skipInitDone$$ = True, $CellContext`K1$2260390$$ = 
+    0, $CellContext`IH$2260391$$ = 0}, 
     DynamicBox[Manipulate`ManipulateBoxes[
      1, StandardForm, 
       "Variables" :> {$CellContext`bookMark$$ = "Europe", $CellContext`IH$$ = 
-        8.8, $CellContext`K1$$ = 600000000}, "ControllerVariables" :> {
-        Hold[$CellContext`K1$$, $CellContext`K1$1856350$$, 0], 
-        Hold[$CellContext`IH$$, $CellContext`IH$1856351$$, 0]}, 
+        178000000, $CellContext`K1$$ = 600000000}, "ControllerVariables" :> {
+        Hold[$CellContext`K1$$, $CellContext`K1$2260390$$, 0], 
+        Hold[$CellContext`IH$$, $CellContext`IH$2260391$$, 0]}, 
       "OtherVariables" :> {
        Typeset`show$$, Typeset`bookmarkList$$, Typeset`bookmarkMode$$, 
         Typeset`animator$$, Typeset`animvar$$, Typeset`name$$, 
@@ -413,7 +496,7 @@ Cell[BoxData[
            Blank[]], 
           Pattern[$CellContext`k1, 
            Blank[]], 
-          Pattern[$CellContext`InitialHPower, 
+          Pattern[$CellContext`InitialH, 
            Blank[]], 
           Pattern[$CellContext`T, 
            Blank[]]] := 
@@ -428,8 +511,8 @@ $CellContext`M[$CellContext`t])/$CellContext`k1),
 $CellContext`M[$CellContext`t] (
              1 - ($CellContext`M[$CellContext`t] + \
 ($CellContext`ahm/$CellContext`c) \
-$CellContext`H[$CellContext`t])/$CellContext`k1), $CellContext`H[0] == 
-           10^$CellContext`InitialHPower, $CellContext`M[0] == 2, 
+$CellContext`H[$CellContext`t])/$CellContext`k1), $CellContext`H[
+            0] == $CellContext`InitialH, $CellContext`M[0] == 2, 
            
            WhenEvent[$CellContext`M[$CellContext`t] == 
             0.9 $CellContext`k1, $CellContext`end = $CellContext`t; \
@@ -472,8 +555,8 @@ $CellContext`Mstart}, {$CellContext`H, $CellContext`M}, {$CellContext`t, \
 $CellContext`Tstart, $CellContext`T}, MaxSteps -> Infinity, 
           InterpolationOrder -> All]; 
        With[{$CellContext`rh = 0.0067, $CellContext`rm = 
-          0.0067 1.5, $CellContext`ahm = 8, $CellContext`c = 
-          10, $CellContext`InitialHPower = $CellContext`IH$$, $CellContext`k1 = \
+          0.0067 1.5, $CellContext`ahm = 3.5, $CellContext`c = 
+          10, $CellContext`InitialH = $CellContext`IH$$, $CellContext`k1 = \
 $CellContext`K1$$, $CellContext`k2 = 10 10^9, $CellContext`T = 
           10^4, $CellContext`Mstart = $CellContext`Mend, $CellContext`Tstart = \
 $CellContext`end}, Quiet[$CellContext`Traj1 = Evaluate[
@@ -481,9 +564,8 @@ $CellContext`end}, Quiet[$CellContext`Traj1 = Evaluate[
                $CellContext`H[$CellContext`t], 
                $CellContext`M[$CellContext`t]}, 
               $CellContext`CompDynStart[$CellContext`rh, $CellContext`rm, \
-$CellContext`ahm, $CellContext`c, $CellContext`k1, \
-$CellContext`InitialHPower, $CellContext`T]]]]; 
-         Quiet[$CellContext`Traj2 = Evaluate[
+$CellContext`ahm, $CellContext`c, $CellContext`k1, $CellContext`InitialH, \
+$CellContext`T]]]]; Quiet[$CellContext`Traj2 = Evaluate[
              ReplaceAll[{
                $CellContext`H[$CellContext`t], 
                $CellContext`M[$CellContext`t]}, 
@@ -517,9 +599,24 @@ $CellContext`T}, PlotRange -> {1, All}, PlotStyle -> {
                 Log[10^10.9]}, {$CellContext`end, 
                 Log[10^10.1]}}]]}]]), 
       "Specifications" :> {{{$CellContext`K1$$, 600000000, 
-          "Initial carrying capacity"}, 10, 
-         600000000}, {{$CellContext`IH$$, 8.8, "Initial human population"}, 0,
-          10}, 
+          "Initial carrying capacity"}, 1, 10000000000, 
+         Dynamic[Row[{
+            Slider[
+             Dynamic[
+              Log10[#], ($CellContext`K1$$ = 10^#)& ], 
+             Log10[#2]], " ", 
+            
+            InputField[#, Appearance -> "Frameless", BaseStyle -> 
+             "Labeled"]}]& ]}, {{$CellContext`IH$$, 178000000, 
+          "Initial human population"}, 1, 10000000000, 
+         Dynamic[Row[{
+            Slider[
+             Dynamic[
+              Log10[#], ($CellContext`IH$$ = 10^#)& ], 
+             Log10[#2]], " ", 
+            
+            InputField[#, Appearance -> "Frameless", BaseStyle -> 
+             "Labeled"]}]& ]}, 
         Grid[{{
            Style["Scenario", Bold], 
            RadioButtonBar[
@@ -527,13 +624,13 @@ $CellContext`T}, PlotRange -> {1, All}, PlotStyle -> {
             Dynamic[$CellContext`bookMark$$, {$CellContext`bookMark$$ = #; 
               Which[$CellContext`bookMark$$ == 
                 "Europe", $CellContext`K1$$ = 600 10^6; $CellContext`IH$$ = 
-                 8.25, $CellContext`bookMark$$ == 
+                 178 10^6, $CellContext`bookMark$$ == 
                 "Amazon", $CellContext`K1$$ = 1.383 10^6; $CellContext`IH$$ = 
-                 4.64]}& ], {"Europe", "Amazon"}, Appearance -> 
+                 44000]}& ], {"Europe", "Amazon"}, Appearance -> 
             "Horizontal"]}}, Spacings -> {0.5, 1}, Frame -> 
          False], {{$CellContext`bookMark$$, "Europe"}, 0, ControlType -> 
          None}}, "Options" :> {}, "DefaultOptions" :> {}],
-     ImageSizeCache->{508., {241., 246.}},
+     ImageSizeCache->{508., {240., 245.}},
      SingleEvaluation->True],
     Deinitialization:>None,
     DynamicModuleValues:>{},
@@ -544,11 +641,16 @@ $CellContext`T}, PlotRange -> {1, All}, PlotStyle -> {
    Deployed->True,
    StripOnInput->False],
   Manipulate`InterpretManipulate[1]]], "Output",
- CellChangeTimes->{3.6846807091537933`*^9}]
+ CellChangeTimes->{
+  3.6846807091537933`*^9, 3.6846811288576307`*^9, 3.684682795751307*^9, 
+   3.684682948816416*^9, 3.684683234338394*^9, {3.68468344714624*^9, 
+   3.684683477715146*^9}, {3.684683517242154*^9, 3.6846835480428867`*^9}, 
+   3.684686247484503*^9, 3.68468628984549*^9, 3.686577061948786*^9, {
+   3.686577099495262*^9, 3.6865771292502213`*^9}}]
 }, Open  ]]
 },
-WindowSize->{755, 821},
-WindowMargins->{{-976, Automatic}, {Automatic, -387}},
+WindowSize->{924, 1530},
+WindowMargins->{{-1014, Automatic}, {43, Automatic}},
 FrontEndVersion->"10.0 for Mac OS X x86 (32-bit, 64-bit Kernel) (September 9, \
 2014)",
 StyleDefinitions->"Default.nb"
@@ -565,11 +667,11 @@ CellTagsIndex->{}
 (*NotebookFileOutline
 Notebook[{
 Cell[CellGroupData[{
-Cell[422, 15, 14665, 347, 19, "Input",
- CellOpen->False],
-Cell[15090, 364, 8410, 182, 504, "Output"]
+Cell[580, 22, 17142, 408, 1117, "Input"],
+Cell[17725, 432, 9757, 216, 502, "Output"]
 }, Open  ]]
 }
 ]
 *)
 
+(* End of internal cache information *)
