@@ -66,11 +66,10 @@ I generally use network-theoretic approaches – combined with empirical measure
 
 ---    
 
-<span style="text-align=left;font-size:1.5em;color:#377EB8;">Undergraduate Researchers</span>     
-<div>   
-<p style="float: left;padding-right:25px"><img src="/images/spock.jpg" width="100"></p>
-<b>Your name here!</b> Seek out new discoveries and new phenomena...<BR> <BR> <BR> <BR> 
-</div>   
+<div>
+<p style="float: left;padding-right:25px"><img src="/images/Harrison-web.jpg" width="100"></p>
+<b>Harrison Duran</b> "I am interested in studying ecology and the dynamics between systems in order to develop a greater  understanding of  humanity's impact on the environment. I gather information on mammal morphology in order to find correlations between certain morphological traits and diets"  <BR> <BR>     
+</div>     
 
 <BR CLEAR="...">
 
