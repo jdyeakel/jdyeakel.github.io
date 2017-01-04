@@ -9,7 +9,6 @@ image:
   credit:  
 ---
 # The Foundations of Ecology (Spring, 2017)  
-
 ---
 
 ## Info
