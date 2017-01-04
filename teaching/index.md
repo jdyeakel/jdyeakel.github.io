@@ -9,7 +9,6 @@ image:
   credit: jdyeakel
 ---
 # Teaching
-
 ---
 
 > ### [The Natural History of Dinosaurs (Spring, 2016)](http://jdyeakel.github.io/teaching/dinos/)   
