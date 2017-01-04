@@ -23,5 +23,7 @@ image:
 *	Office house: Taran Rallings TBD
 *	[Syllabus]()
 
+<hr>
 
+*	Week 1: Scales in Ecology. [Required reading](http://jdyeakel.github.io/teaching/ecology/papers/01_Levin.pdf)  
 
