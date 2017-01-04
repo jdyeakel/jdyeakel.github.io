@@ -17,7 +17,7 @@ image:
 
 <br>
 
-> ### Ecological Dynamics   
-> Coming soon   
+> ### [Foundations of Ecology (Spring, 2017)](http://jdyeakel.github.io/teaching/ecology/)  
+> Putting the Lotka in your Volterra since 1926       
 
 
