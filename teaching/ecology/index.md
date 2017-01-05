@@ -25,5 +25,6 @@ image:
 
 <hr>
 
-*	Week 1: Scales in Ecology. [Required reading](http://jdyeakel.github.io/teaching/ecology/papers/01_Levin.pdf)  
+*	Week 1: The web of life. **Required reading:** Cain chap. 1  
+*	Week 2: Scales in ecology. [**Required reading**](http://jdyeakel.github.io/teaching/ecology/papers/01_Levin.pdf)  
 

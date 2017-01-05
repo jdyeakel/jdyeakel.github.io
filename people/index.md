@@ -8,8 +8,9 @@ image:
   feature: tracks-leadville.jpg
   credit: jdyeakel
 ---
+
+
 ## What we do
----
 
 Our group is generally interested in the physical and biological constraints that shape trophic interactions, and how changes in these interactions impact community dynamics over both ecological and evolutionary time. 
 We employ both theoretical as well as empirical approaches to address many different aspects of problems that fall within this central focus, including but not limited to:   
