@@ -25,6 +25,13 @@ image:
 
 <hr>
 
+### Lecture materials
+
 *	Week 1: The web of life. **Required reading:** Cain chap. 1  
 *	Week 2: Scales in ecology. [**Required reading**](http://jdyeakel.github.io/teaching/ecology/papers/01_Levin.pdf)  
 
+<hr>
+### Discussion section materials
+
+*	Week 1: No section  
+*	Week 2: [**Required reading**](http://jdyeakel.github.io/teaching/ecology/papers/01_Levin.pdf)  
