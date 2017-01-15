@@ -11,7 +11,7 @@ Omidyar Fellow, Santa Fe Institute
 Santa Fe, New Mexico
 Internal Mentor: Jennifer A. Dunne
 Email: jdyeakel at gmail.com
-[Google Scholar](http://scholar.google.com/citations?user=nWHtsZYAAAAJ&hl=en&oi=sra)
+[Google Scholar](http://scholar.google.com/citations?user=nWHtsZYAAAAJ&hl=en&oi=sra)  
 [**CV (PDF)**](http://jdyeakel.github.io/pdfs/Yeakel_CV.pdf)
 
 > **Beginning 1/1/2016**
