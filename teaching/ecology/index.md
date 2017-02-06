@@ -30,7 +30,7 @@ image:
 *	Week 1: The web of life. **Required reading:** Cain chap. 1
 *	Week 2: Scales in ecology. [**Required reading**](http://jdyeakel.github.io/teaching/ecology/papers/01_Levin.pdf)
 *	Week 3: Biomes. **Required reading:** Cain chap. 3
-*	Week 4: Energy. **Required reading:** Cain chap.5
+*	Week 4: Energy & Evolution. **Required reading:** Cain chap.5,6
 
 
 <hr>
