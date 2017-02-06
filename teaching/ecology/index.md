@@ -39,6 +39,6 @@ image:
 *	Week 1: No section
 *	Week 2: [**Required reading**](http://jdyeakel.github.io/teaching/ecology/papers/01_Levin.pdf)
 *	Week 3: [**Required reading**](http://jdyeakel.github.io/teaching/ecology/papers/02_Chamberlain.pdf)
-*	Week 4: [**Required reading**](http://jdyeakel.github.io/teaching/ecology/papers/03_Kocher.pdf), [Supplementary](http://jdyeakel.github.io/teaching/ecology/papers/04supp_Joyce.pdf)
+*	Week 4: [**Required reading**](http://jdyeakel.github.io/teaching/ecology/papers/03_Kocher.pdf), [Supplementary](http://jdyeakel.github.io/teaching/ecology/papers/03supp_Joyce.pdf)
 
 
