@@ -19,7 +19,7 @@ image:
 
 <hr>
 
-*	Office hours: JD Yeakel (MW 2-3 in SE1 288)
+*	Office hours: JD Yeakel (M 2-3, W 9-10 in SE1 288)
 *	Office house: Taran Rallings (M 2-4 in SE1 258)
 *	[Syllabus](http://jdyeakel.github.io/teaching/ecology/Syllabus.pdf)
 
