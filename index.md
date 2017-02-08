@@ -12,6 +12,8 @@ image:
 ### Life & Environmental Sciences @ UC-Merced
 
 > ## ~News~  
+> *02/08/16*: We are looking for a Postdoctoral researcher to model foraging dynamics of small mammal communities in the Sevilleta LTER, New Mexico. Based at UC Merced, but in collaboration with the LTER team at University of New Mexico. Check out the full add [here](http://jdyeakel.github.io/Yeakel_postdoc.pdf)
+> <br>   
 > *10/28/16*: Excited to announce a new article co-authored with Nate Dominy on **Frankenstein and the horrors of competetive exclusion** in [BioScience](http://bioscience.oxfordjournals.org/cgi/content/full/biw133?ijkey=R3ZFUghwvm9zFz2&keytype=ref) just in time for Halloween
 > <br>   
 > *09/16/16*:**Annual Review of Ecology, Evolution, & Systematics** made available the preprint to our paper titled [Characterizing Species Interactions to Understand Press Perturbations: What Is the Community Matrix?](http://www.annualreviews.org/doi/abs/10.1146/annurev-ecolsys-032416-010215) led by the illustrious [Mark Novak](http://people.oregonstate.edu/~novakm/)!
