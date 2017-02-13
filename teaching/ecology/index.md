@@ -41,4 +41,4 @@ image:
 *	Week 2: [**Required reading**](http://jdyeakel.github.io/teaching/ecology/papers/01_Levin.pdf)
 *	Week 3: [**Required reading**](http://jdyeakel.github.io/teaching/ecology/papers/02_Chamberlain.pdf)
 *	Week 4: [**Required reading**](http://jdyeakel.github.io/teaching/ecology/papers/03_Kocher.pdf), [Supplementary](http://jdyeakel.github.io/teaching/ecology/papers/03supp_Joyce.pdf)
-* Week 5: 
+* Week 5: No reading required for section, though attendance required.
