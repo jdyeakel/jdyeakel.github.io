@@ -32,7 +32,7 @@ image:
 *	Week 3: Biomes. **Required reading:** Cain chap. 3 ([slides](http://jdyeakel.github.io/teaching/ecology/slides/Lect3_BIO148.pdf))
 *	Week 4: Energy & Evolution. **Required reading:** Cain chap.5,6 ([slides](http://jdyeakel.github.io/teaching/ecology/slides/Lect5_BIO148.pdf))
 *	Week 5: Evolution cont.  **Required reading:** Cain chap. 6,7  ([slides](http://jdyeakel.github.io/teaching/ecology/slides/Lect6_BIO148.pdf))
-* **Exam I (2/15/2017)**: Covers Cain 1,3,5,6; section papers, lecture notes on those topics
+  * **Exam I (2/15/2017)**: Covers Cain 1,3,5,6; section papers, lecture notes on those topics
 
 <hr>
 ### Discussion section materials
