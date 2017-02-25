@@ -32,7 +32,12 @@ image:
 *	Week 3: Biomes. **Required reading:** Cain chap. 3 ([slides](http://jdyeakel.github.io/teaching/ecology/slides/Lect3_BIO148.pdf))
 *	Week 4: Energy & Evolution. **Required reading:** Cain chap.5,6 ([slides](http://jdyeakel.github.io/teaching/ecology/slides/Lect5_BIO148.pdf))
 *	Week 5: Evolution cont.  **Required reading:** Cain chap. 6,7  ([slides](http://jdyeakel.github.io/teaching/ecology/slides/Lect6_BIO148.pdf))
-  * **Exam I (2/15/2017)**: Covers Cain 1,3,5,6; section papers, lecture notes on those topics
+* **Exam I (2/15/2017)**: Covers Cain 1,3,5,6; section papers, lecture notes on those topics
+
+<hr>
+
+* Week 6: Life cycles and behavioral ecology. **Required reading:** Cain chap. 8
+* Week 7: Behavioral Ecology cont.
 
 <hr>
 ### Discussion section materials
@@ -42,3 +47,5 @@ image:
 *	Week 3: [**Required reading**](http://jdyeakel.github.io/teaching/ecology/papers/02_Chamberlain.pdf)
 *	Week 4: [**Required reading**](http://jdyeakel.github.io/teaching/ecology/papers/03_Kocher.pdf), [Supplementary](http://jdyeakel.github.io/teaching/ecology/papers/03supp_Joyce.pdf)
 * Week 5: No reading required for section, though attendance required.
+* Week 6: No section this week
+* Week 7: [**Required Reading**](http://jdyeakel.github.io/teaching/ecology/papers/04_Wolf.pdf)
