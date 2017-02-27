@@ -37,7 +37,7 @@ image:
 <hr>
 
 * Week 6: Life cycles and behavioral ecology. **Required reading:** Cain chap. 8
-* Week 7: Behavioral Ecology cont.
+* Week 7: Behavioral Ecology cont. **Required reading:** Cain chap. 8 **&** [A bit about Game Theory](http://jdyeakel.github.io/teaching/ecology/papers/EvolGameTheory.pdf)
 
 <hr>
 ### Discussion section materials
