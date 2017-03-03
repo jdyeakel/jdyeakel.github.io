@@ -51,6 +51,6 @@ image:
 * Week 5: No reading required for section, though attendance required.
 * Week 6: No section this week
 * Week 7: [**Required Reading**](http://jdyeakel.github.io/teaching/ecology/papers/04_Wolf.pdf)
-* Week 8: [**Required Reading**](http://jdyeakel.github.io/teaching/ecology/papers/05_Packer.pdf)
-* Week 9: [**Required Reading**](http://jdyeakel.github.io/teaching/ecology/papers/06_Dominy.pdf)
-* Week 10: [**Required Reading**](http://jdyeakel.github.io/teaching/ecology/papers/07_Estes.pdf)
+* Week 8 (3/6 - 3/10): [**Required Reading**](http://jdyeakel.github.io/teaching/ecology/papers/05_Packer.pdf)
+* Week 9 (3/13 - 3/17): [**Required Reading**](http://jdyeakel.github.io/teaching/ecology/papers/06_Dominy.pdf)
+* Week 10 (4/3 - 4/7): [**Required Reading**](http://jdyeakel.github.io/teaching/ecology/papers/07_Estes.pdf)
