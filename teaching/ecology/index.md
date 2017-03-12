@@ -25,6 +25,10 @@ image:
 
 <hr>
 
+[Natural History Field Report Instructions](http://jdyeakel.github.io/teaching/ecology/NaturalHistoryFieldReport.pdf)
+
+<hr>
+
 ### Lecture materials
 
 *	Week 1: The web of life. **Required reading:** Cain chap. 1 ([slides](http://jdyeakel.github.io/teaching/ecology/slides/Lect1_BIO148.pdf))
