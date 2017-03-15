@@ -23,6 +23,11 @@ image:
 *	Office house: Taran Rallings (M 2-4 in SE1 258)
 *	[Syllabus](http://jdyeakel.github.io/teaching/ecology/Syllabus.pdf)
 
+
+<hr>
+
+[Homework 2: due in section during the week of March 20. Print and turn in.](http://jdyeakel.github.io/teaching/ecology/Homework2.pdf)
+
 <hr>
 
 [Natural History Field Report Instructions](http://jdyeakel.github.io/teaching/ecology/NaturalHistoryFieldReport.pdf)
