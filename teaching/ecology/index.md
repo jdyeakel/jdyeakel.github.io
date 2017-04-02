@@ -48,6 +48,12 @@ image:
 * Week 6: Life cycles and behavioral ecology. **Required reading:** Cain chap. 8
 * Week 7: Behavioral Ecology cont. **Required reading:** Cain chap. 8 **&** [A bit about Game Theory](http://jdyeakel.github.io/teaching/ecology/papers/EvolGameTheory.pdf)
 * Week 8: Population Ecology. **Required reading:** Cain chap. 10
+* Week 9: Population Ecology (cont.) **Required reading** Cain chap. 11 up to (but not including) the Delayed Density Dependance material.
+* **Exam II (3/29/2017)**: Covers Cain 8,9,10,part of 11; section papers, lecture notes
+
+<hr>
+
+* Week 10: Species Interactions: Competition. **Required Reading** Cain chap. 12
 
 
 <hr>
