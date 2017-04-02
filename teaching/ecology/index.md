@@ -62,4 +62,5 @@ image:
 * Week 7: [**Required Reading**](http://jdyeakel.github.io/teaching/ecology/papers/04_Wolf.pdf)
 * Week 8 (3/6 - 3/10): [**Required Reading**](http://jdyeakel.github.io/teaching/ecology/papers/05_Packer.pdf)
 * Week 9 (3/13 - 3/17): [**Required Reading**](http://jdyeakel.github.io/teaching/ecology/papers/06_Dominy.pdf)
-* Week 10 (4/3 - 4/7): [**Required Reading**](http://jdyeakel.github.io/teaching/ecology/papers/07_Estes.pdf)
+* Week 10 (4/3 - 4/7): No reading required
+* Week 11 (4/10 - 4/14): [**Required Reading**](http://jdyeakel.github.io/teaching/ecology/papers/07_Estes.pdf)
