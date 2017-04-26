@@ -28,6 +28,8 @@ image:
 
 [Homework 2: due in section during the week of March 20. Print and turn in.](http://jdyeakel.github.io/teaching/ecology/Homework2.pdf)
 
+[Homework 3: due the day of the final exam!](http://jdyeakel.github.io/teaching/ecology/Homework3.pdf )
+
 <hr>
 
 [Natural History Field Report Instructions](http://jdyeakel.github.io/teaching/ecology/NaturalHistoryFieldReport.pdf)
@@ -54,6 +56,13 @@ image:
 <hr>
 
 * Week 10: Species Interactions: Competition. **Required Reading** Cain chap. 12
+* Week 11: Competition *continued*
+* Week 12: Predation and herbivory: **Required Reading** Cain chap. 13
+* Week 13: Parasitism and disease: **Required Reading** Cain chap. 14
+* Week 14: Mutualisms and commensalisms: **Required Reading** *Notes*. See Cain chap. 15 for additional details/extensions of concepts
+* Week 15: Communities **Required Reading** Cain chap. 16
+* Week 16: Metapopulations *Notes*. See Cain Chaps. 17/18 for additional details/extensions of concepts  
+* **Exam III (5/6/2017)**: Covers Notes + Cain 12,13,14,16
 
 
 <hr>
