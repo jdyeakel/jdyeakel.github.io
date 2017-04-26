@@ -27,7 +27,7 @@ image:
 <hr>
 
 [Homework 2: due in section during the week of March 20. Print and turn in.](http://jdyeakel.github.io/teaching/ecology/Homework2.pdf)
-
+<br>
 [Homework 3: due the day of the final exam!](http://jdyeakel.github.io/teaching/ecology/Homework3.pdf )
 
 <hr>
