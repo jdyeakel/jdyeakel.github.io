@@ -39,10 +39,14 @@ Publications
 -->
 
 
-2016
+2017
 :	* <span style="color:#377EB8;">Yeakel J.D.</span>, Kempes C.P., Redner S. The dynamics of starvation and recovery. In review at *PNAS*. [ArXiv version](http://arxiv.org/abs/1608.08995)
 
-	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1093/biosci/biw133"></div> Dominy N.J., <span style="color:#377EB8;">Yeakel J.D.</span>. [*Frankenstein* and the horrors of competitive exclusion](https://academic.oup.com/bioscience/article/67/2/107/2327311/Frankenstein-and-the-Horrors-of-Competitive). *Bioscience*. doi:10.1093/biosci/biw133.
+	E. Delmas, M. Besson, M.-H. Brice, L. Burkle, G. V Dalla Riva, M.-J. Fortin, D. Gravel, P. Guimar\~aes, D. Hembry, E. Newman, J.M. Olesen, M. Pires, <span style="color:#377EB8;">J.D. Yeakel</span>, T. Poisot. [Analyzing ecological networks of species interactions](http://biorxiv.org/content/early/2017/02/28/112540). *BioRxiv*. doi:https://doi.org/10.1101/112540.
+
+
+2016
+:	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1093/biosci/biw133"></div> Dominy N.J., <span style="color:#377EB8;">Yeakel J.D.</span>. [*Frankenstein* and the horrors of competitive exclusion](https://academic.oup.com/bioscience/article/67/2/107/2327311/Frankenstein-and-the-Horrors-of-Competitive). *Bioscience*. doi:10.1093/biosci/biw133.
 
 	* Novak M., <span style="color:#377EB8;">Yeakel J.D.</span>, Noble A.E., Doak D.F., Emmerson M., Estes J.A., Jacob U., Tinker M.T., Wootton J.T. [Characterizing species interactions: What is the community matrix?](http://www.annualreviews.org/doi/abs/10.1146/annurev-ecolsys-032416-010215) *Annual Review of Ecology, Evolution, and Systematics*, 47. **Available in December, 2016**.
 
