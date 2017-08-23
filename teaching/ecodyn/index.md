@@ -14,6 +14,6 @@ image:
 
 <hr>
 
-*	Office hours: JD Yeakel TBD
-*	[Syllabus](http://jdyeakel.github.io/teaching/ecodyn/syllabus.pdf)  
-*	
+*	Office hours: JD Yeakel TBD  
+*[Syllabus](http://jdyeakel.github.io/teaching/ecodyn/syllabus.pdf)  
+*[Topical schedule](http://jdyeakel.github.io/teaching/ecodyn/schedule.pdf)
