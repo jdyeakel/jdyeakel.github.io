@@ -18,3 +18,7 @@ image:
 *	Office hours: JD Yeakel TBD  
 *	[Syllabus](http://jdyeakel.github.io/teaching/ecodyn/syllabus.pdf)  
 *	[Topical schedule](http://jdyeakel.github.io/teaching/ecodyn/schedule.pdf)
+
+<hr>
+
+*	17/8/13: [Theoretical Biologist's Toolbox Chapt 1 (Mangel)](http://jdyeakel.github.io/teaching/ecodyn/Mangel_TBT1.pdf)  
