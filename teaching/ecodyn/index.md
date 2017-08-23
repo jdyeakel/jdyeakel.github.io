@@ -11,9 +11,10 @@ image:
 
 ## Info
 *	Class time/location: MW 3:00-4:15 in COB2 170  
+*	Discussion section: W 1:00-2:20 in SSM 140
 
 <hr>
 
 *	Office hours: JD Yeakel TBD  
-*[Syllabus](http://jdyeakel.github.io/teaching/ecodyn/syllabus.pdf)  
-*[Topical schedule](http://jdyeakel.github.io/teaching/ecodyn/schedule.pdf)
+*	[Syllabus](http://jdyeakel.github.io/teaching/ecodyn/syllabus.pdf)  
+*	[Topical schedule](http://jdyeakel.github.io/teaching/ecodyn/schedule.pdf)
