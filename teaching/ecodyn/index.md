@@ -21,4 +21,13 @@ image:
 
 <hr>
 
-*	17/8/13: [Theoretical Biologist's Toolbox Chapt 1 (Mangel)](http://jdyeakel.github.io/teaching/ecodyn/Mangel_TBT1.pdf)  
+## Readings
+*	23/8/13: [Theoretical Biologist's Toolbox 1 (Mangel)](http://jdyeakel.github.io/teaching/ecodyn/Mangel_TBT1.pdf)  
+*	28/8/13: [Theoretical Biologist's Toolbox 2 (Mangel)](http://jdyeakel.github.io/teaching/ecodyn/Mangel_TBT2.pdf)  
+
+<hr>
+
+## Code
+*[Spatial and temporal variation (mathematica)](http://jdyeakel.github.io/teaching/ecodyn/spatial_temp_var.nb)  
+*[Logistic map (mathematica)](http://jdyeakel.github.io/teaching/ecodyn/logisticmap.nb)  
+
