@@ -28,6 +28,6 @@ image:
 <hr>
 
 ## Code
-*[Spatial and temporal variation (mathematica)](http://jdyeakel.github.io/teaching/ecodyn/spatial_temp_var.nb)  
-*[Logistic map (mathematica)](http://jdyeakel.github.io/teaching/ecodyn/logisticmap.nb)  
+* [Spatial and temporal variation (mathematica)](http://jdyeakel.github.io/teaching/ecodyn/spatial_temp_var.nb)  
+* [Logistic map (mathematica)](http://jdyeakel.github.io/teaching/ecodyn/logisticmap.nb)  
 
