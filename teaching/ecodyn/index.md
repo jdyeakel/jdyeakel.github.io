@@ -15,7 +15,7 @@ image:
 
 <hr>
 
-*	Office hours: SE1 288, MW 9-10AM  
+*	Office hours: SE1 288, MW 9-10 AM  
 *	[Syllabus](http://jdyeakel.github.io/teaching/ecodyn/syllabus.pdf)  
 *	[Topical schedule](http://jdyeakel.github.io/teaching/ecodyn/schedule.pdf)
 
