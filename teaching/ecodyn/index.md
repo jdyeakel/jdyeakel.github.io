@@ -53,7 +53,7 @@ R
   * [Try R Code School](http://tryr.codeschool.com/)
 
 Julia
-: * [Julia - young language but incredibly fast](https://julialang.org/)  
+: * [Julia - new language but incredibly fast](https://julialang.org/)  
   * [Learning Julia](https://people.eecs.berkeley.edu/~pcmoritz/julia.html)  
   * [Jupyter notebook environment](http://jupyter.org/)
   * [Julia Coursera](https://www.coursera.org/learn/julia-programming)
