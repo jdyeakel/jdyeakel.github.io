@@ -15,7 +15,7 @@ image:
 
 <hr>
 
-*	Office hours: JD Yeakel TBD  
+*	Office hours: SE1 288, MW 9-10AM  
 *	[Syllabus](http://jdyeakel.github.io/teaching/ecodyn/syllabus.pdf)  
 *	[Topical schedule](http://jdyeakel.github.io/teaching/ecodyn/schedule.pdf)
 
@@ -52,5 +52,4 @@ Readings for the course will be provided below. However, if you are new to theor
 * [Julia - young language but incredibly fast](https://julialang.org/)  
 * [Learning Julia](https://people.eecs.berkeley.edu/~pcmoritz/julia.html)  
 * [Mathematica, Matlab, and proprietary software supplied by UCMerced](http://it.ucmerced.edu/software-list/)  
-* [Python - perhaps the most widely used languages across sciences](https://www.python.org/)  
-* 
+* [Python - perhaps the most widely used language across sciences](https://www.python.org/)  
