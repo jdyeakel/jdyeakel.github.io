@@ -44,12 +44,16 @@ Readings for the course will be provided below. However, if you are new to theor
 <hr>
 
 ## Coding resources
-* [R without RStudio - a staple language for biologists](https://www.r-project.org/about.html)  
-* [RStudio (should self-install R)](https://www.rstudio.com/products/rstudio/)  
-* [RStudio webinars and tutorials](https://www.rstudio.com/resources/webinars/)  
-* [Learn R through Swirl (requires R)](http://swirlstats.com/students.html)  
-* [Greg Gilbert's transitioning to R course materials](https://greggilbertlab.sites.ucsc.edu/teaching/rtransition/)  
-* [Julia - young language but incredibly fast](https://julialang.org/)  
-* [Learning Julia](https://people.eecs.berkeley.edu/~pcmoritz/julia.html)  
-* [Mathematica, Matlab, and proprietary software supplied by UCMerced](http://it.ucmerced.edu/software-list/)  
-* [Python - perhaps the most widely used language across sciences](https://www.python.org/)  
+R
+: * [R without RStudio - a staple language for biologists](https://www.r-project.org/about.html)  
+  * [RStudio (should self-install R)](https://www.rstudio.com/products/rstudio/)  
+  * [RStudio webinars and tutorials](https://www.rstudio.com/resources/webinars/)  
+  * [Learn R through Swirl (requires R)](http://swirlstats.com/students.html)  
+  * [Greg Gilbert's transitioning to R course materials](https://greggilbertlab.sites.ucsc.edu/teaching/rtransition/)  
+Julia
+: * [Julia - young language but incredibly fast](https://julialang.org/)  
+  * [Learning Julia](https://people.eecs.berkeley.edu/~pcmoritz/julia.html)  
+
+Other
+: * [Mathematica, Matlab, and proprietary software supplied by UCMerced](http://it.ucmerced.edu/software-list/)  
+  * [Python - perhaps the most widely used language across sciences](https://www.python.org/)  
