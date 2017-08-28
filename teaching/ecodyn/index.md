@@ -50,11 +50,15 @@ R
   * [RStudio webinars and tutorials](https://www.rstudio.com/resources/webinars/)  
   * [Learn R through Swirl (requires R)](http://swirlstats.com/students.html)  
   * [Greg Gilbert's transitioning to R course materials](https://greggilbertlab.sites.ucsc.edu/teaching/rtransition/)  
+  * [Try R Code School](http://tryr.codeschool.com/)
 
 Julia
 : * [Julia - young language but incredibly fast](https://julialang.org/)  
   * [Learning Julia](https://people.eecs.berkeley.edu/~pcmoritz/julia.html)  
+  * [Jupyter notebook environment](http://jupyter.org/)
+  * [Julia Coursera](https://www.coursera.org/learn/julia-programming)
 
 Other
 : * [Mathematica, Matlab, and proprietary software supplied by UCMerced](http://it.ucmerced.edu/software-list/)  
   * [Python - perhaps the most widely used language across sciences](https://www.python.org/)  
+  * [Atom text editor](https://atom.io/)
