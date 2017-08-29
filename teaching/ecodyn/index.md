@@ -34,12 +34,15 @@ Readings for the course will be provided below. However, if you are new to theor
 ## Readings
 *	17/8/23: [Theoretical Biologist's Toolbox 1 (Mangel)](http://jdyeakel.github.io/teaching/ecodyn/Mangel_TBT1.pdf)  
 *	17/8/28: [Theoretical Biologist's Toolbox 2 (Mangel)](http://jdyeakel.github.io/teaching/ecodyn/Mangel_TBT2.pdf)  
+*	17/8/30: [Nonlinear Dynamics and Chaos 1 (Strogatz)](http://jdyeakel.github.io/teaching/ecodyn/Strogatz_NDC1.pdf)  
 
 <hr>
 
 ## Code
 * [Spatial and temporal variation (mathematica)](http://jdyeakel.github.io/teaching/ecodyn/spatial_temp_var.nb)  
 * [Logistic map (mathematica)](http://jdyeakel.github.io/teaching/ecodyn/logisticmap.nb)  
+* [Fixed point analysis (mathematica)](http://jdyeakel.github.io/teaching/ecodyn/fixedpoints.nb)  
+
 
 <hr>
 
