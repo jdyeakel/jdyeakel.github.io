@@ -38,6 +38,11 @@ Readings for the course will be provided below. However, if you are new to theor
 
 <hr>
 
+## Notes
+* [Discrete population growth](http://jdyeakel.github.io/teaching/ecodyn/notes/Ecodyn_notes1.pdf)  
+
+<hr>
+
 ## Code
 * [Spatial and temporal variation (.nb)](http://jdyeakel.github.io/teaching/ecodyn/spatial_temp_var.nb)  
 * [Logistic map (.nb)](http://jdyeakel.github.io/teaching/ecodyn/logisticmap.nb)  
