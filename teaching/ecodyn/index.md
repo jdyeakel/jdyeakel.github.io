@@ -40,6 +40,7 @@ Readings for the course will be provided below. However, if you are new to theor
 
 ## Notes
 * [Discrete population growth](http://jdyeakel.github.io/teaching/ecodyn/notes/Ecodyn_notes1.pdf)  
+* [Continuous population growth and linear stability analysis](http://jdyeakel.github.io/teaching/ecodyn/notes/Ecodyn_notes2.pdf)  
 
 <hr>
 
