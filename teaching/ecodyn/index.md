@@ -51,6 +51,11 @@ Readings for the course will be provided below. However, if you are new to theor
 
 <hr>
 
+## Cool stuff to check out
+* [Beautiful patterns arise near bifurcations in a spatially explicit dynamic system (site)](http://www.reallygross.de/node/35)  
+
+<hr>
+
 ## Coding resources
 R
 : * [R without RStudio - a staple language for biologists](https://www.r-project.org/about.html)  
