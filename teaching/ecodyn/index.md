@@ -11,7 +11,7 @@ image:
 
 ## Info
 *	Class time/location: MW 3:00-4:15 in COB2 170  
-*	Discussion section: W 1:00-2:20 in SSM 140
+*	Discussion section: W 1:00-2:20 in SSM 104
 
 <hr>
 
