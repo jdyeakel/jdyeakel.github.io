@@ -48,7 +48,7 @@ I generally use network-theoretic approaches – combined with empirical measure
 </div>      
 
 <div>
-<p style="float: left;padding-right:25px"><img src="/images/Uttam-web.jpg" width="100"></p> <b><a href="https://scholar.google.com/citations?user=8AVQ7NgAAAAJ&hl=en">Jean-Philippe Gibert, McDonnell Fellow</a></b>  "I study problems in ecology using tools from physics. In particular, currently I'm studying how different foraging behaviors affect the depletion pattern in the environment, and in turn how the depletion affects the forager's lifetime. For this, I use tools from random walks, first-passage processes and asymptotic analysis."  <BR> <BR>     
+<p style="float: left;padding-right:25px"><img src="/images/Uttam-web.jpg" width="100"></p> <b><a href="https://scholar.google.com/citations?user=8AVQ7NgAAAAJ&hl=en">Uttam Bhat</a></b>  "I study problems in ecology using tools from physics. In particular, currently I'm studying how different foraging behaviors affect the depletion pattern in the environment, and in turn how the depletion affects the forager's lifetime. For this, I use tools from random walks, first-passage processes and asymptotic analysis."  <BR> <BR>     
 </div>     
 <BR CLEAR="...">
 
