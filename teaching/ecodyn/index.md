@@ -35,12 +35,14 @@ Readings for the course will be provided below. However, if you are new to theor
 *	17/8/23: [Theoretical Biologist's Toolbox 1 (Mangel)](http://jdyeakel.github.io/teaching/ecodyn/Mangel_TBT1.pdf)  
 *	17/8/28: [Theoretical Biologist's Toolbox 2 (Mangel)](http://jdyeakel.github.io/teaching/ecodyn/Mangel_TBT2.pdf)  
 *	17/8/30: [Nonlinear Dynamics and Chaos 1 (Strogatz)](http://jdyeakel.github.io/teaching/ecodyn/Strogatz_NDC1.pdf)  
+*	17/9/06: [Nonlinear Dynamics and Chaos 2 (Strogatz)](http://jdyeakel.github.io/teaching/ecodyn/Strogatz_NDC2.pdf)  
 
 <hr>
 
 ## Notes
 * [Discrete population growth](http://jdyeakel.github.io/teaching/ecodyn/notes/Ecodyn_notes1.pdf)  
 * [Continuous population growth and linear stability analysis](http://jdyeakel.github.io/teaching/ecodyn/notes/Ecodyn_notes2.pdf)  
+* [More linear stability andlyisis and intro to bifurcations](http://jdyeakel.github.io/teaching/ecodyn/notes/Ecodyn_notes3.pdf)  
 
 <hr>
 
