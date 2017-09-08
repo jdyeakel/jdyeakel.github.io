@@ -46,7 +46,7 @@ Publications
 
 
 2016
-:	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1093/biosci/biw133"></div> Dominy N.J., <span style="color:#377EB8;">Yeakel J.D.</span>. [*Frankenstein* and the horrors of competitive exclusion](https://academic.oup.com/bioscience/article/67/2/107/2327311/Frankenstein-and-the-Horrors-of-Competitive). *Bioscience*. doi:10.1093/biosci/biw133.
+:	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1093/biosci/biw133"></div> Dominy N.J. & <span style="color:#377EB8;">Yeakel J.D.</span>. [*Frankenstein* and the horrors of competitive exclusion](https://academic.oup.com/bioscience/article/67/2/107/2327311/Frankenstein-and-the-Horrors-of-Competitive). *Bioscience*. doi:10.1093/biosci/biw133.
 
 	* Novak M., <span style="color:#377EB8;">Yeakel J.D.</span>, Noble A.E., Doak D.F., Emmerson M., Estes J.A., Jacob U., Tinker M.T., Wootton J.T. [Characterizing species interactions: What is the community matrix?](http://www.annualreviews.org/doi/abs/10.1146/annurev-ecolsys-032416-010215) *Annual Review of Ecology, Evolution, and Systematics*, 47. **Available in December, 2016**.
 
