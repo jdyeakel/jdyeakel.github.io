@@ -75,6 +75,7 @@ Julia
   * [Julia Coursera](https://www.coursera.org/learn/julia-programming)
 
 Other
-: * [Mathematica, Matlab, and proprietary software supplied by UCMerced](http://it.ucmerced.edu/software-list/)  
+: * [Wolfram Alpha: Easy plotting and analysis of functions using natural language](http://www.wolframalpha.com)  
+  * [Mathematica, Matlab, and proprietary software supplied by UCMerced](http://it.ucmerced.edu/software-list/)  
   * [Python - perhaps the most widely used language across sciences](https://www.python.org/)  
   * [Atom text editor](https://atom.io/)
