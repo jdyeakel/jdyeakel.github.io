@@ -44,6 +44,7 @@ Readings for the course will be provided below. However, if you are new to theor
 * [Continuous population growth and linear stability analysis](http://jdyeakel.github.io/teaching/ecodyn/notes/Ecodyn_notes2.pdf)  
 * [More linear stability analyisis and intro to bifurcations](http://jdyeakel.github.io/teaching/ecodyn/notes/Ecodyn_notes3.pdf)  
 * [Bifurcations: Saddle node and Transcritical](http://jdyeakel.github.io/teaching/ecodyn/notes/Ecodyn_notes4.pdf)  
+* [Pitchfork bifurcations, hysteresis, and spruce budworms](http://jdyeakel.github.io/teaching/ecodyn/notes/Ecodyn_notes5.pdf)  
 
 <hr>
 
