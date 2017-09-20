@@ -40,9 +40,9 @@ Publications
 
 
 2017
-:	* <span style="color:#377EB8;">Yeakel J.D.</span>, Kempes C.P., Redner S. The dynamics of starvation and recovery. In review at *PNAS*. [ArXiv version](http://arxiv.org/abs/1608.08995)
+:	* <span style="color:#377EB8;">Yeakel J.D.</span>, Kempes C.P., Redner S. The dynamics of starvation and recovery. In review at *Nature Communications*. [Preprint at ArXiv version](http://arxiv.org/abs/1608.08995)
 
-	* E. Delmas, M. Besson, M.-H. Brice, L. Burkle, G. V Dalla Riva, M.-J. Fortin, D. Gravel, P. Guimar\~aes, D. Hembry, E. Newman, J.M. Olesen, M. Pires, <span style="color:#377EB8;">J.D. Yeakel</span>, T. Poisot. [Analyzing ecological networks of species interactions](http://biorxiv.org/content/early/2017/02/28/112540). *BioRxiv*. doi:https://doi.org/10.1101/112540.
+	* E. Delmas, M. Besson, M.-H. Brice, L. Burkle, G. V Dalla Riva, M.-J. Fortin, D. Gravel, P. Guimar\~aes, D. Hembry, E. Newman, J.M. Olesen, M. Pires, <span style="color:#377EB8;">J.D. Yeakel</span>, T. Poisot. [Analyzing ecological networks of species interactions](http://biorxiv.org/content/early/2017/02/28/112540). In revision at *Biological Reviews*. [Preprint at *BioRxiv*](https://doi.org/10.1101/112540).
 
 
 2016
