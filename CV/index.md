@@ -40,9 +40,13 @@ Publications
 
 
 2017
-:	* <span style="color:#377EB8;">Yeakel J.D.</span>, Kempes C.P., Redner S. The dynamics of starvation and recovery. In review at *Nature Communications*. [Preprint at ArXiv version](http://arxiv.org/abs/1608.08995)
+:	* <span style="color:#377EB8;">Yeakel J.D.</span>, Gibert J.P., Westley P.A.H. Eco-evolutionary dynamics and collective dispersal: implications for salmon metapopulation robustness. In revision at *Philosophical Transactions of the Royal Society B: Biological Sciences*.
 
-	* E. Delmas, M. Besson, M.-H. Brice, L. Burkle, G. V Dalla Riva, M.-J. Fortin, D. Gravel, P. Guimar\~aes, D. Hembry, E. Newman, J.M. Olesen, M. Pires, <span style="color:#377EB8;">J.D. Yeakel</span>, T. Poisot. [Analyzing ecological networks of species interactions](http://biorxiv.org/content/early/2017/02/28/112540). In revision at *Biological Reviews*. [Preprint at *BioRxiv*](https://doi.org/10.1101/112540).
+	* <span style="color:#377EB8;">Yeakel J.D.</span>, Kempes C.P., Redner S. [The dynamics of starvation and recovery](http://arxiv.org/abs/1608.08995). In review at *Nature Communications*. [Preprint at *ArXiv*](http://arxiv.org/abs/1608.08995)
+
+	* de Aguiar M., Newman E., Pires M., <span style="color:#377EB8;">Yeakel J.D.</span>, Hembry D., Burkle L., Gravel D., Guimar\~aes P.R., O'Donnell J., Poisot T., Fortin M.J., <span style="color:#377EB8;">J.D. Yeakel</span>, T. Poisot. Revealing biases in the sampling of ecological interaction networks. In review at *Methods in Ecology and Evolution*.
+
+	* Delmas E., Besson M., Brice M.-H., Burkle L., Dalla Riva G. V., Fortin M.-J., Gravel D., Guimar\~aes P.R., Hembry D., Newman E., Olesen J.M., Pires M., <span style="color:#377EB8;">Yeakel J.D.</span>, Poisot T. [Analyzing ecological networks of species interactions](http://biorxiv.org/content/early/2017/02/28/112540). In revision at *Biological Reviews*. [Preprint at *BioRxiv*](http://biorxiv.org/content/early/2017/02/28/112540).
 
 
 2016
