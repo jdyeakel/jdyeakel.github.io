@@ -31,12 +31,19 @@ Readings for the course will be provided below. However, if you are new to theor
 
 <hr>
 
+> **About the final project**  
+> The final project will feature a problem that you investigate using tools from the course, but related to your own research. The gold standard would be something that can add to your thesis, or serve as a publisheable side project down the road. The idea will be to articulate an interesting question in your domain of expertise, find a way to investigate that question using tools from the course, and exploring. At the end of the course, you will give a formal presentation to the class in the form of a professional meeting talk. I'm available during office hours if you want to chat about ideas, techniques.  
+> **Due Wednesday, October 18: A paragraph describing what you want to do, and the possible methods that you might use to investigate the problem**
+
+<hr>
+
 ## Readings
 *	17/08/23: [Theoretical Biologist's Toolbox 1 (Mangel)](http://jdyeakel.github.io/teaching/ecodyn/Mangel_TBT1.pdf)  
 *	17/08/28: [Theoretical Biologist's Toolbox 2 (Mangel)](http://jdyeakel.github.io/teaching/ecodyn/Mangel_TBT2.pdf)  
 *	17/08/30: [Nonlinear Dynamics and Chaos 1 (Strogatz)](http://jdyeakel.github.io/teaching/ecodyn/Strogatz_NDC1.pdf)  
 *	17/09/06: [Nonlinear Dynamics and Chaos 2 (Strogatz)](http://jdyeakel.github.io/teaching/ecodyn/Strogatz_NDC2.pdf)  
 *	17/09/22: [Generalized Modeling of Ecological Population Dynamics (pgs 1-6) ](http://jdyeakel.github.io/teaching/ecodyn/GenModeling.pdf)  
+*	17/10/04: [Nonlinear Dynamics and Chaos 3 (Strogatz)](http://jdyeakel.github.io/teaching/ecodyn/Strogatz_NDC3.pdf)  
 
 <hr>
 
@@ -54,7 +61,7 @@ Readings for the course will be provided below. However, if you are new to theor
 * [Spatial and temporal variation (.nb)](http://jdyeakel.github.io/teaching/ecodyn/spatial_temp_var.nb)  
 * [Logistic map (.nb)](http://jdyeakel.github.io/teaching/ecodyn/logisticmap.nb)  
 * [Fixed point analysis (.nb)](http://jdyeakel.github.io/teaching/ecodyn/fixedpoints.nb)  
-
+* [Niche Model (.R)](http://jdyeakel.github.io/teaching/ecodyn/nichemodel.R)
 
 <hr>
 
