@@ -44,6 +44,7 @@ Readings for the course will be provided below. However, if you are new to theor
 *	17/09/06: [Nonlinear Dynamics and Chaos 2 (Strogatz)](http://jdyeakel.github.io/teaching/ecodyn/Strogatz_NDC2.pdf)  
 *	17/09/22: [Generalized Modeling of Ecological Population Dynamics (pgs 1-6) ](http://jdyeakel.github.io/teaching/ecodyn/GenModeling.pdf)  
 *	17/10/04: [Nonlinear Dynamics and Chaos 3 (Strogatz)](http://jdyeakel.github.io/teaching/ecodyn/Strogatz_NDC3.pdf)  
+*	17/10/11: [R. May, Nature 1972](http://jdyeakel.github.io/teaching/ecodyn/May_1972.pdf)
 
 <hr>
 
