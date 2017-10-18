@@ -1,5 +1,6 @@
 #Build a food web from the niche model
 #Import the niche model function
+#You will need to modify the file path for the location of the file on your own computer
 source("~/Dropbox/jdyeakel.github.io/teaching/ecodyn/nichemodel_function.R")
 
 S = 100
