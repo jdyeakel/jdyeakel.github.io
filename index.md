@@ -12,13 +12,15 @@ image:
 ### Life & Environmental Sciences @ UC-Merced
 
 > ## ~News~  
+> *10/18/17*: [Check out our new paper at bioaRxiv on the eco-evolutionary dynamics of salmon populations](https://www.biorxiv.org/content/early/2017/09/22/192807)
+> <br>  
 > *08/21/17*: [Uttam Bhat](https://scholar.google.com/citations?user=8AVQ7NgAAAAJ&hl=en) joins us as a postdoctoral researcher in the EcoDynamics Lab!
 > <br>  
 > *02/08/16*: We are looking for a Postdoctoral researcher to model foraging dynamics of small mammal communities in the Sevilleta LTER, New Mexico. Based at UC Merced, but in collaboration with the LTER team at University of New Mexico. Check out the full add [here](http://jdyeakel.github.io/Yeakel_postdoc.pdf)
 > <br>   
-> *10/28/16*: Excited to announce a new article co-authored with Nate Dominy on **Frankenstein and the horrors of competetive exclusion** in [BioScience](http://bioscience.oxfordjournals.org/cgi/content/full/biw133?ijkey=R3ZFUghwvm9zFz2&keytype=ref) just in time for Halloween
+> *10/28/16*: Excited to announce a new article co-authored with Nate Dominy on **Frankenstein and the horrors of competitive exclusion** in [BioScience](https://academic.oup.com/bioscience/article/67/2/107/2327311/Frankenstein-and-the-Horrors-of-Competitive) just in time for Halloween
 > <br>   
-> *09/16/16*:**Annual Review of Ecology, Evolution, & Systematics** made available the preprint to our paper titled [Characterizing Species Interactions to Understand Press Perturbations: What Is the Community Matrix?](http://www.annualreviews.org/doi/abs/10.1146/annurev-ecolsys-032416-010215) led by the illustrious [Mark Novak](http://people.oregonstate.edu/~novakm/)!
+> *09/16/16*: **Annual Review of Ecology, Evolution, & Systematics** made available the preprint to our paper titled [Characterizing Species Interactions to Understand Press Perturbations: What Is the Community Matrix?](http://www.annualreviews.org/doi/abs/10.1146/annurev-ecolsys-032416-010215) led by the illustrious [Mark Novak](http://people.oregonstate.edu/~novakm/)!
 > <br>  
 > *09/01/16*: Excited to announce a new manuscript on ArXiv: [**The dynamics of starvation and recovery**](http://arxiv.org/abs/1608.08995), with coauthors Chris Kempes and Sid Redner. This one's a labor of love...
 > <br>   
