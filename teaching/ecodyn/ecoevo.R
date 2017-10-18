@@ -2,7 +2,6 @@ require(deSolve)
 # library(deSolve)
 
 #Parameters
-
 e1 <- 0.5
 e2 <- 0.5
 r1 <- 0.2
