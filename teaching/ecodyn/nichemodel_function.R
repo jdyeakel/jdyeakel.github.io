@@ -2,7 +2,7 @@
 # THE NICHE MODEL (Williams & Martinez 2000)
 ##############################################
 
-nichemodel_function = function(S,beta) {
+nichemodel_function = function(S,b) {
 
 #How many species?
 S = S;
@@ -24,7 +24,7 @@ for (i in 1:S) {
 }
 
 #Plot the prey range vs. niche value of each species
-# plot(n,r,xlab='Niche Value',ylab='Diet range')
+plot(n,r,xlab='Niche Value',ylab='Diet range')
 
 #What is the center of the range for each consumer?
 c = numeric(S);
@@ -55,18 +55,16 @@ for (i in 1:S) {
   
 }
 #Plot number of prey as a function of niche value
-# plot(n,numprey)
+plot(n,numprey)
 #Histogram of number of prey
-# hist(numprey)
+hist(numprey)
 
 adj_matrix = matrix(0,S,S)
 for (i in 1:S) {
   ones_vec = prey[[i]]
   adj_matrix[i,ones_vec] = 1;
-  # adj_matrix[ones_vec,i] = 1;
-  adj_matrix[i,i] = 0;
+  adj_matrix[ones_vec,i] = 1;
 }
-
 
 return(adj_matrix)
 }

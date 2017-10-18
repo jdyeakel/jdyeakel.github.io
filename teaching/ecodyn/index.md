@@ -66,6 +66,8 @@ Readings for the course will be provided below. However, if you are new to theor
 * [Logistic map (.nb)](http://jdyeakel.github.io/teaching/ecodyn/logisticmap.nb)  
 * [Fixed point analysis (.nb)](http://jdyeakel.github.io/teaching/ecodyn/fixedpoints.nb)  
 * [Niche Model (.R)](http://jdyeakel.github.io/teaching/ecodyn/nichemodel.R)
+* [Dynamic food webs (.R)](http://jdyeakel.github.io/teaching/ecodyn/complexfoodweb.R); you need [this function too](http://jdyeakel.github.io/teaching/ecodyn/nichemodel_function.R)  
+* [Extinction experiments](http://jdyeakel.github.io/teaching/ecodyn/foodwebdynamics.R)
 
 <hr>
 
