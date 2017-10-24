@@ -10,6 +10,8 @@ image:
   credit: jdyeakel
 ---
 
+[Talk](https://www.dropbox.com/s/xtcga0rogdmjwra/Yeakel_GSA2017.pdf?dl=0)
+
 Generally we are interested in diet and its impact on population and community dynamics over different timescales.
 How do organisms choose their food in a variable environment?
 How do these behaviors impact the functioning of larger ecological communities?
