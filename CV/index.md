@@ -40,7 +40,7 @@ Publications
 
 
 2017
-:	* <span style="color:#377EB8;">Yeakel J.D.</span>, Gibert J.P., Westley P.A.H. [Eco-evolutionary dynamics and collective dispersal: implications for salmon metapopulation robustness](https://doi.org/10.1101/192807). In revision at *Philosophical Transactions of the Royal Society B: Biological Sciences*. [Preprint at *BiorXiv*](https://doi.org/10.1101/192807)
+:	* <span style="color:#377EB8;">Yeakel J.D.</span>, Gibert J.P., Westley P.A.H., Moore J.W. [Eco-evolutionary dynamics and collective dispersal: implications for salmon metapopulation robustness](https://doi.org/10.1101/192807). In revision at *Philosophical Transactions of the Royal Society B: Biological Sciences*. [Preprint at *BiorXiv*](https://doi.org/10.1101/192807)
 
 	* <span style="color:#377EB8;">Yeakel J.D.</span>, Kempes C.P., Redner S. [The dynamics of starvation and recovery](http://arxiv.org/abs/1608.08995). In review at *Nature Communications*. [Preprint at *ArXiv*](http://arxiv.org/abs/1608.08995)
 
