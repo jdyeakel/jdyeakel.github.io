@@ -42,7 +42,7 @@ Publications
 2017
 :	* <span style="color:#377EB8;">Yeakel J.D.</span>, Gibert J.P., Westley P.A.H., Moore J.W. [Eco-evolutionary dynamics and collective dispersal: implications for salmon metapopulation robustness](https://doi.org/10.1101/192807). In revision at *Philosophical Transactions of the Royal Society B: Biological Sciences*. [Preprint at *BiorXiv*](https://doi.org/10.1101/192807)
 
-	* <span style="color:#377EB8;">Yeakel J.D.</span>, Kempes C.P., Redner S. [The dynamics of starvation and recovery](http://arxiv.org/abs/1608.08995). In review at *Nature Communications*. [Preprint at *ArXiv*](http://arxiv.org/abs/1608.08995)
+	* <span style="color:#377EB8;">Yeakel J.D.</span>, Kempes C.P., Redner S. [The dynamics of starvation and recovery](http://arxiv.org/abs/1608.08995). In revision at *Nature Communications*. [Preprint at *ArXiv*](http://arxiv.org/abs/1608.08995)
 
 	* de Aguiar M., Newman E., Pires M., <span style="color:#377EB8;">Yeakel J.D.</span>, Hembry D., Burkle L., Gravel D., Guimar\~aes P.R., O'Donnell J., Poisot T., Fortin M.J., <span style="color:#377EB8;">J.D. Yeakel</span>, T. Poisot. Revealing biases in the sampling of ecological interaction networks. In review at *Methods in Ecology and Evolution*.
 
