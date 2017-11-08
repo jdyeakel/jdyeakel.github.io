@@ -82,7 +82,7 @@ for (t in seq(tmax-1,1,-1)) {
 
 
 
-#Individual Monte Carlo simulation
+#Individual Monte Carlo simulation with fitness-maximizing decision choices
 
 
 #initalize vectors
@@ -145,7 +145,7 @@ for (i in 2:n) {
   lines(X[i,])
 }
 
-
+# Individual Monte Carlo simulations with RANDOM activity choices
 
 n = 100;
 R = matrix(0,n,tmax);
