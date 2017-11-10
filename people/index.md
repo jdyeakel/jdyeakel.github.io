@@ -10,7 +10,7 @@ image:
 ---
 
 <div>
-<p style="float: left;padding-right:25px"><img src="/images/group.jpg" width="800"></p>    
+<p style="float: left;padding-right:25px"><img src="/images/group2.jpg" width="800"></p>    
 </div>       
 
 <!---
