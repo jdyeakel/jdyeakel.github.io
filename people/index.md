@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "What we do"
+title:
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
@@ -9,7 +9,11 @@ image:
   credit: jdyeakel
 ---
 
+<div>
+<p style="float: left;padding-right:25px"><img src="/images/group.jpg" width="800"></p>    
+</div>       
 
+<!---
 Our group is generally interested in the physical and biological constraints that shape trophic interactions, and how changes in these interactions impact community dynamics over both ecological and evolutionary time. 
 We employ both theoretical as well as empirical approaches to address many different aspects of problems that fall within this central focus, including but not limited to:   
 
@@ -21,7 +25,7 @@ We employ both theoretical as well as empirical approaches to address many diffe
 * Paleontological data   
 
 
-<!---
+
 I generally use network-theoretic approaches – combined with empirical measures of interactions e.g. stable isotopic data – to try to understand how species interactions trickle up to impact the structure and functioning of ecological communities. My long-term interests fall into 3 core themes:
 
 * the proximate drivers and ultimate effects of species interactions
