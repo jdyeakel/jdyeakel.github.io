@@ -62,7 +62,7 @@ Readings for the course will be provided below. However, if you are new to theor
 * [Eco-evolutionary dynamics](http://jdyeakel.github.io/teaching/ecodyn/notes/Ecodyn_notes10.pdf)  
 * [Adaptive foraging](http://jdyeakel.github.io/teaching/ecodyn/notes/Ecodyn_notes11.pdf)  
 * [Canonical Equation for Activity Choice](http://jdyeakel.github.io/teaching/ecodyn/notes/Ecodyn_notes12_13.pdf)  
-* [Canonical Equation for Activity Choice](http://jdyeakel.github.io/teaching/ecodyn/notes/Ecodyn_notes14_15.pdf)  
+* [Canonical Equation for Activity Choice: Part 2](http://jdyeakel.github.io/teaching/ecodyn/notes/Ecodyn_notes14_15.pdf)  
 
 
 
