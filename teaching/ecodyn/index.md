@@ -37,6 +37,8 @@ Readings for the course will be provided below. However, if you are new to theor
 
 
 <hr>
+> [**Presentation Schedule**](http://jdyeakel.github.io/teaching/finals_schedule.pdf)  
+<hr>
 
 ## Readings
 *	17/08/23: [Theoretical Biologist's Toolbox 1 (Mangel)](http://jdyeakel.github.io/teaching/ecodyn/Mangel_TBT1.pdf)  
