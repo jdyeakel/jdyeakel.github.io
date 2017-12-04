@@ -37,7 +37,7 @@ Readings for the course will be provided below. However, if you are new to theor
 
 
 <hr>
-> [**Presentation Schedule**](http://jdyeakel.github.io/teaching/finals_schedule.pdf)  
+> [**Presentation Schedule**](http://jdyeakel.github.io/teaching/ecodyn/finals_schedule.pdf)  
 <hr>
 
 ## Readings
