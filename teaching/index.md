@@ -9,7 +9,7 @@ image:
   credit: jdyeakel
 ---
 
-> ### [The Natural History of Dinosaurs (Spring, 2016)](http://jdyeakel.github.io/teaching/dinos/)   
+> ### [Natural History of Dinosaurs (Spring, 2018)](http://jdyeakel.github.io/teaching/dinos/)   
 > 65 million quarters of a second in the making
 
 <br>
@@ -20,3 +20,4 @@ image:
 <br>
 
 > ### [Ecological Dynamics (Fall, 2017)](http://jdyeakel.github.io/teaching/ecodyn/)   
+  
