@@ -16,3 +16,5 @@ image:
 * Office hours: Justin (MW 9-10 in SE1 288); Taran (R 11-1 SE1 278)
 * [Syllabus](http://jdyeakel.github.io/teaching/dinos/Syllabus_spring2018.pdf)   
 
+## Lectures
+* [Lecture 1: Timescales and fossilization](http://jdyeakel.github.io/teaching/lectures/01_Intro_paleo.pdf)  
