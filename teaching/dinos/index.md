@@ -17,4 +17,4 @@ image:
 * [Syllabus](http://jdyeakel.github.io/teaching/dinos/Syllabus_spring2018.pdf)   
 
 ## Lectures
-* [Lecture 1: Timescales and fossilization](http://jdyeakel.github.io/teaching/lectures/01_Intro_paleo.pdf)  
+* [Lecture 1: Timescales and fossilization](http://jdyeakel.github.io/teaching/dinos/lectures/01_Intro_paleo.pdf)  
