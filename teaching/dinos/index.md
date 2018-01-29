@@ -18,3 +18,4 @@ image:
 
 ## Lectures
 * [Lecture 1: Timescales and fossilization](http://jdyeakel.github.io/teaching/dinos/lectures/01_Intro_paleo.pdf)  
+* [Lecture 2: Evolution and Cladograms](http://jdyeakel.github.io/teaching/dinos/lectures/02_Evolution.pdf)  
