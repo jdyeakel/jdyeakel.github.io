@@ -19,3 +19,5 @@ image:
 ## Lectures
 * [Lecture 1: Timescales and fossilization](http://jdyeakel.github.io/teaching/dinos/lectures/01_Intro_paleo.pdf)  
 * [Lecture 2: Evolution and Cladograms](http://jdyeakel.github.io/teaching/dinos/lectures/02_Evolution.pdf)  
+* [Lecture 3: Early Life History 1](http://jdyeakel.github.io/teaching/dinos/lectures/03_EarlyLifeHistory_1.pdf)  
+* [Lecture 4: Early Life History 1](http://jdyeakel.github.io/teaching/dinos/lectures/04_EarlyLifeHistory_2.pdf)
