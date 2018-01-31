@@ -16,8 +16,8 @@ image:
 * Office hours: Justin (MW 9-10 in SE1 288); Taran (R 11-1 SE1 278)
 * [Syllabus](http://jdyeakel.github.io/teaching/dinos/Syllabus_spring2018.pdf)   
 
-> **Exam I: Wednesday February 7**
-> Covering Lectures 1-6 and Chapters 1-5
+> **Exam I: Monday February 12**
+> Covering Lectures 1-6 and Chapters 1-5 + Part III (Intro to Ornithischia)
 > You will need the long-green SCANTRON (No. 882-E)   
 > [Click here to see a picture of the required SCANTRON form](http://jdyeakel.github.io/teaching/dinos/scantron.jpg)      
 > [Click here for the answer key to **Exam 1**](http://jdyeakel.github.io/teaching/dinos/nedry.jpg)   
