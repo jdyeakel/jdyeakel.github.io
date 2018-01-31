@@ -17,7 +17,7 @@ image:
 * [Syllabus](http://jdyeakel.github.io/teaching/dinos/Syllabus_spring2018.pdf)   
 
 > **Exam I: Wednesday February 7**
-> Covering Lectures 1-6
+> Covering Lectures 1-6 and Chapters 1-5
 > You will need the long-green SCANTRON (No. 882-E)   
 > [Click here to see a picture of the required SCANTRON form](http://jdyeakel.github.io/teaching/dinos/scantron.jpg)      
 > [Click here for the answer key to **Exam 1**](http://jdyeakel.github.io/teaching/dinos/nedry.jpg)   
@@ -29,3 +29,10 @@ image:
 * [Lecture 2: Evolution and Cladograms](http://jdyeakel.github.io/teaching/dinos/lectures/02_Evolution.pdf)  
 * [Lecture 3: Early Life History 1](http://jdyeakel.github.io/teaching/dinos/lectures/03_EarlyLifeHistory_1.pdf)  
 * [Lecture 4: Early Life History 2](http://jdyeakel.github.io/teaching/dinos/lectures/04_EarlyLifeHistory_2.pdf)
+
+
+## Readings  
+* *1/17/18* Fastovsky Chapter 1 & 2  
+* *1/22/18* Fastovsky Chapter 3  
+* *1/24/18* Fastovsky Chapter 4  
+* *1/31/18* Fastovsky Chapter 5  
