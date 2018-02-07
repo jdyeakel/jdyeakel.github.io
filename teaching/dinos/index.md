@@ -28,7 +28,10 @@ image:
 * [Lecture 1: Timescales and fossilization](http://jdyeakel.github.io/teaching/dinos/lectures/01_Intro_paleo.pdf)  
 * [Lecture 2: Evolution and Cladograms](http://jdyeakel.github.io/teaching/dinos/lectures/02_Evolution.pdf)  
 * [Lecture 3: Early Life History 1](http://jdyeakel.github.io/teaching/dinos/lectures/03_EarlyLifeHistory_1.pdf)  
-* [Lecture 4: Early Life History 2](http://jdyeakel.github.io/teaching/dinos/lectures/04_EarlyLifeHistory_2.pdf)
+* [Lecture 4: Early Life History 2](http://jdyeakel.github.io/teaching/dinos/lectures/04_EarlyLifeHistory_2.pdf)  
+* [Lecture 5: Intro to Dinosauria](http://jdyeakel.github.io/teaching/dinos/lectures/05_Dinosauria.pdf)  
+* [Notes for Exam I](http://jdyeakel.github.io/teaching/dinos/Notes_1.pdf)  
+
 
 
 ## Readings  
@@ -36,3 +39,4 @@ image:
 * *1/22/18* Fastovsky Chapter 3  
 * *1/24/18* Fastovsky Chapter 4  
 * *1/31/18* Fastovsky Chapter 5  
+* *2/05/18* Fastovsky Part III  
