@@ -30,7 +30,8 @@ image:
 * [Lecture 3: Early Life History 1](http://jdyeakel.github.io/teaching/dinos/lectures/03_EarlyLifeHistory_1.pdf)  
 * [Lecture 4: Early Life History 2](http://jdyeakel.github.io/teaching/dinos/lectures/04_EarlyLifeHistory_2.pdf)  
 * [Lecture 5: Intro to Dinosauria](http://jdyeakel.github.io/teaching/dinos/lectures/05_Dinosauria.pdf)  
-* [Notes for Exam I](http://jdyeakel.github.io/teaching/dinos/Notes_1.pdf)  
+* Lecture 6: Film  
+* Lecture 7: Review [Notes for Exam I](http://jdyeakel.github.io/teaching/dinos/Notes_1.pdf)  
 
 
 
