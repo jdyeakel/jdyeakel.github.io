@@ -41,3 +41,8 @@ image:
 * *1/24/18* Fastovsky Chapter 4  
 * *1/31/18* Fastovsky Chapter 5  
 * *2/05/18* Fastovsky Part III  
+
+
+## Section Materials
+* [Section 1: Stratigraphy & Sedimentology](http://jdyeakel.github.io/teaching/dinos/Section_1_Strat_Section.pdf)  
+* [Section 2: Cladistics](http://jdyeakel.github.io/teaching/dinos/Section_2_Cladistics.pdf)  
