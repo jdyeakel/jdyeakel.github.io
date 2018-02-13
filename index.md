@@ -12,6 +12,8 @@ image:
 ### Life & Environmental Sciences @ UC-Merced
 
 > ## ~News~  
+> *02/13/18*: Excited to annouce our new paper in *Nature Communications*: [Dynamics of starvation and recovery predict extinction risk and both Damuth's law and Cope's rule](https://www.nature.com/articles/s41467-018-02822-y)
+> <br>  
 > *10/18/17*: [Check out our new paper at bioaRxiv on the eco-evolutionary dynamics of salmon populations](https://www.biorxiv.org/content/early/2017/09/22/192807)
 > <br>  
 > *08/21/17*: [Uttam Bhat](https://scholar.google.com/citations?user=8AVQ7NgAAAAJ&hl=en) joins us as a postdoctoral researcher in the EcoDynamics Lab!
