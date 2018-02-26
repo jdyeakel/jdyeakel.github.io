@@ -6,25 +6,25 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 ---
 
-Justin Douglas Yeakel  
-Assistant Professor  
-School of Natural Sciences  
-University of California, Merced  
-Email: jdyeakel at gmail.com  
-[Google Scholar](http://scholar.google.com/citations?user=nWHtsZYAAAAJ&hl=en&oi=sra)  
-[**CV (PDF)**](http://jdyeakel.github.io/pdfs/Yeakel_CV.pdf)  
+Justin Douglas Yeakel
+Assistant Professor
+School of Natural Sciences
+University of California, Merced
+Email: jdyeakel at gmail.com
+[Google Scholar](http://scholar.google.com/citations?user=nWHtsZYAAAAJ&hl=en&oi=sra)
+[**CV (PDF)**](http://jdyeakel.github.io/pdfs/Yeakel_CV.pdf)
 
 Past Positions
-=========  
-**2014--17**: Omidyar Fellow, Santa Fe Institute  
-	Santa Fe, New Mexico  
-**2012--14**: Post-Doctoral Fellow, Simon Fraser University  
-	Advisor: [Jon Moore](http://moorelab.wix.com/moorelab)  
-**2006--12**: Ph.D. Dept. Ecology and Evol. Biology  
-	University of California, Santa Cruz  
-	Thesis- [*The structure of mammalian food webs: Interpreting, predicting, and updating estimates of species interactions in paleontological and modern communities.*](http://escholarship.org/uc/item/7z7173b4)  
-	Advisor Troika: [Paul Koch](http://www.es.ucsc.edu/~pkoch/), [Marc Mangel](http://users.soe.ucsc.edu/~msmangel/), [Jim Estes](http://werc.ucsc.edu/Estes/Estes_dk.html)  
-	External Committee Member- [Paulo R. Guimaraes Jr.](http://www.guimaraes.bio.br/)  
+=========
+**2014--17**: Omidyar Fellow, Santa Fe Institute
+	Santa Fe, New Mexico
+**2012--14**: Post-Doctoral Fellow, Simon Fraser University
+	Advisor: [Jon Moore](http://moorelab.wix.com/moorelab)
+**2006--12**: Ph.D. Dept. Ecology and Evol. Biology
+	University of California, Santa Cruz
+	Thesis- [*The structure of mammalian food webs: Interpreting, predicting, and updating estimates of species interactions in paleontological and modern communities.*](http://escholarship.org/uc/item/7z7173b4)
+	Advisor Troika: [Paul Koch](http://www.es.ucsc.edu/~pkoch/), [Marc Mangel](http://users.soe.ucsc.edu/~msmangel/), [Jim Estes](http://werc.ucsc.edu/Estes/Estes_dk.html)
+	External Committee Member- [Paulo R. Guimaraes Jr.](http://www.guimaraes.bio.br/)
 **2000--04**: Bachelors of Science, Kent State University
 
 
@@ -38,8 +38,8 @@ Publications
 :	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1038/s41467-018-02822-y"></div> <span style="color:#377EB8;">Yeakel J.D.</span>, Kempes C.P., Redner S. [Dynamics of starvation and recovery predict extinction risk and both Damuth’s law and Cope's rule](https://www.nature.com/articles/s41467-018-02822-y). *Nature Communications*. doi:0.1038/s41467-018-02822-y
 
 	* <span style="color:#377EB8;">Yeakel J.D.</span>, Gibert J.P., Westley P.A.H., Moore J.W. [Eco-evolutionary dynamics and collective dispersal: implications for salmon metapopulation robustness](https://doi.org/10.1101/192807). In press @ *Philosophical Transactions of the Royal Society B: Biological Sciences*.
-	
-	* de Aguiar M., Newman E., Pires M., <span style="color:#377EB8;">Yeakel J.D.</span>, Hembry D., Burkle L., Gravel D., Guimar\~aes P.R., O'Donnell J., Poisot T., Fortin M.J., <span style="color:#377EB8;">J.D. Yeakel</span>, T. Poisot. Revealing biases in the sampling of ecological interaction networks. In review @ *Methods in Ecology and Evolution*.
+
+	* de Aguiar M.A.M., Newman E.A., Pires M., <span style="color:#377EB8;">Yeakel J.D.</span>, Hembry D., Burkle L., Gravel D., Guimar\~aes P.R., O'Donnell J., Poisot T., T. Poisot., Fortin M.J. Revealing biases in the sampling of ecological interaction networks. In review @ *Methods in Ecology and Evolution*.
 
 	* Delmas E., Besson M., Brice M.-H., Burkle L., Dalla Riva G. V., Fortin M.-J., Gravel D., Guimar\~aes P.R., Hembry D., Newman E., Olesen J.M., Pires M., <span style="color:#377EB8;">Yeakel J.D.</span>, Poisot T. [Analyzing ecological networks of species interactions](http://biorxiv.org/content/early/2017/02/28/112540). In revision @ *Biological Reviews*. [Preprint at *BioRxiv*](http://biorxiv.org/content/early/2017/02/28/112540).
 
@@ -48,7 +48,7 @@ Publications
 
 
 2016
-:	* Novak M., <span style="color:#377EB8;">Yeakel J.D.</span>, Noble A.E., Doak D.F., Emmerson M., Estes J.A., Jacob U., Tinker M.T., Wootton J.T. [Characterizing species interactions: What is the community matrix?](http://www.annualreviews.org/doi/abs/10.1146/annurev-ecolsys-032416-010215) *Annual Review of Ecology, Evolution, and Systematics*, 47. **Available in December, 2016**.
+:	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1146/annurev-ecolsys-032416-010215"></div> Novak M., <span style="color:#377EB8;">Yeakel J.D.</span>, Noble A.E., Doak D.F., Emmerson M., Estes J.A., Jacob U., Tinker M.T., Wootton J.T. [Characterizing species interactions: What is the community matrix?](http://www.annualreviews.org/doi/abs/10.1146/annurev-ecolsys-032416-010215) *Annual Review of Ecology, Evolution, and Systematics*, 47.
 
 	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1098/rsfs.2016.0001"></div> Dominy N.J., <span style="color:#377EB8;">Yeakel J.D.</span>, Bhat U., Ramsden L., Wrangham R.W., Lucas P.W. [How chimpanzees integrate sensory information to select figs](http://rsfs.royalsocietypublishing.org/content/6/3/20160001). *Journal of the Royal Society Interface Focus*, 6, 20160001.
 
@@ -56,13 +56,13 @@ Publications
 
 
 2015
-:	* Crowley B, Melin A.D., <span style="color:#377EB8;">Yeakel J.D.</span>, Dominy N.J. [Oxygen isotope values reflect the ecology and physiology of Neotropical mammals.](http://journal.frontiersin.org/article/10.3389/fevo.2015.00127/abstract) *Frontiers in Ecology and Evolution*, 3, 1-8.
+:	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="doi:10.3389/fevo.2015.00127"></div> Crowley B, Melin A.D., <span style="color:#377EB8;">Yeakel J.D.</span>, Dominy N.J. [Oxygen isotope values reflect the ecology and physiology of Neotropical mammals.](http://journal.frontiersin.org/article/10.3389/fevo.2015.00127/abstract) *Frontiers in Ecology and Evolution*, 3, 1-8.
 
 	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="doi:10.1016/j.biocon.2015.04.032"></div> Galetti M., Guevara R., Neves C. L., Rodarte R. R., Bovendorp, R. S. Moreira M., Hopkins III, J. B., <span style="color:#377EB8;">Yeakel, J. D.</span> Defaunation affects the populations and diets of rodents in Neotropical rainforests. *Biological Conservation*, 190, 2-7.
 
 	* <span style="color:#377EB8;">Yeakel, J. D.</span>, Dunne, J. A. [Modern lessons from ancient food webs](http://jdyeakel.github.io/pdfs/2015-05Yeakel.pdf). *American Scientist*, 103, 188-195.
 
-	* Moore J. W., Beakes M., Nesbitt H. K., <span style="color:#377EB8;">Yeakel, J. D.</span>, Patterson D., Thompson L., Phillis C., Braun D., Favaro C., Scott D., Carr-Harris C., Atlas W. [Emergent stability in a large free-flowing watershed](http://www.esajournals.org/doi/abs/10.1890/14-0326.1). *Ecology*, 96(2), 340-347. doi:10.1890/14-0326.1
+	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="doi:10.1890/14-0326.1"></div> Moore J. W., Beakes M., Nesbitt H. K., <span style="color:#377EB8;">Yeakel, J. D.</span>, Patterson D., Thompson L., Phillis C., Braun D., Favaro C., Scott D., Carr-Harris C., Atlas W. [Emergent stability in a large free-flowing watershed](http://www.esajournals.org/doi/abs/10.1890/14-0326.1). *Ecology*, 96(2), 340-347. doi:10.1890/14-0326.1
 
 	* <span style="color:#377EB8;">Yeakel, J. D.</span>, Pires, M. M., Rudolf, L., Dominy, N. J., Koch, P. L., Guimarães, P. R., Jr, & Gross, T. [Recovering ecological pattern and process in Ancient Egypt](http://www.pnas.org/content/early/2015/01/07/1422646112.extract) *Proceedings of the National Academy of Sciences*, pg 201422546. doi:10.1073/pnas.1422646112.
 
