@@ -64,7 +64,7 @@ Publications
 
 	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="doi:10.1890/14-0326.1"></div> Moore J. W., Beakes M., Nesbitt H. K., <span style="color:#377EB8;">Yeakel, J. D.</span>, Patterson D., Thompson L., Phillis C., Braun D., Favaro C., Scott D., Carr-Harris C., Atlas W. [Emergent stability in a large free-flowing watershed](http://www.esajournals.org/doi/abs/10.1890/14-0326.1). *Ecology*, 96(2), 340-347. doi:10.1890/14-0326.1
 
-	* <span style="color:#377EB8;">Yeakel, J. D.</span>, Pires, M. M., Rudolf, L., Dominy, N. J., Koch, P. L., Guimarães, P. R., Jr, & Gross, T. [Recovering ecological pattern and process in Ancient Egypt](http://www.pnas.org/content/early/2015/01/07/1422646112.extract) *Proceedings of the National Academy of Sciences*, pg 201422546. doi:10.1073/pnas.1422646112.
+	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="doi:10.1073/pnas.1422646112"></div> <span style="color:#377EB8;">Yeakel, J. D.</span>, Pires, M. M., Rudolf, L., Dominy, N. J., Koch, P. L., Guimarães, P. R., Jr, & Gross, T. [Recovering ecological pattern and process in Ancient Egypt](http://www.pnas.org/content/early/2015/01/07/1422646112.extract) *Proceedings of the National Academy of Sciences*, pg 201422546. doi:10.1073/pnas.1422646112.
 
 
 2014
