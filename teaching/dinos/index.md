@@ -6,23 +6,23 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 image:
   feature: dinoswide.jpg
-  credit:  
+  credit:
 ---
 
 
 ## Info
-* Class time/location: MW 10:30-11:45 in KOLLIG 217
-* Section time/location: M 12:30-1:20 in CLSSRM 279; W 1:30-2:20 in CLSSRM 288; M 6:30-7:20 in CLSSRM 203
-* Office hours: Justin (MW 9-10 in SE1 288); Taran (R 11-1 SE1 278)
-* [Syllabus](http://jdyeakel.github.io/teaching/dinos/Syllabus_spring2018.pdf)   
+* Class time/location: MW 10:30-11:45 in KOLLIG 217  
+* Section time/location: M 12:30-1:20 in CLSSRM 279; W 1:30-2:20 in CLSSRM 288; M 6:30-7:20 in CLSSRM 203  
+* Office hours: Justin (MW 9-10 in SE1 288); Taran (R 11-1 SE1 278)  
+* [Syllabus](http://jdyeakel.github.io/teaching/dinos/Syllabus_spring2018.pdf)
 [Updated class schedule (*updated 2/25*)](http://jdyeakel.github.io/teaching/dinos/updatedsyllabus.pdf)  
 
 
-> **Exam I: Monday February 12**
-> Covering Lectures 1-6 and Chapters 1-5 + Part III (Intro to Ornithischia)
-> You will need the long-green SCANTRON (No. 882-E)   
-> [Click here to see a picture of the required SCANTRON form](http://jdyeakel.github.io/teaching/dinos/scantron.jpg)      
-> [Click here for the answer key to **Exam 1**](http://jdyeakel.github.io/teaching/dinos/nedry.jpg)   
+> **Exam II: Wednesday March 7**  
+> Covering Lectures 8-12 and Chapters: Part III, 10, 11, 12  
+> You will need the long-green SCANTRON (No. 882-E)  
+> [Click here to see a picture of the required SCANTRON form](http://jdyeakel.github.io/teaching/dinos/scantron.jpg)  
+> [Click here for the answer key to **Exam 1**](http://jdyeakel.github.io/teaching/dinos/nedry.jpg)  
 
 ---
 
@@ -36,9 +36,10 @@ image:
 * Lecture 7: Review [Notes for Exam I](http://jdyeakel.github.io/teaching/dinos/Notes_1.pdf)  
 * [Lecture 8: Stegosauria](http://jdyeakel.github.io/teaching/dinos/lectures/08_Stegosauria.pdf)  
 * [Lecture 9: Ankylosauria](http://jdyeakel.github.io/teaching/dinos/lectures/09_Ankylosauria.pdf)  
+* * [Lecture 10: Pachycephalosauria](http://jdyeakel.github.io/teaching/dinos/lectures/09_Pachy.pdf)  
 
 
-## Readings  
+## Readings
 * *1/17/18* Fastovsky Chapter 1 & 2  
 * *1/22/18* Fastovsky Chapter 3  
 * *1/24/18* Fastovsky Chapter 4  

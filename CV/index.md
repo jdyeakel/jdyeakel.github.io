@@ -6,25 +6,25 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 ---
 
-Justin Douglas Yeakel
-Assistant Professor
-School of Natural Sciences
-University of California, Merced
-Email: jdyeakel at gmail.com
-[Google Scholar](http://scholar.google.com/citations?user=nWHtsZYAAAAJ&hl=en&oi=sra)
-[**CV (PDF)**](http://jdyeakel.github.io/pdfs/Yeakel_CV.pdf)
+Justin Douglas Yeakel  
+Assistant Professor  
+School of Natural Sciences  
+University of California, Merced  
+Email: jdyeakel at gmail.com  
+[Google Scholar](http://scholar.google.com/citations?user=nWHtsZYAAAAJ&hl=en&oi=sra)  
+[**CV (PDF)**](http://jdyeakel.github.io/pdfs/Yeakel_CV.pdf)  
 
 Past Positions
 =========
 **2014--17**: Omidyar Fellow, Santa Fe Institute
-	Santa Fe, New Mexico
+	Santa Fe, New Mexico  
 **2012--14**: Post-Doctoral Fellow, Simon Fraser University
-	Advisor: [Jon Moore](http://moorelab.wix.com/moorelab)
+	Advisor: [Jon Moore](http://moorelab.wix.com/moorelab)  
 **2006--12**: Ph.D. Dept. Ecology and Evol. Biology
-	University of California, Santa Cruz
-	Thesis- [*The structure of mammalian food webs: Interpreting, predicting, and updating estimates of species interactions in paleontological and modern communities.*](http://escholarship.org/uc/item/7z7173b4)
-	Advisor Troika: [Paul Koch](http://www.es.ucsc.edu/~pkoch/), [Marc Mangel](http://users.soe.ucsc.edu/~msmangel/), [Jim Estes](http://werc.ucsc.edu/Estes/Estes_dk.html)
-	External Committee Member- [Paulo R. Guimaraes Jr.](http://www.guimaraes.bio.br/)
+	University of California, Santa Cruz  
+	Thesis- [*The structure of mammalian food webs: Interpreting, predicting, and updating estimates of species interactions in paleontological and modern communities.*](http://escholarship.org/uc/item/7z7173b4)  
+	Advisor Troika: [Paul Koch](http://www.es.ucsc.edu/~pkoch/), [Marc Mangel](http://users.soe.ucsc.edu/~msmangel/), [Jim Estes](http://werc.ucsc.edu/Estes/Estes_dk.html)  
+	External Committee Member- [Paulo R. Guimaraes Jr.](http://www.guimaraes.bio.br/)  
 **2000--04**: Bachelors of Science, Kent State University
 
 
