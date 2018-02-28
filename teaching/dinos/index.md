@@ -36,7 +36,7 @@ image:
 * Lecture 7: Review [Notes for Exam I](http://jdyeakel.github.io/teaching/dinos/Notes_1.pdf)  
 * [Lecture 8: Stegosauria](http://jdyeakel.github.io/teaching/dinos/lectures/08_Stegosauria.pdf)  
 * [Lecture 9: Ankylosauria](http://jdyeakel.github.io/teaching/dinos/lectures/09_Ankylosauria.pdf)  
-* * [Lecture 10: Pachycephalosauria](http://jdyeakel.github.io/teaching/dinos/lectures/09_Pachy.pdf)  
+* [Lecture 10: Pachycephalosauria](http://jdyeakel.github.io/teaching/dinos/lectures/09_Pachy.pdf)  
 
 
 ## Readings
