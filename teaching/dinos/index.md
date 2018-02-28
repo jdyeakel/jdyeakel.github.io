@@ -14,7 +14,7 @@ image:
 * Class time/location: MW 10:30-11:45 in KOLLIG 217  
 * Section time/location: M 12:30-1:20 in CLSSRM 279; W 1:30-2:20 in CLSSRM 288; M 6:30-7:20 in CLSSRM 203  
 * Office hours: Justin (MW 9-10 in SE1 288); Taran (R 11-1 SE1 278)  
-* [Syllabus](http://jdyeakel.github.io/teaching/dinos/Syllabus_spring2018.pdf)
+* [Syllabus](http://jdyeakel.github.io/teaching/dinos/Syllabus_spring2018.pdf)  
 [Updated class schedule (*updated 2/25*)](http://jdyeakel.github.io/teaching/dinos/updatedsyllabus.pdf)  
 
 
