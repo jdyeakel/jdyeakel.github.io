@@ -22,7 +22,7 @@ image:
 > Covering Lectures 8-12 and Chapters: Part III, 10, 11, 12  
 > You will need the long-green SCANTRON (No. 882-E)  
 > [Click here to see a picture of the required SCANTRON form](http://jdyeakel.github.io/teaching/dinos/scantron.jpg)  
-> [Click here for the answer key to **Exam 1**](http://jdyeakel.github.io/teaching/dinos/nedry.jpg)  
+> [Click here for the answer key to **Exam 2**](http://jdyeakel.github.io/teaching/dinos/nedry.jpg)  
 
 ---
 
@@ -38,16 +38,21 @@ image:
 * [Lecture 9: Ankylosauria](http://jdyeakel.github.io/teaching/dinos/lectures/09_Ankylosauria.pdf)  
 * [Lecture 10: Pachycephalosauria](http://jdyeakel.github.io/teaching/dinos/lectures/10_Pachy.pdf) 
 * [Lecture 11: Ceratopsia](http://jdyeakel.github.io/teaching/dinos/lectures/11_Ceratopsia.pdf)  
+* Lecture 12: Ornithopods & Review [Notes for Exam II](http://jdyeakel.github.io/teaching/dinos/Notes_2.pdf)  
 
-
-## Readings
+## Reading Assignments
 * *1/17/18* Fastovsky Chapter 1 & 2  
 * *1/22/18* Fastovsky Chapter 3  
 * *1/24/18* Fastovsky Chapter 4  
 * *1/31/18* Fastovsky Chapter 5  
 * *2/05/18* Fastovsky Part III  
+* *2/14/18*  Fastovsky Chapter 10  
+* *2/26/18* Fastovsky Chapter 11
+* *3/5/18* Fastovsky Chapter 12
 
 
 ## Section Materials
 * [Section 1: Stratigraphy & Sedimentology](http://jdyeakel.github.io/teaching/dinos/Section_1_Strat_Section.pdf)  
 * [Section 2: Cladistics](http://jdyeakel.github.io/teaching/dinos/Section_2_Cladistics.pdf)  
+* [Section 3: Anatomy](http://jdyeakel.github.io/teaching/dinos/Section_3_Anatomy.pdf)  
+* [Section 4: Cladistics 2](http://jdyeakel.github.io/teaching/dinos/Section_4_Cladistics2.pdf)  
