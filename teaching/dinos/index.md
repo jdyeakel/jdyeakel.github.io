@@ -56,3 +56,4 @@ image:
 * [Section 2: Cladistics](http://jdyeakel.github.io/teaching/dinos/Section_2_Cladistics.pdf)  
 * [Section 3: Anatomy](http://jdyeakel.github.io/teaching/dinos/Section_3_Anatomy.pdf)  
 * [Section 4: Cladistics 2](http://jdyeakel.github.io/teaching/dinos/Section_4_Cladistics2.pdf)  
+* Section 5 Assignment: [Watch this movie](https://www.youtube.com/watch?v=hVsuDIMRZwA&t=1569s) and then [complete this worksheet](http://jdyeakel.github.io/teaching/dinos/Section_5_Clash.pdf) (due the following section)  
