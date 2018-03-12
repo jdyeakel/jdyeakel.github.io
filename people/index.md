@@ -36,7 +36,7 @@ I generally use network-theoretic approaches – combined with empirical measure
 
 ## Who we are
 
-<span style="text-align=left;font-size:1.5em;color:#377EB8;">Principal Investigator</span>   
+<span style="text-align=left;font-size:1.5em;color:#4292E5;">Principal Investigator</span>   
 <div>
 <p style="float: left;padding-right:25px"><img src="/images/justin-web.jpg" width="100"></p>    
 <b>Justin D. Yeakel:</b> "In a nutshell, I am fascinated by the ecological and physiological constraints that drive trophic interactions between species, and how such interactions trickle up to impact populations and communities over large spatial and temporal scales." <BR> <BR>
@@ -46,7 +46,7 @@ I generally use network-theoretic approaches – combined with empirical measure
 
 --- 
 
-<span style="text-align=left;font-size:1.5em;color:#377EB8;">Postdoctoral Researchers</span>   
+<span style="text-align=left;font-size:1.5em;color:#4292E5;">Postdoctoral Researchers</span>   
 <div>
 <p style="float: left;padding-right:25px"><img src="/images/JP-web.jpg" width="100"></p> <b><a href="http://jeanpgibert.weebly.com">Jean-Philippe Gibert, McDonnell Fellow</a></b> "I study how phenotypic variation affects the structure and dynamics of complex food webs and how this effect is mediated by environmental factors such as temperature. To do so, I integrate information across systems and taxa and often combine mathematical, computational and empirical tools." <BR> <BR> <BR>
 </div>      
@@ -58,7 +58,7 @@ I generally use network-theoretic approaches – combined with empirical measure
 
 ---
 
-<span style="text-align=left;font-size:1.5em;color:#377EB8;">Graduate Researchers</span> 
+<span style="text-align=left;font-size:1.5em;color:#4292E5;">Graduate Researchers</span> 
 <div>
 <p style="float: left;padding-right:25px"><img src="/images/Ritwika-web.jpg" width="100"></p>
 <b>Ritwika VPS</b> "I joined UC Merced as a physics grad student in Fall 2015. I have long been interested in the scope of using physics to solve problems in ecology and evolutionary biology, hence my interest in the Yeakel lab. Currently, I work on an eclectic collection of problems which includes looking at vocalisation in human infants as an acoustic foraging process, studying the dynamics of a population of foragers given a choice of strategies, and looking at the collective motion of phototactic bacteria."  <BR> <BR>     
@@ -73,7 +73,7 @@ I generally use network-theoretic approaches – combined with empirical measure
 
 ---    
 
-<span style="text-align=left;font-size:1.5em;color:#377EB8;">Undergraduate Researchers</span> 
+<span style="text-align=left;font-size:1.5em;color:#4292E5;">Undergraduate Researchers</span> 
 <div>
 <p style="float: left;padding-right:25px"><img src="/images/Harrison-web.jpg" width="100"></p>
 <b>Harrison Duran</b> "I am interested in studying ecology and the dynamics between systems in order to develop a greater  understanding of  humanity's impact on the environment. I gather information on mammal morphology in order to find correlations between certain morphological traits and diets"  <BR> <BR>     
@@ -83,7 +83,7 @@ I generally use network-theoretic approaches – combined with empirical measure
 
 ---
 
-<span style="text-align=left;font-size:1.5em;color:#377EB8;">Lab Alumni</span>
+<span style="text-align=left;font-size:1.5em;color:#4292E5;">Lab Alumni</span>
 <div>
 <p style="float: left;padding-right:25px"><img src="/images/Jack-web.jpg" width="100"></p> <b><a href="http://jackhopkinswildlife.com">John (Jack) Hopkins III</a></b> <b>Assistant Professor, Unity College ME</b> "I primarily conduct empirical field-based research that uses a variety of sampling methods and quantitative approaches to investigate the effects of environmental change on species interactions, wildlife-habitat relationships, and the foraging behavior and nutrition of free-ranging mammals." <BR> <BR>
 </div>      
