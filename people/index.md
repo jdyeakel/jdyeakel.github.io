@@ -55,6 +55,8 @@ I generally use network-theoretic approaches – combined with empirical measure
 <p style="float: left;padding-right:25px"><img src="/images/JP-web.jpg" width="100"></p> <b><a href="http://jeanpgibert.weebly.com">Jean-Philippe Gibert, McDonnell Fellow</a></b> "I study how phenotypic variation affects the structure and dynamics of complex food webs and how this effect is mediated by environmental factors such as temperature. To do so, I integrate information across systems and taxa and often combine mathematical, computational and empirical tools." <BR> <BR> <BR>
 </div>      
 
+<BR CLEAR="...">
+
 <div>
 <p style="float: left;padding-right:25px"><img src="/images/Uttam-web.jpg" width="100"></p> <b><a href="https://scholar.google.com/citations?user=8AVQ7NgAAAAJ&hl=en">Uttam Bhat</a></b>  "I study problems in ecology using tools from physics. In particular, currently I'm studying how different foraging behaviors affect the depletion pattern in the environment, and in turn how the depletion affects the forager's lifetime. For this, I use tools from random walks, first-passage processes and asymptotic analysis."  <BR> <BR>     
 </div>     
@@ -67,6 +69,8 @@ I generally use network-theoretic approaches – combined with empirical measure
 <p style="float: left;padding-right:25px"><img src="/images/Ritwika-web.jpg" width="100"></p>
 <b>Ritwika VPS</b> "I joined UC Merced as a physics grad student in Fall 2015. I have long been interested in the scope of using physics to solve problems in ecology and evolutionary biology, hence my interest in the Yeakel lab. Currently, I work on an eclectic collection of problems which includes looking at vocalisation in human infants as an acoustic foraging process, studying the dynamics of a population of foragers given a choice of strategies, and looking at the collective motion of phototactic bacteria."  <BR> <BR>     
 </div>     
+
+<BR CLEAR="...">
 
 <div>
 <p style="float: left;padding-right:25px"><img src="/images/Taran-web.jpg" width="100"></p>
