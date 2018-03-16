@@ -34,6 +34,16 @@ Publications
 *In prep**)
 -->
 
+In prep
+:	* <span style="color:#AAAAAA;"> Gibert J.P., Yeakel J.D. Crossing the Turing Bifurcation: revisiting Levin 1974 and the consequences of spatial structure and movement for ecological dynamics. </span>
+
+	* <span style="color:#AAAAAA;"> Gibert J.P., Yeakel J.D. Eco-evolutionary dynamics and phenotypic tradeoffs lead to dissimilar trophic level-abundance food-web structure. </span>
+
+	* <span style="color:#AAAAAA;"> Yeakel J.D., Pires M., O'Donnell J., de Aguiar M., Guimaraes Jr. P.R., Gravel D., Gross T. Quantization of ecological interaction networks yields insights into the fundamental processes underlying community assembly. </span>
+
+	* <span style="color:#AAAAAA;"> Bhat U., Yeakel J.D. Resource investment strategies in uncertain and patchy environments </span>
+
+
 2018
 :	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1038/s41467-018-02822-y"></div> <span style="color:#4292E5;">Yeakel J.D.</span>, Kempes C.P., Redner S. [Dynamics of starvation and recovery predict extinction risk and both Damuth’s law and Cope's rule](https://www.nature.com/articles/s41467-018-02822-y). *Nature Communications*. doi:0.1038/s41467-018-02822-y
 

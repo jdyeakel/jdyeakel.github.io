@@ -39,6 +39,8 @@ image:
 * [Lecture 10: Pachycephalosauria](http://jdyeakel.github.io/teaching/dinos/lectures/10_Pachy.pdf) 
 * [Lecture 11: Ceratopsia](http://jdyeakel.github.io/teaching/dinos/lectures/11_Ceratopsia.pdf)  
 * Lecture 12: [Ornithopods](http://jdyeakel.github.io/teaching/dinos/lectures/12_Ornithopods.pdf) & Review [Notes for Exam II](http://jdyeakel.github.io/teaching/dinos/Notes_2.pdf)  
+* [Lectures 13 & 14](http://jdyeakel.github.io/teaching/dinos/lectures/13_14_Sauropods.pdf)  
+
 
 ## Reading Assignments
 * *1/17/18* Fastovsky Chapter 1 & 2  
@@ -49,6 +51,7 @@ image:
 * *2/14/18*  Fastovsky Chapter 10  
 * *2/26/18* Fastovsky Chapter 11
 * *3/5/18* Fastovsky Chapter 12
+* *3/12/18* Fastovsky Part II and Chapter 9
 
 
 ## Section Materials
