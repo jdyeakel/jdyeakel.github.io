@@ -40,7 +40,7 @@ image:
 * [Lecture 11: Ceratopsia](http://jdyeakel.github.io/teaching/dinos/lectures/11_Ceratopsia.pdf)  
 * Lecture 12: [Ornithopods](http://jdyeakel.github.io/teaching/dinos/lectures/12_Ornithopods.pdf) & Review [Notes for Exam II](http://jdyeakel.github.io/teaching/dinos/Notes_2.pdf)  
 * [Lectures 13 & 14](http://jdyeakel.github.io/teaching/dinos/lectures/13_14_Sauropods.pdf)  
-
+* [Lecture 15](http://jdyeakel.github.io/teaching/dinos/lectures/15_Metabolism.pdf)
 
 ## Reading Assignments
 * *1/17/18* Fastovsky Chapter 1 & 2  
@@ -52,6 +52,8 @@ image:
 * *2/26/18* Fastovsky Chapter 11
 * *3/5/18* Fastovsky Chapter 12
 * *3/12/18* Fastovsky Part II and Chapter 9
+* *3/19/18* Fastovsky Part IV and Chapter 13
+* *3/21/18* Fastovsky Chapter 6 & 7
 
 
 ## Section Materials
