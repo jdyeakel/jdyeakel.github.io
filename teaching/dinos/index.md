@@ -39,8 +39,9 @@ image:
 * [Lecture 10: Pachycephalosauria](http://jdyeakel.github.io/teaching/dinos/lectures/10_Pachy.pdf) 
 * [Lecture 11: Ceratopsia](http://jdyeakel.github.io/teaching/dinos/lectures/11_Ceratopsia.pdf)  
 * Lecture 12: [Ornithopods](http://jdyeakel.github.io/teaching/dinos/lectures/12_Ornithopods.pdf) & Review [Notes for Exam II](http://jdyeakel.github.io/teaching/dinos/Notes_2.pdf)  
-* [Lectures 13 & 14](http://jdyeakel.github.io/teaching/dinos/lectures/13_14_Sauropods.pdf)  
-* [Lecture 15](http://jdyeakel.github.io/teaching/dinos/lectures/15_Metabolism.pdf)
+* [Lectures 13 & 14: Sauropods](http://jdyeakel.github.io/teaching/dinos/lectures/13_14_Sauropods.pdf)  
+* [Lecture 15: Metabolism](http://jdyeakel.github.io/teaching/dinos/lectures/15_Metabolism.pdf)  
+* Lecture [16: Body size](http://jdyeakel.github.io/teaching/dinos/lectures/16_BodySize.pdf) & [17: Theropods](http://jdyeakel.github.io/teaching/dinos/lectures/17_Theropods_1.pdf)
 
 ## Reading Assignments
 * *1/17/18* Fastovsky Chapter 1 & 2  
