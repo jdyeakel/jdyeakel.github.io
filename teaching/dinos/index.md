@@ -41,7 +41,8 @@ image:
 * Lecture 12: [Ornithopods](http://jdyeakel.github.io/teaching/dinos/lectures/12_Ornithopods.pdf) & Review [Notes for Exam II](http://jdyeakel.github.io/teaching/dinos/Notes_2.pdf)  
 * [Lectures 13 & 14: Sauropods](http://jdyeakel.github.io/teaching/dinos/lectures/13_14_Sauropods.pdf)  
 * [Lecture 15: Metabolism](http://jdyeakel.github.io/teaching/dinos/lectures/15_Metabolism.pdf)  
-* Lecture [16: Body size](http://jdyeakel.github.io/teaching/dinos/lectures/16_BodySize.pdf) & [17: Theropods](http://jdyeakel.github.io/teaching/dinos/lectures/17_Theropods_1.pdf)
+* Lecture [16: Body size](http://jdyeakel.github.io/teaching/dinos/lectures/16_BodySize.pdf) & [17: Theropods](http://jdyeakel.github.io/teaching/dinos/lectures/17_Theropods_1.pdf)  
+* Lecture 18: [Theropods II](http://jdyeakel.github.io/teaching/dinos/lectures/18_Theropods_2.pdf)
 
 ## Reading Assignments
 * *1/17/18* Fastovsky Chapter 1 & 2  
@@ -49,13 +50,13 @@ image:
 * *1/24/18* Fastovsky Chapter 4  
 * *1/31/18* Fastovsky Chapter 5  
 * *2/05/18* Fastovsky Part III  
-* *2/14/18*  Fastovsky Chapter 10  
+* *2/14/18* Fastovsky Chapter 10  
 * *2/26/18* Fastovsky Chapter 11
-* *3/5/18* Fastovsky Chapter 12
+* *3/05/18* Fastovsky Chapter 12
 * *3/12/18* Fastovsky Part II and Chapter 9
 * *3/19/18* Fastovsky Part IV and Chapter 13
 * *3/21/18* Fastovsky Chapter 6 & 7
-
+* *4/04/28* Fastovsky Chapter 8
 
 ## Section Materials
 * [Section 1: Stratigraphy & Sedimentology](http://jdyeakel.github.io/teaching/dinos/Section_1_Strat_Section.pdf)  
