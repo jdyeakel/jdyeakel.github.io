@@ -47,7 +47,7 @@ In prep
 2018
 :	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1038/s41467-018-02822-y"></div> <span style="color:#4292E5;">Yeakel J.D.</span>, Kempes C.P., Redner S. [Dynamics of starvation and recovery predict extinction risk and both Damuth’s law and Cope's rule](https://www.nature.com/articles/s41467-018-02822-y). *Nature Communications*. doi:0.1038/s41467-018-02822-y
 
-	* <span style="color:#4292E5;">Yeakel J.D.</span>, Gibert J.P., Westley P.A.H., Moore J.W. [Eco-evolutionary dynamics and collective dispersal: implications for salmon metapopulation robustness](https://doi.org/10.1101/192807). In press @ *Philosophical Transactions of the Royal Society B: Biological Sciences*.
+	* <span style="color:#4292E5;">Yeakel J.D.</span>, Gibert J.P., Gross T., Westley P.A.H., Moore J.W. [Eco-evolutionary dynamics and collective dispersal: implications for salmon metapopulation robustness](http://rstb.royalsocietypublishing.org/content/373/1746/20170018). *Philosophical Transactions of the Royal Society B: Biological Sciences*. doi:10.1098/rstb.2017.0018
 
 	* de Aguiar M.A.M., Newman E.A., Pires M., <span style="color:#4292E5;">Yeakel J.D.</span>, Hembry D., Burkle L., Gravel D., Guimar\~aes P.R., O'Donnell J., Poisot T., T. Poisot., Fortin M.J. Revealing biases in the sampling of ecological interaction networks. In review @ *Methods in Ecology and Evolution*.
 
