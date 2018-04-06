@@ -18,8 +18,8 @@ image:
 [Updated class schedule (*updated 2/25*)](http://jdyeakel.github.io/teaching/dinos/updatedsyllabus.pdf)  
 
 
-> **Exam II: Wednesday March 7**  
-> Covering Lectures 8-12 and Chapters: Part III, 10, 11, 12  
+> **Exam III: Wednesday April 11**  
+> Covering Lectures 13-19 and Chapters: Part II, 9, Part IV, 13, 6-8  
 > You will need the long-green SCANTRON (No. 882-E)  
 > [Click here to see a picture of the required SCANTRON form](http://jdyeakel.github.io/teaching/dinos/scantron.jpg)  
 > [Click here for the answer key to **Exam 2**](http://jdyeakel.github.io/teaching/dinos/nedry.jpg)  
@@ -42,7 +42,8 @@ image:
 * [Lectures 13 & 14: Sauropods](http://jdyeakel.github.io/teaching/dinos/lectures/13_14_Sauropods.pdf)  
 * [Lecture 15: Metabolism](http://jdyeakel.github.io/teaching/dinos/lectures/15_Metabolism.pdf)  
 * Lecture [16: Body size](http://jdyeakel.github.io/teaching/dinos/lectures/16_BodySize.pdf) & [17: Theropods](http://jdyeakel.github.io/teaching/dinos/lectures/17_Theropods_1.pdf)  
-* Lecture 18: [Theropods II](http://jdyeakel.github.io/teaching/dinos/lectures/18_Theropods_2.pdf)
+* Lecture 18: [Theropods II](http://jdyeakel.github.io/teaching/dinos/lectures/18_Theropods_2.pdf)  
+* Lecture 19: [Birds](http://jdyeakel.github.io/teaching/dinos/lectures/19_Birds.pdf)
 
 ## Reading Assignments
 * *1/17/18* Fastovsky Chapter 1 & 2  
