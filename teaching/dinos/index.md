@@ -43,7 +43,8 @@ image:
 * [Lecture 15: Metabolism](http://jdyeakel.github.io/teaching/dinos/lectures/15_Metabolism.pdf)  
 * Lecture [16: Body size](http://jdyeakel.github.io/teaching/dinos/lectures/16_BodySize.pdf) & [17: Theropods](http://jdyeakel.github.io/teaching/dinos/lectures/17_Theropods_1.pdf)  
 * Lecture 18: [Theropods II](http://jdyeakel.github.io/teaching/dinos/lectures/18_Theropods_2.pdf)  
-* Lecture 19: [Birds](http://jdyeakel.github.io/teaching/dinos/lectures/19_Birds.pdf)
+* Lecture 19: [Birds](http://jdyeakel.github.io/teaching/dinos/lectures/19_Birds.pdf)  
+* Lecture 20: Finish evolution of birds and [Notes for Exam III](http://jdyeakel.github.io/teaching/dinos/Notes_3.pdf)  
 
 ## Reading Assignments
 * *1/17/18* Fastovsky Chapter 1 & 2  
