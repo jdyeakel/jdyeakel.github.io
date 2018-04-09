@@ -22,7 +22,7 @@ image:
 > Covering Lectures 13-19 and Chapters: Part II, 9, Part IV, 13, 6-8  
 > You will need the long-green SCANTRON (No. 882-E)  
 > [Click here to see a picture of the required SCANTRON form](http://jdyeakel.github.io/teaching/dinos/scantron.jpg)  
-> [Click here for the answer key to **Exam 2**](http://jdyeakel.github.io/teaching/dinos/nedry.jpg)  
+> [Click here for the answer key to **Exam 3**](http://jdyeakel.github.io/teaching/dinos/nedry.jpg)  
 
 ---
 
