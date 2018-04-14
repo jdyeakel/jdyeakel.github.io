@@ -52,7 +52,7 @@ I generally use network-theoretic approaches – combined with empirical measure
 
 <span style="text-align=left;font-size:1.5em;color:#4292E5;">Postdoctoral Researchers</span>   
 <div>
-<p style="float: left;padding-right:25px"><img src="/images/JP-web.jpg" width="100"></p> <b><a href="http://jeanpgibert.weebly.com">Jean-Philippe Gibert, McDonnell Fellow</a></b> "I study how phenotypic variation affects the structure and dynamics of complex food webs and how this effect is mediated by environmental factors such as temperature. To do so, I integrate information across systems and taxa and often combine mathematical, computational and empirical tools." <BR> <BR> <BR>
+<p style="float: left;padding-right:25px"><img src="/images/JP-web.jpg" width="100"></p> <b><a href="http://jeanpgibert.weebly.com">Jean-Philippe Gibert, McDonnell Fellow</a></b> "I study how phenotypic variation affects the structure and dynamics of complex food webs and how this effect is mediated by environmental factors such as temperature. To do so, I integrate information across systems and taxa and often combine mathematical, computational and empirical tools." <b>Jean Phillipe will be joining Duke University in the Fall, 2018 as an Assistant Professor!</b> <BR> <BR> <BR>
 </div>      
 
 <BR CLEAR="...">
