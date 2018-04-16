@@ -45,6 +45,7 @@ image:
 * Lecture 18: [Theropods II](http://jdyeakel.github.io/teaching/dinos/lectures/18_Theropods_2.pdf)  
 * Lecture 19: [Birds](http://jdyeakel.github.io/teaching/dinos/lectures/19_Birds.pdf)  
 * Lecture 20: Finish evolution of birds and [Notes for Exam III](http://jdyeakel.github.io/teaching/dinos/Notes_3.pdf)  
+* Lecture 21: [Flying Reptiles](http://jdyeakel.github.io/teaching/dinos/lectures/21_Flying_Reptiles.pdf)  
 
 ## Reading Assignments
 * *1/17/18* Fastovsky Chapter 1 & 2  
