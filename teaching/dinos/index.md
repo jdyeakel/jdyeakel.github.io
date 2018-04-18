@@ -59,7 +59,8 @@ image:
 * *3/12/18* Fastovsky Part II and Chapter 9
 * *3/19/18* Fastovsky Part IV and Chapter 13
 * *3/21/18* Fastovsky Chapter 6 & 7
-* *4/04/28* Fastovsky Chapter 8
+* *4/04/18* Fastovsky Chapter 8
+* *4/16-18/18* [Earth Archive](http://www.eartharchives.org/articles/your-favorite-extinct-reptile-may-not-be-a-dinosaur/), **For section next week read: [The Evolution of Marine Reptiles](http://jdyeakel.github.io/teaching/dinos/Motani_Evo_Edu_Outreach_2009.pdf)**
 
 ## Section Materials
 * [Section 1: Stratigraphy & Sedimentology](http://jdyeakel.github.io/teaching/dinos/Section_1_Strat_Section.pdf)  
