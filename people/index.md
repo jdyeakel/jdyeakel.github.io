@@ -9,13 +9,7 @@ image:
   credit: jdyeakel
 ---
 
-<div>
-<p style="float: left;padding-right:25px"><img src="/images/group2.jpg" width="800"></p>    
-</div>       
 
-<BR CLEAR="...">   
-
----
 
 <!---
 Our group is generally interested in the physical and biological constraints that shape trophic interactions, and how changes in these interactions impact community dynamics over both ecological and evolutionary time. 
