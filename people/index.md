@@ -60,13 +60,6 @@ I generally use network-theoretic approaches – combined with empirical measure
 
 <span style="text-align=left;font-size:1.5em;color:#4292E5;">Graduate Researchers</span> 
 <div>
-<p style="float: left;padding-right:25px"><img src="/images/Irina-web.jpg" width="100"></p>
-<b>Irina Birskis Barros</b> "I will join UC Merced as a PhD student in Fall 2018. I am interested in how species assemble into communities, especially how diversity shapes and is shaped by species interactions. I aim to use empirical data, mathematical modeling and network theory to investigate how ecological networks assemble and what factors might influence their stability and structure over evolutionary time."  <BR> <BR>     
-</div>     
-
-<BR CLEAR="...">
-
-<div>
 <p style="float: left;padding-right:25px"><img src="/images/Ritwika-web.jpg" width="100"></p>
 <b>Ritwika VPS</b> "I joined UC Merced as a physics grad student in Fall 2015. I have long been interested in the scope of using physics to solve problems in ecology and evolutionary biology, hence my interest in the Yeakel lab. Currently, I work on an eclectic collection of problems which includes looking at vocalisation in human infants as an acoustic foraging process, studying the dynamics of a population of foragers given a choice of strategies, and looking at the collective motion of phototactic bacteria."  <BR> <BR>     
 </div>     
@@ -79,6 +72,13 @@ I generally use network-theoretic approaches – combined with empirical measure
 </div>     
 
 <BR CLEAR="...">   
+
+<div>
+<p style="float: left;padding-right:25px"><img src="/images/Irina-web.jpg" width="100"></p>
+<b>Irina Birskis Barros</b> "I will join UC Merced as a PhD student in Fall 2018. I am interested in how species assemble into communities, especially how diversity shapes and is shaped by species interactions. I aim to use empirical data, mathematical modeling and network theory to investigate how ecological networks assemble and what factors might influence their stability and structure over evolutionary time."  <BR> <BR>     
+</div>     
+
+<BR CLEAR="...">
 
 ---    
 
