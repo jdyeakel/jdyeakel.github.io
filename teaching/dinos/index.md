@@ -18,11 +18,11 @@ image:
 [Updated class schedule (*updated 2/25*)](http://jdyeakel.github.io/teaching/dinos/updatedsyllabus.pdf)  
 
 
-> **Exam III: Wednesday April 11**  
-> Covering Lectures 13-19 and Chapters: Part II, 9, Part IV, 13, 6-8  
+> **Exam IV: Saturday May 5 from 8:00-11:00am	KOLLIG 217**  
+> Covering Lectures 21 onwards and Chapters: 14, 16 and selected readings (below)  
 > You will need the long-green SCANTRON (No. 882-E)  
 > [Click here to see a picture of the required SCANTRON form](http://jdyeakel.github.io/teaching/dinos/scantron.jpg)  
-> [Click here for the answer key to **Exam 3**](http://jdyeakel.github.io/teaching/dinos/nedry.jpg)  
+> [Click here for the answer key to **Exam 4**](http://jdyeakel.github.io/teaching/dinos/nedry.jpg)  
 
 ---
 
@@ -46,6 +46,7 @@ image:
 * Lecture 19: [Birds](http://jdyeakel.github.io/teaching/dinos/lectures/19_Birds.pdf)  
 * Lecture 20: Finish evolution of birds and [Notes for Exam III](http://jdyeakel.github.io/teaching/dinos/Notes_3.pdf)  
 * Lecture 21: [Flying Reptiles](http://jdyeakel.github.io/teaching/dinos/lectures/21_Flying_Reptiles.pdf)  
+* Lecture 22: [Swimming Reptiles](http://jdyeakel.github.io/teaching/dinos/lectures/22_Swimming_Reptiles.pdf)  
 
 ## Reading Assignments
 * *1/17/18* Fastovsky Chapter 1 & 2  
