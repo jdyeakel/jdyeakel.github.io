@@ -41,7 +41,9 @@ In prep
 
 	* <span style="color:#AAAAAA;"> Yeakel J.D., Pires M., O'Donnell J., de Aguiar M., Guimaraes Jr. P.R., Gravel D., Gross T. Quantization of ecological interaction networks yields insights into the fundamental processes underlying community assembly. </span>
 
-	* <span style="color:#AAAAAA;"> Bhat U., Yeakel J.D. Resource investment strategies in uncertain and patchy environments </span>
+	* <span style="color:#AAAAAA;"> Bhat U., Yeakel J.D. Resource investment strategies in uncertain and patchy environments. </span>
+
+	* <span style="color:#AAAAAA;"> Baiser B., Gravel D., Cirtwill A., Dunne J.A., Fahimpour A.K., Gilarranz L.J., Grochow J.A., Li D., Martinez N.D., McGrew A., Poisot T., Romnuk T.N., Stouffer D.B., Trotta1 L.B.,Valdovinos F.S., Williams R.J., Wood S.A., Yeakel J.D. Ecogeographical Rules and the Macroecology of Food Webs. </span> 
 
 
 2018
