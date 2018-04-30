@@ -47,6 +47,8 @@ image:
 * Lecture 20: Finish evolution of birds and [Notes for Exam III](http://jdyeakel.github.io/teaching/dinos/Notes_3.pdf)  
 * Lecture 21: [Flying Reptiles](http://jdyeakel.github.io/teaching/dinos/lectures/21_Flying_Reptiles.pdf)  
 * Lecture 22: [Swimming Reptiles](http://jdyeakel.github.io/teaching/dinos/lectures/22_Swimming_Reptiles.pdf)  
+* Lecture 23: [Swimming Reptiles](http://jdyeakel.github.io/teaching/dinos/lectures/23_MesozoicWorld.pdf)  
+* Lecture 24-25: [Crocs & Mammals](http://jdyeakel.github.io/teaching/dinos/lectures/24_25_Crocs_Mammals.pdf) and [Notes for Exam 4](http://jdyeakel.github.io/teaching/dinos/Notes_4.pdf)
 
 ## Reading Assignments
 * *1/17/18* Fastovsky Chapter 1 & 2  
