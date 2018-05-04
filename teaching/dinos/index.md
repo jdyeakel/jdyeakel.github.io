@@ -48,7 +48,8 @@ image:
 * Lecture 21: [Flying Reptiles](http://jdyeakel.github.io/teaching/dinos/lectures/21_Flying_Reptiles.pdf)  
 * Lecture 22: [Swimming Reptiles](http://jdyeakel.github.io/teaching/dinos/lectures/22_Swimming_Reptiles.pdf)  
 * Lecture 23: [Swimming Reptiles](http://jdyeakel.github.io/teaching/dinos/lectures/23_MesozoicWorld.pdf)  
-* Lecture 24-25: [Crocs & Mammals](http://jdyeakel.github.io/teaching/dinos/lectures/24_25_Crocs_Mammals.pdf) and [Notes for Exam 4](http://jdyeakel.github.io/teaching/dinos/Notes_4.pdf)
+* Lecture 24-25: [Crocs & Mammals](http://jdyeakel.github.io/teaching/dinos/lectures/24_25_Crocs_Mammals.pdf) and [Notes for Exam 4](http://jdyeakel.github.io/teaching/dinos/Notes_4.pdf)  
+* Lecture 26: [The K-Pg Extinction](http://jdyeakel.github.io/teaching/dinos/lectures/26_Extinction.pdf)  
 
 ## Reading Assignments
 * *1/17/18* Fastovsky Chapter 1 & 2  
@@ -64,6 +65,8 @@ image:
 * *3/21/18* Fastovsky Chapter 6 & 7
 * *4/04/18* Fastovsky Chapter 8
 * *4/16-18/18* [Earth Archive](http://www.eartharchives.org/articles/your-favorite-extinct-reptile-may-not-be-a-dinosaur/), **For section next week read: [The Evolution of Marine Reptiles](http://jdyeakel.github.io/teaching/dinos/Motani_Evo_Edu_Outreach_2009.pdf)**
+* *4/23/18* Fastovsky Chapter 14
+* *4/30/18* Fastovsky Chapter 16
 
 ## Section Materials
 * [Section 1: Stratigraphy & Sedimentology](http://jdyeakel.github.io/teaching/dinos/Section_1_Strat_Section.pdf)  
