@@ -10,18 +10,18 @@ image:
 ---
 
 ## Info
-*	Class time/location: MW 10:30-11:45 in SSB 120
-*	Section BIO/ESS-148-02D: W 5:30-6:20 in CLSSRM 279
-*	Section BIO/ESS-148-03D: W 6:30-7:20 in CLSSRM 276
-*	Section BIO/ESS-148-04D: M 4:30-5:20 in CLSSRM 127
+*	Class time/location: TR 9:00-10:15 in GRAN 135
+*	Section BIO/ESS-148-02D: F 1:30-2:20 in GLCR 120
+*	Section BIO/ESS-148-03D: F 2:30-3:20 in GLCR 120
+*	Section BIO/ESS-148-04D: F 4:30-5:20 in CLSSRM 260
 
 <hr>
 
-*	Office hours: JD Yeakel (M 2-3, W 9-10 in SE1 288)
-*	Office house: Taran Rallings (M 2-4 in SE1 258)
-*	[Syllabus](http://jdyeakel.github.io/teaching/ecology/Syllabus.pdf)
+*	Office hours: JD Yeakel (T 10:30-11:30, R 10:30-11:30 in SE1 288)
+*	Office house: Irina Barros (M 11:00-12:00 in AOA 166; W 2:00-3:00 in COB1 315)
+*	[Syllabus](http://jdyeakel.github.io/teaching/ecology/Syllabus_Ecology2018.pdf)
 
-
+<!---
 <hr>
 
 [Homework 2: due in section during the week of March 20. Print and turn in.](http://jdyeakel.github.io/teaching/ecology/Homework2.pdf)
@@ -38,7 +38,7 @@ image:
 
 ### Discussion section materials
 
-<!---
+
 *	Week 1: The web of life. **Required reading:** Cain chap. 1 ([slides](http://jdyeakel.github.io/teaching/ecology/slides/Lect1_BIO148.pdf))
 *	Week 2: Scales in ecology. [**Required reading**](http://jdyeakel.github.io/teaching/ecology/papers/01_Levin.pdf) ([slides](http://jdyeakel.github.io/teaching/ecology/slides/Lect2_BIO148.pdf))
 *	Week 3: Biomes. **Required reading:** Cain chap. 3 ([slides](http://jdyeakel.github.io/teaching/ecology/slides/Lect3_BIO148.pdf))
