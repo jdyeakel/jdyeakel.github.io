@@ -1,6 +1,6 @@
 ---
 layout: pagetrim
-title: "Foundations of Ecology (Spring, 2017)"
+title: "Foundations of Ecology (Spring, 2018)"
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
@@ -36,6 +36,9 @@ image:
 
 ### Lecture materials
 
+### Discussion section materials
+
+<!---
 *	Week 1: The web of life. **Required reading:** Cain chap. 1 ([slides](http://jdyeakel.github.io/teaching/ecology/slides/Lect1_BIO148.pdf))
 *	Week 2: Scales in ecology. [**Required reading**](http://jdyeakel.github.io/teaching/ecology/papers/01_Levin.pdf) ([slides](http://jdyeakel.github.io/teaching/ecology/slides/Lect2_BIO148.pdf))
 *	Week 3: Biomes. **Required reading:** Cain chap. 3 ([slides](http://jdyeakel.github.io/teaching/ecology/slides/Lect3_BIO148.pdf))
@@ -77,3 +80,4 @@ image:
 * Week 9 (3/13 - 3/17): [**Required Reading**](http://jdyeakel.github.io/teaching/ecology/papers/06_Dominy.pdf)
 * Week 10 (4/3 - 4/7): No reading required
 * Week 11 (4/10 - 4/14): [**Required Reading**](http://jdyeakel.github.io/teaching/ecology/papers/07_Estes.pdf)
+--->
