@@ -14,7 +14,7 @@ image:
 
 <br>
 
-> ### [Foundations of Ecology (Spring, 2017)](http://jdyeakel.github.io/teaching/ecology/)  
+> ### [Foundations of Ecology (Fall, 2018)](http://jdyeakel.github.io/teaching/ecology/)  
 > Putting the Lotka in your Volterra since 1926       
 
 <br>
