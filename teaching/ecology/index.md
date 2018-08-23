@@ -13,7 +13,7 @@ image:
 *	Class time/location: TR 9:00-10:15 in GRAN 135
 *	Section BIO/ESS-148-02D: F 1:30-2:20 in GLCR 120
 *	Section BIO/ESS-148-03D: F 2:30-3:20 in GLCR 120
-*	Section BIO/ESS-148-04D: F 4:30-5:20 in CLSSRM 260 
+*	Section BIO/ESS-148-04D: F 4:30-5:20 in CLSSRM 260
 
 <hr>
 
