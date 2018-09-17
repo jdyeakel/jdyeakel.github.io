@@ -25,7 +25,8 @@ image:
 ### Discussion section materials
 * Week 2 Reading: [Excerpts from A Sand County Almanac](http://jdyeakel.github.io/teaching/ecology/papers/Leopold_Excerpts.pdf)
 * Week 3 Reading: [The Naturalist by Barry Lopez](http://jdyeakel.github.io/teaching/ecology/papers/Lopez_TheNaturalist.pdf)
-* Week 4 [Discussion Questions](http://jdyeakel.github.io/teaching/ecology/papers/guide_09_13.pdf)
+* Week 4: [Discussion Questions](http://jdyeakel.github.io/teaching/ecology/papers/guide_09_13.pdf)
+* Week 5: [Allometry](http://jdyeakel.github.io/teaching/ecology/papers/Allometry.pdf)
 
 
 
