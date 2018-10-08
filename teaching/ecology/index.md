@@ -29,6 +29,7 @@ image:
 * Week 5: [Allometry](http://jdyeakel.github.io/teaching/ecology/papers/Allometry.pdf)
 * Week 6: [Parasite Life History](http://jdyeakel.github.io/teaching/ecology/papers/Kochin_ParasiteEvolution.pdf)
 * Week 7: [Optimal Foraging Theory](http://jdyeakel.github.io/teaching/ecology/papers/optimalforaging.pdf)
+* Week 8: [Game Theory](http://jdyeakel.github.io/teaching/ecology/papers/EvolGameTheory.pdf)
 
 
 <!---
