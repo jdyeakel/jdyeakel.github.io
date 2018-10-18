@@ -21,6 +21,9 @@ image:
 *	Office house: Irina Barros (M 11:00-12:00 in AOA 166; W 2:00-3:00 in COB1 315)
 *	[Syllabus](http://jdyeakel.github.io/teaching/ecology/Syllabus_Ecology2018.pdf)
 
+<hr>
+
+*Exam II*: Lecture notes; Book chapters 7, 8, and 10; Section readings
 
 ### Discussion section materials
 * Week 2 Reading: [Excerpts from A Sand County Almanac](http://jdyeakel.github.io/teaching/ecology/papers/Leopold_Excerpts.pdf)
