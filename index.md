@@ -12,6 +12,8 @@ image:
 ### Life & Environmental Sciences @ UC-Merced
 
 > ## ~News~  
+> *02/19/19*: Another paper out led by J.P. Gibert! [Eco-Evolutionary Origins of Diverse Abundance, Biomass, and Trophic Structures in Food Webs](https://doi.org/10.3389/fevo.2019.00015) in Frontiers...
+> <br>  
 > *01/25/19*: New paper on incorporating space into models of ecological interactions by recent postdoctoral fellow J.P. Gibert (now at Duke)! From Laplacian matrices to Turing bifurcations @ [Theoretical Ecology](https://link.springer.com/article/10.1007/s12080-018-0403-2). A link to the [pdf](http://jdyeakel.github.io/publications/Gibert_Theor._Ecol._2019.pdf).
 > <br>  
 > *04/02/18*: Our contribution to the [themed issue on Collective Movement](http://rstb.royalsocietypublishing.org/content/373/1746) has come out in *Philosophical Transactions of the Royal Society B: Biological Sciences*! We explore the eco-evolutionary impacts of collective movement in salmonid populations. [Check it out here](http://rstb.royalsocietypublishing.org/content/373/1746/20170018).
