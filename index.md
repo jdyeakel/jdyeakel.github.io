@@ -12,6 +12,8 @@ image:
 ### Life & Environmental Sciences @ UC-Merced
 
 > ## ~News~  
+> *05/04/19*: New Preprint with Uttam Bhat as lead! May the fourth be with us! [Scaling of the risk landscape drives optimal life history strategies and the evolution of grazing.](https://arxiv.org/abs/1905.01540)
+> <br>  
 > *02/19/19*: Another paper out led by J.P. Gibert: [Eco-Evolutionary Origins of Diverse Abundance, Biomass, and Trophic Structures in Food Webs](https://doi.org/10.3389/fevo.2019.00015) in Frontiers in Ecology and Evolution!
 > <br>  
 > *01/25/19*: New paper on incorporating space into models of ecological interactions by recent postdoctoral fellow J.P. Gibert (now at Duke)! From Laplacian matrices to Turing bifurcations @ [Theoretical Ecology](https://link.springer.com/article/10.1007/s12080-018-0403-2). A link to the [pdf](http://jdyeakel.github.io/publications/Gibert_Theor._Ecol._2019.pdf).
