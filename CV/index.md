@@ -39,7 +39,9 @@ In prep
 
 
 Preprint
-:	* Bhat U., Kempes C.P., <span style="color:#4292E5;">Yeakel J.D.</span> [Scaling of the risk landscape drives optimal life history strategies and the evolution of grazing.](https://arxiv.org/abs/1905.01540) *Arxiv* 1905.01540.
+:	* Bhat U., Kempes C.P., <span style="color:#4292E5;">Yeakel J.D.</span> [Scaling of the risk landscape drives optimal life history strategies and the evolution of grazing.](https://arxiv.org/abs/1905.01540) *ArXiv* 1905.01540.
+
+	* <span style="color:#4292E5;">Yeakel, J. D.</span>, Bhat U., Newsome S.D. [Caching in or falling back at the Sevilleta](https://arxiv.org/abs/1907.06305) *ArXiv* 1907.06305. 
 
 2019
 :	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1111/geb.12925"></div> Baiser B., Gravel D., Cirtwill A., Dunne J.A., Fahimpour A.K., Gilarranz L.J., Grochow J.A., Li D., Martinez N.D., McGrew A., Poisot T., Romnuk T.N., Stouffer D.B., Trotta1 L.B.,Valdovinos F.S., Williams R.J., Wood S.A., <span style="color:#4292E5;">Yeakel J.D.</span> [Ecogeographical Rules and the Macroecology of Food Webs.](https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.12925) *Global Ecology and Biogeography* doi.10.1111/geb.12925.

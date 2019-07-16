@@ -12,6 +12,8 @@ image:
 ### Life & Environmental Sciences @ UC-Merced
 
 > ## ~News~  
+> *07/16/19*: New Preprint with Seth Newsome and Uttam Bhat as coauthors where we explore the foraging strategies of caching rodents in the American southwest. [Caching in or falling back in the Sevilleta](https://arxiv.org/abs/1907.06305)
+> <br>  
 > *05/04/19*: New Preprint with Uttam Bhat as lead! May the fourth be with us! [Scaling of the risk landscape drives optimal life history strategies and the evolution of grazing.](https://arxiv.org/abs/1905.01540)
 > <br>  
 > *02/19/19*: Another paper out led by J.P. Gibert: [Eco-Evolutionary Origins of Diverse Abundance, Biomass, and Trophic Structures in Food Webs](https://doi.org/10.3389/fevo.2019.00015) in Frontiers in Ecology and Evolution!
