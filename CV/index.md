@@ -117,6 +117,8 @@ pre-2011
 
 	* <span style="color:#4292E5;">Yeakel, J. D.</span>, Bennett, N. C., Koch, P. L., & Dominy, N. J. [The isotopic ecology of African mole rats informs hypotheses on the evolution of human diet](/publications/Proc. Roy. Soc. B 2007 Yeakel.pdf){:target="_blank"}. *Proceedings of the Royal Society of London Series B-Biological Sciences* 274(1619), 1723–1730. doi:10.1098/rspb.2007.0330
 
+
+<!---
 <br>
 
 Invited Seminars
@@ -232,3 +234,4 @@ Press
 * National Public Radio: All Things Considered
 * CBC Radio: As It Happens
 * Santa Cruz KZSC
+-->
