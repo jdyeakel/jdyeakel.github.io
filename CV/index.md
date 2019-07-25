@@ -58,7 +58,7 @@ Preprint
 
 	* de Aguiar M.A.M., Newman E.A., Pires M., <span style="color:#4292E5;">Yeakel J.D.</span>, Hembry D., Burkle L., Gravel D., Guimar\~aes P.R., O'Donnell J., Poisot T., T. Poisot., Fortin M.J. Revealing biases in the sampling of ecological interaction networks. In review @ *Methods in Ecology and Evolution*.
 
-	* Delmas E., Besson M., Brice M.-H., Burkle L., Dalla Riva G. V., Fortin M.-J., Gravel D., Guimar\~aes P.R., Hembry D., Newman E., Olesen J.M., Pires M., <span style="color:#4292E5;">Yeakel J.D.</span>, Poisot T. [Analyzing ecological networks of species interactions](http://biorxiv.org/content/early/2017/02/28/112540){:target="_blank"}. In revision @ *Biological Reviews*. [Preprint at *BioRxiv*](http://biorxiv.org/content/early/2017/02/28/112540){:target="_blank"}.
+	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1111/brv.12433"></div>Delmas E., Besson M., Brice M.-H., Burkle L., Dalla Riva G. V., Fortin M.-J., Gravel D., Guimar\~aes P.R., Hembry D., Newman E., Olesen J.M., Pires M., <span style="color:#4292E5;">Yeakel J.D.</span>, Poisot T. [Analyzing ecological networks of species interactions](https://onlinelibrary.wiley.com/doi/full/10.1111/brv.12433){:target="_blank"}. *Biological Reviews*, 94, 16-36.
 
 2017
 :	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1093/biosci/biw133"></div> Dominy N.J. & <span style="color:#4292E5;">Yeakel J.D.</span>. [*Frankenstein* and the horrors of competitive exclusion](https://academic.oup.com/bioscience/article/67/2/107/2327311/Frankenstein-and-the-Horrors-of-Competitive){:target="_blank"}. *Bioscience*. doi:10.1093/biosci/biw133.
