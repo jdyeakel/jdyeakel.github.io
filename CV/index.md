@@ -37,26 +37,26 @@ Publications
 In prep
 :	* <span style="color:#AAAAAA;"> Yeakel J.D., Pires M., O'Donnell J., de Aguiar M., Guimaraes Jr. P.R., Gravel D., Gross T. Diverse interactions and ecosystem engineering stabilize community assembly. </span>
 
+	* de Aguiar M.A.M., Newman E.A., Pires M., <span style="color:#4292E5;">Yeakel J.D.</span>, Hembry D., Burkle L., Gravel D., Guimar\~aes P.R., O'Donnell J., Poisot T., T. Poisot., Fortin M.J. Revealing biases in the sampling of ecological interaction networks. In review @ *Methods in Ecology and Evolution*.
+
 
 Preprint
-:	* Bhat U., Kempes C.P., <span style="color:#4292E5;">Yeakel J.D.</span> [Scaling of the risk landscape drives optimal life history strategies and the evolution of grazing.](https://arxiv.org/abs/1905.01540) *ArXiv* 1905.01540.
+:	* Bhat U., Kempes C.P., <span style="color:#4292E5;">Yeakel J.D.</span> [Scaling of the risk landscape drives optimal life history strategies and the evolution of grazing.](https://arxiv.org/abs/1905.01540){:target="_blank"} *ArXiv* 1905.01540.
 
-	* <span style="color:#4292E5;">Yeakel, J. D.</span>, Bhat U., Newsome S.D. [Caching in or falling back at the Sevilleta](https://arxiv.org/abs/1907.06305) *ArXiv* 1907.06305. 
+	* <span style="color:#4292E5;">Yeakel, J. D.</span>, Bhat U., Newsome S.D. [Caching in or falling back at the Sevilleta](https://arxiv.org/abs/1907.06305){:target="_blank"} *ArXiv* 1907.06305. 
 
 2019
-:	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1111/geb.12925"></div> Baiser B., Gravel D., Cirtwill A., Dunne J.A., Fahimpour A.K., Gilarranz L.J., Grochow J.A., Li D., Martinez N.D., McGrew A., Poisot T., Romnuk T.N., Stouffer D.B., Trotta1 L.B.,Valdovinos F.S., Williams R.J., Wood S.A., <span style="color:#4292E5;">Yeakel J.D.</span> [Ecogeographical Rules and the Macroecology of Food Webs.](https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.12925) *Global Ecology and Biogeography* doi.10.1111/geb.12925.
+:	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1111/geb.12925"></div> Baiser B., Gravel D., Cirtwill A., Dunne J.A., Fahimpour A.K., Gilarranz L.J., Grochow J.A., Li D., Martinez N.D., McGrew A., Poisot T., Romnuk T.N., Stouffer D.B., Trotta1 L.B.,Valdovinos F.S., Williams R.J., Wood S.A., <span style="color:#4292E5;">Yeakel J.D.</span> [Ecogeographical Rules and the Macroecology of Food Webs.](https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.12925){:target="_blank"} *Global Ecology and Biogeography* doi.10.1111/geb.12925.
 
 
-	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.3389/fevo.2019.00015"></div> Gibert J.P., <span style="color:#4292E5;">Yeakel, J. D.</span> [Eco-evolutionary origins of diverse abundance, biomass, and trophic structures in food webs.](https://doi.org/10.3389/fevo.2019.00015) *Frontiers in Ecology and Evolution* 7, 1-15. doi.org/10.3389/fevo.2019.00015. 
+	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.3389/fevo.2019.00015"></div> Gibert J.P., <span style="color:#4292E5;">Yeakel, J. D.</span> [Eco-evolutionary origins of diverse abundance, biomass, and trophic structures in food webs.](https://doi.org/10.3389/fevo.2019.00015){:target="_blank"} *Frontiers in Ecology and Evolution* 7, 1-15. doi.org/10.3389/fevo.2019.00015. 
 
-	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1007/s12080-018-0403-2"></div> Gibert, J. P., & <span style="color:#4292E5;">Yeakel, J. D.</span> [Laplacian matrices and Turing bifurcations: revisiting Levin 1974 and the consequences of spatial structure and movement for ecological dynamics.](http://jdyeakel.github.io/publications/Gibert_Theor._Ecol._2019.pdf) *Theoretical Ecology*. 169(2), 1–17. doi.org/10.1007/s12080-018-0403-2
+	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1007/s12080-018-0403-2"></div> Gibert, J. P., & <span style="color:#4292E5;">Yeakel, J. D.</span> [Laplacian matrices and Turing bifurcations: revisiting Levin 1974 and the consequences of spatial structure and movement for ecological dynamics.](http://jdyeakel.github.io/publications/Gibert_Theor._Ecol._2019.pdf){:target="_blank"} *Theoretical Ecology*. 169(2), 1–17. doi.org/10.1007/s12080-018-0403-2
 
 2018
 :	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1038/s41467-018-02822-y"></div> <span style="color:#4292E5;">Yeakel J.D.</span>, Kempes C.P., Redner S. [Dynamics of starvation and recovery predict extinction risk and both Damuth’s law and Cope's rule](https://www.nature.com/articles/s41467-018-02822-y){:target="_blank"}. *Nature Communications*. doi:0.1038/s41467-018-02822-y
 
 	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1098/rstb.2017.0018"></div> <span style="color:#4292E5;">Yeakel J.D.</span>, Gibert J.P., Gross T., Westley P.A.H., Moore J.W. [Eco-evolutionary dynamics and collective dispersal: implications for salmon metapopulation robustness](http://rstb.royalsocietypublishing.org/content/373/1746/20170018){:target="_blank"}. *Philosophical Transactions of the Royal Society B: Biological Sciences*. doi:10.1098/rstb.2017.0018
-
-	* de Aguiar M.A.M., Newman E.A., Pires M., <span style="color:#4292E5;">Yeakel J.D.</span>, Hembry D., Burkle L., Gravel D., Guimar\~aes P.R., O'Donnell J., Poisot T., T. Poisot., Fortin M.J. Revealing biases in the sampling of ecological interaction networks. In review @ *Methods in Ecology and Evolution*.
 
 	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1111/brv.12433"></div>Delmas E., Besson M., Brice M.-H., Burkle L., Dalla Riva G. V., Fortin M.-J., Gravel D., Guimar\~aes P.R., Hembry D., Newman E., Olesen J.M., Pires M., <span style="color:#4292E5;">Yeakel J.D.</span>, Poisot T. [Analyzing ecological networks of species interactions](https://onlinelibrary.wiley.com/doi/full/10.1111/brv.12433){:target="_blank"}. *Biological Reviews*, 94, 16-36.
 
