@@ -35,7 +35,7 @@ Publications
 -->
 
 In prep
-:	* <span style="color:#AAAAAA;"> Yeakel J.D., Pires M., O'Donnell J., de Aguiar M., Guimaraes Jr. P.R., Gravel D., Gross T. Quantization of ecological interaction networks yields insights into the fundamental processes underlying community assembly. </span>
+:	* <span style="color:#AAAAAA;"> Yeakel J.D., Pires M., O'Donnell J., de Aguiar M., Guimaraes Jr. P.R., Gravel D., Gross T. Diverse interactions and ecosystem engineering stabilize community assembly. </span>
 
 
 Preprint
