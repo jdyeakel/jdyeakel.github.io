@@ -36,19 +36,19 @@ Publications
 
 <!---
 In prep
-:	* de Aguiar M.A.M., Newman E.A., Pires M., <span style="color:#4292E5;">Yeakel J.D.</span>, Hembry D., Burkle L., Gravel D., Guimar\~aes P.R., O'Donnell J., Poisot T., T. Poisot., Fortin M.J. Revealing biases in the sampling of ecological interaction networks. In review @ *Methods in Ecology and Evolution*.
+:	* de Aguiar M.A.M., Newman E.A., Pires M., <span style="color:#4292E5;">Yeakel J.D.</span>, Hembry D., Burkle L., Gravel D., Guimarães P.R., O'Donnell J., Poisot T., T. Poisot., Fortin M.J. Revealing biases in the sampling of ecological interaction networks. In review @ *Methods in Ecology and Evolution*.
 -->
 
 
 Preprint
-:	* <span style="color:#4292E5;">Yeakel J.D.</span>, Pires M.M., de Aguiar M.A.M., O'Donnell J.L., Guimar\~aes P.R., Gravel D., Gross T. [Diverse interactions and ecosystem engineering stabilize community assembly.](https://arxiv.org/abs/1908.02371){:target="_blank"} *ArXiv* 1908.02371.
+:	* <span style="color:#4292E5;">Yeakel J.D.</span>, Pires M.M., de Aguiar M.A.M., O'Donnell J.L., Guimarães P.R., Gravel D., Gross T. [Diverse interactions and ecosystem engineering stabilize community assembly.](https://arxiv.org/abs/1908.02371){:target="_blank"} *ArXiv* 1908.02371.
 
 	* Bhat U., Kempes C.P., <span style="color:#4292E5;">Yeakel J.D.</span> [Scaling of the risk landscape drives optimal life history strategies and the evolution of grazing.](https://arxiv.org/abs/1905.01540){:target="_blank"} *ArXiv* 1905.01540.
 
 	* <span style="color:#4292E5;">Yeakel, J.D.</span>, Bhat U., Newsome S.D. [Caching in or falling back at the Sevilleta](https://arxiv.org/abs/1907.06305){:target="_blank"} *ArXiv* 1907.06305. 
 
 2019
-:	* de Aguiar M.A.M., Newman E.A., Pires M.M., <span style="color:#4292E5;">Yeakel J.D.</span>, Boettiger C., Burkle L.A., Gravel D., Guimar\~aes P.R., O'Donnell J.L., Poisot T., Fortin M.J., Hembry D. Revealing biases in the sampling of ecological interaction networks. In press @ *PeerJ*.
+:	* de Aguiar M.A.M., Newman E.A., Pires M.M., <span style="color:#4292E5;">Yeakel J.D.</span>, Boettiger C., Burkle L.A., Gravel D., Guimarães P.R., O'Donnell J.L., Poisot T., Fortin M.J., Hembry D. Revealing biases in the sampling of ecological interaction networks. In press @ *PeerJ*.
 
 
 	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1111/geb.12925"></div> Baiser B., Gravel D., Cirtwill A., Dunne J.A., Fahimpour A.K., Gilarranz L.J., Grochow J.A., Li D., Martinez N.D., McGrew A., Poisot T., Romnuk T.N., Stouffer D.B., Trotta1 L.B.,Valdovinos F.S., Williams R.J., Wood S.A., <span style="color:#4292E5;">Yeakel J.D.</span> [Ecogeographical Rules and the Macroecology of Food Webs.](https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.12925){:target="_blank"} *Global Ecology and Biogeography* doi.10.1111/geb.12925.
@@ -64,7 +64,7 @@ Preprint
 
 	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1098/rstb.2017.0018"></div> <span style="color:#4292E5;">Yeakel J.D.</span>, Gibert J.P., Gross T., Westley P.A.H., Moore J.W. [Eco-evolutionary dynamics and collective dispersal: implications for salmon metapopulation robustness](http://rstb.royalsocietypublishing.org/content/373/1746/20170018){:target="_blank"}. *Philosophical Transactions of the Royal Society B: Biological Sciences*. doi:10.1098/rstb.2017.0018
 
-	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1111/brv.12433"></div>Delmas E., Besson M., Brice M.-H., Burkle L., Dalla Riva G. V., Fortin M.-J., Gravel D., Guimar\~aes P.R., Hembry D., Newman E., Olesen J.M., Pires M., <span style="color:#4292E5;">Yeakel J.D.</span>, Poisot T. [Analyzing ecological networks of species interactions](https://onlinelibrary.wiley.com/doi/full/10.1111/brv.12433){:target="_blank"}. *Biological Reviews*, 94, 16-36.
+	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1111/brv.12433"></div>Delmas E., Besson M., Brice M.-H., Burkle L., Dalla Riva G. V., Fortin M.-J., Gravel D., Guimarães P.R., Hembry D., Newman E., Olesen J.M., Pires M., <span style="color:#4292E5;">Yeakel J.D.</span>, Poisot T. [Analyzing ecological networks of species interactions](https://onlinelibrary.wiley.com/doi/full/10.1111/brv.12433){:target="_blank"}. *Biological Reviews*, 94, 16-36.
 
 2017
 :	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1093/biosci/biw133"></div> Dominy N.J. & <span style="color:#4292E5;">Yeakel J.D.</span>. [*Frankenstein* and the horrors of competitive exclusion](https://academic.oup.com/bioscience/article/67/2/107/2327311/Frankenstein-and-the-Horrors-of-Competitive){:target="_blank"}. *Bioscience*. doi:10.1093/biosci/biw133.
