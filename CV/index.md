@@ -56,6 +56,7 @@ Preprint
 
 	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.3389/fevo.2019.00015"></div> Gibert J.P., <span style="color:#4292E5;">Yeakel, J. D.</span> [Eco-evolutionary origins of diverse abundance, biomass, and trophic structures in food webs.](https://doi.org/10.3389/fevo.2019.00015){:target="_blank"} *Frontiers in Ecology and Evolution* 7, 1-15. doi.org/10.3389/fevo.2019.00015. 
 
+
 	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1007/s12080-018-0403-2"></div> Gibert, J. P., & <span style="color:#4292E5;">Yeakel, J. D.</span> [Laplacian matrices and Turing bifurcations: revisiting Levin 1974 and the consequences of spatial structure and movement for ecological dynamics.](http://jdyeakel.github.io/publications/Gibert_Theor._Ecol._2019.pdf){:target="_blank"} *Theoretical Ecology*. 169(2), 1–17. doi.org/10.1007/s12080-018-0403-2
 
 2018
