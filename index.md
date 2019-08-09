@@ -12,6 +12,8 @@ image:
 ### Life & Environmental Sciences @ UC-Merced
 
 > ## ~News~  
+> *08/09/19*: Ecological engineers in networks! Check out our new preprint in ArXiv: [Diverse interactions and ecosystem engineering stabilize community assembly](https://arxiv.org/abs/1908.02371)
+> <br>  
 > *07/16/19*: New Preprint with Seth Newsome and Uttam Bhat as coauthors where we explore the foraging strategies of caching rodents in the American southwest. [Caching in or falling back in the Sevilleta](https://arxiv.org/abs/1907.06305)
 > <br>  
 > *05/04/19*: New Preprint with Uttam Bhat as lead! May the fourth be with us! [Scaling of the risk landscape drives optimal life history strategies and the evolution of grazing.](https://arxiv.org/abs/1905.01540)
