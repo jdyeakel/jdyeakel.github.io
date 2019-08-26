@@ -86,7 +86,7 @@ I generally use network-theoretic approaches – combined with empirical measure
 <span style="text-align=left;font-size:1.5em;color:#4292E5;">Undergraduate Researchers</span> 
 <div>
 <p style="float: left;padding-right:25px"><img src="/images/person.jpg" width="125"></p>
-<b>Andrea Diaz Cruz</b> "Description here"  <BR> <BR>     
+<b>Andrea Diaz Cruz</b> "Description here"  <BR> <BR> <BR> <BR>     
 </div>     
 
 <BR CLEAR="...">
