@@ -46,12 +46,6 @@ I generally use network-theoretic approaches – combined with empirical measure
 
 <span style="text-align=left;font-size:1.5em;color:#4292E5;">Postdoctoral Researchers</span>   
 <div>
-<p style="float: left;padding-right:25px"><img src="/images/JP-web.jpg" width="125"></p> <b><a href="http://jeanpgibert.weebly.com">Jean-Philippe Gibert, McDonnell Fellow</a></b> "I study how phenotypic variation affects the structure and dynamics of complex food webs and how this effect is mediated by environmental factors such as temperature. To do so, I integrate information across systems and taxa and often combine mathematical, computational and empirical tools." <b>Jean Philippe will be joining Duke University in the Fall, 2018 as an Assistant Professor!</b> <BR> <BR> <BR>
-</div>      
-
-<BR CLEAR="...">
-
-<div>
 <p style="float: left;padding-right:25px"><img src="/images/Uttam-web.jpg" width="125"></p> <b><a href="https://scholar.google.com/citations?user=8AVQ7NgAAAAJ&hl=en">Uttam Bhat</a></b>  "I study problems in ecology using tools from physics. In particular, currently I'm studying how different foraging behaviors affect the depletion pattern in the environment, and in turn how the depletion affects the forager's lifetime. For this, I use tools from random walks, first-passage processes and asymptotic analysis."  <BR> <BR>     
 </div>     
 <BR CLEAR="...">
@@ -100,6 +94,12 @@ I generally use network-theoretic approaches – combined with empirical measure
 ---
 
 <span style="text-align=left;font-size:1.5em;color:#4292E5;">Lab Alumni</span>
+<div>
+<p style="float: left;padding-right:25px"><img src="/images/JP-web.jpg" width="125"></p> <b><a href="http://jeanpgibert.weebly.com">Jean-Philippe Gibert, McDonnell Fellow</a></b> "I study how phenotypic variation affects the structure and dynamics of complex food webs and how this effect is mediated by environmental factors such as temperature. To do so, I integrate information across systems and taxa and often combine mathematical, computational and empirical tools." <b>Jean Philippe will be joining Duke University in the Fall, 2018 as an Assistant Professor!</b> <BR> <BR> 
+</div>      
+
+<BR CLEAR="...">
+
 <div>
 <p style="float: left;padding-right:25px"><img src="/images/Jack-web.jpg" width="125"></p> <b><a href="http://jackhopkinswildlife.com">John (Jack) Hopkins III</a></b> <b>Assistant Professor, Unity College ME</b> "I primarily conduct empirical field-based research that uses a variety of sampling methods and quantitative approaches to investigate the effects of environmental change on species interactions, wildlife-habitat relationships, and the foraging behavior and nutrition of free-ranging mammals." <BR> <BR>
 </div>      
