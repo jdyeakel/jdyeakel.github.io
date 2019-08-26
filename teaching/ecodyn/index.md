@@ -29,6 +29,7 @@ Readings for the course will be provided below. However, if you are new to theor
 * *The Ecological Detective*: Marc Mangel (B/I)  
 * *The Art of Modeling Dynamic Systems*: F. Morrison (I)  
 
+<!---
 <hr>
 
 > **About the final project**  
@@ -39,8 +40,10 @@ Readings for the course will be provided below. However, if you are new to theor
 <hr>
 > [**Presentation Schedule**](http://jdyeakel.github.io/teaching/ecodyn/finals_schedule.pdf)  
 <hr>
+-->
 
 ## Readings
+<!---
 *	17/08/23: [Theoretical Biologist's Toolbox 1 (Mangel)](http://jdyeakel.github.io/teaching/ecodyn/Mangel_TBT1.pdf)  
 *	17/08/28: [Theoretical Biologist's Toolbox 2 (Mangel)](http://jdyeakel.github.io/teaching/ecodyn/Mangel_TBT2.pdf)  
 *	17/08/30: [Nonlinear Dynamics and Chaos 1 (Strogatz)](http://jdyeakel.github.io/teaching/ecodyn/Strogatz_NDC1.pdf)  
@@ -50,11 +53,12 @@ Readings for the course will be provided below. However, if you are new to theor
 *	17/10/11: [R. May, Nature 1972](http://jdyeakel.github.io/teaching/ecodyn/May_1972.pdf); [S. Allesina, PopEcol 2015](http://jdyeakel.github.io/teaching/ecodyn/Allesina_2015.pdf)  
 *	17/10/19: [S. Schreiber, Ecology 2011](http://jdyeakel.github.io/teaching/ecodyn/Schreiber_2011.pdf)  
 * 17/10/30: [Kondoh, Science 2003](http://jdyeakel.github.io/teaching/ecodyn/Kondoh_2003.pdf); [Valdovinos, EcolLett 2010](http://jdyeakel.github.io/teaching/ecodyn/Valdovinos_2010.pdf)  
-
+-->
 
 <hr>
 
 ## Notes
+<!---
 * [Discrete population growth](http://jdyeakel.github.io/teaching/ecodyn/notes/Ecodyn_notes1.pdf)  
 * [Continuous population growth and linear stability analysis](http://jdyeakel.github.io/teaching/ecodyn/notes/Ecodyn_notes2.pdf)  
 * [More linear stability analyisis and intro to bifurcations](http://jdyeakel.github.io/teaching/ecodyn/notes/Ecodyn_notes3.pdf)  
@@ -67,11 +71,12 @@ Readings for the course will be provided below. However, if you are new to theor
 * [Canonical Equation for Activity Choice](http://jdyeakel.github.io/teaching/ecodyn/notes/Ecodyn_notes12_13.pdf)  
 * [Canonical Equation for Activity Choice: Part 2](http://jdyeakel.github.io/teaching/ecodyn/notes/Ecodyn_notes14_15.pdf)  
 * [Canonical Equation for Allocation Processes](http://jdyeakel.github.io/teaching/ecodyn/notes/Ecodyn_notes16.pdf)
-
+-->
 
 <hr>
 
 ## Code
+<!---
 * [Spatial and temporal variation (.nb)](http://jdyeakel.github.io/teaching/ecodyn/spatial_temp_var.nb)  
 * [Logistic map (.nb)](http://jdyeakel.github.io/teaching/ecodyn/logisticmap.nb)  
 * [Fixed point analysis (.nb)](http://jdyeakel.github.io/teaching/ecodyn/fixedpoints.nb)  
@@ -81,6 +86,7 @@ Readings for the course will be provided below. However, if you are new to theor
 * [Eco-evolutionary dynamics](http://jdyeakel.github.io/teaching/ecodyn/ecoevo.R)  
 * [Adapative foraging (.nb)](http://jdyeakel.github.io/teaching/ecodyn/adaptiveforaging.nb)  
 * [Canonical equation for activity choice (with forward sims)](http://jdyeakel.github.io/teaching/ecodyn/patch_choice2.R)  
+-->
 
 <hr>
 
