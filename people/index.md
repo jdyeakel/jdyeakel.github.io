@@ -60,7 +60,7 @@ I generally use network-theoretic approaches – combined with empirical measure
 
 <span style="text-align=left;font-size:1.5em;color:#4292E5;">Graduate Researchers</span> 
 <div>
-<p style="float: left;padding-right:25px"><img src="/images/Ritwika-web.jpg" width="125"></p>
+<p style="float: left;padding-right:25px"><img src="/images/Ritwika-web2.jpg" width="125"></p>
 <b>Ritwika VPS</b> "I joined UC Merced as a physics grad student in Fall 2015. I have long been interested in the scope of using physics to solve problems in ecology and evolutionary biology, hence my interest in the Yeakel lab. Currently, I work on an eclectic collection of problems which includes looking at vocalisation in human infants as an acoustic foraging process, studying the dynamics of a population of foragers given a choice of strategies, and looking at the collective motion of phototactic bacteria."  <BR> <BR>     
 </div>     
 
@@ -80,12 +80,19 @@ I generally use network-theoretic approaches – combined with empirical measure
 
 <BR CLEAR="...">
 
+<div>
+<p style="float: left;padding-right:25px"><img src="/images/Megha-web.jpg" width="125"></p>
+<b>Megha Suswaram</b> "I am broadly interested in how phenotypic variation evolves with complex ecological interactions. I use modeling to understand trophic interactions, feedbacks and selection pressures in eco-evolutionary biology.  I am particularly interested in understanding the effect of antagonistic selection pressures on phenotypic trait evolution and how it changes predator – prey dynamics. I am also exploring conditions under which mutualisms may evolve between the different kind of predator-prey interactions."  <BR> <BR>     
+</div>     
+
+<BR CLEAR="...">
+
 ---    
 
 <span style="text-align=left;font-size:1.5em;color:#4292E5;">Undergraduate Researchers</span> 
 <div>
-<p style="float: left;padding-right:25px"><img src="/images/Harrison-web.jpg" width="125"></p>
-<b>Harrison Duran</b> "I am interested in studying ecology and the dynamics between systems in order to develop a greater  understanding of  humanity's impact on the environment. I gather information on mammal morphology in order to find correlations between certain morphological traits and diets"  <BR> <BR>     
+<p style="float: left;padding-right:25px"><img src="/images/person.jpg" width="125"></p>
+<b>Andrea Diaz Cruz</b> "Description here"  <BR> <BR>     
 </div>     
 
 <BR CLEAR="...">
@@ -96,6 +103,13 @@ I generally use network-theoretic approaches – combined with empirical measure
 <div>
 <p style="float: left;padding-right:25px"><img src="/images/Jack-web.jpg" width="125"></p> <b><a href="http://jackhopkinswildlife.com">John (Jack) Hopkins III</a></b> <b>Assistant Professor, Unity College ME</b> "I primarily conduct empirical field-based research that uses a variety of sampling methods and quantitative approaches to investigate the effects of environmental change on species interactions, wildlife-habitat relationships, and the foraging behavior and nutrition of free-ranging mammals." <BR> <BR>
 </div>      
+
+<BR CLEAR="...">
+
+<div>
+<p style="float: left;padding-right:25px"><img src="/images/Harrison-web.jpg" width="125"></p>
+<b>Harrison Duran</b> "I am interested in studying ecology and the dynamics between systems in order to develop a greater  understanding of  humanity's impact on the environment. I gather information on mammal morphology in order to find correlations between certain morphological traits and diets"  <BR> <BR>     
+</div>     
 
 
 
