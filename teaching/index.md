@@ -19,5 +19,5 @@ image:
 
 <br>
 
-> ### [Ecological Dynamics (Fall, 2017)](http://jdyeakel.github.io/teaching/ecodyn/)   
+> ### [Ecological Dynamics (Fall, 2019)](http://jdyeakel.github.io/teaching/ecodyn/)   
   

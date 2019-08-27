@@ -1,6 +1,6 @@
 ---
 layout: pagetrim
-title: "Ecological Dynamics (Fall, 2017)"
+title: "Ecological Dynamics (Fall, 2019)"
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
@@ -10,12 +10,12 @@ image:
 ---
 
 ## Info
-*	Class time/location: MW 3:00-4:15 in COB2 170  
-*	Discussion section: W 1:00-2:20 in SSM 104
+*	Class time/location: MW 3:00-4:15 in CLSSRM 110  
+
 
 <hr>
 
-*	Office hours: SE1 288, MW 9-10 AM  
+*	Office hours: SE1 288, MW 1-2 PM  
 *	[Syllabus](http://jdyeakel.github.io/teaching/ecodyn/syllabus.pdf)  
 *	[Topical schedule](http://jdyeakel.github.io/teaching/ecodyn/schedule.pdf)
 
