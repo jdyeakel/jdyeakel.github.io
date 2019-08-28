@@ -69,7 +69,7 @@ I generally use network-theoretic approaches – combined with empirical measure
 
 <div>
 <p style="float: left;padding-right:25px"><img src="/images/Irina-web.jpg" width="125"></p>
-<b>Irina Birskis Barros</b> "I will join UC Merced as a PhD student in Fall 2018. I am interested in how species assemble into communities, especially how diversity shapes and is shaped by species interactions. I aim to use empirical data, mathematical modeling and network theory to investigate how ecological networks assemble and what factors might influence their stability and structure over evolutionary time."  <BR> <BR>     
+<b>Irina Birskis Barros</b> "I will join UC Merced as a PhD student in Fall 2018. I am interested in how species assemble into communities, especially how diversity shapes and is shaped by species interactions. I aim to use empirical data, mathematical modeling and network theory to investigate how ecological networks assemble and what factors might influence their stability and structure over evolutionary time."  <BR> <BR> <BR> <BR>     
 </div>     
 
 <BR CLEAR="...">
