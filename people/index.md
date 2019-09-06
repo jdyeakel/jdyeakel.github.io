@@ -86,7 +86,7 @@ I generally use network-theoretic approaches – combined with empirical measure
 <span style="text-align=left;font-size:1.5em;color:#4292E5;">Undergraduate Researchers</span> 
 <div>
 <p style="float: left;padding-right:25px"><img src="/images/person.jpg" width="125"></p>
-<b>Andrea Diaz Cruz</b> "Description here"  <BR> <BR> <BR> <BR>     
+<b>Andrea Diaz Cruz</b> "I am very passionate about the environment and I want to understand more of the inner workings of ecology. I am studying trophic systems and developing models which will reflect the human impact on ecosystems as I hope to predict what happens to an ecosystem when the trophic order is disrupted."  <BR> <BR> <BR> <BR>     
 </div>     
 
 <BR CLEAR="...">
