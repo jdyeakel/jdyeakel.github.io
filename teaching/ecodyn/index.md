@@ -46,10 +46,10 @@ Readings for the course will be provided below. However, if you are new to theor
 
 *	28/08/19: [Theoretical Biologist's Toolbox 1 (Mangel)](http://jdyeakel.github.io/teaching/ecodyn/Mangel_TBT1.pdf)  
 *	28/08/19: [Theoretical Biologist's Toolbox 2 (Mangel)](http://jdyeakel.github.io/teaching/ecodyn/Mangel_TBT2.pdf)  
-
-<!---
 *	17/08/30: [Nonlinear Dynamics and Chaos 1 (Strogatz)](http://jdyeakel.github.io/teaching/ecodyn/Strogatz_NDC1.pdf)  
 *	17/09/06: [Nonlinear Dynamics and Chaos 2 (Strogatz)](http://jdyeakel.github.io/teaching/ecodyn/Strogatz_NDC2.pdf)  
+
+<!---
 *	17/09/22: [Generalized Modeling of Ecological Population Dynamics (pgs 1-6) ](http://jdyeakel.github.io/teaching/ecodyn/GenModeling.pdf)  
 *	17/10/04: [Nonlinear Dynamics and Chaos 3 (Strogatz)](http://jdyeakel.github.io/teaching/ecodyn/Strogatz_NDC3.pdf)  
 *	17/10/11: [R. May, Nature 1972](http://jdyeakel.github.io/teaching/ecodyn/May_1972.pdf); [S. Allesina, PopEcol 2015](http://jdyeakel.github.io/teaching/ecodyn/Allesina_2015.pdf)  
@@ -60,9 +60,11 @@ Readings for the course will be provided below. However, if you are new to theor
 <hr>
 
 ## Notes
-<!---
+
 * [Discrete population growth](http://jdyeakel.github.io/teaching/ecodyn/notes/Ecodyn_notes1.pdf)  
 * [Continuous population growth and linear stability analysis](http://jdyeakel.github.io/teaching/ecodyn/notes/Ecodyn_notes2.pdf)  
+
+<!---
 * [More linear stability analyisis and intro to bifurcations](http://jdyeakel.github.io/teaching/ecodyn/notes/Ecodyn_notes3.pdf)  
 * [Bifurcations: Saddle node and Transcritical](http://jdyeakel.github.io/teaching/ecodyn/notes/Ecodyn_notes4.pdf)  
 * [Pitchfork bifurcations, hysteresis, and spruce budworms](http://jdyeakel.github.io/teaching/ecodyn/notes/Ecodyn_notes5.pdf)  
@@ -78,10 +80,11 @@ Readings for the course will be provided below. However, if you are new to theor
 <hr>
 
 ## Code
-<!---
 * [Spatial and temporal variation (.nb)](http://jdyeakel.github.io/teaching/ecodyn/spatial_temp_var.nb)  
-* [Logistic map (.nb)](http://jdyeakel.github.io/teaching/ecodyn/logisticmap.nb)  
 * [Fixed point analysis (.nb)](http://jdyeakel.github.io/teaching/ecodyn/fixedpoints.nb)  
+
+<!---
+* [Logistic map (.nb)](http://jdyeakel.github.io/teaching/ecodyn/logisticmap.nb)  
 * [Niche Model (.R)](http://jdyeakel.github.io/teaching/ecodyn/nichemodel.R)
 * [Dynamic food webs (.R)](http://jdyeakel.github.io/teaching/ecodyn/complexfoodweb.R); you need [this function too (.R)](http://jdyeakel.github.io/teaching/ecodyn/nichemodel_function.R)  
 * [Extinction experiments (.R)](http://jdyeakel.github.io/teaching/ecodyn/foodwebdynamics.R)  
