@@ -48,10 +48,10 @@ Readings for the course will be provided below. However, if you are new to theor
 *	28/08/19: [Theoretical Biologist's Toolbox 2 (Mangel)](http://jdyeakel.github.io/teaching/ecodyn/Mangel_TBT2.pdf)  
 *	09/09/19: [Nonlinear Dynamics and Chaos 1 (Strogatz)](http://jdyeakel.github.io/teaching/ecodyn/Strogatz_NDC1.pdf)  
 *	16/09/19: [Nonlinear Dynamics and Chaos 2 (Strogatz)](http://jdyeakel.github.io/teaching/ecodyn/Strogatz_NDC2.pdf)  
+*	25/09/19: [Nonlinear Dynamics and Chaos 3 (Strogatz)](http://jdyeakel.github.io/teaching/ecodyn/Strogatz_NDC3.pdf)  
 
 <!---
 *	17/09/22: [Generalized Modeling of Ecological Population Dynamics (pgs 1-6) ](http://jdyeakel.github.io/teaching/ecodyn/GenModeling.pdf)  
-*	17/10/04: [Nonlinear Dynamics and Chaos 3 (Strogatz)](http://jdyeakel.github.io/teaching/ecodyn/Strogatz_NDC3.pdf)  
 *	17/10/11: [R. May, Nature 1972](http://jdyeakel.github.io/teaching/ecodyn/May_1972.pdf); [S. Allesina, PopEcol 2015](http://jdyeakel.github.io/teaching/ecodyn/Allesina_2015.pdf)  
 *	17/10/19: [S. Schreiber, Ecology 2011](http://jdyeakel.github.io/teaching/ecodyn/Schreiber_2011.pdf)  
 * 17/10/30: [Kondoh, Science 2003](http://jdyeakel.github.io/teaching/ecodyn/Kondoh_2003.pdf); [Valdovinos, EcolLett 2010](http://jdyeakel.github.io/teaching/ecodyn/Valdovinos_2010.pdf)  
@@ -66,10 +66,11 @@ Readings for the course will be provided below. However, if you are new to theor
 * [More linear stability analyisis and intro to bifurcations](http://jdyeakel.github.io/teaching/ecodyn/notes/Ecodyn_notes3.pdf)  
 * [Bifurcations: Saddle node and Transcritical](http://jdyeakel.github.io/teaching/ecodyn/notes/Ecodyn_notes4.pdf)  
 * [Pitchfork bifurcations, hysteresis, and spruce budworms](http://jdyeakel.github.io/teaching/ecodyn/notes/Ecodyn_notes5.pdf)  
+* [Analysis of 2-D systems](http://jdyeakel.github.io/teaching/ecodyn/notes/Ecodyn_notes9.pdf)  
+
 
 <!---
 * [Generalized modeling: 1D systems](http://jdyeakel.github.io/teaching/ecodyn/notes/Ecodyn_notes7.pdf)  
-* [Analysis of 2-D systems](http://jdyeakel.github.io/teaching/ecodyn/notes/Ecodyn_notes9.pdf)  
 * [Eco-evolutionary dynamics](http://jdyeakel.github.io/teaching/ecodyn/notes/Ecodyn_notes10.pdf)  
 * [Adaptive foraging](http://jdyeakel.github.io/teaching/ecodyn/notes/Ecodyn_notes11.pdf)  
 * [Canonical Equation for Activity Choice](http://jdyeakel.github.io/teaching/ecodyn/notes/Ecodyn_notes12_13.pdf)  
@@ -82,6 +83,7 @@ Readings for the course will be provided below. However, if you are new to theor
 ## Code
 * [Spatial and temporal variation (.nb)](http://jdyeakel.github.io/teaching/ecodyn/spatial_temp_var.nb)  
 * [Fixed point analysis (.nb)](http://jdyeakel.github.io/teaching/ecodyn/fixedpoints.nb)  
+* [Spruce Budworm Outbreak (.nb)](http://jdyeakel.github.io/teaching/ecodyn/insectoutbreak2.nb)  
 
 <!---
 * [Logistic map (.nb)](http://jdyeakel.github.io/teaching/ecodyn/logisticmap.nb)  
