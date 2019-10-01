@@ -1,9 +1,9 @@
 # First define number of species
-S = 1000;
+S = 100;
 # And the connectance
-C = 0.002
+C = 0.001
 # And the interaction variability
-sigma = 0.5
+sigma = 1
 
 #Build a SxS empty matrix
 J = matrix(0,S,S)
@@ -36,7 +36,7 @@ for (i in 1:S) {
 # image(J,col=c(heat.colors(20)))
 #Calculate eigenvalues
 e = eigen(J)
-plot(Re(e$value),Im(e$value),xlab="Real part",ylab="Imaginary Part",xlim=c(-10,10),ylim=c(-10,10))
+plot(Re(e$value),Im(e$value),xlab="Real part",ylab="Imaginary Part",xlim=c(-10,10),ylim=c(-10,10),pch=16)
 lines(rep(0,41),seq(-20,20))
 lines(seq(-20,20),rep(0,41))
 
