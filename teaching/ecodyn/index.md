@@ -86,6 +86,7 @@ Readings for the course will be provided below. However, if you are new to theor
 * [Fixed point analysis (.nb)](http://jdyeakel.github.io/teaching/ecodyn/fixedpoints.nb)  
 * [Spruce Budworm Outbreak (.nb)](http://jdyeakel.github.io/teaching/ecodyn/insectoutbreak2.nb)  
 * [May food web (.R)](http://jdyeakel.github.io/teaching/ecodyn/complexfoodweb1.R)
+* [Niche Model (.R)](http://jdyeakel.github.io/teaching/ecodyn/nichemodel.R)
 
 <!---
 * [Logistic map (.nb)](http://jdyeakel.github.io/teaching/ecodyn/logisticmap.nb)  
