@@ -87,6 +87,8 @@ Readings for the course will be provided below. However, if you are new to theor
 * [Spruce Budworm Outbreak (.nb)](http://jdyeakel.github.io/teaching/ecodyn/insectoutbreak2.nb)  
 * [May food web (.R)](http://jdyeakel.github.io/teaching/ecodyn/complexfoodweb1.R)
 * [Niche Model (.R)](http://jdyeakel.github.io/teaching/ecodyn/nichemodel.R)
+* [Extinction experiments (.R)](http://jdyeakel.github.io/teaching/ecodyn/foodwebdynamics.R) 
+* [Eco-evolutionary dynamics](http://jdyeakel.github.io/teaching/ecodyn/ecoevo.R)
 
 <!---
 * [Logistic map (.nb)](http://jdyeakel.github.io/teaching/ecodyn/logisticmap.nb)  
