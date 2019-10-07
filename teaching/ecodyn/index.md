@@ -29,14 +29,14 @@ Readings for the course will be provided below. However, if you are new to theor
 * *The Ecological Detective*: Marc Mangel (B/I)  
 * *The Art of Modeling Dynamic Systems*: F. Morrison (I)  
 
-<!---
+
 <hr>
 
 > **About the final project**  
 > The final project will feature a problem that you investigate using tools from the course, but related to your own research. The gold standard would be something that can add to your thesis, or serve as a publisheable side project down the road. The idea will be to articulate an interesting question in your domain of expertise, find a way to investigate that question using tools from the course, and exploring the implications, etc. At the end of the course, you will give a formal presentation to the class in the form of a professional meeting talk (15-20 min) that gives us background, explanation of methods, and results. I'm available during office hours if you want to chat about ideas, techniques, etc.  
-> **Due Wednesday, October 18: A paragraph describing what you want to do, and the possible methods that you might use to investigate the problem**
+> **Due Wednesday, October 16: A paragraph describing what you want to do, and the possible methods that you might use to investigate the problem**
 
-
+<!---
 <hr>
 > [**Presentation Schedule**](http://jdyeakel.github.io/teaching/ecodyn/finals_schedule.pdf)  
 <hr>
