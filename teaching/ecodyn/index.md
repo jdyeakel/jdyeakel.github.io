@@ -33,7 +33,7 @@ Readings for the course will be provided below. However, if you are new to theor
 <hr>
 
 > **About the final project**  
-> The final project will feature a problem that you investigate using tools from the course, but related to your own research. The gold standard would be something that can add to your thesis, or serve as a publisheable side project down the road. The idea will be to articulate an interesting question in your domain of expertise, find a way to investigate that question using tools from the course, and exploring the implications, etc. At the end of the course, you will give a formal presentation to the class in the form of a professional meeting talk (15-20 min) that gives us background, explanation of methods, and results. I'm available during office hours if you want to chat about ideas, techniques, etc.  
+> The final project will feature a problem that you investigate using tools from the course, but related to your own research. The gold standard would be something that can add to your thesis, or serve as a publishable side project down the road. The idea will be to articulate an interesting question in your domain of expertise, find a way to investigate that question using tools from the course, and exploring the implications, etc. At the end of the course, you will give a formal presentation to the class in the form of a professional meeting talk (15-20 min) that gives us background, explanation of methods, and results. I'm available during office hours if you want to chat about ideas, techniques, etc.  
 > **Due Wednesday, October 16: A paragraph describing what you want to do, and the possible methods that you might use to investigate the problem**
 
 <!---
@@ -50,7 +50,8 @@ Readings for the course will be provided below. However, if you are new to theor
 *	16/09/19: [Nonlinear Dynamics and Chaos 2 (Strogatz)](http://jdyeakel.github.io/teaching/ecodyn/Strogatz_NDC2.pdf)  
 *	25/09/19: [Nonlinear Dynamics and Chaos 3 (Strogatz)](http://jdyeakel.github.io/teaching/ecodyn/Strogatz_NDC3.pdf)  
 *	01/10/19: [R. May, Nature 1972](http://jdyeakel.github.io/teaching/ecodyn/May_1972.pdf); [R. Williams, Nature 2000](http://jdyeakel.github.io/teaching/ecodyn/Williams_Nature_2000.pdf); [S. Allesina, PopEcol 2015](http://jdyeakel.github.io/teaching/ecodyn/Allesina_2015.pdf)  
-*	06/10/19: [S. Schreiber, Ecology 2011](http://jdyeakel.github.io/teaching/ecodyn/Schreiber_2011.pdf) 
+*	07/10/19: [S. Schreiber, Ecology 2011](http://jdyeakel.github.io/teaching/ecodyn/Allesina_Nature_2012.pdf) 
+*	07/10/19: [S. Schreiber, Ecology 2011](http://jdyeakel.github.io/teaching/ecodyn/Schreiber_2011.pdf) 
 
 <!---
 *	17/09/22: [Generalized Modeling of Ecological Population Dynamics (pgs 1-6) ](http://jdyeakel.github.io/teaching/ecodyn/GenModeling.pdf)  
