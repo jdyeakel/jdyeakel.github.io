@@ -50,7 +50,7 @@ Readings for the course will be provided below. However, if you are new to theor
 *	16/09/19: [Nonlinear Dynamics and Chaos 2 (Strogatz)](http://jdyeakel.github.io/teaching/ecodyn/Strogatz_NDC2.pdf)  
 *	25/09/19: [Nonlinear Dynamics and Chaos 3 (Strogatz)](http://jdyeakel.github.io/teaching/ecodyn/Strogatz_NDC3.pdf)  
 *	01/10/19: [R. May, Nature 1972](http://jdyeakel.github.io/teaching/ecodyn/May_1972.pdf); [R. Williams, Nature 2000](http://jdyeakel.github.io/teaching/ecodyn/Williams_Nature_2000.pdf); [S. Allesina, PopEcol 2015](http://jdyeakel.github.io/teaching/ecodyn/Allesina_2015.pdf)  
-*	07/10/19: [S. Schreiber, Ecology 2011](http://jdyeakel.github.io/teaching/ecodyn/Allesina_Nature_2012.pdf) 
+*	07/10/19: [S. Allesina, Nature 2012](http://jdyeakel.github.io/teaching/ecodyn/Allesina_Nature_2012.pdf) 
 *	07/10/19: [S. Schreiber, Ecology 2011](http://jdyeakel.github.io/teaching/ecodyn/Schreiber_2011.pdf) 
 * 28/10/19: [Kondoh, Science 2003](http://jdyeakel.github.io/teaching/ecodyn/Kondoh_2003.pdf); [Valdovinos, EcolLett 2010](http://jdyeakel.github.io/teaching/ecodyn/Valdovinos_2010.pdf)  
 
