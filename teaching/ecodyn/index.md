@@ -95,6 +95,7 @@ Readings for the course will be provided below. However, if you are new to theor
 * [Extinction experiments (.R)](http://jdyeakel.github.io/teaching/ecodyn/foodwebdynamics.R) 
 * [Eco-evolutionary dynamics](http://jdyeakel.github.io/teaching/ecodyn/ecoevo.R)
 * [Adapative foraging (.nb)](http://jdyeakel.github.io/teaching/ecodyn/adaptiveforaging.nb)  
+* [Canonical equation for activity choice (with forward sims)](http://jdyeakel.github.io/teaching/ecodyn/patch_choice2.R)  
 
 <!---
 * [Logistic map (.nb)](http://jdyeakel.github.io/teaching/ecodyn/logisticmap.nb)  
