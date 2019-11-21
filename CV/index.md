@@ -43,12 +43,12 @@ In prep
 Preprint
 :	* <span style="color:#4292E5;">Yeakel J.D.</span>, Pires M.M., de Aguiar M.A.M., O'Donnell J.L., Guimarães P.R., Gravel D., Gross T. [Diverse interactions and ecosystem engineering stabilize community assembly.](https://arxiv.org/abs/1908.02371){:target="_blank"} *ArXiv* 1908.02371.
 
-	* Bhat U., Kempes C.P., <span style="color:#4292E5;">Yeakel J.D.</span> [Scaling of the risk landscape drives optimal life history strategies and the evolution of grazing.](https://arxiv.org/abs/1905.01540){:target="_blank"} *ArXiv* 1905.01540.
-
 	* <span style="color:#4292E5;">Yeakel, J.D.</span>, Bhat U., Newsome S.D. [Caching in or falling back at the Sevilleta](https://arxiv.org/abs/1907.06305){:target="_blank"} *ArXiv* 1907.06305. 
 
 2019
-:	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.7717/peerj.7566"></div> de Aguiar M.A.M., Newman E.A., Pires M.M., <span style="color:#4292E5;">Yeakel J.D.</span>, Boettiger C., Burkle L.A., Gravel D., Guimarães P.R., O'Donnell J.L., Poisot T., Fortin M.J., Hembry D. [Revealing biases in the sampling of ecological interaction networks.](https://peerj.com/articles/7566/){:target="_blank"} *PeerJ* doi.10.7717/peerj.7566.
+:	* Bhat U., Kempes C.P., <span style="color:#4292E5;">Yeakel J.D.</span> Scaling of the risk landscape drives optimal life history strategies and the evolution of grazing. *Proceedings of the National Academy of Sciences* In Press. [*ArXiv* 1905.01540](https://arxiv.org/abs/1905.01540){:target="_blank"}.
+
+* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.7717/peerj.7566"></div> de Aguiar M.A.M., Newman E.A., Pires M.M., <span style="color:#4292E5;">Yeakel J.D.</span>, Boettiger C., Burkle L.A., Gravel D., Guimarães P.R., O'Donnell J.L., Poisot T., Fortin M.J., Hembry D. [Revealing biases in the sampling of ecological interaction networks.](https://peerj.com/articles/7566/){:target="_blank"} *PeerJ* doi.10.7717/peerj.7566.
 
 
 	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1111/geb.12925"></div> Baiser B., Gravel D., Cirtwill A., Dunne J.A., Fahimpour A.K., Gilarranz L.J., Grochow J.A., Li D., Martinez N.D., McGrew A., Poisot T., Romnuk T.N., Stouffer D.B., Trotta1 L.B.,Valdovinos F.S., Williams R.J., Wood S.A., <span style="color:#4292E5;">Yeakel J.D.</span> [Ecogeographical Rules and the Macroecology of Food Webs.](https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.12925){:target="_blank"} *Global Ecology and Biogeography* doi.10.1111/geb.12925.

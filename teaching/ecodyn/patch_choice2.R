@@ -140,7 +140,7 @@ for (t in 1:(tmax-1)) {
   }
 }
 
-plot(X[1,],type='l',ylim=c(0,10))
+plot(X[1,],type='l',ylim=c(0,xmax))
 for (i in 2:n) {
   lines(X[i,])
 }

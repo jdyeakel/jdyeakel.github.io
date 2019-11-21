@@ -1,4 +1,4 @@
-tmax <- 1000;
+tmax <- 100;
 
 xc <- 3;
 
@@ -9,16 +9,20 @@ c = c(1,1,1);
 p = c(0,3,5);
 f = c(1,0.4,0.6);
 d = c(0,0.004,0.02);
-r = c(0.6, 1.1, 0.21);
+r = c(0.6, 0.6, 0.8);
 
 np = length(c);
 
 S = matrix(0,xmax,tmax);
 D = matrix(0,xmax,tmax);
 
-S_r = matrix(0,xmax,tmax);
+W = matrix(0,xmax,tmax);
 D_r = matrix(0,xmax,tmax);
 
+Q = matrix(0,xmax,tmax);
+D_q = matrix(0,xmax,tmax);
+
+R = matrix(0,xmax,tmax);
 
 xbar <- 6.5;
 for (x in 1:xmax) {
@@ -27,7 +31,9 @@ for (x in 1:xmax) {
   } else {
     # S[x,tmax] <- 1;
     S[x,tmax] <- (x - xc)/(x-xc+xbar);
-    S_r[x,tmax] <- max(r*x)
+    W[x,tmax] <- max(r*x)
+    Q[x,tmax] <- max(r*x)
+    R[x,tmax] <- (1/3)*sum(r*x)
   }
 }
 
@@ -48,6 +54,9 @@ for (t in seq(tmax-1,1,-1)) {
   for (x in (xc+1):xmax) {
     
     value = numeric(np)
+    value_r = numeric(np)
+    value_q = numeric(np)
+    value_R = numeric(np)
     
     for (i in 1:np) {
       
@@ -62,16 +71,31 @@ for (t in seq(tmax-1,1,-1)) {
       xpp <- bc(xpp);
       
       value[i] <- (1-d[i])*f[i]*S[xp,t+1] + (1-d[i])*(1-f[i])*S[xpp,t+1];
-      value_r[i] <- r[i]*x + (1-d[i])*f[i]*S_r[xp,t+1] + (1-d[i])*(1-f[i])*S_r[xpp,t+1];
+      value_r[i] <- r[i]*x + (1-d[i])*f[i]*W[xp,t+1] + (1-d[i])*(1-f[i])*W[xpp,t+1];
+      value_q[i] <- r[i]*x + (1-d[i])*f[i]*Q[xp,t+1] + (1-d[i])*(1-f[i])*Q[xpp,t+1];
+      value_R[i] <- r[i]*x + (1-d[i])*f[i]*R[xp,t+1] + (1-d[i])*(1-f[i])*R[xpp,t+1];
       
     } # end i loop
     
     maxvalue <- max(value);
     maxvalue_r <- max(value_r)
+    maxvalue_q <- value_q[3];
+    maxvalue_R <- mean(value_R);
+    
     istar <- which(value == maxvalue);
+    istar_r <- which(value_r == maxvalue_r);
+    istar_q <- 3
     
     S[x,t] <- maxvalue;
     D[x,t] <- istar;
+    
+    W[x,t] <- maxvalue_r;
+    D_r[x,t] <- istar_r;
+    
+    Q[x,t] <- maxvalue_q;
+    D_q[x,t] <- istar_q;
+    
+    R[x,t] <- maxvalue_R;
     
   }
   
