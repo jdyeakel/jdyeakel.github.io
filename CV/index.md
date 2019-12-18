@@ -46,7 +46,7 @@ Preprint
 	* <span style="color:#4292E5;">Yeakel, J.D.</span>, Bhat U., Newsome S.D. [Caching in or falling back at the Sevilleta](https://arxiv.org/abs/1907.06305){:target="_blank"} *ArXiv* 1907.06305. 
 
 2019
-:	* Bhat U., Kempes C.P., <span style="color:#4292E5;">Yeakel J.D.</span> Scaling of the risk landscape drives optimal life history strategies and the evolution of grazing. *Proceedings of the National Academy of Sciences* In Press. [*ArXiv* 1905.01540](https://arxiv.org/abs/1905.01540){:target="_blank"}.
+:	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1073/pnas.1907998117">Bhat U., Kempes C.P., <span style="color:#4292E5;">Yeakel J.D.</span> Scaling of the risk landscape drives optimal life history strategies and the evolution of grazing. [*Proceedings of the National Academy of Sciences*](https://www.pnas.org/content/early/2019/12/16/1907998117){:target="_blank"}.
 
 	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.7717/peerj.7566"></div> de Aguiar M.A.M., Newman E.A., Pires M.M., <span style="color:#4292E5;">Yeakel J.D.</span>, Boettiger C., Burkle L.A., Gravel D., Guimarães P.R., O'Donnell J.L., Poisot T., Fortin M.J., Hembry D. [Revealing biases in the sampling of ecological interaction networks.](https://peerj.com/articles/7566/){:target="_blank"} *PeerJ* doi.10.7717/peerj.7566.
 
