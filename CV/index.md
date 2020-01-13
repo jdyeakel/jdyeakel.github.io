@@ -43,7 +43,8 @@ In prep
 Preprint
 :	* <span style="color:#4292E5;">Yeakel J.D.</span>, Pires M.M., de Aguiar M.A.M., O'Donnell J.L., Guimarães P.R., Gravel D., Gross T. [Diverse interactions and ecosystem engineering stabilize community assembly.](https://arxiv.org/abs/1908.02371){:target="_blank"} *ArXiv* 1908.02371.
 
-	* <span style="color:#4292E5;">Yeakel, J.D.</span>, Bhat U., Newsome S.D. [Caching in or falling back at the Sevilleta](https://arxiv.org/abs/1907.06305){:target="_blank"} *ArXiv* 1907.06305. 
+2020
+:	* <span style="color:#4292E5;">Yeakel, J.D.</span>, Bhat U., Newsome S.D. [Caching in or falling back at the Sevilleta: the effects of body size and seasonal uncertainty on desert rodent foraging](https://arxiv.org/abs/1907.06305){:target="_blank"} In Press. *ArXiv* 1907.06305. 
 
 2019
 :	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1073/pnas.1907998117"></div> Bhat U., Kempes C.P., <span style="color:#4292E5;">Yeakel J.D.</span> Scaling of the risk landscape drives optimal life history strategies and the evolution of grazing. [*Proceedings of the National Academy of Sciences*](https://www.pnas.org/content/early/2019/12/16/1907998117){:target="_blank"}.
