@@ -44,19 +44,16 @@ Preprint
 :	* <span style="color:#4292E5;">Yeakel J.D.</span>, Pires M.M., de Aguiar M.A.M., O'Donnell J.L., Guimarães P.R., Gravel D., Gross T. Diverse interactions and ecosystem engineering stabilize community assembly. In revision @ *Nature Communications*. [ArXiv preprint](https://arxiv.org/abs/1908.02371){:target="_blank"}.
 
 2020
-:	* <span style="color:#4292E5;">Yeakel, J.D.</span>, Bhat U., Newsome S.D. Caching in or falling back at the Sevilleta: the effects of body size and seasonal uncertainty on desert rodent foraging. *In Press @ American Naturalist*. [ArXiv preprint](https://arxiv.org/abs/1907.06305){:target="_blank"}. 
-
-2019
 :	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1073/pnas.1907998117"></div> Bhat U., Kempes C.P., <span style="color:#4292E5;">Yeakel J.D.</span> Scaling of the risk landscape drives optimal life history strategies and the evolution of grazing. [*Proceedings of the National Academy of Sciences*](https://www.pnas.org/content/early/2019/12/16/1907998117){:target="_blank"}.
 
-	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.7717/peerj.7566"></div> de Aguiar M.A.M., Newman E.A., Pires M.M., <span style="color:#4292E5;">Yeakel J.D.</span>, Boettiger C., Burkle L.A., Gravel D., Guimarães P.R., O'Donnell J.L., Poisot T., Fortin M.J., Hembry D. [Revealing biases in the sampling of ecological interaction networks.](https://peerj.com/articles/7566/){:target="_blank"} *PeerJ* doi.10.7717/peerj.7566.
+	* <span style="color:#4292E5;">Yeakel, J.D.</span>, Bhat U., Newsome S.D. Caching in or falling back at the Sevilleta: the effects of body size and seasonal uncertainty on desert rodent foraging. *In Press @ American Naturalist*. [ArXiv preprint](https://arxiv.org/abs/1907.06305){:target="_blank"}. 
 
+2019
+:	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.7717/peerj.7566"></div> de Aguiar M.A.M., Newman E.A., Pires M.M., <span style="color:#4292E5;">Yeakel J.D.</span>, Boettiger C., Burkle L.A., Gravel D., Guimarães P.R., O'Donnell J.L., Poisot T., Fortin M.J., Hembry D. [Revealing biases in the sampling of ecological interaction networks.](https://peerj.com/articles/7566/){:target="_blank"} *PeerJ* doi.10.7717/peerj.7566.
 
 	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1111/geb.12925"></div> Baiser B., Gravel D., Cirtwill A., Dunne J.A., Fahimpour A.K., Gilarranz L.J., Grochow J.A., Li D., Martinez N.D., McGrew A., Poisot T., Romnuk T.N., Stouffer D.B., Trotta1 L.B.,Valdovinos F.S., Williams R.J., Wood S.A., <span style="color:#4292E5;">Yeakel J.D.</span> [Ecogeographical Rules and the Macroecology of Food Webs.](https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.12925){:target="_blank"} *Global Ecology and Biogeography* doi.10.1111/geb.12925.
 
-
 	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.3389/fevo.2019.00015"></div> Gibert J.P., <span style="color:#4292E5;">Yeakel, J. D.</span> [Eco-evolutionary origins of diverse abundance, biomass, and trophic structures in food webs.](https://doi.org/10.3389/fevo.2019.00015){:target="_blank"} *Frontiers in Ecology and Evolution* 7, 1-15. doi.org/10.3389/fevo.2019.00015. 
-
 
 	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1007/s12080-018-0403-2"></div> Gibert, J. P., & <span style="color:#4292E5;">Yeakel, J. D.</span> [Laplacian matrices and Turing bifurcations: revisiting Levin 1974 and the consequences of spatial structure and movement for ecological dynamics.](http://jdyeakel.github.io/publications/Gibert_Theor._Ecol._2019.pdf){:target="_blank"} *Theoretical Ecology*. 169(2), 1–17. doi.org/10.1007/s12080-018-0403-2
 
