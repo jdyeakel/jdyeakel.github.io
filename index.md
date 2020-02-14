@@ -12,6 +12,8 @@ image:
 ### Life & Environmental Sciences @ UC-Merced
 
 > ## ~News~  
+> *01/21/20*: New paper in the Proceedings of the National Academy of Sciences on [life history and the evolution of grazing](https://www.pnas.org/content/early/2019/12/16/1907998117){:target="_blank"}! Led by postdoctoral fellow Uttam Bhat!
+> <br>  
 > *08/09/19*: Ecological engineers in networks! Check out our new preprint in ArXiv: [Diverse interactions and ecosystem engineering stabilize community assembly](https://arxiv.org/abs/1908.02371)
 > <br>  
 > *07/16/19*: New Preprint with Seth Newsome and Uttam Bhat as coauthors where we explore the foraging strategies of caching rodents in the American southwest. [Caching in or falling back in the Sevilleta](https://arxiv.org/abs/1907.06305)
