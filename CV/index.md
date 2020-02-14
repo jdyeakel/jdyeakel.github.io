@@ -34,17 +34,17 @@ Publications
 *In prep**)
 -->
 
-<!---
-In prep
-:	* de Aguiar M.A.M., Newman E.A., Pires M., <span style="color:#4292E5;">Yeakel J.D.</span>, Hembry D., Burkle L., Gravel D., Guimarães P.R., O'Donnell J., Poisot T., T. Poisot., Fortin M.J. Revealing biases in the sampling of ecological interaction networks. In review @ *Methods in Ecology and Evolution*.
--->
 
+In prep
+:	* Gross T., Allhoff K.T., Blasius B., Brose U., Drossel B., Fahimipour A.K., Guill C., <span style="color:#4292E5;">Yeakel J.D.</span>, Zeng F. Modern models of trophic meta-communities. In revision @ *Philosophical Transactions of the Royal Society B*.
+
+	* Pires M.M., O'Donnell J.L., Burkle L.A., Diaz-Castelazo C., Hembry D.H., <span style="color:#4292E5;">Yeakel J.D.</span>, Newman E.A., Medeiros L.P., de Aguiar M.A.M., Guimarães Jr. P.R. The indirect paths to cascading effects of extinctions in mutualistic networks. In revision @ *Ecology*.
 
 Preprint
-:	* <span style="color:#4292E5;">Yeakel J.D.</span>, Pires M.M., de Aguiar M.A.M., O'Donnell J.L., Guimarães P.R., Gravel D., Gross T. [Diverse interactions and ecosystem engineering stabilize community assembly.](https://arxiv.org/abs/1908.02371){:target="_blank"} *ArXiv* 1908.02371.
+:	* <span style="color:#4292E5;">Yeakel J.D.</span>, Pires M.M., de Aguiar M.A.M., O'Donnell J.L., Guimarães P.R., Gravel D., Gross T. Diverse interactions and ecosystem engineering stabilize community assembly. In revision @ *Nature Communications*. [ArXiv preprint](https://arxiv.org/abs/1908.02371){:target="_blank"}.
 
 2020
-:	* <span style="color:#4292E5;">Yeakel, J.D.</span>, Bhat U., Newsome S.D. [Caching in or falling back at the Sevilleta: the effects of body size and seasonal uncertainty on desert rodent foraging](https://arxiv.org/abs/1907.06305){:target="_blank"} In Press. *ArXiv* 1907.06305. 
+:	* <span style="color:#4292E5;">Yeakel, J.D.</span>, Bhat U., Newsome S.D. Caching in or falling back at the Sevilleta: the effects of body size and seasonal uncertainty on desert rodent foraging. *In Press @ American Naturalist*. [ArXiv preprint](https://arxiv.org/abs/1907.06305){:target="_blank"}. 
 
 2019
 :	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1073/pnas.1907998117"></div> Bhat U., Kempes C.P., <span style="color:#4292E5;">Yeakel J.D.</span> Scaling of the risk landscape drives optimal life history strategies and the evolution of grazing. [*Proceedings of the National Academy of Sciences*](https://www.pnas.org/content/early/2019/12/16/1907998117){:target="_blank"}.
