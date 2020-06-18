@@ -12,6 +12,8 @@ image:
 ### Life & Environmental Sciences @ UC-Merced
 
 > ## ~News~  
+> *06/18/20*: New paper on the caching strategies of rodent foragers in the American Southwest, published in *American Naturalist*: [Caching in or falling back at the sevilleta: The effects of body size and seasonal uncertainty on desert rodent foraging](https://www.journals.uchicago.edu/doi/10.1086/709019){:target="_blank"}
+> <br>  
 > *01/21/20*: New paper in the Proceedings of the National Academy of Sciences on [life history and the evolution of grazing](https://www.pnas.org/content/early/2019/12/16/1907998117){:target="_blank"}! Led by postdoctoral fellow Uttam Bhat!
 > <br>  
 > *08/09/19*: Ecological engineers in networks! Check out our new preprint in ArXiv: [Diverse interactions and ecosystem engineering stabilize community assembly](https://arxiv.org/abs/1908.02371)
