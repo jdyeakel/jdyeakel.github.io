@@ -12,6 +12,8 @@ image:
 ### Life & Environmental Sciences @ UC-Merced
 
 > ## ~News~  
+> *07/03/20*: New paper on the role of ecosystem engineers in ecological networks, published in *Nature Communications*: [Diverse interactions and ecosystem engineering can stabilize community assembly](https://www.nature.com/articles/s41467-020-17164-x){:target="_blank"}
+> <br>  
 > *06/18/20*: New paper on the caching strategies of rodent foragers in the American Southwest, published in *American Naturalist*: [Caching in or falling back at the sevilleta: The effects of body size and seasonal uncertainty on desert rodent foraging](https://www.journals.uchicago.edu/doi/10.1086/709019){:target="_blank"}
 > <br>  
 > *01/21/20*: New paper in the Proceedings of the National Academy of Sciences on [life history and the evolution of grazing](https://www.pnas.org/content/early/2019/12/16/1907998117){:target="_blank"}! Led by postdoctoral fellow Uttam Bhat!

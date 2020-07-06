@@ -34,19 +34,26 @@ Publications
 *In prep**)
 -->
 
-
+<!---
 In review
 :	* Gross T., Allhoff K.T., Blasius B., Brose U., Drossel B., Fahimipour A.K., Guill C., <span style="color:#4292E5;">Yeakel J.D.</span>, Zeng F. Modern models of trophic meta-communities. In revision @ *Philosophical Transactions of the Royal Society B*.
 
 	* Pires M.M., O'Donnell J.L., Burkle L.A., Diaz-Castelazo C., Hembry D.H., <span style="color:#4292E5;">Yeakel J.D.</span>, Newman E.A., Medeiros L.P., de Aguiar M.A.M., Guimarães Jr. P.R. The indirect paths to cascading effects of extinctions in mutualistic networks. In revision @ *Ecology*.
 
 Preprint
-:	* <span style="color:#4292E5;">Yeakel J.D.</span>, Pires M.M., de Aguiar M.A.M., O'Donnell J.L., Guimarães P.R., Gravel D., Gross T. [Diverse interactions and ecosystem engineering stabilize community assembly.](https://arxiv.org/abs/1908.02371){:target="_blank"} In revision @ *Nature Communications*. Links to ArXiv preprint.
+-->
+
 
 2020
-:	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1073/pnas.1907998117"></div> Bhat U., Kempes C.P., <span style="color:#4292E5;">Yeakel J.D.</span> [Scaling of the risk landscape drives optimal life history strategies and the evolution of grazing.](https://www.pnas.org/content/early/2019/12/16/1907998117){:target="_blank"} *Proceedings of the National Academy of Sciences* 117 (3) 1580-1586. doi.10.1073/pnas.1907998117
+:	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="	10.1038/s41467-020-17164-x"></div> <span style="color:#4292E5;">Yeakel J.D.</span>, Pires M.M., de Aguiar M.A.M., O'Donnell J.L., Guimarães P.R., Gravel D., Gross T. [Diverse interactions and ecosystem engineering can stabilize community assembly](https://www.nature.com/articles/s41467-020-17164-x){:target="_blank"} *Nature Communications*.
 
-	* <span style="color:#4292E5;">Yeakel, J.D.</span>, Bhat U., Newsome S.D. [Caching in or falling back at the Sevilleta: the effects of body size and seasonal uncertainty on desert rodent foraging.](https://arxiv.org/abs/1907.06305){:target="_blank"} *In Press @ American Naturalist*. Links to ArXiv preprint. 
+:	* Gross T., Allhoff K.T., Blasius B., Brose U., Drossel B., Fahimipour A.K., Guill C., <span style="color:#4292E5;">Yeakel J.D.</span>, Zeng F. Modern models of trophic meta-communities. In revision @ *Philosophical Transactions of the Royal Society B*. In Press.
+
+:	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1073/pnas.1907998117"></div> Bhat U., Kempes C.P., <span style="color:#4292E5;">Yeakel J.D.</span> [Scaling of the risk landscape drives optimal life history strategies and the evolution of grazing.](https://www.pnas.org/content/early/2019/12/16/1907998117){:target="_blank"} *Proceedings of the National Academy of Sciences* 117 (3) 1580-1586.
+
+:	* <span style="color:#4292E5;">Yeakel, J.D.</span>, Bhat U., Newsome S.D. [Caching in or falling back at the Sevilleta: the effects of body size and seasonal uncertainty on desert rodent foraging.](https://www.journals.uchicago.edu/doi/10.1086/709019){:target="_blank"} *American Naturalist*.
+
+:	* Pires M.M., O'Donnell J.L., Burkle L.A., Diaz-Castelazo C., Hembry D.H., <span style="color:#4292E5;">Yeakel J.D.</span>, Newman E.A., Medeiros L.P., de Aguiar M.A.M., Guimarães Jr. P.R. The indirect paths to cascading effects of extinctions in mutualistic networks. *Ecology*.
 
 2019
 :	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.7717/peerj.7566"></div> de Aguiar M.A.M., Newman E.A., Pires M.M., <span style="color:#4292E5;">Yeakel J.D.</span>, Boettiger C., Burkle L.A., Gravel D., Guimarães P.R., O'Donnell J.L., Poisot T., Fortin M.J., Hembry D. [Revealing biases in the sampling of ecological interaction networks.](https://peerj.com/articles/7566/){:target="_blank"} *PeerJ* doi.10.7717/peerj.7566.
