@@ -15,5 +15,5 @@ comments: true
 
 <br>
 
-<iframe width='100%' height='1000' src='https://rdrr.io/snippets/embed/' frameborder='0'></iframe>
+<iframe width='100%' height='1000' src='https://rdrr.io/snippets/embed/?code=%23Paste%20text%20here' frameborder='0'></iframe>
 
