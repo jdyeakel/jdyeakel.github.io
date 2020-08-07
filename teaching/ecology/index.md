@@ -1,6 +1,6 @@
 ---
 layout: pagetrim
-title: "Foundations of Ecology (Fall, 2018)"
+title: "Foundations of Ecology (Fall, 2020)"
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
@@ -8,7 +8,7 @@ image:
   feature: lions.jpg
   credit:
 ---
-
+<!---
 ## Info
 *	Class time/location: TR 9:00-10:15 in GRAN 135
 *	Section BIO/ESS-148-02D: F 1:30-2:20 in GLCR 120
@@ -35,7 +35,7 @@ image:
 * Week 8: [Game Theory](http://jdyeakel.github.io/teaching/ecology/papers/EvolGameTheory.pdf)
 
 
-<!---
+
 <hr>
 
 [Homework 2: due in section during the week of March 20. Print and turn in.](http://jdyeakel.github.io/teaching/ecology/Homework2.pdf)

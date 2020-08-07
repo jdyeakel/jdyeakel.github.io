@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
 <link rel="alternate" type="text/html" href="http://localhost:4000" />
-<updated>2015-09-08T09:19:45-06:00</updated>
+<updated>2020-08-06T23:15:03-07:00</updated>
 <id>http://localhost:4000/</id>
 <author>
   <name>Justin D. Yeakel</name>
@@ -13,14 +13,12 @@
 </author>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[Rebuttal in PNAS]]></title>
   <link rel="alternate" type="text/html" href="http://localhost:4000/posts/rebuttal-in-pnas/" />
   <id>http://localhost:4000/posts/rebuttal-in-pnas</id>
-  <published>2015-02-09T10:40:26-07:00</published>
-  <updated>2015-02-09T10:40:26-07:00</updated>
+  <published>2015-02-09T09:40:26-08:00</published>
+  <updated>2015-02-09T09:40:26-08:00</updated>
   <author>
     <name>Justin D. Yeakel</name>
     <uri>http://localhost:4000</uri>
@@ -55,14 +53,12 @@ Importantly, this added uncertainty did not have a significant influence on our 
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[GSA Travel Fail]]></title>
   <link rel="alternate" type="text/html" href="http://localhost:4000/posts/gsa-travel-fail/" />
   <id>http://localhost:4000/posts/gsa-travel-fail</id>
-  <published>2014-11-04T18:26:47-07:00</published>
-  <updated>2014-11-04T18:26:47-07:00</updated>
+  <published>2014-11-04T17:26:47-08:00</published>
+  <updated>2014-11-04T17:26:47-08:00</updated>
   <author>
     <name>Justin D. Yeakel</name>
     <uri>http://localhost:4000</uri>
@@ -82,14 +78,12 @@ In case you’re interested, my talk was on our recent Egyptian ecology research
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[New Website]]></title>
   <link rel="alternate" type="text/html" href="http://localhost:4000/posts/first-post/" />
   <id>http://localhost:4000/posts/first-post</id>
-  <published>2014-10-10T10:56:01-06:00</published>
-  <updated>2014-10-10T10:56:01-06:00</updated>
+  <published>2014-10-10T09:56:01-07:00</published>
+  <updated>2014-10-10T09:56:01-07:00</updated>
   <author>
     <name>Justin D. Yeakel</name>
     <uri>http://localhost:4000</uri>
@@ -101,31 +95,29 @@ In case you’re interested, my talk was on our recent Egyptian ecology research
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[Collapse of an Ancient Egyptian Food Web in PNAS]]></title>
   <link rel="alternate" type="text/html" href="http://localhost:4000/posts/collapse-of-an-ancient-egyptian-food-web-in-pnas/" />
   <id>http://localhost:4000/posts/collapse-of-an-ancient-egyptian-food-web-in-pnas</id>
-  <published>2014-09-08T00:00:00-06:00</published>
-  <updated>2014-09-08T00:00:00-06:00</updated>
+  <published>2014-09-07T23:00:00-07:00</published>
+  <updated>2014-09-07T23:00:00-07:00</updated>
   <author>
     <name>Justin D. Yeakel</name>
     <uri>http://localhost:4000</uri>
     <email>jdyeakel@gmail.com</email>
   </author>
-  <content type="html">&lt;p&gt;We recently published a &lt;a href=&quot;http://www.pnas.org/content/111/40/14472.abstract&quot;&gt;paper in the Proceedings of the National Academy of Sciences&lt;/a&gt; detailing the collapse of the Egyptian mammalian community across the second half of the Holocene (see this link for the UCSC press release). The project was a collaboration between myself, Mathias Pires, and Lars Rudolf along with coauthors Paulo Guimarães Jr., Nathaniel Dominy, Paul Koch, and Thilo Gross. We used paleontological, archeological, and historical information – including records of artistic works – of species occurrences in Ancient Egypt to reconstruct the pattern of extinctions over ca. 6000 years. Remarkably, some of the largest changes in the community coincided with previously recorded aridification pulses in Egypt that have been associated with cultural collapse and socio-political turnover. We then used mathematical modeling to determine the consequences of the extinctions in Egypt, and found that the loss of species richness had large impacts on the stability of the community as well as the roles of individual species within the ecosystem.  &lt;/p&gt;
+  <content type="html">&lt;p&gt;We recently published a &lt;a href=&quot;http://www.pnas.org/content/111/40/14472.abstract&quot;&gt;paper in the Proceedings of the National Academy of Sciences&lt;/a&gt; detailing the collapse of the Egyptian mammalian community across the second half of the Holocene (see this link for the UCSC press release). The project was a collaboration between myself, Mathias Pires, and Lars Rudolf along with coauthors Paulo Guimarães Jr., Nathaniel Dominy, Paul Koch, and Thilo Gross. We used paleontological, archeological, and historical information – including records of artistic works – of species occurrences in Ancient Egypt to reconstruct the pattern of extinctions over ca. 6000 years. Remarkably, some of the largest changes in the community coincided with previously recorded aridification pulses in Egypt that have been associated with cultural collapse and socio-political turnover. We then used mathematical modeling to determine the consequences of the extinctions in Egypt, and found that the loss of species richness had large impacts on the stability of the community as well as the roles of individual species within the ecosystem.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;http://infograficos.estadao.com.br/public/cidades/extincoes-egito/&quot;&gt;See a Brazilian infographic of the extinction events!&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;In 2009, Nate Dominy (then a professor of Anthropology at UC-Santa Cruz and now at Dartmouth) and I visited the traveling Tutankhamen exhibit in San Francisco, where a startling array of artifacts, sculptures, and carvings were on display. One of the more striking realizations was the amount of detail and the abundance of animal representations in the exhibit. In fact, Egyptian artisans were keen observers of the natural world and recorded these observations in their work. For example, the tombs of pharaohs were illustrated with depictions of hunting scenes, providing a glimpse of the natural world during that time period. The cumulative body of paleontological, archeological, and historical evidence reveals a world very different than what is seen in Egypt today – lions, wild dogs, striped hyenas, elephants, giraffes, wildebeest, hartebeest, and many species of gazelle were common Egyptian fauna. This startlingly rich animal community is familiar to us in our modern world, but we would expect to find it in East Africa. In fact, at the end of the Pleistocene (11.7 thousand years ago), there were 37 large-bodied mammalian species in Egypt, whereas there are only 8 remaining today. What happened?   &lt;/p&gt;
+&lt;p&gt;In 2009, Nate Dominy (then a professor of Anthropology at UC-Santa Cruz and now at Dartmouth) and I visited the traveling Tutankhamen exhibit in San Francisco, where a startling array of artifacts, sculptures, and carvings were on display. One of the more striking realizations was the amount of detail and the abundance of animal representations in the exhibit. In fact, Egyptian artisans were keen observers of the natural world and recorded these observations in their work. For example, the tombs of pharaohs were illustrated with depictions of hunting scenes, providing a glimpse of the natural world during that time period. The cumulative body of paleontological, archeological, and historical evidence reveals a world very different than what is seen in Egypt today – lions, wild dogs, striped hyenas, elephants, giraffes, wildebeest, hartebeest, and many species of gazelle were common Egyptian fauna. This startlingly rich animal community is familiar to us in our modern world, but we would expect to find it in East Africa. In fact, at the end of the Pleistocene (11.7 thousand years ago), there were 37 large-bodied mammalian species in Egypt, whereas there are only 8 remaining today. What happened?&lt;/p&gt;
 
 &lt;hr /&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Egypt in the News!  &lt;/p&gt;
+  &lt;p&gt;Egypt in the News!&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;ul&gt;
@@ -142,59 +134,55 @@ In case you’re interested, my talk was on our recent Egyptian ecology research
 
 &lt;hr /&gt;
 
-&lt;p&gt;The record of artistic works reflects the decline of the Egyptian mammalian community. For example, the Dama deer was an early inhabitant of northern Egypt, and was prominently depicted until the 18th Dynasty (ca. 3270 yrs BP), but is not found afterwards. The beisa oryx were depicted in numerous rock carvings and are present in hunting scenes until the 12th Dynasty (ca. 3520 yrs BP), but afterwards are only found with reference to being imported from Nubia (southern Egypt/northern Sudan). Lions are very interesting… there were two lion morphotypes recorded in Egypt – one larger-bodied long-maned lion, and one smaller-bodied short-maned lion (these are distinctly represented with respect to male/female forms). It is thought that the larger-maned lion may have been a distinct subspecies – possibly the Barbary lion, which persisted in the Atlas Mountains until the late 19th/early 20th century. In Egypt, this subspecies disappeared early on (ca. 4645 yrs BP). The short-maned lions persisted later, last being represented in ecological settings ca. 3035 yrs BP. This disappearance anticipates accounts of lion rarity in the written record – for example, Herodotus described lions as common, whereas Aristotle (about a century later) recorded them as being rare.    &lt;/p&gt;
+&lt;p&gt;The record of artistic works reflects the decline of the Egyptian mammalian community. For example, the Dama deer was an early inhabitant of northern Egypt, and was prominently depicted until the 18th Dynasty (ca. 3270 yrs BP), but is not found afterwards. The beisa oryx were depicted in numerous rock carvings and are present in hunting scenes until the 12th Dynasty (ca. 3520 yrs BP), but afterwards are only found with reference to being imported from Nubia (southern Egypt/northern Sudan). Lions are very interesting… there were two lion morphotypes recorded in Egypt – one larger-bodied long-maned lion, and one smaller-bodied short-maned lion (these are distinctly represented with respect to male/female forms). It is thought that the larger-maned lion may have been a distinct subspecies – possibly the Barbary lion, which persisted in the Atlas Mountains until the late 19th/early 20th century. In Egypt, this subspecies disappeared early on (ca. 4645 yrs BP). The short-maned lions persisted later, last being represented in ecological settings ca. 3035 yrs BP. This disappearance anticipates accounts of lion rarity in the written record – for example, Herodotus described lions as common, whereas Aristotle (about a century later) recorded them as being rare.&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;The extinction of species in Egypt appears to be non-random. There were three large aridification pulses recorded in the region surrounding Egypt: one at ca. 5000 yrs BP (year before 1950), one at 4100 yrs BP, and one at ca. 3000 yrs BP. In each of these time-intervals, there was a significant shift in the ratio of predators to prey in Egypt, where the community primarily looses herbivores until 3035 yrs BP (such that the predator-prey ratio increases), and then carnivores (such that the predator-prey ratio decreases). This pattern is distinct when compared against random extinction simulations, and robust with respect to error in the timing of extinctions. The observed pattern may be explained by direct hunting from human populations, changes in primary productivity, or a competition for resources/space. Our approach can’t quite tease apart these competing drivers, but we can asses the consequences of the observed changes on the functioning of the community.  &lt;/p&gt;
+&lt;p&gt;The extinction of species in Egypt appears to be non-random. There were three large aridification pulses recorded in the region surrounding Egypt: one at ca. 5000 yrs BP (year before 1950), one at 4100 yrs BP, and one at ca. 3000 yrs BP. In each of these time-intervals, there was a significant shift in the ratio of predators to prey in Egypt, where the community primarily looses herbivores until 3035 yrs BP (such that the predator-prey ratio increases), and then carnivores (such that the predator-prey ratio decreases). This pattern is distinct when compared against random extinction simulations, and robust with respect to error in the timing of extinctions. The observed pattern may be explained by direct hunting from human populations, changes in primary productivity, or a competition for resources/space. Our approach can’t quite tease apart these competing drivers, but we can asses the consequences of the observed changes on the functioning of the community.&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;To determine the consequences of the extinctions, we used rules based on body size to assemble predator-prey trophic networks, and Generalized Modeling to determine the local stability of these systems over time. Generalized Modeling permits the analysis of systems where the functional relationships between and among species are not well understood (see here for a series of examples using the method, here for the method applied to large food webs, and here for an ecological introduction on the topic). We found that as the extinctions in Egypt accrue, the stability of the system declines. We determined that this decline in stability is largely due to a loss of ecological redundancy. For example, small- to medium-sized herbivores are important to the stability of the predator-prey network because they provide the core resources for the predator guild. When there are many of these species in the system, the loss of any one has negligible impact on system stability. As these animals disappear and the system shrinks in size, the loss of any one component generally has a larger impact on the system as a whole.  &lt;/p&gt;
+&lt;p&gt;To determine the consequences of the extinctions, we used rules based on body size to assemble predator-prey trophic networks, and Generalized Modeling to determine the local stability of these systems over time. Generalized Modeling permits the analysis of systems where the functional relationships between and among species are not well understood (see here for a series of examples using the method, here for the method applied to large food webs, and here for an ecological introduction on the topic). We found that as the extinctions in Egypt accrue, the stability of the system declines. We determined that this decline in stability is largely due to a loss of ecological redundancy. For example, small- to medium-sized herbivores are important to the stability of the predator-prey network because they provide the core resources for the predator guild. When there are many of these species in the system, the loss of any one has negligible impact on system stability. As these animals disappear and the system shrinks in size, the loss of any one component generally has a larger impact on the system as a whole.&lt;/p&gt;
 
 &lt;hr /&gt;
 
 &lt;p&gt;The importance of studying ancient ecosystems is vital for modern conservation efforts. This seems to be a strange declaration at face value – ancient ecosystems have long passed and don’t often seem immediately relevant. However, the world that we live in has been significantly altered in the past 5000 years by both climatic and human-induced impacts. The latter has played a particularly important role in the past few hundred years. Gaining insight in how such impacts have altered the functioning of ecological communities is important because is provides a baseline by which modern and future impacts can be measured. Furthermore, for animals that are long-lived, such as mammals, looking into the past is one of the only ways that we can observe long-term trends, as well as the potential impacts of large perturbations that can’t be recreated in laboratory settings. We hope that our analysis of the community in Ancient Egypt stimulates some thoughtful discussions on the role paleoecological inference with respect to modern conservation efforts.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/posts/collapse-of-an-ancient-egyptian-food-web-in-pnas/&quot;&gt;Collapse of an Ancient Egyptian Food Web in PNAS&lt;/a&gt; was originally published by Justin D. Yeakel at &lt;a href=&quot;http://localhost:4000&quot;&gt;Yeakel Lab @ UC-Merced&lt;/a&gt; on September 08, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/posts/collapse-of-an-ancient-egyptian-food-web-in-pnas/&quot;&gt;Collapse of an Ancient Egyptian Food Web in PNAS&lt;/a&gt; was originally published by Justin D. Yeakel at &lt;a href=&quot;http://localhost:4000&quot;&gt;Yeakel Lab @ UC-Merced&lt;/a&gt; on September 07, 2014.&lt;/p&gt;</content>
 </entry>
 
-
-  
 
 <entry>
   <title type="html"><![CDATA[A Perturbation Approach to Explore Stock Recruitment Relationships]]></title>
   <link rel="alternate" type="text/html" href="http://localhost:4000/posts/a-perturbation-approach-to-explore-stock-recruitment-relationships/" />
   <id>http://localhost:4000/posts/a-perturbation-approach-to-explore-stock-recruitment-relationships</id>
-  <published>2014-08-25T00:00:00-06:00</published>
-  <updated>2014-08-25T00:00:00-06:00</updated>
+  <published>2014-08-24T23:00:00-07:00</published>
+  <updated>2014-08-24T23:00:00-07:00</updated>
   <author>
     <name>Justin D. Yeakel</name>
     <uri>http://localhost:4000</uri>
     <email>jdyeakel@gmail.com</email>
   </author>
-  <content type="html">&lt;p&gt;We recently published a paper in &lt;a href=&quot;http://link.springer.com/article/10.1007/s12080-014-0230-z&quot;&gt;Theoretical Ecology&lt;/a&gt; where we use Generalized Modeling to explore stock recruitment relationships in fisheries. Models of stock recruitment are fundamental to fish population dynamics, describing how reproduction (in terms of the biomass of new recruits) changes as a function of the density of the current stock. In many resource-limited populations, recruitment increases for lower levels of stock biomass until it levels off at higher levels of stock biomass (described by the Beverton-Holt functional response). In others, particularly when there is cannibalism or nest predation, recruitment increases, reaches a peak, and then decreases for higher levels of stock biomass (described by the Ricker functional response). In open populations, where resources are not necessarily limiting, recruitment may continue to increase with stock biomass (the Cushing functional response).  &lt;/p&gt;
+  <content type="html">&lt;p&gt;We recently published a paper in &lt;a href=&quot;http://link.springer.com/article/10.1007/s12080-014-0230-z&quot;&gt;Theoretical Ecology&lt;/a&gt; where we use Generalized Modeling to explore stock recruitment relationships in fisheries. Models of stock recruitment are fundamental to fish population dynamics, describing how reproduction (in terms of the biomass of new recruits) changes as a function of the density of the current stock. In many resource-limited populations, recruitment increases for lower levels of stock biomass until it levels off at higher levels of stock biomass (described by the Beverton-Holt functional response). In others, particularly when there is cannibalism or nest predation, recruitment increases, reaches a peak, and then decreases for higher levels of stock biomass (described by the Ricker functional response). In open populations, where resources are not necessarily limiting, recruitment may continue to increase with stock biomass (the Cushing functional response).&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;Being able to distinguish between stock recruitment relationships (SRRs) is vital for predicting the long-term dynamics of a fish population. Traditionally, SRRs are distinguished using statistical methods of best fit. In this manuscript, we present an alternative method of distinguishing between SRRs based on the response of a population to an external disturbance. The timing and degree of a population’s reaction can be used to distinguish between SRRs and is strongly resilient to observational error. The method relies on ‘generalizing’ the functional response, where we do not assume to know the specific architecture of the SRR. This approach relies on ‘Generalized Modeling’, which we review here, and is based on techniques developed by Thilo Gross et al., illustrated with respect to some really neat examples here. We extend some of these ideas by introducing generalized modeling techniques with respect to discrete-time rather than continuous time systems.  &lt;/p&gt;
+&lt;p&gt;Being able to distinguish between stock recruitment relationships (SRRs) is vital for predicting the long-term dynamics of a fish population. Traditionally, SRRs are distinguished using statistical methods of best fit. In this manuscript, we present an alternative method of distinguishing between SRRs based on the response of a population to an external disturbance. The timing and degree of a population’s reaction can be used to distinguish between SRRs and is strongly resilient to observational error. The method relies on ‘generalizing’ the functional response, where we do not assume to know the specific architecture of the SRR. This approach relies on ‘Generalized Modeling’, which we review here, and is based on techniques developed by Thilo Gross et al., illustrated with respect to some really neat examples here. We extend some of these ideas by introducing generalized modeling techniques with respect to discrete-time rather than continuous time systems.&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;We hope that this method illustrates a different way of looking at an old problem, and think that it has particular relevance to relatively new fisheries where long-term time-series data do not exist. It offers a way to explore different aspects of fish reproduction, while remaining in a modeling framework rooted in biological mechanisms. I think the most interesting parts of these ideas are illustrated with respect to age-structured models, where the dynamics become complex.  &lt;/p&gt;
+&lt;p&gt;We hope that this method illustrates a different way of looking at an old problem, and think that it has particular relevance to relatively new fisheries where long-term time-series data do not exist. It offers a way to explore different aspects of fish reproduction, while remaining in a modeling framework rooted in biological mechanisms. I think the most interesting parts of these ideas are illustrated with respect to age-structured models, where the dynamics become complex.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/posts/a-perturbation-approach-to-explore-stock-recruitment-relationships/&quot;&gt;A Perturbation Approach to Explore Stock Recruitment Relationships&lt;/a&gt; was originally published by Justin D. Yeakel at &lt;a href=&quot;http://localhost:4000&quot;&gt;Yeakel Lab @ UC-Merced&lt;/a&gt; on August 25, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/posts/a-perturbation-approach-to-explore-stock-recruitment-relationships/&quot;&gt;A Perturbation Approach to Explore Stock Recruitment Relationships&lt;/a&gt; was originally published by Justin D. Yeakel at &lt;a href=&quot;http://localhost:4000&quot;&gt;Yeakel Lab @ UC-Merced&lt;/a&gt; on August 24, 2014.&lt;/p&gt;</content>
 </entry>
 
-
-  
 
 <entry>
   <title type="html"><![CDATA[Exploring the Life History Diversity of Steelhead Salmon]]></title>
   <link rel="alternate" type="text/html" href="http://localhost:4000/posts/exploring-the-life-history-diversity-of-steelhead-salmon/" />
   <id>http://localhost:4000/posts/exploring-the-life-history-diversity-of-steelhead-salmon</id>
-  <published>2014-02-28T00:00:00-07:00</published>
-  <updated>2014-02-28T00:00:00-07:00</updated>
+  <published>2014-02-27T23:00:00-08:00</published>
+  <updated>2014-02-27T23:00:00-08:00</updated>
   <author>
     <name>Justin D. Yeakel</name>
     <uri>http://localhost:4000</uri>
@@ -219,18 +207,16 @@ In case you’re interested, my talk was on our recent Egyptian ecology research
 &lt;p&gt;Moore JW, Yeakel JD, Peard D, Lough J, Beere M. Life-history diversity and its importance to population stability and persistence of a migratory fish: steelhead in two large North American watersheds. Journal of Animal Ecology. DOI: 10.1111/1365-2656.12212 [link]&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/posts/exploring-the-life-history-diversity-of-steelhead-salmon/&quot;&gt;Exploring the Life History Diversity of Steelhead Salmon&lt;/a&gt; was originally published by Justin D. Yeakel at &lt;a href=&quot;http://localhost:4000&quot;&gt;Yeakel Lab @ UC-Merced&lt;/a&gt; on February 28, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/posts/exploring-the-life-history-diversity-of-steelhead-salmon/&quot;&gt;Exploring the Life History Diversity of Steelhead Salmon&lt;/a&gt; was originally published by Justin D. Yeakel at &lt;a href=&quot;http://localhost:4000&quot;&gt;Yeakel Lab @ UC-Merced&lt;/a&gt; on February 27, 2014.&lt;/p&gt;</content>
 </entry>
 
-
-  
 
 <entry>
   <title type="html"><![CDATA[Synchronisation and Stability in River Metapopulation Networks in Ecology Letters]]></title>
   <link rel="alternate" type="text/html" href="http://localhost:4000/posts/synchronisation-and-stability-in-river-metapopulation-networks-in-ecology-letters/" />
   <id>http://localhost:4000/posts/synchronisation-and-stability-in-river-metapopulation-networks-in-ecology-letters</id>
-  <published>2013-12-09T00:00:00-07:00</published>
-  <updated>2013-12-09T00:00:00-07:00</updated>
+  <published>2013-12-08T23:00:00-08:00</published>
+  <updated>2013-12-08T23:00:00-08:00</updated>
   <author>
     <name>Justin D. Yeakel</name>
     <uri>http://localhost:4000</uri>
@@ -248,18 +234,16 @@ In case you’re interested, my talk was on our recent Egyptian ecology research
 
 &lt;p&gt;[1] Yeakel, J. D., Moore, J. W., Guimarães, P. R., Jr, &amp;amp; de Aguiar, M. A. M. (2013). Synchronisation and stability in river metapopulation networks. Ecology Letters. doi:10.1111/ele.12228 Link&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/posts/synchronisation-and-stability-in-river-metapopulation-networks-in-ecology-letters/&quot;&gt;Synchronisation and Stability in River Metapopulation Networks in Ecology Letters&lt;/a&gt; was originally published by Justin D. Yeakel at &lt;a href=&quot;http://localhost:4000&quot;&gt;Yeakel Lab @ UC-Merced&lt;/a&gt; on December 09, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/posts/synchronisation-and-stability-in-river-metapopulation-networks-in-ecology-letters/&quot;&gt;Synchronisation and Stability in River Metapopulation Networks in Ecology Letters&lt;/a&gt; was originally published by Justin D. Yeakel at &lt;a href=&quot;http://localhost:4000&quot;&gt;Yeakel Lab @ UC-Merced&lt;/a&gt; on December 08, 2013.&lt;/p&gt;</content>
 </entry>
 
-
-  
 
 <entry>
   <title type="html"><![CDATA[Exploring the Constraints of Hominin Foraging Behaviors]]></title>
   <link rel="alternate" type="text/html" href="http://localhost:4000/posts/exploring-the-constraints-of-hominin-foraging-behaviors/" />
   <id>http://localhost:4000/posts/exploring-the-constraints-of-hominin-foraging-behaviors</id>
-  <published>2013-09-10T00:00:00-06:00</published>
-  <updated>2013-09-10T00:00:00-06:00</updated>
+  <published>2013-09-09T23:00:00-07:00</published>
+  <updated>2013-09-09T23:00:00-07:00</updated>
   <author>
     <name>Justin D. Yeakel</name>
     <uri>http://localhost:4000</uri>
@@ -295,18 +279,16 @@ In case you’re interested, my talk was on our recent Egyptian ecology research
   &lt;/li&gt;
 &lt;/ol&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/posts/exploring-the-constraints-of-hominin-foraging-behaviors/&quot;&gt;Exploring the Constraints of Hominin Foraging Behaviors&lt;/a&gt; was originally published by Justin D. Yeakel at &lt;a href=&quot;http://localhost:4000&quot;&gt;Yeakel Lab @ UC-Merced&lt;/a&gt; on September 10, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/posts/exploring-the-constraints-of-hominin-foraging-behaviors/&quot;&gt;Exploring the Constraints of Hominin Foraging Behaviors&lt;/a&gt; was originally published by Justin D. Yeakel at &lt;a href=&quot;http://localhost:4000&quot;&gt;Yeakel Lab @ UC-Merced&lt;/a&gt; on September 09, 2013.&lt;/p&gt;</content>
 </entry>
 
-
-  
 
 <entry>
   <title type="html"><![CDATA[Dietary Flexibility, Food Webs, and the Last Glacial Maximum]]></title>
   <link rel="alternate" type="text/html" href="http://localhost:4000/posts/dietary-flexibility-food-webs-and-the-last-glacial-maximum/" />
   <id>http://localhost:4000/posts/dietary-flexibility-food-webs-and-the-last-glacial-maximum</id>
-  <published>2013-05-14T00:00:00-06:00</published>
-  <updated>2013-05-14T00:00:00-06:00</updated>
+  <published>2013-05-13T23:00:00-07:00</published>
+  <updated>2013-05-13T23:00:00-07:00</updated>
   <author>
     <name>Justin D. Yeakel</name>
     <uri>http://localhost:4000</uri>
@@ -321,7 +303,7 @@ In case you’re interested, my talk was on our recent Egyptian ecology research
 	&lt;figcaption&gt;&lt;a href=&quot;/images/mammoth.jpg&quot; title=&quot;Mammoth tusks are still found in the arctic landscape, remnants of the mammoth steppe ecosystem that supported a diverse assemblage of large-bodied mammals.&quot;&gt;Mammoth tusks are still found in the arctic landscape, remnants of the mammoth steppe ecosystem that supported a diverse assemblage of large-bodied mammals.&lt;/a&gt;.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/posts/dietary-flexibility-food-webs-and-the-last-glacial-maximum/&quot;&gt;Dietary Flexibility, Food Webs, and the Last Glacial Maximum&lt;/a&gt; was originally published by Justin D. Yeakel at &lt;a href=&quot;http://localhost:4000&quot;&gt;Yeakel Lab @ UC-Merced&lt;/a&gt; on May 14, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/posts/dietary-flexibility-food-webs-and-the-last-glacial-maximum/&quot;&gt;Dietary Flexibility, Food Webs, and the Last Glacial Maximum&lt;/a&gt; was originally published by Justin D. Yeakel at &lt;a href=&quot;http://localhost:4000&quot;&gt;Yeakel Lab @ UC-Merced&lt;/a&gt; on May 13, 2013.&lt;/p&gt;</content>
 </entry>
 
 </feed>
