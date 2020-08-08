@@ -160,7 +160,11 @@
 
 <p><br /></p>
 
-<p>There is an imporant difference between using this web-tool vs. using RStudio installed on your computer. With the web-tool, all of the code must be entered together and run all at once. With RStudio installed on your machine, you can run one line at a time.</p>
+<blockquote>
+  <p><strong>There is an imporant difference between using this web-tool vs. using RStudio installed on your computer. With RStudio installed on your machine, you can run one line at a time, however with the web-tool, all of the code must be entered together and run all at once.</strong><br />
+<br />
+<strong>When using the web-tool, read through the comments and corresponding code carefully before copying and pasting into the window. Experiment by changing the values and seeing what you get!</strong></p>
+</blockquote>
 
 <h2 id="so-lets-get-started">So let’s get started</h2>
 
@@ -176,13 +180,90 @@
     </span><span class="c1"># Now we will calculate a final number by dividing y by z and adding x.</span><span class="w">
     </span><span class="c1"># We will assign this calculation to object final_1</span><span class="w">
     </span><span class="n">final_1</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">x</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">y</span><span class="o">/</span><span class="n">z</span><span class="w">
-    </span><span class="n">print</span><span class="p">(</span><span class="n">final_1</span><span class="p">)</span><span class="w">
+    </span><span class="c1"># I am using the print function to print both the name of the object and its value</span><span class="w">
+    </span><span class="n">print</span><span class="p">(</span><span class="n">paste</span><span class="p">(</span><span class="s1">'final_1 = '</span><span class="p">,</span><span class="n">final_1</span><span class="p">),</span><span class="n">quote</span><span class="o">=</span><span class="nb">F</span><span class="p">)</span><span class="w">
 
     </span><span class="c1"># Remember your order of operations! (PEMDAS)</span><span class="w">
     </span><span class="c1"># By adding parentheses, we change the calculation</span><span class="w">
     </span><span class="c1"># We will save this - different calculation - to the object final_2</span><span class="w">
     </span><span class="n">final_2</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="p">(</span><span class="n">x</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">y</span><span class="p">)</span><span class="o">/</span><span class="n">z</span><span class="w">
-    </span><span class="n">print</span><span class="p">(</span><span class="n">final_2</span><span class="p">)</span><span class="w">
+    </span><span class="n">print</span><span class="p">(</span><span class="n">paste</span><span class="p">(</span><span class="s1">'final_2 = '</span><span class="p">,</span><span class="n">final_2</span><span class="p">),</span><span class="n">quote</span><span class="o">=</span><span class="nb">F</span><span class="p">)</span><span class="w">
+
+    </span><span class="c1"># We might also examine the value of something without saving it</span><span class="w">
+    </span><span class="c1"># ...for instance the product of final_1 and final_2</span><span class="w">
+    </span><span class="c1"># Note we are not using the function 'print', as R will output the value automatically</span><span class="w">
+    </span><span class="n">final_1</span><span class="w"> </span><span class="o">*</span><span class="w"> </span><span class="n">final_2</span><span class="w">
+</span></code></pre></div></div>
+
+<iframe width="100%" height="500" src="https://rdrr.io/snippets/embed/?code=%23Paste%20text%20here" frameborder="0"></iframe>
+
+<h2 id="a-bit-more-on-functions">A bit more on functions</h2>
+
+<p>Sometimes functions operate on numbers, and sometimes functions operate on a combination of object types. Let’s look at some commonly-used functions.</p>
+
+<div class="language-R highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="w">    </span><span class="c1"># We can use functions on raw numbers</span><span class="w">
+    </span><span class="nf">log</span><span class="p">(</span><span class="m">5</span><span class="p">)</span><span class="w">
+    </span><span class="nf">exp</span><span class="p">(</span><span class="m">5</span><span class="p">)</span><span class="w">
+
+    </span><span class="c1"># Or we can pass an object to a function</span><span class="w">
+    </span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">5</span><span class="w">
+    </span><span class="n">y</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">log</span><span class="p">(</span><span class="n">x</span><span class="p">)</span><span class="w">
+    </span><span class="n">print</span><span class="p">(</span><span class="n">paste</span><span class="p">(</span><span class="s1">'y = '</span><span class="p">,</span><span class="n">y</span><span class="p">),</span><span class="n">quote</span><span class="o">=</span><span class="nb">F</span><span class="p">)</span><span class="w">
+    </span><span class="n">z</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">exp</span><span class="p">(</span><span class="n">x</span><span class="p">)</span><span class="w">
+    </span><span class="n">print</span><span class="p">(</span><span class="n">paste</span><span class="p">(</span><span class="s1">'z = '</span><span class="p">,</span><span class="n">z</span><span class="p">),</span><span class="n">quote</span><span class="o">=</span><span class="nb">F</span><span class="p">)</span><span class="w">
+
+    </span><span class="c1">#Or we could modify an object as we pass it to a function</span><span class="w">
+    </span><span class="n">yprime</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">log</span><span class="p">(</span><span class="n">x</span><span class="o">/</span><span class="m">2</span><span class="p">)</span><span class="w">
+    </span><span class="n">print</span><span class="p">(</span><span class="n">paste</span><span class="p">(</span><span class="s1">'yprime = '</span><span class="p">,</span><span class="n">yprime</span><span class="p">),</span><span class="n">quote</span><span class="o">=</span><span class="nb">F</span><span class="p">)</span><span class="w">
+    </span><span class="n">zprime</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">exp</span><span class="p">(</span><span class="n">x</span><span class="o">/</span><span class="m">2</span><span class="p">)</span><span class="w">
+    </span><span class="n">print</span><span class="p">(</span><span class="n">paste</span><span class="p">(</span><span class="s1">'zprime = '</span><span class="p">,</span><span class="n">zprime</span><span class="p">),</span><span class="n">quote</span><span class="o">=</span><span class="nb">F</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
+
+<iframe width="100%" height="500" src="https://rdrr.io/snippets/embed/?code=%23Paste%20text%20here" frameborder="0"></iframe>
+
+<h2 id="not-just-numbers">Not just numbers!</h2>
+
+<p>Much of what we will do will involve manipulating lists of numbers, which we call a <code class="highlighter-rouge">vector</code>. For example, perhaps we measure the proportion of the day a bird spends foraging for 10 days. We could examine this information by organizing it into a vector.</p>
+
+<div class="language-R highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="w">    </span><span class="c1"># For 10 days we measure the proportion of the day a certain bird spends foraging.</span><span class="w">
+    </span><span class="c1"># (don't worry about how... there is plenty of time for realism later on)</span><span class="w">
+    </span><span class="c1"># We encode these observed values into a vector 'v'</span><span class="w">
+    </span><span class="n">v</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="m">0.22</span><span class="p">,</span><span class="m">0.17</span><span class="p">,</span><span class="m">0.25</span><span class="p">,</span><span class="m">0.22</span><span class="p">,</span><span class="m">0.38</span><span class="p">,</span><span class="m">0.27</span><span class="p">,</span><span class="m">0.15</span><span class="p">,</span><span class="m">0.25</span><span class="p">,</span><span class="m">0.24</span><span class="p">,</span><span class="m">0.11</span><span class="p">)</span><span class="w">
+    </span><span class="n">print</span><span class="p">(</span><span class="n">paste</span><span class="p">(</span><span class="nf">c</span><span class="p">(</span><span class="s1">'v ='</span><span class="p">,</span><span class="n">v</span><span class="p">)),</span><span class="n">quote</span><span class="o">=</span><span class="nb">F</span><span class="p">)</span><span class="w">
+
+    </span><span class="c1"># The function c() concatenates the included values into a vector</span><span class="w">
+    </span><span class="c1"># We can perform operations on vectors as easily as if they were single numbers</span><span class="w">
+    </span><span class="c1"># Say we want to multiple every value by 2...</span><span class="w">
+    </span><span class="n">v2</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">v</span><span class="o">*</span><span class="m">2</span><span class="w">
+    </span><span class="n">print</span><span class="p">(</span><span class="n">paste</span><span class="p">(</span><span class="nf">c</span><span class="p">(</span><span class="s1">'v2 = '</span><span class="p">,</span><span class="n">v2</span><span class="p">)),</span><span class="n">quote</span><span class="o">=</span><span class="nb">F</span><span class="p">)</span><span class="w">
+
+    </span><span class="c1"># We could even apply the function log() across each value</span><span class="w">
+    </span><span class="n">lv</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">log</span><span class="p">(</span><span class="n">v</span><span class="p">)</span><span class="w">
+    </span><span class="n">print</span><span class="p">(</span><span class="n">paste</span><span class="p">(</span><span class="nf">c</span><span class="p">(</span><span class="s1">'lv ='</span><span class="p">,</span><span class="n">lv</span><span class="p">)),</span><span class="n">quote</span><span class="o">=</span><span class="nb">F</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
+
+<iframe width="100%" height="300" src="https://rdrr.io/snippets/embed/?code=%23Paste%20text%20here" frameborder="0"></iframe>
+
+<h2 id="visualization">Visualization</h2>
+
+<p>Manipulating numbers is one thing, but it usually helps to plot the results to visualize what is going on. R provides many plotting functions, which we can use with the web-tool as well. Let’s take the above example and plot it.</p>
+
+<div class="language-R highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="w">    </span><span class="c1"># Here are the foraging observations that we entered above</span><span class="w">
+    </span><span class="n">v</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="m">0.22</span><span class="p">,</span><span class="m">0.17</span><span class="p">,</span><span class="m">0.25</span><span class="p">,</span><span class="m">0.22</span><span class="p">,</span><span class="m">0.38</span><span class="p">,</span><span class="m">0.27</span><span class="p">,</span><span class="m">0.15</span><span class="p">,</span><span class="m">0.25</span><span class="p">,</span><span class="m">0.24</span><span class="p">,</span><span class="m">0.11</span><span class="p">)</span><span class="w">
+
+    </span><span class="c1"># We also want to make a second vector that records the day each measurement was made</span><span class="w">
+    </span><span class="c1"># We can use the sequence function seq() for this.</span><span class="w">
+    </span><span class="c1"># For seq(), the first number is the beginning of the sequence, </span><span class="w">
+    </span><span class="c1"># the second number is the last number of the sequence, and </span><span class="w">
+    </span><span class="c1"># the third number is the stepsize of the sequence</span><span class="w">
+    </span><span class="n">day</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">seq</span><span class="p">(</span><span class="m">1</span><span class="p">,</span><span class="m">10</span><span class="p">,</span><span class="m">1</span><span class="p">)</span><span class="w">
+
+    </span><span class="c1"># Now we want to make a scatterplot of our data, with the </span><span class="w">
+    </span><span class="c1"># days on the x-axis, and the observations on the y-axis</span><span class="w">
+    </span><span class="c1"># To do this we will use the plot() function</span><span class="w">
+    </span><span class="c1"># Note: We first specify the x-coordinate data, then specify the y-coordinate data</span><span class="w">
+    </span><span class="c1"># We enter other info as well - the x-axis label, y-axis lavel, and y-axis limits</span><span class="w">
+    </span><span class="n">plot</span><span class="p">(</span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">day</span><span class="p">,</span><span class="w"> </span><span class="n">y</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">v</span><span class="p">,</span><span class="w"> </span><span class="n">xlab</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s1">'Days'</span><span class="p">,</span><span class="w"> </span><span class="n">ylab</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s1">'Proportion time feeding'</span><span class="p">,</span><span class="n">ylim</span><span class="o">=</span><span class="nf">c</span><span class="p">(</span><span class="m">0</span><span class="p">,</span><span class="m">0.5</span><span class="p">))</span><span class="w">
 </span></code></pre></div></div>
 
 <iframe width="100%" height="1000" src="https://rdrr.io/snippets/embed/?code=%23Paste%20text%20here" frameborder="0"></iframe>
