@@ -1,0 +1,24 @@
+I"J
+<h2 id="getting-started-with-r">Getting started with R</h2>
+
+<p>In <em>Foundations of Ecology</em>, we will be using the R Language to investigate relationships and analyze data. You can either install R on your computer, or use the web-tool shown below, which does not require you to install anything. If you would prefer to install R on your computer, I would advise you to use <a href="https://rstudio.com/">RStudio</a>. RStudio is free, and you can find directions to install by following the link. <strong>Importantly</strong>, everything that we will be doing with R can be done by using the web-tool below, and you will have to use this if your primary machine is an iPad or ChromeBook.</p>
+
+<p>This is a very brief tutorial for getting used to using R. We will have more practice as the course proceeds, so don’t worry if you have trouble getting the hang of it right away. To use the web-tool (or an installed version of R on your machine), all you need to do is to copy the blocks of code that will presented as:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>#Code Block
+
+#Assign the string 'Hello World' to the object x
+x = 'Hello World'
+
+#Now print the value of x
+print(x)
+</code></pre></div></div>
+
+<p>Copy this code into the window at the bottom of the page, and press Control-Enter. The output will be generated below the window.</p>
+
+<p>So a few things in the above code block that I want you to pay attention to. The first line is started with a <code class="highlighter-rouge">#</code> symbol, which in the R language identifies that line as a comment or note. It is not code - it is just a note to the reader. I will use these comments/notes to describe what the code is doing. Below the first two comment lines, we tell R to assign the phrase “Hello World” to the object <code class="highlighter-rouge">x</code>. Below the last comment, we pass <code class="highlighter-rouge">x</code> to the function <code class="highlighter-rouge">print</code>. The function <code class="highlighter-rouge">print()</code> <em>does</em> something with <code class="highlighter-rouge">x</code>. As you might guess, it means ‘Print’, and will print whatever we pass to it. We pass <code class="highlighter-rouge">x</code> to <code class="highlighter-rouge">print()</code>, but instead of printing the letter x, it prints ‘Hello World’ because we have assigned that phrase to the object <code class="highlighter-rouge">x</code>.</p>
+
+<p><br /></p>
+
+<iframe width="100%" height="1000" src="https://rdrr.io/snippets/embed/?code=%23Paste%20text%20here" frameborder="0"></iframe>
+:ET
