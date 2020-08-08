@@ -5,13 +5,13 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
 <meta charset="utf-8">
-<title>Test &#8211; Yeakel Lab @ UC-Merced</title>
+<title>Getting Started with R &#8211; Yeakel Lab @ UC-Merced</title>
 
 <meta name="keywords" content="about, Jekyll, theme, responsive">
 
 
 <!-- Twitter Cards -->
-<meta name="twitter:title" content="Test">
+<meta name="twitter:title" content="Getting Started with R">
 
 <meta name="twitter:site" content="@jdyeakel">
 <meta name="twitter:creator" content="@jdyeakel">
@@ -22,7 +22,7 @@
 <!-- Open Graph -->
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Test">
+<meta property="og:title" content="Getting Started with R">
 
 <meta property="og:url" content="http://localhost:4000/teaching/ecology/test/">
 <meta property="og:site_name" content="Yeakel Lab @ UC-Merced">
@@ -137,28 +137,53 @@
 
  </div>
   <article>
-    <h1>Test</h1>
+    <h1>Getting Started with R</h1>
     <div class="article-wrap">
-      <h2 id="getting-started-with-r">Getting started with R</h2>
-
-<p>In <em>Foundations of Ecology</em>, we will be using the R Language to investigate relationships and analyze data. You can either install R on your computer, or use the web-tool shown below, which does not require you to install anything. If you would prefer to install R on your computer, I would advise you to use <a href="https://rstudio.com/">RStudio</a>. RStudio is free, and you can find directions to install by following the link. <strong>Importantly</strong>, everything that we will be doing with R can be done by using the web-tool below, and you will have to use this if your primary machine is an iPad or ChromeBook.</p>
+      <p>In <em>Foundations of Ecology</em>, we will be using the R Language to investigate relationships and analyze data. You can either install R on your computer, or use the web-tool shown below, which does not require you to install anything. If you would prefer to install R on your computer, I would advise you to use <a href="https://rstudio.com/">RStudio</a>. RStudio is free, and you can find directions to install (Mac, Windows, Linux) by following the link. Here is another resource for getting you started with RStudio: <a href="https://cpb-us-e1.wpmucdn.com/sites.ucsc.edu/dist/d/276/files/2015/09/GetStartedWithR-1i06k8e.pdf">link</a>. <strong>Importantly</strong>, everything that we will be doing with R can be done by using the web-tool below. You will <em>have</em> to use this if your primary machine is an iPad or ChromeBook.</p>
 
 <p>This is a very brief tutorial for getting used to using R. We will have more practice as the course proceeds, so don’t worry if you have trouble getting the hang of it right away. To use the web-tool (or an installed version of R on your machine), all you need to do is to copy the blocks of code that will presented as:</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>#Code Block
-
-#Assign the string 'Hello World' to the object x
-x = 'Hello World'
-
-#Now print the value of x
-print(x)
-</code></pre></div></div>
+<div class="language-R highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="w">    </span><span class="c1">#Code Block</span><span class="w">
+    </span><span class="c1">#Assign the string 'Hello World' to the object x</span><span class="w">
+    </span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s1">'Hello World'</span><span class="w">
+    </span><span class="c1">#Now print the value of x</span><span class="w">
+    </span><span class="n">print</span><span class="p">(</span><span class="n">x</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
 
 <p>Copy this code block into the window at the bottom of the page, and press Control-Enter. The output will be generated below the window.</p>
 
 <p>So a few things in the above code block that I want you to pay attention to. The first line starts with a <code class="highlighter-rouge">#</code> symbol, which in the R language identifies that line as a comment or note. It is not code - it is just a note to the reader. I will use these comments/notes to describe what the code is doing. Below the first two comment lines, we tell R to assign the phrase “Hello World” to the object <code class="highlighter-rouge">x</code>. Below the last comment, we pass <code class="highlighter-rouge">x</code> to the function <code class="highlighter-rouge">print</code>. The function <code class="highlighter-rouge">print()</code> <em>does</em> something with <code class="highlighter-rouge">x</code>. As you might guess, it means ‘Print’, and will print whatever we pass to it. We pass <code class="highlighter-rouge">x</code> to <code class="highlighter-rouge">print()</code>, but instead of printing the letter x, it prints ‘Hello World’ because we have assigned that phrase to the object <code class="highlighter-rouge">x</code>. The output is shown in the green shaded box below the input window.</p>
 
 <p><br /></p>
+
+<iframe width="100%" height="300" src="https://rdrr.io/snippets/embed/?code=%23Paste%20text%20here" frameborder="0"></iframe>
+
+<p><br /></p>
+
+<p>There is an imporant difference between using this web-tool vs. using RStudio installed on your computer. With the web-tool, all of the code must be entered together and run all at once. With RStudio installed on your machine, you can run one line at a time.</p>
+
+<h2 id="so-lets-get-started">So let’s get started</h2>
+
+<p>At its simplest, R can be used as a calculator. In the following code block I’ve provided some examples where we assign specific calculations to objects, and then use those objects to conduct additional calculations</p>
+
+<div class="language-R highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="w">    </span><span class="c1"># Three calculations are assigned to objects x, y, z</span><span class="w">
+    </span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">5</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="m">5</span><span class="w">
+    </span><span class="n">y</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">10</span><span class="o">*</span><span class="m">2</span><span class="w">
+    </span><span class="n">z</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">15</span><span class="o">/</span><span class="m">3</span><span class="w">
+
+    </span><span class="c1"># x, y, z now all pass to different numbers</span><span class="w">
+    </span><span class="c1"># Objects can also be given longer names. </span><span class="w">
+    </span><span class="c1"># Now we will calculate a final number by dividing y by z and adding x.</span><span class="w">
+    </span><span class="c1"># We will assign this calculation to object final_1</span><span class="w">
+    </span><span class="n">final_1</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">x</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">y</span><span class="o">/</span><span class="n">z</span><span class="w">
+    </span><span class="n">print</span><span class="p">(</span><span class="n">final_1</span><span class="p">)</span><span class="w">
+
+    </span><span class="c1"># Remember your order of operations! (PEMDAS)</span><span class="w">
+    </span><span class="c1"># By adding parentheses, we change the calculation</span><span class="w">
+    </span><span class="c1"># We will save this - different calculation - to the object final_2</span><span class="w">
+    </span><span class="n">final_2</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="p">(</span><span class="n">x</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">y</span><span class="p">)</span><span class="o">/</span><span class="n">z</span><span class="w">
+    </span><span class="n">print</span><span class="p">(</span><span class="n">final_2</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
 
 <iframe width="100%" height="1000" src="https://rdrr.io/snippets/embed/?code=%23Paste%20text%20here" frameborder="0"></iframe>
 
