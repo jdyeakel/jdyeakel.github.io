@@ -70,6 +70,10 @@
 <!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
 <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/images/apple-touch-icon-144x144-precomposed.png">
 
+<!-- Mathjax Support -->
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 </head>
 
 <body class="page">
@@ -264,6 +268,48 @@
     </span><span class="c1"># Note: We first specify the x-coordinate data, then specify the y-coordinate data</span><span class="w">
     </span><span class="c1"># We enter other info as well - the x-axis label, y-axis lavel, and y-axis limits</span><span class="w">
     </span><span class="n">plot</span><span class="p">(</span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">day</span><span class="p">,</span><span class="w"> </span><span class="n">y</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">v</span><span class="p">,</span><span class="w"> </span><span class="n">xlab</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s1">'Days'</span><span class="p">,</span><span class="w"> </span><span class="n">ylab</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s1">'Proportion time feeding'</span><span class="p">,</span><span class="n">ylim</span><span class="o">=</span><span class="nf">c</span><span class="p">(</span><span class="m">0</span><span class="p">,</span><span class="m">0.5</span><span class="p">))</span><span class="w">
+</span></code></pre></div></div>
+
+<iframe width="100%" height="500" src="https://rdrr.io/snippets/embed/?code=%23Paste%20text%20here" frameborder="0"></iframe>
+
+<h2 id="a-taste-of-things-to-come">A taste of things to come</h2>
+
+<p>Imagine we want to simulate how a species’ population changes over time. As we will learn in this class, much of what ecologists do revolves around trying to understand the forces that promote or inhibit population growth. If we are careful, we can express our understanding of the various factors regulating population growth with an equation… and often, the simpler the equation is, the better. But as we will see in this example, a ‘simple’ equation can produce a surprising amount of complexity! This idea - that simple interactions can result in complex outcomes - lies at the heart of ecology, and is one of the reasons it is so beguiling.</p>
+
+<p>First, we</p>
+
+\[\begin{equation}
+n(t+1) = rn(t)\left(1 - \frac{n(t)}{k}\right)
+\end{equation}\]
+
+<div class="language-R highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="w">    </span><span class="c1"># First we will define the Logistic Map function</span><span class="w">
+    </span><span class="c1"># Don't worry about the details - we will get to this later</span><span class="w">
+
+    </span><span class="n">logistic.map</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">function</span><span class="p">(</span><span class="n">r</span><span class="p">,</span><span class="w"> </span><span class="n">n0</span><span class="p">,</span><span class="w"> </span><span class="n">k</span><span class="p">,</span><span class="w"> </span><span class="n">tmax</span><span class="p">){</span><span class="w">
+        </span><span class="c1"># r: growth rate</span><span class="w">
+        </span><span class="c1"># x: initial value</span><span class="w">
+        </span><span class="c1"># T: Max time steps</span><span class="w">
+        </span><span class="n">z</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">numeric</span><span class="p">(</span><span class="n">tmax</span><span class="p">)</span><span class="w">
+        </span><span class="n">z</span><span class="p">[</span><span class="m">1</span><span class="p">]</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">n0</span><span class="w">
+        </span><span class="k">for</span><span class="p">(</span><span class="n">i</span><span class="w"> </span><span class="k">in</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="m">1</span><span class="o">:</span><span class="p">(</span><span class="n">tmax</span><span class="m">-1</span><span class="p">))){</span><span class="w">
+            </span><span class="n">z</span><span class="p">[</span><span class="n">i</span><span class="m">+1</span><span class="p">]</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">r</span><span class="w"> </span><span class="o">*</span><span class="n">z</span><span class="p">[</span><span class="n">i</span><span class="p">]</span><span class="w">  </span><span class="o">*</span><span class="w"> </span><span class="p">(</span><span class="m">1</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="n">z</span><span class="p">[</span><span class="n">i</span><span class="p">]</span><span class="o">/</span><span class="n">k</span><span class="p">)</span><span class="w">
+        </span><span class="p">}</span><span class="w">
+        </span><span class="nf">return</span><span class="p">(</span><span class="n">z</span><span class="p">)</span><span class="w">
+    </span><span class="p">}</span><span class="w">
+
+    </span><span class="c1"># Now we will define values for objects that we will feed into the function,</span><span class="w">
+    </span><span class="c1"># implement it, and obtain the results</span><span class="w">
+    </span><span class="c1"># Run this code by manually setting r = 3, r = 3.2, r = 3.5, r = 4.0</span><span class="w">
+    </span><span class="c1"># What behavior do you observe?</span><span class="w">
+    </span><span class="n">r</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">3</span><span class="w">
+    </span><span class="n">n0</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.1</span><span class="w">
+    </span><span class="n">k</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">1</span><span class="w">
+    </span><span class="n">tmax</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">100</span><span class="w">
+    </span><span class="n">pop</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">logistic.map</span><span class="p">(</span><span class="n">r</span><span class="p">,</span><span class="w"> </span><span class="n">n0</span><span class="p">,</span><span class="w"> </span><span class="n">k</span><span class="p">,</span><span class="w"> </span><span class="n">tmax</span><span class="p">)</span><span class="w">
+
+    </span><span class="c1"># We have set the population sizes over time as the object 'pop'</span><span class="w">
+    </span><span class="c1"># We will now plot the population data from the simulation</span><span class="w">
+    </span><span class="n">plot</span><span class="p">(</span><span class="n">pop</span><span class="p">,</span><span class="n">type</span><span class="o">=</span><span class="s1">'l'</span><span class="p">,</span><span class="n">xlab</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s1">'Time'</span><span class="p">,</span><span class="w"> </span><span class="n">ylab</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s1">'Population density'</span><span class="p">)</span><span class="w">
 </span></code></pre></div></div>
 
 <iframe width="100%" height="1000" src="https://rdrr.io/snippets/embed/?code=%23Paste%20text%20here" frameborder="0"></iframe>

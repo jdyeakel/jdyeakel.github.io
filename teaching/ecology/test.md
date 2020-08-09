@@ -138,4 +138,52 @@ Manipulating numbers is one thing, but it usually helps to plot the results to v
     plot(x = day, y = v, xlab = 'Days', ylab = 'Proportion time feeding',ylim=c(0,0.5))
 ```
 
+<iframe width='100%' height='500' src='https://rdrr.io/snippets/embed/?code=%23Paste%20text%20here' frameborder='0'></iframe>
+
+
+## A taste of things to come
+
+Imagine we want to simulate how a species' population changes over time. As we will learn in this class, much of what ecologists do revolves around trying to understand the forces that promote or inhibit population growth. If we are careful, we can express our understanding of the various factors regulating population growth with an equation... and often, the simpler the equation is, the better. But as we will see in this example, a 'simple' equation can produce a surprising amount of complexity! This idea - that simple interactions can result in complex outcomes - lies at the heart of ecology, and is one of the reasons it is so beguiling.
+
+
+First, we 
+
+$$
+\begin{equation}
+n(t+1) = rn(t)\left(1 - \frac{n(t)}{k}\right)
+\end{equation}
+$$
+
+
+```R
+    # First we will define the Logistic Map function
+    # Don't worry about the details - we will get to this later
+
+    logistic.map = function(r, n0, k, tmax){
+        # r: growth rate
+        # x: initial value
+        # T: Max time steps
+        z = numeric(tmax)
+        z[1] = n0
+        for(i in c(1:(tmax-1))){
+            z[i+1] = r *z[i]  * (1 - z[i]/k)
+        }
+        return(z)
+    }
+
+    # Now we will define values for objects that we will feed into the function,
+    # implement it, and obtain the results
+    # Run this code by manually setting r = 3, r = 3.2, r = 3.5, r = 4.0
+    # What behavior do you observe?
+    r = 3
+    n0 = 0.1
+    k = 1
+    tmax = 100
+    pop = logistic.map(r, n0, k, tmax)
+
+    # We have set the population sizes over time as the object 'pop'
+    # We will now plot the population data from the simulation
+    plot(pop,type='l',xlab = 'Time', ylab = 'Population density')
+```
+
 <iframe width='100%' height='1000' src='https://rdrr.io/snippets/embed/?code=%23Paste%20text%20here' frameborder='0'></iframe>
