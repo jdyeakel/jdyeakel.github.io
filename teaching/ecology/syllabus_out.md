@@ -1,13 +1,6 @@
----
-layout: pagetrim
-title: "Fundamentals of Ecology (BIO/ESS 148) :: Syllabus, Fall 2020"
-tags: [about, Jekyll, theme, responsive]
-modified: 2014-08-08T20:53:07.573882-04:00
-comments: true
----
 
-[< Back to Course Page](http://jdyeakel.github.io/teaching/ecology)  
-[> To Course Schedule](http://jdyeakel.github.io/teaching/ecology/schedule)
+# Fundamentals of Ecology :: BIO/ESS 148  
+## Syllabus, Fall 2020
 
 
 + **Lecture Time**: Tuesdays and Thursday, 09:00 - 10:15AM  
@@ -25,7 +18,7 @@ comments: true
     > The [***Ecology Course Page (this one)***](): Basic course information, discussion section activities, links to readings  
 + **Course Schedule**: 
 
-    [Course Schedule](http://jdyeakel.github.io/teaching/ecology/schedule)  
+    [Course Schedule](/teaching/ecology/schedule)  
 + **Course Description**  
 
     This course fulfills an upper division requirement for the Ecology and Evolutionary Biology (EEB) emphasis track of the Biological Sciences Major, as well an upper division requirement for the Earth Systems Science Major. This course provides an introduction to ecology - the scientific study of how organisms interact with each other and their physical environment. Prerequisite: BIO 001 or BIO 005 or ESS 001 or ESS 005 or consent of instructor. Normal Letter Grade only.

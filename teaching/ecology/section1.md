@@ -1,6 +1,6 @@
 ---
 layout: pagetrim
-title: "Getting Started with R"
+title: "Getting Started with R in Ecology"
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
@@ -135,24 +135,101 @@ Manipulating numbers is one thing, but it usually helps to plot the results to v
     # To do this we will use the plot() function
     # Note: We first specify the x-coordinate data, then specify the y-coordinate data
     # We enter other info as well - the x-axis label, y-axis lavel, and y-axis limits
-    plot(x = day, y = v, xlab = 'Days', ylab = 'Proportion time feeding',ylim=c(0,0.5))
+    plot(x = day, y = v, xlab = 'Days', ylab , 'Proportion time feeding',ylim=c(0,0.5))
 ```
 
 <iframe width='100%' height='500' src='https://rdrr.io/snippets/embed/?code=%23Paste%20text%20here' frameborder='0'></iframe>
 
+---
 
-## A taste of things to come
+# Let's get to the ecology
 
-Imagine we want to simulate how a species' population changes over time. As we will learn in this class, much of what ecologists do revolves around trying to understand the forces that promote or inhibit population growth. If we are careful, we can express our understanding of the various factors regulating population growth with an equation... and often, the simpler the equation is, the better. But as we will see in this example, a 'simple' equation can produce a surprising amount of complexity! This idea - that simple interactions can result in complex outcomes - lies at the heart of ecology, and is one of the reasons it is so beguiling.
+## Ecological interactions across scales  
+
+Now that we have a basic understanding of how R works, we can begin exploring how we might investigate ecological problems using this powerful tool. During this class, we will be confronting ecological problems in two ways:  
+    1. **Data-driven approaches**: Formulate a question regarding an ecological relationship, gather data, and explore patterns in that data. Determine whether or not the data matches our understanding of how things work in nature. Revise and update our understanding given the new data at hand.  
+    2. **Theory-driven approaches**: Formulate a question regarding an ecological relationship, propose underlying constraints that might determine that relationship, and build a simple model that incorporate those constraints. Evaluate whether the model reveals patterns that match our understanding of how things work in nature. Revise and update our understanding given the new data at hand.  
+
+In the description of these alternative approaches to ecological science, which parts of the description are the same and which are different?
+<br>
+Below we will explore ecological relationships that occur at different scales. Which of the examples better fall into the **Data-driven** vs. **Theory-driven** categorization?
+
+### Individual-scale
+
+***Sea Otter diets***  
+Sea otters are carnivorous mammals that live in coastal environments where upwelling drives nutrient-rich shallow-water communities from which they derive most of their food. Sea otters are voracious eaters and incorporate a wide variety of prey into their diet. For the population that lives off the coast of Santa Cruz, California, sea otters have been shown to exhibit remarkable individuality in thier diet choices. Ecologist Tim Tinker spent an enormous number of hours identifying otters by individually unique characteristics and carefully monitorying foraging bouts. The most commonly observed prey items of these otters included `[Cancer crabs, kelp crabs, lobsters, urchins, abalone, snail, mollusk, clams, mussels, sea stars, sea worms, sand dollars, and other invertebrates]`. Compiling thousands of hours of observational data revealed that sea otter individuals have unique food preferences. Below we will see how one might go about exploring this dietary individuality in R.
 
 
-First, we 
+```R
+    # First, we will create a vector listing the names of the prey mentioned above
+    # Names of prey types
+    prey = c("cancer_crab","kelp_crab","lobster","urchin","abalone","snail","mollusk","clam","mussel","sea_star","worm","sand_dollar","inverts")
+
+    # Individual otter diets are encoded by the proportion of each prey type
+    # Importantly: prey type is in the same order as listed above
+    # Enter individual otter diet data
+    o1 = c(0.14,0.12,0,0.02,0,0.01,0.01,0.33,0,0.01,0.31,0.03,0.04)
+    o2 = c(0.4,0.26,0,0.05,0.23,0,0,0.03,0,0,0,0,0.03)
+    o3 = c(0.38,0.23,0,0.13,0.01,0,0,0.15,0.07,0.01,0,0,0.02)
+    o4 = c(0.05,0.84,0,0.05,0,0,0.01,0.02,0.01,0,0,0,0.02)
+    o5 = c(0.25,0.24,0,0.28,0.01,0,0,0.09,0.02,0.02,0.04,0,0.04)
+    o6 = c(0.18,0.16,0,0.14,0,0.01,0,0.15,0.01,0.01,0.06,0,0.29)
+    o7 = c(0.17,0.25,0,0.19,0,0,0,0.27,0.03,0.02,0.05,0,0.02)
+    o8 = c(0.28,0.2,0,0.05,0.07,0.05,0,0.15,0.13,0.02,0.01,0,0.04)
+    o9 = c(0.06,0.27,0,0.05,0,0,0.01,0.19,0.12,0,0.08,0.01,0.2)
+    o10 = c(0.01,0.08,0,0,0.01,0.77,0,0.04,0,0.06,0.01,0,0)
+
+    # Organize as a matrix where each column is a food type
+    # each row is a sea otter individual, and the elements
+    # represent an individual's preference for each food
+    omatrix = rbind(o1,o2,o3,o4,o5,o6,o7,o8,o9,o10)
+    colnames(omatrix) = prey
+    print(omatrix)
+    
+    # What is the mean reliance on each food?
+    # We will use the apply function to calculate the mean value
+    # for each prey item used across otter indviduals
+    preymeans = apply(omatrix, 2, mean)
+    print(paste(c('Prey Means = ',preymeans)),quote=F)
+
+    # Which prey are most variable in sea otter diets? 
+    # We will use the same apply function to calculate the standard deviation
+    # for each prey item used across sea otter individuals
+    preysd = apply(omatrix, 2, sd)
+    print(paste(c('Prey SD = ',preysd)),quote=F)
+
+    # We can visualize these differences as a boxplot... where both the mean 
+    # and variance are displayed as a box-and-whiskers diagram... 
+    # The shorter the whiskers, the less variable the diet on a particular prey. 
+    # The larger the whiskers, the more variable the diet on a particular prey.
+    # Note we are using abbreviations for prey names so that they fit on the x-axis
+    boxplot(omatrix, names = c('cc','kc','l','u','a','s','mo','c','mu','ss','w','sd','i'))
+```
+<iframe width='100%' height='500' src='https://rdrr.io/snippets/embed/?code=%23Paste%20text%20here' frameborder='0'></iframe>
+
+
+### Population-scale
+
+<!-- ***Competing XXX (data)***  
+Stuff. -->
+
+<br>
+***Modeling the dynamics of a single population***: Imagine we want to simulate how a species' population changes over time. As we will learn in this class, much of what ecologists do revolves around trying to understand the forces that promote or inhibit population growth. If we are careful, we can express our understanding of the various factors regulating population growth with an equation... and often, the simpler the equation is, the better. But as we will see in this example, a 'simple' equation can produce a surprising amount of complexity! This idea - that simple interactions can result in complex outcomes - lies at the heart of ecology, and is one of the reasons it is so beguiling.
+
+
+Now - don't panic, but we are going to model how a population might change over time using a mathematical equation. First, we say that the population size of a particular species... say wombats... is represented by n(t), which means "the population size n at time t. Now we must specify how n changes in the future (time t+1) as a function of what it is today (time t). So we will write an equation that gives us n(t+1) as a function of n(t).
+
+As we will learn in future classes when we cover this in detail, the transition of the population size today n(t) to that at a future time n(t+1) will involve two parameters: the reproductive rate r (accounting for how quickly individuals in the population reproduce), and the carrying capacity k, which determines how many individuals can 'fit' within a given environment. For now we will ignore k, and set `k = 1`. The equation of population growth is given as
 
 $$
 \begin{equation}
-n(t+1) = rn(t)\left(1 - \frac{n(t)}{k}\right)
+n(t+1) = rn(t)\left(1 - \frac{n(t)}{k}\right).
 \end{equation}
 $$
+
+This equation is special, and is called the `logistic map`. In the R script below, the function `logistic.map()` is encodes the equation presented above. Don't worry too much about how this function works... all we really need to know is that the function takes 4 parameters... the reprodutive rate `r`, the starting population size `n0`, the carrying capacity `k` (which we will set to 1), and the maximum number of time steps we will evaluate `tmax`.
+
+
 
 
 ```R
@@ -160,9 +237,11 @@ $$
     # Don't worry about the details - we will get to this later
 
     logistic.map = function(r, n0, k, tmax){
+        # Parameters for logistic.map function ::::
         # r: growth rate
-        # x: initial value
-        # T: Max time steps
+        # n0: initial value
+        # k: carrying capacity (set to 1)
+        # tmax: Max time steps
         z = numeric(tmax)
         z[1] = n0
         for(i in c(1:(tmax-1))){
@@ -186,4 +265,9 @@ $$
     plot(pop,type='l',xlab = 'Time', ylab = 'Population density')
 ```
 
-<iframe width='100%' height='1000' src='https://rdrr.io/snippets/embed/?code=%23Paste%20text%20here' frameborder='0'></iframe>
+<iframe width='100%' height='500' src='https://rdrr.io/snippets/embed/?code=%23Paste%20text%20here' frameborder='0'></iframe>
+
+
+### Communities
+
+***Richness across islands***

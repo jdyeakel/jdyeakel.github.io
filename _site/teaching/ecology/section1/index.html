@@ -5,13 +5,13 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
 <meta charset="utf-8">
-<title>Getting Started with R &#8211; Yeakel Lab @ UC-Merced</title>
+<title>Getting Started with R in Ecology &#8211; Yeakel Lab @ UC-Merced</title>
 
 <meta name="keywords" content="about, Jekyll, theme, responsive">
 
 
 <!-- Twitter Cards -->
-<meta name="twitter:title" content="Getting Started with R">
+<meta name="twitter:title" content="Getting Started with R in Ecology">
 
 <meta name="twitter:site" content="@jdyeakel">
 <meta name="twitter:creator" content="@jdyeakel">
@@ -22,16 +22,16 @@
 <!-- Open Graph -->
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Getting Started with R">
+<meta property="og:title" content="Getting Started with R in Ecology">
 
-<meta property="og:url" content="http://localhost:4000/teaching/ecology/test/">
+<meta property="og:url" content="http://localhost:4000/teaching/ecology/section1/">
 <meta property="og:site_name" content="Yeakel Lab @ UC-Merced">
 
 
 
 
 
-<link rel="canonical" href="http://localhost:4000/teaching/ecology/test/">
+<link rel="canonical" href="http://localhost:4000/teaching/ecology/section1/">
 <link href="http://localhost:4000/feed.xml" type="application/atom+xml" rel="alternate" title="Yeakel Lab @ UC-Merced Feed">
 
 
@@ -141,7 +141,7 @@
 
  </div>
   <article>
-    <h1>Getting Started with R</h1>
+    <h1>Getting Started with R in Ecology</h1>
     <div class="article-wrap">
       <p>In <em>Foundations of Ecology</em>, we will be using the R Language to investigate relationships and analyze data. You can either install R on your computer, or use the web-tool shown below, which does not require you to install anything. If you would prefer to install R on your computer, I would advise you to use <a href="https://rstudio.com/">RStudio</a>. RStudio is free, and you can find directions to install (Mac, Windows, Linux) by following the link. Here is another resource for getting you started with RStudio: <a href="https://cpb-us-e1.wpmucdn.com/sites.ucsc.edu/dist/d/276/files/2015/09/GetStartedWithR-1i06k8e.pdf">link</a>. <strong>Importantly</strong>, everything that we will be doing with R can be done by using the web-tool below. You will <em>have</em> to use this if your primary machine is an iPad or ChromeBook.</p>
 
@@ -267,28 +267,103 @@
     </span><span class="c1"># To do this we will use the plot() function</span><span class="w">
     </span><span class="c1"># Note: We first specify the x-coordinate data, then specify the y-coordinate data</span><span class="w">
     </span><span class="c1"># We enter other info as well - the x-axis label, y-axis lavel, and y-axis limits</span><span class="w">
-    </span><span class="n">plot</span><span class="p">(</span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">day</span><span class="p">,</span><span class="w"> </span><span class="n">y</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">v</span><span class="p">,</span><span class="w"> </span><span class="n">xlab</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s1">'Days'</span><span class="p">,</span><span class="w"> </span><span class="n">ylab</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s1">'Proportion time feeding'</span><span class="p">,</span><span class="n">ylim</span><span class="o">=</span><span class="nf">c</span><span class="p">(</span><span class="m">0</span><span class="p">,</span><span class="m">0.5</span><span class="p">))</span><span class="w">
+    </span><span class="n">plot</span><span class="p">(</span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">day</span><span class="p">,</span><span class="w"> </span><span class="n">y</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">v</span><span class="p">,</span><span class="w"> </span><span class="n">xlab</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s1">'Days'</span><span class="p">,</span><span class="w"> </span><span class="n">ylab</span><span class="w"> </span><span class="p">,</span><span class="w"> </span><span class="s1">'Proportion time feeding'</span><span class="p">,</span><span class="n">ylim</span><span class="o">=</span><span class="nf">c</span><span class="p">(</span><span class="m">0</span><span class="p">,</span><span class="m">0.5</span><span class="p">))</span><span class="w">
 </span></code></pre></div></div>
 
 <iframe width="100%" height="500" src="https://rdrr.io/snippets/embed/?code=%23Paste%20text%20here" frameborder="0"></iframe>
 
-<h2 id="a-taste-of-things-to-come">A taste of things to come</h2>
+<hr />
 
-<p>Imagine we want to simulate how a species’ population changes over time. As we will learn in this class, much of what ecologists do revolves around trying to understand the forces that promote or inhibit population growth. If we are careful, we can express our understanding of the various factors regulating population growth with an equation… and often, the simpler the equation is, the better. But as we will see in this example, a ‘simple’ equation can produce a surprising amount of complexity! This idea - that simple interactions can result in complex outcomes - lies at the heart of ecology, and is one of the reasons it is so beguiling.</p>
+<h1 id="lets-get-to-the-ecology">Let’s get to the ecology</h1>
 
-<p>First, we</p>
+<h2 id="ecological-interactions-across-scales">Ecological interactions across scales</h2>
+
+<p>Now that we have a basic understanding of how R works, we can begin exploring how we might investigate ecological problems using this powerful tool. During this class, we will be confronting ecological problems in two ways:<br />
+    1. <strong>Data-driven approaches</strong>: Formulate a question regarding an ecological relationship, gather data, and explore patterns in that data. Determine whether or not the data matches our understanding of how things work in nature. Revise and update our understanding given the new data at hand.<br />
+    2. <strong>Theory-driven approaches</strong>: Formulate a question regarding an ecological relationship, propose underlying constraints that might determine that relationship, and build a simple model that incorporate those constraints. Evaluate whether the model reveals patterns that match our understanding of how things work in nature. Revise and update our understanding given the new data at hand.</p>
+
+<p>In the description of these alternative approaches to ecological science, which parts of the description are the same and which are different?
+<br />
+Below we will explore ecological relationships that occur at different scales. Which of the examples better fall into the <strong>Data-driven</strong> vs. <strong>Theory-driven</strong> categorization?</p>
+
+<h3 id="individual-scale">Individual-scale</h3>
+
+<p><strong><em>Sea Otter diets</em></strong><br />
+Sea otters are carnivorous mammals that live in coastal environments where upwelling drives nutrient-rich shallow-water communities from which they derive most of their food. Sea otters are voracious eaters and incorporate a wide variety of prey into their diet. For the population that lives off the coast of Santa Cruz, California, sea otters have been shown to exhibit remarkable individuality in thier diet choices. Ecologist Tim Tinker spent an enormous number of hours identifying otters by individually unique characteristics and carefully monitorying foraging bouts. The most commonly observed prey items of these otters included <code class="highlighter-rouge">[Cancer crabs, kelp crabs, lobsters, urchins, abalone, snail, mollusk, clams, mussels, sea stars, sea worms, sand dollars, and other invertebrates]</code>. Compiling thousands of hours of observational data revealed that sea otter individuals have unique food preferences. Below we will see how one might go about exploring this dietary individuality in R.</p>
+
+<div class="language-R highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="w">    </span><span class="c1"># First, we will create a vector listing the names of the prey mentioned above</span><span class="w">
+    </span><span class="c1"># Names of prey types</span><span class="w">
+    </span><span class="n">prey</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="s2">"cancer_crab"</span><span class="p">,</span><span class="s2">"kelp_crab"</span><span class="p">,</span><span class="s2">"lobster"</span><span class="p">,</span><span class="s2">"urchin"</span><span class="p">,</span><span class="s2">"abalone"</span><span class="p">,</span><span class="s2">"snail"</span><span class="p">,</span><span class="s2">"mollusk"</span><span class="p">,</span><span class="s2">"clam"</span><span class="p">,</span><span class="s2">"mussel"</span><span class="p">,</span><span class="s2">"sea_star"</span><span class="p">,</span><span class="s2">"worm"</span><span class="p">,</span><span class="s2">"sand_dollar"</span><span class="p">,</span><span class="s2">"inverts"</span><span class="p">)</span><span class="w">
+
+    </span><span class="c1"># Individual otter diets are encoded by the proportion of each prey type</span><span class="w">
+    </span><span class="c1"># Importantly: prey type is in the same order as listed above</span><span class="w">
+    </span><span class="c1"># Enter individual otter diet data</span><span class="w">
+    </span><span class="n">o1</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="m">0.14</span><span class="p">,</span><span class="m">0.12</span><span class="p">,</span><span class="m">0</span><span class="p">,</span><span class="m">0.02</span><span class="p">,</span><span class="m">0</span><span class="p">,</span><span class="m">0.01</span><span class="p">,</span><span class="m">0.01</span><span class="p">,</span><span class="m">0.33</span><span class="p">,</span><span class="m">0</span><span class="p">,</span><span class="m">0.01</span><span class="p">,</span><span class="m">0.31</span><span class="p">,</span><span class="m">0.03</span><span class="p">,</span><span class="m">0.04</span><span class="p">)</span><span class="w">
+    </span><span class="n">o2</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="m">0.4</span><span class="p">,</span><span class="m">0.26</span><span class="p">,</span><span class="m">0</span><span class="p">,</span><span class="m">0.05</span><span class="p">,</span><span class="m">0.23</span><span class="p">,</span><span class="m">0</span><span class="p">,</span><span class="m">0</span><span class="p">,</span><span class="m">0.03</span><span class="p">,</span><span class="m">0</span><span class="p">,</span><span class="m">0</span><span class="p">,</span><span class="m">0</span><span class="p">,</span><span class="m">0</span><span class="p">,</span><span class="m">0.03</span><span class="p">)</span><span class="w">
+    </span><span class="n">o3</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="m">0.38</span><span class="p">,</span><span class="m">0.23</span><span class="p">,</span><span class="m">0</span><span class="p">,</span><span class="m">0.13</span><span class="p">,</span><span class="m">0.01</span><span class="p">,</span><span class="m">0</span><span class="p">,</span><span class="m">0</span><span class="p">,</span><span class="m">0.15</span><span class="p">,</span><span class="m">0.07</span><span class="p">,</span><span class="m">0.01</span><span class="p">,</span><span class="m">0</span><span class="p">,</span><span class="m">0</span><span class="p">,</span><span class="m">0.02</span><span class="p">)</span><span class="w">
+    </span><span class="n">o4</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="m">0.05</span><span class="p">,</span><span class="m">0.84</span><span class="p">,</span><span class="m">0</span><span class="p">,</span><span class="m">0.05</span><span class="p">,</span><span class="m">0</span><span class="p">,</span><span class="m">0</span><span class="p">,</span><span class="m">0.01</span><span class="p">,</span><span class="m">0.02</span><span class="p">,</span><span class="m">0.01</span><span class="p">,</span><span class="m">0</span><span class="p">,</span><span class="m">0</span><span class="p">,</span><span class="m">0</span><span class="p">,</span><span class="m">0.02</span><span class="p">)</span><span class="w">
+    </span><span class="n">o5</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="m">0.25</span><span class="p">,</span><span class="m">0.24</span><span class="p">,</span><span class="m">0</span><span class="p">,</span><span class="m">0.28</span><span class="p">,</span><span class="m">0.01</span><span class="p">,</span><span class="m">0</span><span class="p">,</span><span class="m">0</span><span class="p">,</span><span class="m">0.09</span><span class="p">,</span><span class="m">0.02</span><span class="p">,</span><span class="m">0.02</span><span class="p">,</span><span class="m">0.04</span><span class="p">,</span><span class="m">0</span><span class="p">,</span><span class="m">0.04</span><span class="p">)</span><span class="w">
+    </span><span class="n">o6</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="m">0.18</span><span class="p">,</span><span class="m">0.16</span><span class="p">,</span><span class="m">0</span><span class="p">,</span><span class="m">0.14</span><span class="p">,</span><span class="m">0</span><span class="p">,</span><span class="m">0.01</span><span class="p">,</span><span class="m">0</span><span class="p">,</span><span class="m">0.15</span><span class="p">,</span><span class="m">0.01</span><span class="p">,</span><span class="m">0.01</span><span class="p">,</span><span class="m">0.06</span><span class="p">,</span><span class="m">0</span><span class="p">,</span><span class="m">0.29</span><span class="p">)</span><span class="w">
+    </span><span class="n">o7</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="m">0.17</span><span class="p">,</span><span class="m">0.25</span><span class="p">,</span><span class="m">0</span><span class="p">,</span><span class="m">0.19</span><span class="p">,</span><span class="m">0</span><span class="p">,</span><span class="m">0</span><span class="p">,</span><span class="m">0</span><span class="p">,</span><span class="m">0.27</span><span class="p">,</span><span class="m">0.03</span><span class="p">,</span><span class="m">0.02</span><span class="p">,</span><span class="m">0.05</span><span class="p">,</span><span class="m">0</span><span class="p">,</span><span class="m">0.02</span><span class="p">)</span><span class="w">
+    </span><span class="n">o8</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="m">0.28</span><span class="p">,</span><span class="m">0.2</span><span class="p">,</span><span class="m">0</span><span class="p">,</span><span class="m">0.05</span><span class="p">,</span><span class="m">0.07</span><span class="p">,</span><span class="m">0.05</span><span class="p">,</span><span class="m">0</span><span class="p">,</span><span class="m">0.15</span><span class="p">,</span><span class="m">0.13</span><span class="p">,</span><span class="m">0.02</span><span class="p">,</span><span class="m">0.01</span><span class="p">,</span><span class="m">0</span><span class="p">,</span><span class="m">0.04</span><span class="p">)</span><span class="w">
+    </span><span class="n">o9</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="m">0.06</span><span class="p">,</span><span class="m">0.27</span><span class="p">,</span><span class="m">0</span><span class="p">,</span><span class="m">0.05</span><span class="p">,</span><span class="m">0</span><span class="p">,</span><span class="m">0</span><span class="p">,</span><span class="m">0.01</span><span class="p">,</span><span class="m">0.19</span><span class="p">,</span><span class="m">0.12</span><span class="p">,</span><span class="m">0</span><span class="p">,</span><span class="m">0.08</span><span class="p">,</span><span class="m">0.01</span><span class="p">,</span><span class="m">0.2</span><span class="p">)</span><span class="w">
+    </span><span class="n">o10</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="m">0.01</span><span class="p">,</span><span class="m">0.08</span><span class="p">,</span><span class="m">0</span><span class="p">,</span><span class="m">0</span><span class="p">,</span><span class="m">0.01</span><span class="p">,</span><span class="m">0.77</span><span class="p">,</span><span class="m">0</span><span class="p">,</span><span class="m">0.04</span><span class="p">,</span><span class="m">0</span><span class="p">,</span><span class="m">0.06</span><span class="p">,</span><span class="m">0.01</span><span class="p">,</span><span class="m">0</span><span class="p">,</span><span class="m">0</span><span class="p">)</span><span class="w">
+
+    </span><span class="c1"># Organize as a matrix where each column is a food type</span><span class="w">
+    </span><span class="c1"># each row is a sea otter individual, and the elements</span><span class="w">
+    </span><span class="c1"># represent an individual's preference for each food</span><span class="w">
+    </span><span class="n">omatrix</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">rbind</span><span class="p">(</span><span class="n">o1</span><span class="p">,</span><span class="n">o2</span><span class="p">,</span><span class="n">o3</span><span class="p">,</span><span class="n">o4</span><span class="p">,</span><span class="n">o5</span><span class="p">,</span><span class="n">o6</span><span class="p">,</span><span class="n">o7</span><span class="p">,</span><span class="n">o8</span><span class="p">,</span><span class="n">o9</span><span class="p">,</span><span class="n">o10</span><span class="p">)</span><span class="w">
+    </span><span class="n">colnames</span><span class="p">(</span><span class="n">omatrix</span><span class="p">)</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">prey</span><span class="w">
+    </span><span class="n">print</span><span class="p">(</span><span class="n">omatrix</span><span class="p">)</span><span class="w">
+    
+    </span><span class="c1"># What is the mean reliance on each food?</span><span class="w">
+    </span><span class="c1"># We will use the apply function to calculate the mean value</span><span class="w">
+    </span><span class="c1"># for each prey item used across otter indviduals</span><span class="w">
+    </span><span class="n">preymeans</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">apply</span><span class="p">(</span><span class="n">omatrix</span><span class="p">,</span><span class="w"> </span><span class="m">2</span><span class="p">,</span><span class="w"> </span><span class="n">mean</span><span class="p">)</span><span class="w">
+    </span><span class="n">print</span><span class="p">(</span><span class="n">paste</span><span class="p">(</span><span class="nf">c</span><span class="p">(</span><span class="s1">'Prey Means = '</span><span class="p">,</span><span class="n">preymeans</span><span class="p">)),</span><span class="n">quote</span><span class="o">=</span><span class="nb">F</span><span class="p">)</span><span class="w">
+
+    </span><span class="c1"># Which prey are most variable in sea otter diets? </span><span class="w">
+    </span><span class="c1"># We will use the same apply function to calculate the standard deviation</span><span class="w">
+    </span><span class="c1"># for each prey item used across sea otter individuals</span><span class="w">
+    </span><span class="n">preysd</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">apply</span><span class="p">(</span><span class="n">omatrix</span><span class="p">,</span><span class="w"> </span><span class="m">2</span><span class="p">,</span><span class="w"> </span><span class="n">sd</span><span class="p">)</span><span class="w">
+    </span><span class="n">print</span><span class="p">(</span><span class="n">paste</span><span class="p">(</span><span class="nf">c</span><span class="p">(</span><span class="s1">'Prey SD = '</span><span class="p">,</span><span class="n">preysd</span><span class="p">)),</span><span class="n">quote</span><span class="o">=</span><span class="nb">F</span><span class="p">)</span><span class="w">
+
+    </span><span class="c1"># We can visualize these differences as a boxplot... where both the mean </span><span class="w">
+    </span><span class="c1"># and variance are displayed as a box-and-whiskers diagram... </span><span class="w">
+    </span><span class="c1"># The shorter the whiskers, the less variable the diet on a particular prey. </span><span class="w">
+    </span><span class="c1"># The larger the whiskers, the more variable the diet on a particular prey.</span><span class="w">
+    </span><span class="c1"># Note we are using abbreviations for prey names so that they fit on the x-axis</span><span class="w">
+    </span><span class="n">boxplot</span><span class="p">(</span><span class="n">omatrix</span><span class="p">,</span><span class="w"> </span><span class="n">names</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="s1">'cc'</span><span class="p">,</span><span class="s1">'kc'</span><span class="p">,</span><span class="s1">'l'</span><span class="p">,</span><span class="s1">'u'</span><span class="p">,</span><span class="s1">'a'</span><span class="p">,</span><span class="s1">'s'</span><span class="p">,</span><span class="s1">'mo'</span><span class="p">,</span><span class="s1">'c'</span><span class="p">,</span><span class="s1">'mu'</span><span class="p">,</span><span class="s1">'ss'</span><span class="p">,</span><span class="s1">'w'</span><span class="p">,</span><span class="s1">'sd'</span><span class="p">,</span><span class="s1">'i'</span><span class="p">))</span><span class="w">
+</span></code></pre></div></div>
+<iframe width="100%" height="500" src="https://rdrr.io/snippets/embed/?code=%23Paste%20text%20here" frameborder="0"></iframe>
+
+<h3 id="population-scale">Population-scale</h3>
+
+<!-- ***Competing XXX (data)***  
+Stuff. -->
+
+<p><br />
+<strong><em>Modeling the dynamics of a single population</em></strong>: Imagine we want to simulate how a species’ population changes over time. As we will learn in this class, much of what ecologists do revolves around trying to understand the forces that promote or inhibit population growth. If we are careful, we can express our understanding of the various factors regulating population growth with an equation… and often, the simpler the equation is, the better. But as we will see in this example, a ‘simple’ equation can produce a surprising amount of complexity! This idea - that simple interactions can result in complex outcomes - lies at the heart of ecology, and is one of the reasons it is so beguiling.</p>
+
+<p>Now - don’t panic, but we are going to model how a population might change over time using a mathematical equation. First, we say that the population size of a particular species… say wombats… is represented by n(t), which means “the population size n at time t. Now we must specify how n changes in the future (time t+1) as a function of what it is today (time t). So we will write an equation that gives us n(t+1) as a function of n(t).</p>
+
+<p>As we will learn in future classes when we cover this in detail, the transition of the population size today n(t) to that at a future time n(t+1) will involve two parameters: the reproductive rate r (accounting for how quickly individuals in the population reproduce), and the carrying capacity k, which determines how many individuals can ‘fit’ within a given environment. For now we will ignore k, and set <code class="highlighter-rouge">k = 1</code>. The equation of population growth is given as</p>
 
 \[\begin{equation}
-n(t+1) = rn(t)\left(1 - \frac{n(t)}{k}\right)
+n(t+1) = rn(t)\left(1 - \frac{n(t)}{k}\right).
 \end{equation}\]
+
+<p>This equation is special, and is called the <code class="highlighter-rouge">logistic map</code>. In the R script below, the function <code class="highlighter-rouge">logistic.map()</code> is encodes the equation presented above. Don’t worry too much about how this function works… all we really need to know is that the function takes 4 parameters… the reprodutive rate <code class="highlighter-rouge">r</code>, the starting population size <code class="highlighter-rouge">n0</code>, the carrying capacity <code class="highlighter-rouge">k</code> (which we will set to 1), and the maximum number of time steps we will evaluate <code class="highlighter-rouge">tmax</code>.</p>
 
 <div class="language-R highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="w">    </span><span class="c1"># First we will define the Logistic Map function</span><span class="w">
     </span><span class="c1"># Don't worry about the details - we will get to this later</span><span class="w">
 
     </span><span class="n">logistic.map</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">function</span><span class="p">(</span><span class="n">r</span><span class="p">,</span><span class="w"> </span><span class="n">n0</span><span class="p">,</span><span class="w"> </span><span class="n">k</span><span class="p">,</span><span class="w"> </span><span class="n">tmax</span><span class="p">){</span><span class="w">
+        </span><span class="c1"># Parameters for logistic.map function ::::</span><span class="w">
         </span><span class="c1"># r: growth rate</span><span class="w">
-        </span><span class="c1"># x: initial value</span><span class="w">
-        </span><span class="c1"># T: Max time steps</span><span class="w">
+        </span><span class="c1"># n0: initial value</span><span class="w">
+        </span><span class="c1"># k: carrying capacity (set to 1)</span><span class="w">
+        </span><span class="c1"># tmax: Max time steps</span><span class="w">
         </span><span class="n">z</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">numeric</span><span class="p">(</span><span class="n">tmax</span><span class="p">)</span><span class="w">
         </span><span class="n">z</span><span class="p">[</span><span class="m">1</span><span class="p">]</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">n0</span><span class="w">
         </span><span class="k">for</span><span class="p">(</span><span class="n">i</span><span class="w"> </span><span class="k">in</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="m">1</span><span class="o">:</span><span class="p">(</span><span class="n">tmax</span><span class="m">-1</span><span class="p">))){</span><span class="w">
@@ -312,7 +387,11 @@ n(t+1) = rn(t)\left(1 - \frac{n(t)}{k}\right)
     </span><span class="n">plot</span><span class="p">(</span><span class="n">pop</span><span class="p">,</span><span class="n">type</span><span class="o">=</span><span class="s1">'l'</span><span class="p">,</span><span class="n">xlab</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s1">'Time'</span><span class="p">,</span><span class="w"> </span><span class="n">ylab</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s1">'Population density'</span><span class="p">)</span><span class="w">
 </span></code></pre></div></div>
 
-<iframe width="100%" height="1000" src="https://rdrr.io/snippets/embed/?code=%23Paste%20text%20here" frameborder="0"></iframe>
+<iframe width="100%" height="500" src="https://rdrr.io/snippets/embed/?code=%23Paste%20text%20here" frameborder="0"></iframe>
+
+<h3 id="communities">Communities</h3>
+
+<p><strong><em>Richness across islands</em></strong></p>
 
     </div><!-- /.article-wrap -->
     
