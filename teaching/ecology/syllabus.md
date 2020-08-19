@@ -18,8 +18,7 @@ comments: true
     * Friday 4:30-5:20 [Zoom Link](https://ucmerced.zoom.us/j/92269177977?pwd=aDhMcUs4MS9YSnQ0TXMyVUlMTThOZz09)  
 + **Instructor**: Justin D. Yeakel  
 + **Teaching Assistant**: Irina Barros  
-+ **Course Website**  
-    
++ **Course Websites**  
     Everything that we do this this course will revolve around two principle websites. In some cases, information will be duplicated on both sites (link to readings), and I will attempt to cross-link as necessary.
     > The [***CatCourse Website (Canvas)***](https://catcourses.ucmerced.edu/): Turning in assignments, grades, lectures, links to readings  
     > The [***Ecology Course Website***]({{ site.url }}/teaching/ecology): Basic course information, discussion section activities, links to readings  

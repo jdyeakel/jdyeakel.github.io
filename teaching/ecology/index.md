@@ -1,6 +1,6 @@
 ---
 layout: pagetrimnobio
-title: "Fundamentals of Ecology (Fall, 2020)"
+title: "Fundamentals of Ecology :: Fall, 2020"
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
@@ -8,19 +8,30 @@ image:
   feature: lions.jpg
   credit:
 ---
-<!---
+
+## Welcome!
+Welcome to the course website for ***Fundamentals of Ecology***. Of course, this semester we will be running this course entirely remotely, with both lecture and discussion section occurring on ZOOM (links below). This course will be conducted ***synchronously***, meaning that it is mandatory that you attend lectures and discussions *at the times they occur*. This will be the primary site that will host course information and changes to the schedule, as well as your Discussion Section activities. The Catcourses, or Canvas, site for this course will be used for assessments (homework and exams) and of course grades. See the [syllabus]({{ site.url }}/teaching/ecology/syllabus/) for details and the [schedule]({{ site.url }}/teaching/ecology/schedule/) for information regarding important dates and content.
+
+---
+
 ## Info
-*	Class time/location: TR 9:00-10:15 in GRAN 135
-*	Section BIO/ESS-148-02D: F 1:30-2:20 in GLCR 120
-*	Section BIO/ESS-148-03D: F 2:30-3:20 in GLCR 120
-*	Section BIO/ESS-148-04D: F 4:30-5:20 in CLSSRM 260
+*	[Syllabus]({{ site.url }}/teaching/ecology/syllabus/)  
+* [Schedule]({{ site.url }}/teaching/ecology/schedule/)  
 
-<hr>
+*	**Lecture**: TR 9:00-10:15 on [ZOOM](https://ucmerced.zoom.us/j/93141102627?pwd=ajgrVjYrZzJQcUhrV05kalJ1WFRVQT09)  
+*	**Section BIO/ESS-148-02D**: F 1:30-2:20 on [ZOOM](https://ucmerced.zoom.us/j/96261126746?pwd=ZmxqZW1EdktNSGZhYXhkSmdONnZOZz09)  
+*	**Section BIO/ESS-148-03D**: F 2:30-3:20 on [ZOOM](https://ucmerced.zoom.us/j/91856105994?pwd=OUVmaGtDMU8yKzZRVmRMNXhVS2R3Zz09)  
+*	**Section BIO/ESS-148-04D**: F 4:30-5:20 on [ZOOM](https://ucmerced.zoom.us/j/92269177977?pwd=aDhMcUs4MS9YSnQ0TXMyVUlMTThOZz09)  
 
-*	Office hours: JD Yeakel (T 10:30-11:30, R 10:30-11:30 in SE1 288)
-*	Office house: Irina Barros (M 11:00-12:00 in AOA 166; W 2:00-3:00 in COB1 315)
-*	[Syllabus](http://jdyeakel.github.io/teaching/ecology/Syllabus_Ecology2018.pdf)
 
+*	Prof. Yeakel Office Hours: TBD  
+*	TA Irina Barros Office Hours: TBD  
+
+## Contact
+Please use the Inbox application in the CatCourses (Canvas) website to contact either of us. *There is no guarantee of response if personal emails are used.*
+
+
+<!---
 <hr>
 
 *Exam II*: Lecture notes; Book chapters 7, 8, and 10; Section readings
