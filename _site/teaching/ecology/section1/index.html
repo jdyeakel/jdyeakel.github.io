@@ -5,13 +5,13 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
 <meta charset="utf-8">
-<title>Getting Started with R in Ecology &#8211; Yeakel Lab @ UC-Merced</title>
+<title>Section 1 :: Investigating ecological problems with R &#8211; Yeakel Lab @ UC-Merced</title>
 
 <meta name="keywords" content="about, Jekyll, theme, responsive">
 
 
 <!-- Twitter Cards -->
-<meta name="twitter:title" content="Getting Started with R in Ecology">
+<meta name="twitter:title" content="Section 1 :: Investigating ecological problems with R">
 
 <meta name="twitter:site" content="@jdyeakel">
 <meta name="twitter:creator" content="@jdyeakel">
@@ -22,7 +22,7 @@
 <!-- Open Graph -->
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Getting Started with R in Ecology">
+<meta property="og:title" content="Section 1 :: Investigating ecological problems with R">
 
 <meta property="og:url" content="http://localhost:4000/teaching/ecology/section1/">
 <meta property="og:site_name" content="Yeakel Lab @ UC-Merced">
@@ -120,11 +120,11 @@
 	  
 
 
-	<img src="http://localhost:4000/images/justin-web.jpg" class="bio-photo" alt="Justin D. Yeakel bio photo"></a>
+	<img src="http://localhost:4000/images/ecology/elephants_small.jpg" class="bio-photo" alt="Justin D. Yeakel bio photo"></a>
 
-<h3>Justin D. Yeakel</h3>
-<p>Assistant professor at UC-Merced; Omidyar Postdoctoral Fellow at the Santa Fe Institute</p>
-<a href="mailto:jdyeakel@gmail.com" class="author-social" target="_blank"><i class="fa fa-envelope-square"></i> Email</a>
+<h3>Fundamentals of Ecology</h3>
+<p>"The Earth is what we all have in common"<br> -Wendell Barry</p>
+<!-- <a href="mailto:jdyeakel@gmail.com" class="author-social" target="_blank"><i class="fa fa-envelope-square"></i> Email</a>
 
 
 
@@ -137,13 +137,16 @@
 
 
 
-<a href="http://twitter.com/jdyeakel" class="author-social" target="_blank"><i class="fa fa-twitter-square"></i> Twitter</a>
+<a href="http://twitter.com/jdyeakel" class="author-social" target="_blank"><i class="fa fa-twitter-square"></i> Twitter</a> -->
 
  </div>
   <article>
-    <h1>Getting Started with R in Ecology</h1>
+    <h1>Section 1 :: Investigating ecological problems with R</h1>
     <div class="article-wrap">
-      <p>In <em>Foundations of Ecology</em>, we will be using the R Language to investigate relationships and analyze data. You can either install R on your computer, or use the web-tool shown below, which does not require you to install anything. If you would prefer to install R on your computer, I would advise you to use <a href="https://rstudio.com/">RStudio</a>. RStudio is free, and you can find directions to install (Mac, Windows, Linux) by following the link. Here is another resource for getting you started with RStudio: <a href="https://cpb-us-e1.wpmucdn.com/sites.ucsc.edu/dist/d/276/files/2015/09/GetStartedWithR-1i06k8e.pdf">link</a>. <strong>Importantly</strong>, everything that we will be doing with R can be done by using the web-tool below. You will <em>have</em> to use this if your primary machine is an iPad or ChromeBook.</p>
+      <p><a href="http://localhost:4000/teaching/ecology">&lt; Back to Course Page</a><br />
+<br /></p>
+
+<p>In <em>Foundations of Ecology</em>, we will be using the R Language to investigate relationships and analyze data. You can either install R on your computer, or use the web-tool shown below, which does not require you to install anything. If you would prefer to install R on your computer, I would advise you to use <a href="https://rstudio.com/">RStudio</a>. RStudio is free, and you can find directions to install (Mac, Windows, Linux) by following the link. Here is another resource for getting you started with RStudio: <a href="https://cpb-us-e1.wpmucdn.com/sites.ucsc.edu/dist/d/276/files/2015/09/GetStartedWithR-1i06k8e.pdf">link</a>. <strong>Importantly</strong>, everything that we will be doing with R can be done by using the web-tool below. You will <em>have</em> to use this if your primary machine is an iPad or ChromeBook.</p>
 
 <p>This is a very brief tutorial for getting used to using R. We will have more practice as the course proceeds, so don’t worry if you have trouble getting the hang of it right away. To use the web-tool (or an installed version of R on your machine), all you need to do is to copy the blocks of code that will presented as:</p>
 
@@ -274,22 +277,21 @@
 
 <hr />
 
-<h1 id="lets-get-to-the-ecology">Let’s get to the ecology</h1>
+<h1 id="lets-get-to-the-ecology--ecological-interactions-across-scales">Let’s get to the ecology :: Ecological interactions across scales</h1>
 
-<h2 id="ecological-interactions-across-scales">Ecological interactions across scales</h2>
-
-<p>Now that we have a basic understanding of how R works, we can begin exploring how we might investigate ecological problems using this powerful tool. During this class, we will be confronting ecological problems in two ways:<br />
-    1. <strong>Data-driven approaches</strong>: Formulate a question regarding an ecological relationship, gather data, and explore patterns in that data. Determine whether or not the data matches our understanding of how things work in nature. Revise and update our understanding given the new data at hand.<br />
-    2. <strong>Theory-driven approaches</strong>: Formulate a question regarding an ecological relationship, propose underlying constraints that might determine that relationship, and build a simple model that incorporate those constraints. Evaluate whether the model reveals patterns that match our understanding of how things work in nature. Revise and update our understanding given the new data at hand.</p>
+<p>Now that we have a basic understanding of how R works, we can begin exploring how we might investigate ecological problems using this powerful tool. During this class, we will be confronting ecological problems in two ways:</p>
+<ol>
+  <li><strong>Data-driven approaches</strong>: Formulate a question regarding an ecological relationship, gather data, and explore patterns in that data. Determine whether or not the data matches our understanding of how things work in nature. Revise and update our understanding given the new results at hand.</li>
+  <li><strong>Theory-driven approaches</strong>: Formulate a question regarding an ecological relationship, propose underlying constraints that might determine that relationship, and build a simple model incorporating those constraints. Evaluate whether the model reveals patterns that match our understanding of how things work in nature. Revise and update our understanding given the new results at hand.</li>
+</ol>
 
 <p>In the description of these alternative approaches to ecological science, which parts of the description are the same and which are different?
 <br />
 Below we will explore ecological relationships that occur at different scales. Which of the examples better fall into the <strong>Data-driven</strong> vs. <strong>Theory-driven</strong> categorization?</p>
 
-<h3 id="individual-scale">Individual-scale</h3>
+<h2 id="individual-scale">Individual-scale</h2>
 
-<p><strong><em>Sea Otter diets</em></strong><br />
-Sea otters are carnivorous mammals that live in coastal environments where upwelling drives nutrient-rich shallow-water communities from which they derive most of their food. Sea otters are voracious eaters and incorporate a wide variety of prey into their diet. For the population that lives off the coast of Santa Cruz, California, sea otters have been shown to exhibit remarkable individuality in thier diet choices. Ecologist Tim Tinker spent an enormous number of hours identifying otters by individually unique characteristics and carefully monitorying foraging bouts. The most commonly observed prey items of these otters included <code class="highlighter-rouge">[Cancer crabs, kelp crabs, lobsters, urchins, abalone, snail, mollusk, clams, mussels, sea stars, sea worms, sand dollars, and other invertebrates]</code>. Compiling thousands of hours of observational data revealed that sea otter individuals have unique food preferences. Below we will see how one might go about exploring this dietary individuality in R.</p>
+<p><strong><em>Sea Otter diets</em></strong>: Sea otters are carnivorous mammals that live in coastal environments where upwelling drives nutrient-rich shallow-water communities from which they derive the vast majority of their food. Sea otters are voracious eaters and incorporate a wide variety of prey into their diet. For the population that lives off the coast of Santa Cruz, California, sea otters have been shown to exhibit remarkable individuality in thier dietary predilictions. Ecologist Tim Tinker spent an enormous number of hours identifying otters by individually unique characteristics and carefully monitorying foraging bouts. The most commonly observed prey items of these otters included <code class="highlighter-rouge">[Cancer crabs, kelp crabs, lobsters, urchins, abalone, snail, mollusk, clams, mussels, sea stars, sea worms, sand dollars, and other invertebrates]</code>. Compiling thousands of hours of observational data revealed that sea otter individuals have unique food preferences. Below we will see how one might go about exploring this dietary individuality in <code class="highlighter-rouge">R</code>.</p>
 
 <div class="language-R highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="w">    </span><span class="c1"># First, we will create a vector listing the names of the prey mentioned above</span><span class="w">
     </span><span class="c1"># Names of prey types</span><span class="w">
@@ -337,7 +339,18 @@ Sea otters are carnivorous mammals that live in coastal environments where upwel
 </span></code></pre></div></div>
 <iframe width="100%" height="500" src="https://rdrr.io/snippets/embed/?code=%23Paste%20text%20here" frameborder="0"></iframe>
 
-<h3 id="population-scale">Population-scale</h3>
+<blockquote>
+  <h3 id="discussion">Discussion</h3>
+  <ol>
+    <li>Which prey are more variable in sea otter diets? Which prey are less variable in sea otter diets? What could the reasons be for these differences?</li>
+    <li>Which individuals are specialists and generalists? Can we think of specialist/generalist individuals in the same way that we think of specialist/generalist populations? Draw out examples of each.</li>
+    <li>What are the implications of this? What might it mean for a population to have a diverse array of sea otter individuals with their own unique dietary proclivities?</li>
+  </ol>
+</blockquote>
+
+<hr />
+
+<h2 id="population-scale">Population-scale</h2>
 
 <!-- ***Competing XXX (data)***  
 Stuff. -->
@@ -345,7 +358,7 @@ Stuff. -->
 <p><br />
 <strong><em>Modeling the dynamics of a single population</em></strong>: Imagine we want to simulate how a species’ population changes over time. As we will learn in this class, much of what ecologists do revolves around trying to understand the forces that promote or inhibit population growth. If we are careful, we can express our understanding of the various factors regulating population growth with an equation… and often, the simpler the equation is, the better. But as we will see in this example, a ‘simple’ equation can produce a surprising amount of complexity! This idea - that simple interactions can result in complex outcomes - lies at the heart of ecology, and is one of the reasons it is so beguiling.</p>
 
-<p>Now - don’t panic, but we are going to model how a population might change over time using a mathematical equation. First, we say that the population size of a particular species… say wombats… is represented by n(t), which means “the population size n at time t. Now we must specify how n changes in the future (time t+1) as a function of what it is today (time t). So we will write an equation that gives us n(t+1) as a function of n(t).</p>
+<p>Now - don’t panic, but we are going to model how a population might change over time using a MATHEMATICAL EQUATION 😱 First, we say that the population size of a particular species… say wombats… is represented by n(t), which means “the population size n at time t. Now we must specify how n changes in the future (time t+1) as a function of what it is today (time t). So we will write an equation that gives us n(t+1) as a function of n(t).</p>
 
 <p>As we will learn in future classes when we cover this in detail, the transition of the population size today n(t) to that at a future time n(t+1) will involve two parameters: the reproductive rate r (accounting for how quickly individuals in the population reproduce), and the carrying capacity k, which determines how many individuals can ‘fit’ within a given environment. For now we will ignore k, and set <code class="highlighter-rouge">k = 1</code>. The equation of population growth is given as</p>
 
@@ -389,9 +402,138 @@ n(t+1) = rn(t)\left(1 - \frac{n(t)}{k}\right).
 
 <iframe width="100%" height="500" src="https://rdrr.io/snippets/embed/?code=%23Paste%20text%20here" frameborder="0"></iframe>
 
-<h3 id="communities">Communities</h3>
+<blockquote>
+  <h3 id="discussion-1">Discussion</h3>
+  <ol>
+    <li>What does it mean to have a low <code class="highlighter-rouge">r</code> vs. a high <code class="highlighter-rouge">r</code>? Explore by setting <code class="highlighter-rouge">r=1</code>, <code class="highlighter-rouge">r=1.5</code>, <code class="highlighter-rouge">r=2</code>, and <code class="highlighter-rouge">r=2.5</code>. How might this relate to different species? For example, would rabbits 🐇 be more likely to have a lower or higher <code class="highlighter-rouge">r</code> than horses 🐎?</li>
+    <li>Now continue dialing up <code class="highlighter-rouge">r</code>. Explore the following values and describe the resulting dynamics: <code class="highlighter-rouge">r=3</code>, <code class="highlighter-rouge">r=3.5</code>, and <code class="highlighter-rouge">r=4</code>.</li>
+    <li>Are these results surprising? What might be the long-term implications if a species’ population behaves in this manner?</li>
+  </ol>
+</blockquote>
 
-<p><strong><em>Richness across islands</em></strong></p>
+<hr />
+
+<h2 id="communities">Communities</h2>
+
+<p><strong><em>Watching islands fill up I</em></strong>: In 1969, <a href="https://en.wikipedia.org/wiki/Daniel_Simberloff">Daniel Simberloff</a> and <a href="https://en.wikipedia.org/wiki/E._O._Wilson">E.O. Wilson</a> decided to test a theory that <a href="https://en.wikipedia.org/wiki/Robert_H._MacArthur">Robert MacArthur</a> and Wilson had formulated a few years before: <a href="https://web.stanford.edu/group/stanfordbirds/text/essays/Island_Biogeography.html#:~:text=Wilson%20of%20Harvard%2C%20developed%20a,of%20established%20species%20become%20extinct."><em>The Theory of Island Biogeography</em></a>. We will learn more about these ideas during the second half of the class, but here is the gist:</p>
+<ol>
+  <li>Islands represent unique opportunities to test ecological theories…  they are as close to a controlled natural experiment as we will ever get.</li>
+  <li>Islands are limited in area and resources, so the number of species that live on islands should also be limited.</li>
+  <li>Such limitations on species richness should be set by a) the size of the island and b) the distance of the island to the mainland (where species will be migrating from)</li>
+  <li>The rate at which species arrive on the island (the colonization rate), and the rate at which species go extinct (the extinction rate) are the processes that drive species richness, and these processes should vary as a function of attributes such as island size and distance to the mainland.</li>
+</ol>
+
+<p>The experiment Simberloff devised is both simple and a bit nutty. He selected a number of mangrove islands off the coast of Florida of varying sizes and distances from the mainland, which hosted diverse arthopod communities. He surrounded each mangrove island with a metal frame, covered it with fumigation tarps, and gassed the arthropods into oblivion. Following these localized ‘mass extinction’ events, Simberloff and colleagues observed the recolonization of the mangrove islands, documenting which species arrived and when. We will now examine these data below.</p>
+
+<div class="language-R highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="w">    </span><span class="c1"># Load in the dataset collected by Simberloff (nicely compiled as a readily availabel package!)</span><span class="w">
+    </span><span class="n">library</span><span class="p">(</span><span class="n">island</span><span class="p">)</span><span class="w">
+    </span><span class="n">library</span><span class="p">(</span><span class="n">RColorBrewer</span><span class="p">)</span><span class="w">
+    </span><span class="n">data</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">simberloff</span><span class="w">
+    </span><span class="c1"># This is a color palette that shows up well on light backgrounds</span><span class="w">
+    </span><span class="n">pal</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">brewer.pal</span><span class="p">(</span><span class="m">6</span><span class="p">,</span><span class="s1">'Dark2'</span><span class="p">)</span><span class="w">
+    
+    
+    </span><span class="c1"># There are presence/absence datasets for each of 6 islands.</span><span class="w">
+    </span><span class="c1"># Each island is represented by a matrix, where columns are days and</span><span class="w">
+    </span><span class="c1"># rows are species</span><span class="w">
+    </span><span class="c1"># We will add up the number of species present at each time point (island1-6)</span><span class="w">
+    </span><span class="c1"># We will also extract the day the measurements were taken (time1-6)</span><span class="w">
+    </span><span class="c1"># For a given island, we now have a record of how diversity changes over time</span><span class="w">
+    </span><span class="c1"># The first measurement is diversity prior to removal</span><span class="w">
+    </span><span class="c1"># The latter measurements document how the community recovers</span><span class="w">
+    </span><span class="n">island1</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">apply</span><span class="p">(</span><span class="n">data</span><span class="p">[[</span><span class="m">1</span><span class="p">]][,</span><span class="m">2</span><span class="o">:</span><span class="m">16</span><span class="p">],</span><span class="m">2</span><span class="p">,</span><span class="n">sum</span><span class="p">)</span><span class="w">
+    </span><span class="n">time1</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">as.numeric</span><span class="p">(</span><span class="nf">names</span><span class="p">(</span><span class="n">data</span><span class="p">[[</span><span class="m">1</span><span class="p">]][,</span><span class="m">2</span><span class="o">:</span><span class="m">16</span><span class="p">]));</span><span class="w"> </span><span class="n">time1</span><span class="p">[</span><span class="m">1</span><span class="p">]</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0</span><span class="w">
+    </span><span class="n">island2</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">apply</span><span class="p">(</span><span class="n">data</span><span class="p">[[</span><span class="m">2</span><span class="p">]][,</span><span class="m">2</span><span class="o">:</span><span class="m">18</span><span class="p">],</span><span class="m">2</span><span class="p">,</span><span class="n">sum</span><span class="p">)</span><span class="w">
+    </span><span class="n">time2</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">as.numeric</span><span class="p">(</span><span class="nf">names</span><span class="p">(</span><span class="n">data</span><span class="p">[[</span><span class="m">2</span><span class="p">]][,</span><span class="m">2</span><span class="o">:</span><span class="m">18</span><span class="p">]));</span><span class="w"> </span><span class="n">time2</span><span class="p">[</span><span class="m">1</span><span class="p">]</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0</span><span class="w">
+    </span><span class="n">island3</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">apply</span><span class="p">(</span><span class="n">data</span><span class="p">[[</span><span class="m">3</span><span class="p">]][,</span><span class="m">2</span><span class="o">:</span><span class="m">17</span><span class="p">],</span><span class="m">2</span><span class="p">,</span><span class="n">sum</span><span class="p">)</span><span class="w">
+    </span><span class="n">time3</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">as.numeric</span><span class="p">(</span><span class="nf">names</span><span class="p">(</span><span class="n">data</span><span class="p">[[</span><span class="m">3</span><span class="p">]][,</span><span class="m">2</span><span class="o">:</span><span class="m">17</span><span class="p">]));</span><span class="w"> </span><span class="n">time3</span><span class="p">[</span><span class="m">1</span><span class="p">]</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0</span><span class="w">
+    </span><span class="n">island4</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">apply</span><span class="p">(</span><span class="n">data</span><span class="p">[[</span><span class="m">4</span><span class="p">]][,</span><span class="m">2</span><span class="o">:</span><span class="m">19</span><span class="p">],</span><span class="m">2</span><span class="p">,</span><span class="n">sum</span><span class="p">)</span><span class="w">
+    </span><span class="n">time4</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">as.numeric</span><span class="p">(</span><span class="nf">names</span><span class="p">(</span><span class="n">data</span><span class="p">[[</span><span class="m">4</span><span class="p">]][,</span><span class="m">2</span><span class="o">:</span><span class="m">19</span><span class="p">]));</span><span class="w"> </span><span class="n">time4</span><span class="p">[</span><span class="m">1</span><span class="p">]</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0</span><span class="w">
+    </span><span class="n">island5</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">apply</span><span class="p">(</span><span class="n">data</span><span class="p">[[</span><span class="m">5</span><span class="p">]][,</span><span class="m">2</span><span class="o">:</span><span class="m">17</span><span class="p">],</span><span class="m">2</span><span class="p">,</span><span class="n">sum</span><span class="p">)</span><span class="w">
+    </span><span class="n">time5</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">as.numeric</span><span class="p">(</span><span class="nf">names</span><span class="p">(</span><span class="n">data</span><span class="p">[[</span><span class="m">5</span><span class="p">]][,</span><span class="m">2</span><span class="o">:</span><span class="m">17</span><span class="p">]));</span><span class="w"> </span><span class="n">time5</span><span class="p">[</span><span class="m">1</span><span class="p">]</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0</span><span class="w">
+    </span><span class="n">island6</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">apply</span><span class="p">(</span><span class="n">data</span><span class="p">[[</span><span class="m">6</span><span class="p">]][,</span><span class="m">2</span><span class="o">:</span><span class="m">16</span><span class="p">],</span><span class="m">2</span><span class="p">,</span><span class="n">sum</span><span class="p">)</span><span class="w">
+    </span><span class="n">time6</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">as.numeric</span><span class="p">(</span><span class="nf">names</span><span class="p">(</span><span class="n">data</span><span class="p">[[</span><span class="m">6</span><span class="p">]][,</span><span class="m">2</span><span class="o">:</span><span class="m">16</span><span class="p">]));</span><span class="w"> </span><span class="n">time6</span><span class="p">[</span><span class="m">1</span><span class="p">]</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0</span><span class="w">
+
+    
+
+    </span><span class="c1"># Let's plot these diversity curves for islands 1-6</span><span class="w">
+    </span><span class="c1"># We will use a different color for each island to easier see within-island</span><span class="w">
+    </span><span class="c1"># diversity patterns over time</span><span class="w">
+    </span><span class="n">plot</span><span class="p">(</span><span class="n">time1</span><span class="p">,</span><span class="n">island1</span><span class="p">,</span><span class="n">type</span><span class="o">=</span><span class="s1">'l'</span><span class="p">,</span><span class="n">col</span><span class="o">=</span><span class="n">pal</span><span class="p">[</span><span class="m">1</span><span class="p">],</span><span class="n">lwd</span><span class="o">=</span><span class="m">2</span><span class="p">,</span><span class="n">xlim</span><span class="o">=</span><span class="nf">c</span><span class="p">(</span><span class="m">0</span><span class="p">,</span><span class="m">550</span><span class="p">),</span><span class="n">ylim</span><span class="o">=</span><span class="nf">c</span><span class="p">(</span><span class="m">0</span><span class="p">,</span><span class="m">50</span><span class="p">),</span><span class="n">xlab</span><span class="o">=</span><span class="s1">'Time'</span><span class="p">,</span><span class="w"> </span><span class="n">ylab</span><span class="o">=</span><span class="s1">'Island species richness'</span><span class="p">)</span><span class="w">
+    </span><span class="n">lines</span><span class="p">(</span><span class="n">time2</span><span class="p">,</span><span class="n">island2</span><span class="p">,</span><span class="n">col</span><span class="o">=</span><span class="n">pal</span><span class="p">[</span><span class="m">2</span><span class="p">],</span><span class="n">lwd</span><span class="o">=</span><span class="m">2</span><span class="p">)</span><span class="w">
+    </span><span class="n">lines</span><span class="p">(</span><span class="n">time3</span><span class="p">,</span><span class="n">island3</span><span class="p">,</span><span class="n">col</span><span class="o">=</span><span class="n">pal</span><span class="p">[</span><span class="m">3</span><span class="p">],</span><span class="n">lwd</span><span class="o">=</span><span class="m">2</span><span class="p">)</span><span class="w">
+    </span><span class="n">lines</span><span class="p">(</span><span class="n">time4</span><span class="p">,</span><span class="n">island4</span><span class="p">,</span><span class="n">col</span><span class="o">=</span><span class="n">pal</span><span class="p">[</span><span class="m">4</span><span class="p">],</span><span class="n">lwd</span><span class="o">=</span><span class="m">2</span><span class="p">)</span><span class="w">
+    </span><span class="n">lines</span><span class="p">(</span><span class="n">time5</span><span class="p">,</span><span class="n">island5</span><span class="p">,</span><span class="n">col</span><span class="o">=</span><span class="n">pal</span><span class="p">[</span><span class="m">5</span><span class="p">],</span><span class="n">lwd</span><span class="o">=</span><span class="m">2</span><span class="p">)</span><span class="w">
+    </span><span class="n">lines</span><span class="p">(</span><span class="n">time6</span><span class="p">,</span><span class="n">island6</span><span class="p">,</span><span class="n">col</span><span class="o">=</span><span class="n">pal</span><span class="p">[</span><span class="m">6</span><span class="p">],</span><span class="n">lwd</span><span class="o">=</span><span class="m">2</span><span class="p">)</span><span class="w">
+
+    
+</span></code></pre></div></div>
+
+<iframe width="100%" height="500" src="https://rdrr.io/snippets/embed/?code=%23Paste%20text%20here" frameborder="0"></iframe>
+
+<blockquote>
+  <h3 id="discussion-2">Discussion</h3>
+  <ol>
+    <li>What happens to the island communities following Simberloff’s fumigation treatment (the datapoint at time <code class="highlighter-rouge">t=0</code> is species richness <em>before</em> fumigation)</li>
+    <li>What type of variation is observed between and among island communities?</li>
+    <li>What do you think about the ethics of fumigating mangrove islands full of arthropods to examine foundational concepts in ecology? Is there a less impactful way to go about investigating these questions?</li>
+  </ol>
+</blockquote>
+
+<hr />
+
+<p><strong><em>Watching islands fill up II</em></strong>: The patterns of community re-assembly following Simberloff’s fumigation are varied, but follow similar trends. One of the principle ideas behind <em>The Theory of Island Biogeography</em> is that:</p>
+<ol>
+  <li>Larger islands should support more species</li>
+  <li>Islands closer to the mainland should support more species</li>
+</ol>
+
+<p>Do we see these relationships with Simberloff’s data? Let’s explore below.</p>
+
+<div class="language-R highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="w">    </span><span class="c1"># Now we will ask the questions: </span><span class="w">
+    </span><span class="c1"># Do larger islands host richer communities?</span><span class="w">
+    </span><span class="c1"># Do closer islands host richer communities?</span><span class="w">
+    </span><span class="c1"># We will evaluate this with respect to the pre-disturbance richness</span><span class="w">
+    </span><span class="n">library</span><span class="p">(</span><span class="n">island</span><span class="p">)</span><span class="w">
+    </span><span class="n">library</span><span class="p">(</span><span class="n">RColorBrewer</span><span class="p">)</span><span class="w">
+    </span><span class="n">data</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">simberloff</span><span class="w">
+    </span><span class="n">island1</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">apply</span><span class="p">(</span><span class="n">data</span><span class="p">[[</span><span class="m">1</span><span class="p">]][,</span><span class="m">2</span><span class="o">:</span><span class="m">16</span><span class="p">],</span><span class="m">2</span><span class="p">,</span><span class="n">sum</span><span class="p">)</span><span class="w">
+    </span><span class="n">time1</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">as.numeric</span><span class="p">(</span><span class="nf">names</span><span class="p">(</span><span class="n">data</span><span class="p">[[</span><span class="m">1</span><span class="p">]][,</span><span class="m">2</span><span class="o">:</span><span class="m">16</span><span class="p">]));</span><span class="w"> </span><span class="n">time1</span><span class="p">[</span><span class="m">1</span><span class="p">]</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0</span><span class="w">
+    </span><span class="n">island2</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">apply</span><span class="p">(</span><span class="n">data</span><span class="p">[[</span><span class="m">2</span><span class="p">]][,</span><span class="m">2</span><span class="o">:</span><span class="m">18</span><span class="p">],</span><span class="m">2</span><span class="p">,</span><span class="n">sum</span><span class="p">)</span><span class="w">
+    </span><span class="n">time2</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">as.numeric</span><span class="p">(</span><span class="nf">names</span><span class="p">(</span><span class="n">data</span><span class="p">[[</span><span class="m">2</span><span class="p">]][,</span><span class="m">2</span><span class="o">:</span><span class="m">18</span><span class="p">]));</span><span class="w"> </span><span class="n">time2</span><span class="p">[</span><span class="m">1</span><span class="p">]</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0</span><span class="w">
+    </span><span class="n">island3</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">apply</span><span class="p">(</span><span class="n">data</span><span class="p">[[</span><span class="m">3</span><span class="p">]][,</span><span class="m">2</span><span class="o">:</span><span class="m">17</span><span class="p">],</span><span class="m">2</span><span class="p">,</span><span class="n">sum</span><span class="p">)</span><span class="w">
+    </span><span class="n">time3</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">as.numeric</span><span class="p">(</span><span class="nf">names</span><span class="p">(</span><span class="n">data</span><span class="p">[[</span><span class="m">3</span><span class="p">]][,</span><span class="m">2</span><span class="o">:</span><span class="m">17</span><span class="p">]));</span><span class="w"> </span><span class="n">time3</span><span class="p">[</span><span class="m">1</span><span class="p">]</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0</span><span class="w">
+    </span><span class="n">island4</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">apply</span><span class="p">(</span><span class="n">data</span><span class="p">[[</span><span class="m">4</span><span class="p">]][,</span><span class="m">2</span><span class="o">:</span><span class="m">19</span><span class="p">],</span><span class="m">2</span><span class="p">,</span><span class="n">sum</span><span class="p">)</span><span class="w">
+    </span><span class="n">time4</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">as.numeric</span><span class="p">(</span><span class="nf">names</span><span class="p">(</span><span class="n">data</span><span class="p">[[</span><span class="m">4</span><span class="p">]][,</span><span class="m">2</span><span class="o">:</span><span class="m">19</span><span class="p">]));</span><span class="w"> </span><span class="n">time4</span><span class="p">[</span><span class="m">1</span><span class="p">]</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0</span><span class="w">
+    </span><span class="n">island5</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">apply</span><span class="p">(</span><span class="n">data</span><span class="p">[[</span><span class="m">5</span><span class="p">]][,</span><span class="m">2</span><span class="o">:</span><span class="m">17</span><span class="p">],</span><span class="m">2</span><span class="p">,</span><span class="n">sum</span><span class="p">)</span><span class="w">
+    </span><span class="n">time5</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">as.numeric</span><span class="p">(</span><span class="nf">names</span><span class="p">(</span><span class="n">data</span><span class="p">[[</span><span class="m">5</span><span class="p">]][,</span><span class="m">2</span><span class="o">:</span><span class="m">17</span><span class="p">]));</span><span class="w"> </span><span class="n">time5</span><span class="p">[</span><span class="m">1</span><span class="p">]</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0</span><span class="w">
+    </span><span class="n">island6</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">apply</span><span class="p">(</span><span class="n">data</span><span class="p">[[</span><span class="m">6</span><span class="p">]][,</span><span class="m">2</span><span class="o">:</span><span class="m">16</span><span class="p">],</span><span class="m">2</span><span class="p">,</span><span class="n">sum</span><span class="p">)</span><span class="w">
+    </span><span class="n">time6</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">as.numeric</span><span class="p">(</span><span class="nf">names</span><span class="p">(</span><span class="n">data</span><span class="p">[[</span><span class="m">6</span><span class="p">]][,</span><span class="m">2</span><span class="o">:</span><span class="m">16</span><span class="p">]));</span><span class="w"> </span><span class="n">time6</span><span class="p">[</span><span class="m">1</span><span class="p">]</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0</span><span class="w">
+    </span><span class="n">initial_richness</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="n">island1</span><span class="p">[</span><span class="m">1</span><span class="p">],</span><span class="n">island2</span><span class="p">[</span><span class="m">1</span><span class="p">],</span><span class="n">island3</span><span class="p">[</span><span class="m">1</span><span class="p">],</span><span class="n">island4</span><span class="p">[</span><span class="m">1</span><span class="p">],</span><span class="n">island5</span><span class="p">[</span><span class="m">1</span><span class="p">],</span><span class="n">island6</span><span class="p">[</span><span class="m">1</span><span class="p">])</span><span class="w">
+    
+    </span><span class="c1"># E1, E2, E3, E7, E9, ST2</span><span class="w">
+    </span><span class="c1"># Island diameter (meters)</span><span class="w">
+    </span><span class="n">island_diameter</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="m">11</span><span class="p">,</span><span class="m">12</span><span class="p">,</span><span class="m">12</span><span class="p">,</span><span class="m">25</span><span class="p">,</span><span class="m">18</span><span class="p">,</span><span class="m">11</span><span class="p">)</span><span class="w">
+    </span><span class="c1"># Island distance to mainland (distance)</span><span class="w">
+    </span><span class="n">island_distance</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="m">533</span><span class="p">,</span><span class="m">2</span><span class="p">,</span><span class="m">172</span><span class="p">,</span><span class="m">15</span><span class="p">,</span><span class="m">379</span><span class="p">,</span><span class="m">154</span><span class="p">)</span><span class="w">
+    
+    </span><span class="n">plot</span><span class="p">(</span><span class="n">island_distance</span><span class="p">,</span><span class="n">island_diameter</span><span class="p">,</span><span class="n">xlab</span><span class="o">=</span><span class="s2">"Distance (m)"</span><span class="p">,</span><span class="n">ylab</span><span class="o">=</span><span class="s2">"Diameter (m)"</span><span class="p">)</span><span class="w">
+    </span><span class="n">plot</span><span class="p">(</span><span class="n">island_diameter</span><span class="p">,</span><span class="n">initial_richness</span><span class="p">,</span><span class="n">xlab</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"Diameter (m)"</span><span class="p">,</span><span class="n">ylab</span><span class="o">=</span><span class="s2">"Initial richness"</span><span class="p">)</span><span class="w">
+    </span><span class="n">plot</span><span class="p">(</span><span class="n">island_distance</span><span class="p">,</span><span class="n">initial_richness</span><span class="p">,</span><span class="n">xlab</span><span class="o">=</span><span class="w"> </span><span class="s2">"Distance (m)"</span><span class="p">,</span><span class="n">ylab</span><span class="o">=</span><span class="s2">"Initial richness"</span><span class="p">)</span><span class="w">
+    
+
+</span></code></pre></div></div>
+
+<iframe width="100%" height="1000" src="https://rdrr.io/snippets/embed/?code=%23Paste%20text%20here" frameborder="0"></iframe>
+
+<blockquote>
+  <h3 id="discussion-3">Discussion</h3>
+  <ol>
+    <li>Judging from the first two plots [richness vs. distance and richness vs. diameter], do you see any obvious patterns?</li>
+    <li>If not, what would you have expected and why?</li>
+    <li>The third plot (bottom) shows [distance vs. diameter]. Note that there are large islands both close and far, as well as small islands both close and far. This makes discerning patterns in species richness quite difficult. Why?</li>
+  </ol>
+</blockquote>
 
     </div><!-- /.article-wrap -->
     

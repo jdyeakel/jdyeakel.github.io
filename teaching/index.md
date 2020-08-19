@@ -9,15 +9,15 @@ image:
   credit: jdyeakel
 ---
 
-> ### [Natural History of Dinosaurs (Spring, 2018)](http://jdyeakel.github.io/teaching/dinos/)   
+> ### [Natural History of Dinosaurs (Spring, 2018)]({{ site.url }}/teaching/dinos/)   
 > 65 million quarters of a second in the making
 
 <br>
 
-> ### [Foundations of Ecology (Fall, 2020)](http://jdyeakel.github.io/teaching/ecology/)  
+> ### [Fundamentals of Ecology (Fall, 2020)]({{ site.url }}/teaching/ecology/)  
 > Putting the Lotka in your Volterra since 1926       
 
 <br>
 
-> ### [Ecological Dynamics (Fall, 2019)](http://jdyeakel.github.io/teaching/ecodyn/)   
+> ### [Ecological Dynamics (Fall, 2019)]({{ site.url }}/teaching/ecodyn/)   
   
