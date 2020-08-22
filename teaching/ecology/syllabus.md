@@ -63,9 +63,10 @@ comments: true
     * ***Course Assignments and Projects***  
         * Late assignments (e.g., homework) will not be accepted.  
         * **Homework**: Throughout the semester,  homework assignments will be assigned, consisting of exercises provided by the Teaching Assistant/Instructor. ***Homework assignments will be delivered via Canvas***  
-        <!-- * **Quizzes**: Quizzes will be given periodically during the lecture period. They will not necessarily be announced. -->
+        <!-- * **Quizzes**: Quizzes will be given periodically during the lecture period. They will not necessarily be announced. -->  
+        * **Discussion Activities**: All students are required to go to their respective Discussion Sections and participate/engage in the discussions and activities conducted in the section. Your discussion grade will take into account both participation and responses to Discussion assignments. ***Only otherwise notified, Discussion Activity scores will be delivered via CatCourses***   
         * **Exams**: There will be 3 “midterm” exams during the semester and 1 comprehensive final. There will be no make-up exams or early exams. If you are sick during an exam, you must supply a note from your doctor verifying your illness. Your grade for the missed exam will be based on your average score from the other exams. You cannot miss more than one exam for an excused illness and taking the final is mandatory in order to pass the course. ***Exams will be open-book + open-note and delivered via Canvas***
-    * ***Grading***: Your final grade will be based on the following: class/section participation & activities: 15%, homework: 20%, midterms: 45% (three, 15% each), and comprehensive final exam: 20%.
+        * ***Grading***: Your final grade will be based on the following: lecture attendance: 5%; discussion section participation & activities: 10%; homework: 20%; midterms: 45% (three, 15% each); and comprehensive final exam: 20%.  
         * Grades will be given using the approximate framework: A: 90 - 100%, B: 80 - 90%, C: 70 - 80%, D: 60 - 70%, F: < 60%. This framework is subject to change given the distribution of the final grades.
 
 --------------------------------

@@ -9,7 +9,21 @@ comments: true
 [< Back to Course Page]({{ site.url }}/teaching/ecology)  
 <br>  
 
-In *Foundations of Ecology*, we will be using the R Language to investigate relationships and analyze data. You can either install R on your computer, or use the web-tool shown below, which does not require you to install anything. If you would prefer to install R on your computer, I would advise you to use [RStudio](https://rstudio.com/). RStudio is free, and you can find directions to install (Mac, Windows, Linux) by following the link. Here is another resource for getting you started with RStudio: [link](https://cpb-us-e1.wpmucdn.com/sites.ucsc.edu/dist/d/276/files/2015/09/GetStartedWithR-1i06k8e.pdf). **Importantly**, everything that we will be doing with R can be done by using the web-tool below. You will *have* to use this if your primary machine is an iPad or ChromeBook.
+
+
+
+In *Foundations of Ecology*, we will be using the R Language to investigate relationships and analyze data. To use R there are a few options, but here I will describe using R on a browser, and this will work on any machine, including desktops, laptops, chromebooks, tablets, and even smartphones (don't recommend).
+
+## Using the R web-tool
+
+You can either install R on your computer, or use the web-tool shown below, which does not require you to install anything. If you would prefer to install R on your computer, I would advise you to use [RStudio](https://rstudio.com/). RStudio is free, and you can find directions to install (Mac, Windows, Linux) by following the link. Here is another resource for getting you started with RStudio: [link](https://cpb-us-e1.wpmucdn.com/sites.ucsc.edu/dist/d/276/files/2015/09/GetStartedWithR-1i06k8e.pdf). **Importantly**, everything that we will be doing with R can be done by using the web-tool below. You will *have* to use this if your primary machine is an iPad or ChromeBook.
+
+> ## Using R Studio (optional)  
+> **Cloud** First we need to sign up for a `FREE` RStudio Cloud account. There are paid tiers to this, but the base tier - which is all we need - is free. Visit the [RStudio Cloud website](https://rstudio.cloud/) and click the `get started for free` button and follow the instructions to make your account. After you do this, you will be able to log in to RStudio Cloud use the program.  
+> **Local App** *Alternatively* you can install R directly on your computer if you are using a laptop with Window/Apple/Linux OS - this option will not work on Chromebooks. Running RStudio natively on your machine is free, and you can find directions to install (Mac, Windows, Linux) by following this [link](https://rstudio.com/).  
+> Whether you are using RStudio Cloud or RStudio on your machine, here is a resource that will help acquaint you with the RStudio environment: [link](https://cpb-us-e1.wpmucdn.com/sites.ucsc.edu/dist/d/276/files/2015/09/GetStartedWithR-1i06k8e.pdf).
+
+## Using R
 
 This is a very brief tutorial for getting used to using R. We will have more practice as the course proceeds, so don't worry if you have trouble getting the hang of it right away. To use the web-tool (or an installed version of R on your machine), all you need to do is to copy the blocks of code that will presented as:
 
@@ -31,7 +45,7 @@ So a few things in the above code block that I want you to pay attention to. The
 
 <br>
 
->**There is an imporant difference between using this web-tool vs. using RStudio installed on your computer. With RStudio installed on your machine, you can run one line at a time, however with the web-tool, all of the code must be entered together and run all at once.**  
+>**There is an important difference between using this web-tool vs. using RStudio installed on your computer. With RStudio installed on your machine, you can run one line at a time, however with the web-tool, all of the code must be entered together and run all at once.**  
 > <br>
 > **When using the web-tool, read through the comments and corresponding code carefully before copying and pasting into the window. Experiment by changing the values and seeing what you get!**
 
