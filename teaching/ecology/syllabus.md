@@ -52,14 +52,13 @@ comments: true
 
 + **Course Requirements & Grading Procedures**  
     * ***Class Attendance and Participation Policy***  
-        * This course is delivered ***synchronously over ZOOM***, meaning that lecture & discussion attendence *at the time of the lecture & discussion* is required.
+        * This course is delivered ***synchronously over ZOOM***, meaning that lecture & discussion attendance *at the time of the lecture & discussion* is required.
         * Attendance and participation in the discussion section is required and will be a component of the student’s course grade.
     * ***Required and Supplemental Readings***  
-        * **Required Textbook**: W.D. Bowman, S.D. Hacker, and Cain, M.L. 2017. Ecology, 4th Edition. Sinauer Associates, Inc., Publishers. Sunderland, MA.  
+        * **Required Textbook**: W.D. Bowman, S.D. Hacker, and Cain, M.L. 2017. Ecology, 4th or 5th Edition. Sinauer Associates, Inc., Publishers. Sunderland, MA.  
+        * The ebook is a good option, as it is a bit cheaper (visit school bookstore for more info)  
         * Readings will also be assigned for the Discussion section and instead of the book for some lectures. These are required and will be provided on the course website.  
-        * Note: other editions (1st, 2nd, 3rd) of this textbook may be used but are not recommended. 
-        * Book Website: http://sites.sinauer.com/ecology4e/index.html
-        * This companion site is designed to help students using the Bowman et al. Ecology, 4th Edition textbook to master important concepts in ecology. It provides resources for reviewing each chapter, learning key terminology, working with data from actual experiments, and using simulations to explore model systems. The site also includes self-study quizzes to gauge your comprehension of each chapter.
+        * Note: earlier editions (1st, 2nd, 3rd) of this textbook may be used but are not recommended.  
     * ***Course Assignments and Projects***  
         * Late assignments (e.g., homework) will not be accepted.  
         * **Homework**: Throughout the semester,  homework assignments will be assigned, consisting of exercises provided by the Teaching Assistant/Instructor. ***Homework assignments will be delivered via Canvas***  
