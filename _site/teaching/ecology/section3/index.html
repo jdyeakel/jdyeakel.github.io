@@ -149,6 +149,114 @@
       <p><a href="http://localhost:4000/teaching/ecology">&lt; Back to Course Page</a><br />
 <br /></p>
 
+<p>In the last section (<a href="http://localhost:4000/teaching/ecology/section2/">Section 2</a>), we investigated the role of temperature in driving and constraining organismal activity rates. But why do organisms care what the temperature is? To answer this we must consider what an organism made of. Fundamentally an organism is an incredibly complex network of chemical reactions designed to pass information into subsequent individuals (their own complex network of interactions). We call an operational unit of this complex system a <em>metabolic network</em>. If you have taken Introductory biology, you have explore many of the fundamental biochemical reactions that form the basis of metabolism, including the Krebs cycle and - for photosynthetic organisms - photosynthesis. What does this metabolic network look like? Check it out:
+<br />
+<br />
+<img src="http://localhost:4000/images/ecology/metabolicnetwork.jpg" width="1000" />
+<br />
+<br /></p>
+
+<p>If it looks complicated, that’s because it is. Don’t worry - this isn’t a biochemistry course, so we will turn our focus now to how this process as a whole impacts organismal ecology.</p>
+
+<h2 id="what-is-metabolism">What is metabolism?</h2>
+
+<p>The entire metabolic process as shown above captures the energetic expenditure of what it takes to ‘run’ an organism’s physiological processes. Metabolism is thus the <em>sum</em> of the processes depicted above. These physiological processes then impact behavior. For example, depending on the species, an individual can only pack on so much body fat. This body fat is used in part as an energy reserve - like the gas tank in your car. As you burn calories, your body takes calories in through foraging, and burns what it doesn’t intake from fat. Excess intake gets stored as fat. If an individual is unable to find food, fat is catabolized to fuel metabolic processes. Organisms with higher metabolic requirements must burn more energy, and this impacts how/when an individual forages for food, interacts with other individuals, reproduces, etc… the stuff of ecology. Warm-blooded organisms (endotherms) maintain a constant internal body temperature, which costs additional energy, and this affects all aspects of their lives… they must forage more frequently, they can’t go as long without food (some ectotherms, like some snakes, can go a month or more without feeding), and reproduction is generally riskier.</p>
+
+<p>Now that we have a sense of what metabolism is, and that it has a direct impact on organismal ecology, let’s examine how it compares ax must be relatively constant within a species and is not expected to fluctuate with temperature as it would for ectotherms. Moreover, let us compare the metabolism of organisms across a range of body sizes… from a mouse to an elephant.</p>
+
+<blockquote>
+  <h3 id="discussion">Discussion</h3>
+  <ol>
+    <li>What relationship would you expect between metabolic expenditure and species’ body size?</li>
+    <li>What relationship would you expect if you took out the effect of body size? In other words, if you compared the metabolic expenditure of a cubic gram of mouse and a cubic gram of elephant?</li>
+  </ol>
+</blockquote>
+
+<p>Now let’s look at one of the most famous biological figures… the depiction of metabolic rate, measured as heat produced per day in kilocalories, as a function of species’ body mass (kg)</p>
+
+<p><img src="http://localhost:4000/images/ecology/metabolicrate_bodysize.jpg" /></p>
+
+<p>This is a figure created by Max Kleiber, a physiologist who, in the 1930s, discovered that metabolic rate scales in a very particular way with organismal body size. First, notice that the scales of the x- and y-axis are log-scaled… meaning that each successive quadrant (moving along the x- or y-axis) is 10x the size of the previous quadrant. Perhaps unsurprisingly, we observe that an elephant or whale generates more heat per day than a mouse or guineapig. With this log-spacing, the metabolic rate of species is linearly scaled with body mass.</p>
+
+<p>Now let’s play with some data of our own… Below we will experiment with plotting</p>
+
+<div class="language-R highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="w">    </span><span class="n">mass</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="m">0.150</span><span class="p">,</span><span class="m">0.173</span><span class="p">,</span><span class="m">0.226</span><span class="p">,</span><span class="m">0.300</span><span class="p">,</span><span class="m">1.96</span><span class="p">,</span><span class="m">11.6</span><span class="p">,</span><span class="m">15.5</span><span class="p">,</span><span class="m">45.6</span><span class="p">,</span><span class="m">56.5</span><span class="p">,</span><span class="m">64.1</span><span class="p">,</span><span class="m">388</span><span class="p">,</span><span class="m">342</span><span class="p">,</span><span class="m">679</span><span class="p">)</span><span class="w">
+    </span><span class="n">calperhr</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="m">19.5</span><span class="p">,</span><span class="m">20.2</span><span class="p">,</span><span class="m">25.5</span><span class="p">,</span><span class="m">30.8</span><span class="p">,</span><span class="m">106</span><span class="p">,</span><span class="m">443</span><span class="p">,</span><span class="m">525</span><span class="p">,</span><span class="m">1219.9</span><span class="p">,</span><span class="m">1349</span><span class="p">,</span><span class="m">1632</span><span class="p">,</span><span class="m">6421</span><span class="p">,</span><span class="m">6255</span><span class="p">,</span><span class="m">8274</span><span class="p">)</span><span class="w">
+    </span><span class="n">sp</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="s1">'dove'</span><span class="p">,</span><span class="s1">'fe_rat'</span><span class="p">,</span><span class="s1">'ml_rat'</span><span class="p">,</span><span class="s1">'pigeon'</span><span class="p">,</span><span class="s1">'hen'</span><span class="p">,</span><span class="s1">'fe_dog'</span><span class="p">,</span><span class="s1">'ml_dog'</span><span class="p">,</span><span class="s1">'sheep'</span><span class="p">,</span><span class="s1">'woman'</span><span class="p">,</span><span class="s1">'man'</span><span class="p">,</span><span class="s1">'cow'</span><span class="p">,</span><span class="s1">'steer'</span><span class="p">,</span><span class="s1">'steer'</span><span class="p">)</span><span class="w">
+
+    </span><span class="n">par</span><span class="p">(</span><span class="n">mfrow</span><span class="o">=</span><span class="nf">c</span><span class="p">(</span><span class="m">2</span><span class="p">,</span><span class="m">1</span><span class="p">))</span><span class="w">
+    </span><span class="n">plot</span><span class="p">(</span><span class="n">mass</span><span class="p">,</span><span class="n">calperhr</span><span class="p">,</span><span class="n">log</span><span class="o">=</span><span class="s1">'xy'</span><span class="p">)</span><span class="w">
+    </span><span class="n">plot</span><span class="p">(</span><span class="n">mass</span><span class="p">,</span><span class="n">calperhr</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
+
+<iframe width="100%" height="500" src="https://rdrr.io/snippets/embed/?code=%23Paste%20text%20here" frameborder="0"></iframe>
+
+<blockquote>
+  <h3 id="discussion-1">Discussion</h3>
+  <ol>
+    <li>What is the difference between these two figures?</li>
+    <li>What do they tell us?</li>
+  </ol>
+</blockquote>
+
+<p>Why would metabolic rate be expected to scale with body size, and why is a 3/4-scaling surprising? There are two things to remember… if we imagine a spherical organism increasing in size (fine as a rough appoximation), it’s surface area (SA) should increase in proportion to the SQUARE of its mass… so:</p>
+
+\[\begin{equation}
+SA \propto r^2,
+\end{equation}\]
+
+<p>where \(\propto\) means ‘in proportion to’. By comparison, volume is expected to increase with the CUBE of its mass, such that</p>
+
+\[\begin{equation}
+V \propto r^3,
+\end{equation}\]
+
+<p>The HEAT produced by metabolism is produced in proportion to an organism’s volume (because the number of cells increase with volume), however the heat must be DISSIPATED across the organism’s surface area. So the energy produced by metabolism, which might be assumed to be scaled with volume
+\((B_{\rm assume} \propto M^3)\)
+really must be tuned down so that it can be dissipated as heat. How much should it be tuned down? We can make a geometric argument for this… if the energy produced from metabolism is cubed, but it needs to be dissipated across the organism’s surface area, we need to tune the cubic relationship down to a squared relationship… so because we can write</p>
+
+\[\begin{equation}
+SA = V^{2/3} = (r^3)^{2/3}
+\end{equation}\]
+
+<p>we might <em>hypothesize</em> that metabolic rate should be scaled similarly, or that</p>
+
+\[\begin{equation}
+B_{\rm hypothesis} \propto M^{2/3}
+\end{equation}\]
+
+<p>i.e. limit the heat produced to an organism’s surface area, so that it can get rid of the heat without grossly exploding. We could write this as:</p>
+
+\[\begin{align}
+B &amp;\propto (M^3)^{2/3} \\
+B &amp;\propto M^2
+\end{align}\]
+
+<p>where the 2/3 exponent is how much we need to tune down the metabolic rate.</p>
+
+<p>SO NOW LET”S PLOT A 2/3 line through our data to see if this is correct!</p>
+
+<p>lines(mass,exp(4.29)*mass^(2/3))</p>
+
+<p>Fitting the line in log space…
+Translate that to linear space…
+The 3/4 law.</p>
+
+<h2 id="why-does-b--b0m34">Why does B = B0*M^3/4?</h2>
+
+<p>It’s complicated!</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ofbwFY9noZA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<p><br />
+<br /></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hCS9MU_RX1c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<h2 id="mammalian-population-densities">Mammalian population densities</h2>
+
+<p>Other things scale similarity…</p>
+
+<h2 id="the-energy-equivalence-hypothesis">The Energy Equivalence Hypothesis</h2>
+
 
     </div><!-- /.article-wrap -->
     

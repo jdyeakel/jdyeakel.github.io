@@ -39,8 +39,8 @@ tr:nth-child(odd) {background: #FFF}
 | ---------- | ----------- | --------------- | ------------- | ------------ |
 | **8/27**       | **(R-L1)** | Web of Life | Introduction & Roadmap | Bowman Ch. 1 |     |
 |         |  | **No Disc** | No Discussion section |  |     |
-| **9/1**  | **(T-L2)** | Scales 1 | From cells to communities | Bowman pgs 22-23 & 46-47; Ch. 2.1 pg 37 |     |
-|  **9/3**  | **(R-L3)** | Scales 2 | Thinking like a mountain | [Leopold; excerpts]({{ site.url }}/teaching/ecology/papers/Leopold_Excerpts.pdf){:target="_blank"}) |     |
+| **9/1**  | **(T-L2)** | Scales | Ecological questions across scales | Bowman Salmon case study: Chp. 2 beginning/end |     |
+|  **9/3**  | **(R-L3)** | Data to theory | Collecting and analyzing data to inform theory | [Leopold; excerpts]({{ site.url }}/teaching/ecology/papers/Leopold_Excerpts.pdf){:target="_blank"} |     |
 |    **9/4**     | **(F-D1)** | Disc 1 | [Investigating ecological problems with R](http://jdyeakel.github.io/teaching/ecology/section1) | [What does ecology have to do with me?](https://www.esa.org/about/what-does-ecology-have-to-do-with-me/){:target="_blank"} |     |
 | **9/8**       | **(T-L4)** | Biosphere | Distinguishing among the major Earth's biomes | Bowman Ch. 3 |     |
 |  **9/10**   | **(R-L5)** | Energy 1 | Variation in temperature and water | Bowman Ch. 4 |     |
