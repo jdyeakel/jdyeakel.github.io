@@ -24,8 +24,8 @@ Welcome to the course website for ***Fundamentals of Ecology***. Of course, this
 *	**Section BIO/ESS-148-04D**: F 4:30-5:20 on [ZOOM](https://ucmerced.zoom.us/j/92269177977?pwd=aDhMcUs4MS9YSnQ0TXMyVUlMTThOZz09)  
 
 
-*	Prof. Yeakel Office Hours: TBD  
-*	TA Irina Barros Office Hours: TBD  
+*	Prof. Yeakel Office Hours: Tuesdays, Thursdays 10:15-11:15 or by appointment  
+*	TA Irina Barros Office Hours: Friday 11am-12pm & 5:30-6:30pm  
 
 ## Contact
 Please use the Inbox application in the CatCourses (Canvas) website to contact either of us. *There is no guarantee of response if personal emails are used.*

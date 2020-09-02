@@ -53,7 +53,8 @@ comments: true
 + **Course Requirements & Grading Procedures**  
     * ***Class Attendance and Participation Policy***  
         * This course is delivered ***synchronously over ZOOM***, meaning that lecture & discussion attendance *at the time of the lecture & discussion* is required.
-        * Attendance and participation in the discussion section is required and will be a component of the student’s course grade.
+        * Attendance and participation in the discussion section is required and will be a component of the student’s course grade.  
+        * The 5 lowest lecture attendance scores will be dropped  
     * ***Required and Supplemental Readings***  
         * **Required Textbook**: W.D. Bowman, S.D. Hacker, and Cain, M.L. 2017. Ecology, 4th or 5th Edition. Sinauer Associates, Inc., Publishers. Sunderland, MA.  
         * The ebook is a good option, as it is a bit cheaper (visit school bookstore for more info)  
