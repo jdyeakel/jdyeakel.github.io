@@ -152,7 +152,7 @@ Manipulating numbers is one thing, but it usually helps to plot the results to v
     # To do this we will use the plot() function
     # Note: We first specify the x-coordinate data, then specify the y-coordinate data
     # We enter other info as well - the x-axis label, y-axis lavel, and y-axis limits
-    plot(x = day, y = v, xlab = 'Days', ylab , 'Proportion time feeding',ylim=c(0,0.5))
+    plot(x = day, y = v, xlab = 'Days', ylab = 'Proportion time feeding',ylim=c(0,0.5))
 ```
 
 <iframe width='100%' height='500' src='https://rdrr.io/snippets/embed/?code=%23Paste%20text%20here' frameborder='0'></iframe>
