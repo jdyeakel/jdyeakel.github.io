@@ -53,35 +53,26 @@ Now let's play with some data of our own... Below we will experiment with plotti
 > 1. What is the difference between these two figures?
 > 2. What do they tell us?
 
-Why would metabolic rate be expected to scale with body size, and why is a 3/4-scaling surprising? There are two things to remember... if we imagine a spherical organism increasing in size (fine as a rough appoximation), it's surface area (SA) should increase in proportion to the SQUARE of its mass... so:
+Why would metabolic rate be expected to scale with body size, and why is a 3/4-scaling surprising? There are two things to remember... if we imagine a spherical organism increasing in size, the surface area and volume of a sphere scale differently:
 
-$$
-\begin{equation}
-SA \propto r^2,
-\end{equation}
-$$
-
-where $$ \propto $$ means 'in proportion to'. By comparison, volume is expected to increase with the CUBE of its mass, such that
-
-$$
-\begin{equation}
-V \propto r^3,
-\end{equation}
-$$
+<br>
+<br>
+<img src="{{ site.url }}/images/ecology/radius.jpg" width="1000">
+where $$ \propto $$ means 'in proportion to'.
 
 The HEAT produced by metabolism is produced in proportion to an organism's volume (because the number of cells increase with volume), however the heat must be DISSIPATED across the organism's surface area. So the energy produced by metabolism, which might be assumed to be scaled with volume
 $$
-(B_{\rm assume} \propto M^3)
+(B_{\rm assume} \propto V)
 $$
 really must be tuned down so that it can be dissipated as heat. How much should it be tuned down? We can make a geometric argument for this... if the energy produced from metabolism is cubed, but it needs to be dissipated across the organism's surface area, we need to tune the cubic relationship down to a squared relationship... so because we can write
 
 $$
 \begin{equation}
-SA = V^{2/3} = (r^3)^{2/3}
+SA \propto V^{2/3} \propto (r^3)^{2/3}
 \end{equation}
 $$
 
-we might *hypothesize* that metabolic rate should be scaled similarly, or that
+we might then hypothesize that metabolic rate should be scaled similarly with *mass*, such that
 
 $$
 \begin{equation}
@@ -89,43 +80,83 @@ B_{\rm hypothesis} \propto M^{2/3}
 \end{equation}
 $$
 
+where the 2/3 exponent is how much we need to tune down the metabolic rate to avoid overheating and grossly exploding. Importantly, this is a limitation of being a 3-Dimensional organism.
 
-i.e. limit the heat produced to an organism's surface area, so that it can get rid of the heat without grossly exploding. We could write this as:
+The question is: *is this correct*? Let's plot a line through our data that increases $$ \propto M^{2/3} $$.
 
-$$
-\begin{align}
-B &\propto (M^3)^{2/3} \\
-B &\propto M^2
-\end{align}
-$$
+```R
+    mass = c(0.150,0.173,0.226,0.300,1.96,11.6,15.5,45.6,56.5,64.1,388,342,679)
+    calperhr = c(19.5,20.2,25.5,30.8,106,443,525,1219.9,1349,1632,6421,6255,8274)
+    sp = c('dove','fe_rat','ml_rat','pigeon','hen','fe_dog','ml_dog','sheep','woman','man','cow','steer','steer')
 
-where the 2/3 exponent is how much we need to tune down the metabolic rate.
+    plot(mass,calperhr,log='xy')
+    lines(mass,exp(4.29)*mass^(2/3),lwd=2,lty=2)
+```
 
-SO NOW LET"S PLOT A 2/3 line through our data to see if this is correct!
+<iframe width='100%' height='500' src='https://rdrr.io/snippets/embed/?code=%23Paste%20text%20here' frameborder='0'></iframe>
 
-lines(mass,exp(4.29)*mass^(2/3))
+> ## Discussion
+> 1. Does the 2/3 line match the data well?  
+> 2. Are there certain species for which it does and does not?  
 
 
-Fitting the line in log space...
-Translate that to linear space...
-The 3/4 law.
+## Cheating 3-Dimensional limitations with Fractal Branching
 
-## Why does B = B0*M^3/4?
+We will find in a moment that there is a better solution than a 2/3 scaling, even though 2/3 would seem to be a strict limitation of being a 3-Dimensional organism in a 3-Dimensional environment. First, let's think about why it might be beneficial for an organism's metabolism to scale differently than the 2/3 limitation. Because 2/3-scaling is less than a 1:1 scaling, the metabolism of larger organisms is lower - per unit biomass - than a smaller organism. So if we think of a cubic gram of mouse vs. a cubic gram of elephant, the cubic gram of mouse is generating more energy. If metabolic scaling can be pushed >2/3, the energy produced per unit biomass is elevated, thereby increasing the energetic 'bank account' of an organism, especially those of larger body size.
 
-It's complicated!
+<div>
+<p style="float: left;padding-right:10px"><img src="/images/ecology/fractalbranching.jpg" width="400"></p>
+<b>Fractal Branching</b> Life has found a way to <i>cheat</i> the limitations of 3-Dimensions, which is mind-blowing. On the right you can see a depiction of branching alveoli, which function to distribute gases between the air we inhale/exhale to/from blood vessels within the lungs. Our body is filled with these distribution channels - from alveoli to blood capillaries - that are organized in fractal branching patterns. Strangely, these fractal shapes have a dimensionality closer to 4-Dimensions rather than 3-Dimensions. The reasons for this are complex, and involve advanced mathematical and physical reasoning. If you dig that kind of thing, check out <a href="https://science.sciencemag.org/content/sci/276/5309/122.full.pdf">this paper</a>.   <BR> <BR> <BR> <BR>     
+</div>     
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ofbwFY9noZA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>
-<br>
+The following video does a nice job discussing this near-4-Dimensional geometry, so check it out before or after section.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hCS9MU_RX1c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+---
 
+For now, let's look at that plot again, but by fitting a 3/4 power law line in addition to the 2/3 power law line. We will keep the 2/3 power law line stippled, and the 3/4 power law line solid. Which fits better?
+
+
+```R
+    mass = c(0.150,0.173,0.226,0.300,1.96,11.6,15.5,45.6,56.5,64.1,388,342,679)
+    calperhr = c(19.5,20.2,25.5,30.8,106,443,525,1219.9,1349,1632,6421,6255,8274)
+    sp = c('dove','fe_rat','ml_rat','pigeon','hen','fe_dog','ml_dog','sheep','woman','man','cow','steer','steer')
+
+    plot(mass,calperhr,log='xy')
+    lines(mass,exp(4.29)*mass^(2/3),lwd=2,lty=2)
+    lines(mass,exp(4.29)*mass^(3/4),lwd=2)
+```
+
+<iframe width='100%' height='500' src='https://rdrr.io/snippets/embed/?code=%23Paste%20text%20here' frameborder='0'></iframe>
+
+
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/ofbwFY9noZA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+<br> -->
+
+
+> ## Discussion
+> 1. How does *cheating* the 3-D limitations of nature benefit organisms?  
+> 2. What other natural things (living and nonliving) exhibit fractal branching patterns?
 
 
 ## Mammalian population densities
 
-Other things scale similarity...
+If we go out in nature and begin measuring things, it is often surprising how many qualities of ecological systems exhibit scaling relationships that appear to relate, and sometimes be the same as, the 3/4 power law. While the 3/4 power law for metabolism has some very well-defined theory that may explain the underlying mechanism, many other power-scale ecological relationships remain mysterious. Importantly, these scaling relationships are usually only evident when we look across many species and many ecosystems...
+
+For example, let's look at the population densities of different mammal species, since we will be focusing so much on populations this semester. A population densities is generally defined by **number of individuals within a given area**... for example, we might count 3 antelope within a hectare or 1 mouse per 10 meters square. When comparing densities it is thus necessary to hold constant the area (the denominator). So if our area is a square meter, a habitat might hold 5 crickets/square meter, 0.1 antelopes/square meter (i.e. 1 per 10 square meters), or 0.001 elephants per square meters (i.e. 1 per 1000 square meters). Let's look at some data.
+
+```R
+    read.table('',header=FALSE)
+
+    plot(mass,density,log='xy')
+
+```
+
 
 ## The Energy Equivalence Hypothesis
+
+
 
 
