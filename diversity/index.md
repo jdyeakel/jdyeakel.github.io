@@ -10,4 +10,4 @@ image:
   credit: jdyeakel
 ---
 
-test
+In the EcoDynamics Lab at UC Merced, we value diversity in all of its myriad forms, and reject actions that marginalize those due to their race, gender identities, orientation, religions, and creeds. We believe that the systemic racism that plagues institutions (including those in Academia) needs to be acknowledged and confronted directly. We believe that Black Lives Matter. We believe that diversity has intrinsic value that is vital for advancing creative thought. Diversity of background translates to diversity of experience, which influences how each person approaches questions we seek to probe. We believe that enabling diversity within a research group enriches the lives of those within it by exposing individuals to diverse minds, promoting diverse metaphorical reasoning and, by extension, creative problem-solving.
