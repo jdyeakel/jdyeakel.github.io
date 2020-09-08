@@ -347,6 +347,21 @@ The experiment Simberloff devised is both simple and a bit nutty. He selected a 
     lines(time5,island5,col=pal[5],lwd=2)
     lines(time6,island6,col=pal[6],lwd=2)
 
+    # We can assess recovery by comparing the species diversity at the first 
+    # point in time (pre-extermination) to the species diversity at the last
+    # point in time (post-recovery). If we divide the last value by the first
+    # value, we get a ratio. A value greater than 1 means that the recovery has
+    # resulted in a community MORE diverse than when it started. A value
+    # less than 1 means that the recovery has resulted in a community
+    # LESS than when it started
+
+    # Let's do this with the first island. We will use the R functions 
+    # head() and tail() to get the first and last values
+    
+    pre_extinction = head(island1,1)
+    post_recovery = tail(island1,1)
+    ratio = post_recovery/pre_extinction
+    print(paste('ratio='),ratio)
     
 ```
 
