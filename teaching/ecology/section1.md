@@ -361,7 +361,7 @@ The experiment Simberloff devised is both simple and a bit nutty. He selected a 
     pre_extinction = head(island1,1)
     post_recovery = tail(island1,1)
     ratio = post_recovery/pre_extinction
-    print(paste('ratio='),ratio)
+    print(paste('ratio=',ratio))
     
 ```
 
