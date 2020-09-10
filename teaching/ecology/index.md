@@ -36,7 +36,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 ## Lecture Material
 1. [Lectures 1 & 2]({{ site.url }}/teaching/ecology/Lect1_2_BIO148.pdf)  
 2. [Lectures 3]({{ site.url }}/teaching/ecology/Lect3_BIO148.pdf)
-2. [Lectures 4]({{ site.url }}/teaching/ecology/Lect4_BIO148.pdf)
+2. [Lectures 4]({{ site.url }}/teaching/ecology/Lect_4_BIO148.pdf)
 
 <!---
 <hr>
