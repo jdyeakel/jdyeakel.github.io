@@ -44,7 +44,7 @@ tr:nth-child(odd) {background: #FFF}
 |    **9/4**     | **(F-D1)** | Disc 1 | [Investigating ecological problems with R](http://jdyeakel.github.io/teaching/ecology/section1) | [What does ecology have to do with me?](https://www.esa.org/about/what-does-ecology-have-to-do-with-me/){:target="_blank"} |     |
 | **9/8**       | **(T-L4)** | Biosphere | Distinguishing among the major Earth's biomes | Bowman Ch. 3 |     |
 |  **9/10**   | **(R-L5)** | Energy 1 | Variation in temperature and water | Bowman Ch. 4 |     |
-|     **9/11**    | **(F-D2)** | Disc 2 |  Temperature as an ecological constraint  | [Gunderson & Leal 2015]({{ site.url }}/teaching/ecology/papers/Gunderson.pdf){:target="_blank"} |     |
+|     **9/11**    | **(F-D2)** | Disc 2 |  [Temperature as an ecological constraint]({{ site.url }}/teaching/ecology/section2/)    | [Gunderson & Leal 2015]({{ site.url }}/teaching/ecology/papers/Gunderson.pdf){:target="_blank"} |     |
 | **9/15** | **(T-L6)** | Energy 2 | Variation in energy | Bowman Ch. 5 |  HW-1 due  |
 | **9/17** | **(R-L7)** | Allometry | Allometry & Macroecology | TBD |    |
 |     **9/18**    | **(F-D3)** | Disc 3 |  Macroecology  | [West & Brown]() |   HW-2 due  |
