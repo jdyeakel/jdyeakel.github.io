@@ -482,6 +482,21 @@ n(t+1) = rn(t)\left(1 - \frac{n(t)}{k}\right).
     </span><span class="n">lines</span><span class="p">(</span><span class="n">time5</span><span class="p">,</span><span class="n">island5</span><span class="p">,</span><span class="n">col</span><span class="o">=</span><span class="n">pal</span><span class="p">[</span><span class="m">5</span><span class="p">],</span><span class="n">lwd</span><span class="o">=</span><span class="m">2</span><span class="p">)</span><span class="w">
     </span><span class="n">lines</span><span class="p">(</span><span class="n">time6</span><span class="p">,</span><span class="n">island6</span><span class="p">,</span><span class="n">col</span><span class="o">=</span><span class="n">pal</span><span class="p">[</span><span class="m">6</span><span class="p">],</span><span class="n">lwd</span><span class="o">=</span><span class="m">2</span><span class="p">)</span><span class="w">
 
+    </span><span class="c1"># We can assess recovery by comparing the species diversity at the first </span><span class="w">
+    </span><span class="c1"># point in time (pre-extermination) to the species diversity at the last</span><span class="w">
+    </span><span class="c1"># point in time (post-recovery). If we divide the last value by the first</span><span class="w">
+    </span><span class="c1"># value, we get a ratio. A value greater than 1 means that the recovery has</span><span class="w">
+    </span><span class="c1"># resulted in a community MORE diverse than when it started. A value</span><span class="w">
+    </span><span class="c1"># less than 1 means that the recovery has resulted in a community</span><span class="w">
+    </span><span class="c1"># LESS than when it started</span><span class="w">
+
+    </span><span class="c1"># Let's do this with the first island. We will use the R functions </span><span class="w">
+    </span><span class="c1"># head() and tail() to get the first and last values</span><span class="w">
+    
+    </span><span class="n">pre_extinction</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">head</span><span class="p">(</span><span class="n">island1</span><span class="p">,</span><span class="m">1</span><span class="p">)</span><span class="w">
+    </span><span class="n">post_recovery</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">tail</span><span class="p">(</span><span class="n">island1</span><span class="p">,</span><span class="m">1</span><span class="p">)</span><span class="w">
+    </span><span class="n">ratio</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">post_recovery</span><span class="o">/</span><span class="n">pre_extinction</span><span class="w">
+    </span><span class="n">print</span><span class="p">(</span><span class="n">paste</span><span class="p">(</span><span class="s1">'ratio='</span><span class="p">,</span><span class="n">ratio</span><span class="p">))</span><span class="w">
     
 </span></code></pre></div></div>
 
