@@ -108,11 +108,11 @@ So $$ B_{\rm geometry} $$ must be ***tuned down*** so that the energy produced b
 
 $$
 \begin{equation}
-SA \propto V^{2/3} \propto (r^3)^{2/3} \propto r^2
+SA \propto V^{2/3} \propto (r^3)^{2/3} \propto r^2. 
 \end{equation}
 $$
 
-***SO***
+Now an individual's body mass $$ M $$ is a volumetric measure. So we can suppose that metabolic rate $$ B_{\rm geometry} $$ should be proportional to mass tuned down by an exponent of 2/3, or
 
 $$
 \begin{equation}
