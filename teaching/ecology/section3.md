@@ -97,18 +97,18 @@ The HEAT produced by metabolism is produced in proportion to an organism's volum
 
 $$
 \begin{align}
-B_{\rm hypothesis} &\propto V,~{\rm or} \\
-B_{\rm hypothesis} &\propto M
+B_{\rm geometry} &\propto V,~{\rm or} \\
+B_{\rm geometry} &\propto M
 \end{align}
 $$
 
-***BUT*** we know this wouldn't work because the organism wouldn't be able to dissipate metabolic energy as heat, which would cause it to messily explode.
+***BUT*** we know this wouldn't work because the organism wouldn't be able to dissipate metabolic energy as heat, which would cause it to messily explode. We are using the label $$ B_{\rm geometry} $$ to note the fact that we are building a relationship for $$ B $$ (metabolic rate) based on geometric arguments.
 
-So we could then conclude that $$ B_{\rm hypothesis} $$ must be ***tuned down*** so that it can be dissipated as heat. How much should it be tuned down? We can make a geometric argument for this... if the energy produced from metabolism is cubed, but it needs to be dissipated across the organism's surface area, we need to tune the cubic relationship down to a squared relationship... so because we can write
+So $$ B_{\rm geometry} $$ must be ***tuned down*** so that the energy produced by the organism's volume can be dissipated as heat across its surface. How much should it be tuned down? We can make a geometric argument for this... if the energy produced from metabolism is cubed (as is the volume), but it needs to be dissipated across the organism's surface area, we need to tune the cubic relationship down to a squared relationship. So we need to change the exponent 3 to an exponent 2. We can do this by including an exponential term of 2/3, which converts a volumetric measure to an area measure.
 
 $$
 \begin{equation}
-SA \propto V^{2/3} \propto (r^3)^{2/3}
+SA \propto V^{2/3} \propto (r^3)^{2/3} \propto r^2
 \end{equation}
 $$
 
@@ -116,7 +116,7 @@ $$
 
 $$
 \begin{equation}
-B_{\rm hypothesis} \propto M^{2/3}
+B_{\rm geometry} \propto M^{2/3}
 \end{equation}
 $$
 
@@ -257,7 +257,7 @@ $$
 \end{equation}
 $$
 
-where $$ N $$ is population density. To clarify, this isn't the energy produced for the entire population... it's the energy produced for a given population within a particular area. Denser populations mean that there are more individuals in that area, sparser populations mean that there are fewer individuals in that area. See the above plot to observe how these population densities change with species body size.
+where $$ N $$ is the number of individuals of that species within a given area, or the species' population density. To clarify, this isn't the energy produced for the entire population... it's the energy produced for a given population within a particular area. Denser populations mean that there are more individuals in that area, sparser populations mean that there are fewer individuals in that area. See the above plot to observe how these population densities change with species body size.
 
 Now let's calculate the amount of energy used within a given area for populations of mammalian species as a function of body mass!
 
