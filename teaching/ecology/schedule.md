@@ -48,16 +48,16 @@ tr:nth-child(odd) {background: #FFF}
 | **9/15** | **(T-L6)** | Energy 2 | Variation in energy | Bowman Ch. 5 |  HW-1 due  |
 | **9/17** | **(R-L7)** | Allometry | Allometry & Macroecology | TBD |    |
 |     **9/18**    | **(F-D3)** | Disc 3 |  [Macroecology]()  |    |     |
-| **9/22** | **(T-L8)** | Evolution | Ecology as the driver of natural selection | Bowman Ch. 6 |  HW-2 due  |
-| **9/24** | **(R-L9)** | Life history | Life history diversity and tradeoffs | Bowman Ch. 7 |    |
-|    **9/25**     | **(F-D4)** | Disc 4 |  Life History  | Leslie Matrix |   HW-3 due  |
+| **9/22** | **(T-L8)** | Evolution 1 | Ecology as the driver of natural selection | Bowman Ch. 6 |  HW-2 due  |
+| **9/24** | **(R-L9)** | Evolution 2 |  |  |    |
+|    **9/25**     | **(F-D4)** | Disc 4 |   Evolution & data  |  |  HW-3 due  |
 | **9/29** | **(T)** | ***EXAM 1*** |  |  |    |
 |   |   |   |   |   |   |
 |   |   |   |   |   |   |
-| **10/1** | **(R-L10)** | Behavior 1 | Optimal foraging theory, marginal value theorem | Bowman Ch. 8 |    |
-|    **10/2**     | **(F-D5)** | Disc 5 |  Foraging  | Sinervo et al. |     |
-| **10/6** | **(T-L11)** | Behavior 2 | Evolutionary Game Theory 1 | Easley & Kleinberg |    |
-| **10/8** | **(R-L12)** | Behavior 3 | Evolutionary Game Theory 2 |  |    |
+| **10/1** | **(R-L10)** | Life history | Life history diversity and tradeoffs | Bowman Ch. 7 |    |
+|    **10/2**     | **(F-D5)** | Disc 5 |  Life history analysis  |   |     |
+| **10/6** | **(T-L11)** | Behavior | Behavioral ecology | Bowman Ch. 7 |    |
+| **10/8** | **(R-L12)** | Games | Evolutionary Game Theory | Easley & Kleinberg |    |
 |     **10/9**    | **(F-D6)** | Disc 6 |  Evolutionary Games  |  |  HW-4 due  |
 | **10/13** | **(T-L13)** | Populations 1 | Density dependence and population dynamics | Bowman Ch. 10 |    |
 | **10/15** | **(R-L14)** | Populations 2 | Logistic Growth & Discrete dynamics  |    |    |
