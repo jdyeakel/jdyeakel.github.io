@@ -33,7 +33,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 ## Discussion Sections
 1. [Section 1 (Friday, September 4)]({{ site.url }}/teaching/ecology/section1/)  
 2. [Section 2 (Friday, September 11)]({{ site.url }}/teaching/ecology/section2/)  
-3. [Section 2 (Friday, September 11)]({{ site.url }}/teaching/ecology/section2/)  
+3. [Section 3 (Friday, September 18)]({{ site.url }}/teaching/ecology/section2/)  
 
 ## Lecture Material
 1. [Lectures 1 & 2]({{ site.url }}/teaching/ecology/Lect1_2_BIO148.pdf)  
