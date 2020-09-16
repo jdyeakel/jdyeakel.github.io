@@ -57,6 +57,11 @@ This is a figure created by Max Kleiber, a physiologist who, in the 1930s, disco
 > 
 > First, notice that because $$ B $$ is just a number, $$ \log(B) $$ is just a number. Second, this logged equation is in the standard format of a line... recall the familiar $$ y = ax+b $$ from algebra days. So when we view a *straight line* in *log-log* space of the above equation, unless the slope $$ A = 1 $$, we know it is a curved line in linear spacing.
 
+<figure>
+<img src="{{ site.url }}/images/ecology/logplot.jpg" width="1000">
+<figcaption>On the left is the \( y = M^1 \) (purple) and \( y = M^{2/3} \) (blue) line in linear space. Note that \( y = M^1 \) is a straight line with a 1:1 slope, whereas \( y = M^{2/3} \) is slightly curved, or nonlinear. On the right are the same lines, but in log-log space. Here, the same relationships are displayed as straight lines, as expected from the above equations. An alternative to the plot on the right is to log the relationship first, and plot it in linear space.If we did this, we would need to label the axes Log(M) and Log(y)</figcaption>
+</figure>
+
 Now let's play with some data of our own... Below we will experiment with plotting 
 
 
@@ -80,9 +85,8 @@ Now let's play with some data of our own... Below we will experiment with plotti
 <iframe width='100%' height='500' src='https://rdrr.io/snippets/embed/?code=%23Paste%20text%20here' frameborder='0'></iframe>
 
 > ### Discussion
-> 1. What is the difference between these two figures?
-> 2. What do they tell us?
-> 3. If we assume that the data follow $$ B = a M^b $$ where B is metabolic rate and M is mass (as is often standard), do you think that $$ b = 1 $$? How can you tell from looking at the plots?
+> 1. What is the difference between these two figures? Relate the linear-spacing and log-spacing plots to the figure above. Do you see how the points in linear-spacing are slightly curved and that the points in log-space follow a straight line?
+> 2. If we assume that the data follow $$ B = a M^b $$ where B is metabolic rate and M is mass (as is often standard), do you think that $$ b = 1 $$? How can you tell from looking at the linear- and log-spaced plots?
 
 ## Origins of metabolic scaling
 
@@ -158,7 +162,7 @@ First, let's think about why it might be beneficial for an organism's metabolism
 
 <div>
 <p style="float: left;padding-right:10px"><img src="/images/ecology/fractalbranching.jpg" width="400"></p>
-<b>Fractal Branching</b> Life has found a way to <i>cheat</i> the limitations of 3-Dimensions, which is mind-blowing. On the right you can see a depiction of branching alveoli, which function to distribute gases between the air we inhale/exhale to/from blood vessels within the lungs. Our body is filled with these distribution channels - from alveoli to blood capillaries - that are organized in fractal branching patterns. The argument we made for the 2/3 scaling is based on the dissipation of heat from a 3-D volume to a 2-D surface. <b><i>The reasoning behind a 3/4 scaling is that the primary limitation is the DISTRIBUTION of materials (nutrients, gasses, waste) throughout our bodies, all of which is facilitated by distribution channels that exhibit fractal branching geometries.</i></b> Strangely, these fractal shapes have a dimensionality closer to 4-Dimensions rather than 3-Dimensions 🤯. The mechanisms themselves are complex, and involve advanced mathematical and physical reasoning. If you dig that kind of thing, check out <a href="https://science.sciencemag.org/content/sci/276/5309/122.full.pdf">this paper</a>. The following video does a nice job discussing this near-4-Dimensional geometry, so check it out before or after section. <b>(Note: the paper is optional but you are expected to watch the video!)</b>
+<b>Fractal Branching</b> Life has found a way to <i>cheat</i> the limitations of 3-Dimensions, which is mind-blowing. On the left you can see a depiction of branching alveoli, which function to distribute gases between the air we inhale/exhale to/from blood vessels within the lungs. Our body is filled with these distribution channels - from alveoli to blood capillaries - that are organized in fractal branching patterns. The argument we made for the 2/3 scaling is based on the dissipation of heat from a 3-D volume to a 2-D surface. <b><i>The reasoning behind a 3/4 scaling is that the primary limitation is the DISTRIBUTION of materials (nutrients, gasses, waste) throughout our bodies, all of which is facilitated by distribution channels that exhibit fractal branching geometries.</i></b> Strangely, these fractal shapes have a dimensionality closer to 4-Dimensions rather than 3-Dimensions 🤯. The mechanisms themselves are complex, and involve advanced mathematical and physical reasoning. If you dig that kind of thing, check out <a href="https://science.sciencemag.org/content/sci/276/5309/122.full.pdf">this paper</a>. The following video does a nice job discussing this near-4-Dimensional geometry, so check it out before or after section. <b>(Note: the paper is optional but you are expected to watch the video!)</b>
   <BR> <BR> <BR> <BR>     
 </div>     
 
@@ -200,7 +204,7 @@ For now, let's look at that plot again, but by fitting a 3/4 power law line in a
 
 
 > ## Discussion
-> 1. How does *cheating* the 3-D limitations of nature benefit organisms?  
+> 1. How does *cheating* the 3-D limitations of nature benefit organisms? In other words, what are the consequences of having a 3/4 scaling law rather than a 2/3 scaling law?    
 > 2. What other natural things (living or nonliving) exhibit fractal branching patterns?
 
 

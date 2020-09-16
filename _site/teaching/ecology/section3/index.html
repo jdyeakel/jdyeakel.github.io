@@ -199,6 +199,11 @@ Y = B X^A
   <p>First, notice that because \(B\) is just a number, \(\log(B)\) is just a number. Second, this logged equation is in the standard format of a line… recall the familiar \(y = ax+b\) from algebra days. So when we view a <em>straight line</em> in <em>log-log</em> space of the above equation, unless the slope \(A = 1\), we know it is a curved line in linear spacing.</p>
 </blockquote>
 
+<figure>
+<img src="http://localhost:4000/images/ecology/logplot.jpg" width="1000" />
+<figcaption>On the left is the \( y = M^1 \) (purple) and \( y = M^{2/3} \) (blue) line in linear space. Note that \( y = M^1 \) is a straight line with a 1:1 slope, whereas \( y = M^{2/3} \) is slightly curved, or nonlinear. On the right are the same lines, but in log-log space. Here, the same relationships are displayed as straight lines, as expected from the above equations. An alternative to the plot on the right is to log the relationship first, and plot it in linear space.If we did this, we would need to label the axes Log(M) and Log(y)</figcaption>
+</figure>
+
 <p>Now let’s play with some data of our own… Below we will experiment with plotting</p>
 
 <div class="language-R highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="w">    </span><span class="c1"># Species names</span><span class="w">
@@ -222,9 +227,8 @@ Y = B X^A
 <blockquote>
   <h3 id="discussion-1">Discussion</h3>
   <ol>
-    <li>What is the difference between these two figures?</li>
-    <li>What do they tell us?</li>
-    <li>If we assume that the data follow \(B = a M^b\) where B is metabolic rate and M is mass (as is often standard), do you think that \(b = 1\)? How can you tell from looking at the plots?</li>
+    <li>What is the difference between these two figures? Relate the linear-spacing and log-spacing plots to the figure above. Do you see how the points in linear-spacing are slightly curved and that the points in log-space follow a straight line?</li>
+    <li>If we assume that the data follow \(B = a M^b\) where B is metabolic rate and M is mass (as is often standard), do you think that \(b = 1\)? How can you tell from looking at the linear- and log-spaced plots?</li>
   </ol>
 </blockquote>
 
@@ -240,22 +244,22 @@ where \(\propto\) means ‘in proportion to’. This way, we don’t have to wri
 <p>The HEAT produced by metabolism is produced in proportion to an organism’s volume (because the number of cells is in proportion to volume and each cell produces heat). However the heat must be DISSIPATED across the organism’s surface area. So the energy produced by metabolism \(B\) might be hypothesized to be scaled with volume \(V\)</p>
 
 \[\begin{align}
-B_{\rm hypothesis} &amp;\propto V,~{\rm or} \\
-B_{\rm hypothesis} &amp;\propto M
+B_{\rm geometry} &amp;\propto V,~{\rm or} \\
+B_{\rm geometry} &amp;\propto M
 \end{align}\]
 
-<p><strong><em>BUT</em></strong> we know this wouldn’t work because the organism wouldn’t be able to dissipate metabolic energy as heat, which would cause it to messily explode.</p>
+<p><strong><em>BUT</em></strong> we know this wouldn’t work because the organism wouldn’t be able to dissipate metabolic energy as heat, which would cause it to messily explode. We are using the label \(B_{\rm geometry}\) to note the fact that we are building a relationship for \(B\) (metabolic rate) based on geometric arguments.</p>
 
-<p>So we could then conclude that \(B_{\rm hypothesis}\) must be <strong><em>tuned down</em></strong> so that it can be dissipated as heat. How much should it be tuned down? We can make a geometric argument for this… if the energy produced from metabolism is cubed, but it needs to be dissipated across the organism’s surface area, we need to tune the cubic relationship down to a squared relationship… so because we can write</p>
+<p>So \(B_{\rm geometry}\) must be <strong><em>tuned down</em></strong> so that the energy produced by the organism’s volume can be dissipated as heat across its surface. How much should it be tuned down? We can make a geometric argument for this… if the energy produced from metabolism is cubed (as is the volume), but it needs to be dissipated across the organism’s surface area, we need to tune the cubic relationship down to a squared relationship. So we need to change the exponent 3 to an exponent 2. We can do this by including an exponential term of 2/3, which converts a volumetric measure to an area measure.</p>
 
 \[\begin{equation}
-SA \propto V^{2/3} \propto (r^3)^{2/3}
+SA \propto V^{2/3} \propto (r^3)^{2/3} \propto r^2. 
 \end{equation}\]
 
-<p><strong><em>SO</em></strong></p>
+<p>Now an individual’s body mass \(M\) is a volumetric measure. So we can suppose that metabolic rate \(B_{\rm geometry}\) should be proportional to mass tuned down by an exponent of 2/3, or</p>
 
 \[\begin{equation}
-B_{\rm hypothesis} \propto M^{2/3}
+B_{\rm geometry} \propto M^{2/3}
 \end{equation}\]
 
 <p>where the 2/3 exponent is how much we need to tune down the metabolic rate so that the organism avoids overheating and grossly exploding. <strong><em>That the heat produced by our volume needs to be tuned down in such a way that it can be gotten rid of across our surface area is a necessary limitation of being a 3-Dimensional organism.</em></strong></p>
@@ -298,7 +302,7 @@ B_{\rm hypothesis} \propto M^{2/3}
 
 <div>
 <p style="float: left;padding-right:10px"><img src="/images/ecology/fractalbranching.jpg" width="400" /></p>
-<b>Fractal Branching</b> Life has found a way to <i>cheat</i> the limitations of 3-Dimensions, which is mind-blowing. On the right you can see a depiction of branching alveoli, which function to distribute gases between the air we inhale/exhale to/from blood vessels within the lungs. Our body is filled with these distribution channels - from alveoli to blood capillaries - that are organized in fractal branching patterns. The argument we made for the 2/3 scaling is based on the dissipation of heat from a 3-D volume to a 2-D surface. <b><i>The reasoning behind a 3/4 scaling is that the primary limitation is the DISTRIBUTION of materials (nutrients, gasses, waste) throughout our bodies, all of which is facilitated by distribution channels that exhibit fractal branching geometries.</i></b> Strangely, these fractal shapes have a dimensionality closer to 4-Dimensions rather than 3-Dimensions 🤯. The mechanisms themselves are complex, and involve advanced mathematical and physical reasoning. If you dig that kind of thing, check out <a href="https://science.sciencemag.org/content/sci/276/5309/122.full.pdf">this paper</a>. The following video does a nice job discussing this near-4-Dimensional geometry, so check it out before or after section. <b>(Note: the paper is optional but you are expected to watch the video!)</b>
+<b>Fractal Branching</b> Life has found a way to <i>cheat</i> the limitations of 3-Dimensions, which is mind-blowing. On the left you can see a depiction of branching alveoli, which function to distribute gases between the air we inhale/exhale to/from blood vessels within the lungs. Our body is filled with these distribution channels - from alveoli to blood capillaries - that are organized in fractal branching patterns. The argument we made for the 2/3 scaling is based on the dissipation of heat from a 3-D volume to a 2-D surface. <b><i>The reasoning behind a 3/4 scaling is that the primary limitation is the DISTRIBUTION of materials (nutrients, gasses, waste) throughout our bodies, all of which is facilitated by distribution channels that exhibit fractal branching geometries.</i></b> Strangely, these fractal shapes have a dimensionality closer to 4-Dimensions rather than 3-Dimensions 🤯. The mechanisms themselves are complex, and involve advanced mathematical and physical reasoning. If you dig that kind of thing, check out <a href="https://science.sciencemag.org/content/sci/276/5309/122.full.pdf">this paper</a>. The following video does a nice job discussing this near-4-Dimensional geometry, so check it out before or after section. <b>(Note: the paper is optional but you are expected to watch the video!)</b>
   <br /> <br /> <br /> <br />     
 </div>
 
@@ -337,7 +341,7 @@ B_{\rm hypothesis} \propto M^{2/3}
 <blockquote>
   <h2 id="discussion-3">Discussion</h2>
   <ol>
-    <li>How does <em>cheating</em> the 3-D limitations of nature benefit organisms?</li>
+    <li>How does <em>cheating</em> the 3-D limitations of nature benefit organisms? In other words, what are the consequences of having a 3/4 scaling law rather than a 2/3 scaling law?</li>
     <li>What other natural things (living or nonliving) exhibit fractal branching patterns?</li>
   </ol>
 </blockquote>
@@ -395,7 +399,7 @@ B_{\rm hypothesis} \propto M^{2/3}
 {\rm Energy~in~population} = B*N
 \end{equation}\]
 
-<p>where \(N\) is population density. To clarify, this isn’t the energy produced for the entire population… it’s the energy produced for a given population within a particular area. Denser populations mean that there are more individuals in that area, sparser populations mean that there are fewer individuals in that area. See the above plot to observe how these population densities change with species body size.</p>
+<p>where \(N\) is the number of individuals of that species within a given area, or the species’ population density. To clarify, this isn’t the energy produced for the entire population… it’s the energy produced for a given population within a particular area. Denser populations mean that there are more individuals in that area, sparser populations mean that there are fewer individuals in that area. See the above plot to observe how these population densities change with species body size.</p>
 
 <p>Now let’s calculate the amount of energy used within a given area for populations of mammalian species as a function of body mass!</p>
 
