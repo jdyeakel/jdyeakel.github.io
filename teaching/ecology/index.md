@@ -31,8 +31,9 @@ Welcome to the course website for ***Fundamentals of Ecology***. Of course, this
 Please use the Inbox application in the CatCourses (Canvas) website to contact either of us. *There is no guarantee of response if personal emails are used.*
 
 ## Discussion Sections
-1. [Section 1 (Friday, September 4)]({{ site.url }}/teaching/ecology/section1/)
-1. [Section 2 (Friday, September 11)]({{ site.url }}/teaching/ecology/section2/)  
+1. [Section 1 (Friday, September 4)]({{ site.url }}/teaching/ecology/section1/)  
+2. [Section 2 (Friday, September 11)]({{ site.url }}/teaching/ecology/section2/)  
+3. [Section 2 (Friday, September 11)]({{ site.url }}/teaching/ecology/section2/)  
 
 ## Lecture Material
 1. [Lectures 1 & 2]({{ site.url }}/teaching/ecology/Lect1_2_BIO148.pdf)  
