@@ -32,7 +32,11 @@ Now that we have a sense of what metabolism is, and that it has a direct impact 
 
 Now let's look at one of the most famous biological relationships... the depiction of metabolic rate, measured as heat produced per day in kilocalories, as a function of species' body mass (kg), known as the **Kleiber Law**
 
+<figure>
 <img src="{{ site.url }}/images/ecology/metabolicrate_bodysize.jpg">
+<figcaption> The Kleiber Curve, showing (in log-log space) the relationship between metabolic rate and body mass.
+</figcaption>
+</figure>
 <br>
 
 This is a figure created by Max Kleiber, a physiologist who, in the 1930s, discovered that metabolic rate scales in a very particular way with organismal body size. First, notice that the scales of the x- and y-axis are log-scaled... meaning that each successive quadrant (moving along the x- or y-axis) is 10x the size of the previous quadrant. Perhaps unsurprisingly, we observe that an elephant or whale generates more heat per day than a mouse or guineapig. With this log-spacing, the metabolic rate of species is linearly scaled with body mass.
@@ -94,7 +98,11 @@ Now let's play with some data of our own... Below we will experiment with plotti
 
 <br>
 <br>
+<figure>
 <img src="{{ site.url }}/images/ecology/radius.jpg" width="1000">
+<figcaption> Left: a spherical animal with radius \( r \). Right: a sperical animal with radius \( 2r \) .
+</figcaption>
+</figure>
 where $$ \propto $$ means 'in proportion to'. This way, we don't have to write the full equation for the surface area of a sphere, which is $$ SA = 4\pi r^2 $$, as the $$ 4 \pi $$ is a constant and the bit we care about is that SA is in proportion to $$ r^2 $$.
 
 The HEAT produced by metabolism is produced in proportion to an organism's volume (because the number of cells is in proportion to volume and each cell produces heat). However the heat must be DISSIPATED across the organism's surface area. So the energy produced by metabolism $$ B $$ might be hypothesized to be scaled with volume $$ V $$
