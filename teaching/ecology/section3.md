@@ -56,11 +56,11 @@ This is a figure created by Max Kleiber, a physiologist who, in the 1930s, disco
 > $$
 > 
 > First, notice that because $$ B $$ is just a number, $$ \log(B) $$ is just a number. Second, this logged equation is in the standard format of a line... recall the familiar $$ y = ax+b $$ from algebra days. So when we view a *straight line* in *log-log* space of the above equation, unless the slope $$ A = 1 $$, we know it is a curved line in linear spacing.
-
-<figure>
-<img src="{{ site.url }}/images/ecology/logplot.jpg" width="1000">
-<figcaption>On the left is the \( y = M^1 \) (purple) and \( y = M^{2/3} \) (blue) line in linear space. Note that \( y = M^1 \) is a straight line with a 1:1 slope, whereas \( y = M^{2/3} \) is slightly curved, or nonlinear. On the right are the same lines, but in log-log space. Here, the same relationships are displayed as straight lines, as expected from the above equations. An alternative to the plot on the right is to log the relationship first, and plot it in linear space.If we did this, we would need to label the axes Log(M) and Log(y)</figcaption>
-</figure>
+>
+> <figure>
+> <img src="{{ site.url }}/images/ecology/logplot.jpg" width="1000">
+> <figcaption>On the left is the \( y = M^1 \) (purple) and \( y = M^{2/3} \) (blue) line in linear space. Note that \( y = M^1 \) is a straight line with a 1:1 slope, whereas \( y = M^{2/3} \) is slightly curved, or nonlinear. On the right are the same lines, but in log-log space. Here, the same relationships are displayed as straight lines, as expected from the above equations. An alternative to the plot on the right is to log the relationship first, and plot it in linear space.If we did this, we would need to label the axes Log(M) and Log(y)</figcaption>
+> </figure>
 
 Now let's play with some data of our own... Below we will experiment with plotting 
 
