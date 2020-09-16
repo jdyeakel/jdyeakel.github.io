@@ -43,19 +43,19 @@ This is a figure created by Max Kleiber, a physiologist who, in the 1930s, disco
 > 
 > $$
 > \begin{equation}
-> Y = B X^A
+> y = a M^b
 > \end{equation}
 > $$
 > 
-> Now, this is a curve if $$ A \neq 1 $$. However if we take the log of both sides of this equation, we get
+> Now, this is a curve if $$ b \neq 1 $$. However if we take the log of both sides of this equation, we get
 > 
 > $$
 > \begin{equation}
-> \log(Y) = \log(B) + A\log(X).
+> \log(y) = \log(a) + b\log(M).
 > \end{equation}
 > $$
 > 
-> First, notice that because $$ B $$ is just a number, $$ \log(B) $$ is just a number. Second, this logged equation is in the standard format of a line... recall the familiar $$ y = ax+b $$ from algebra days. So when we view a *straight line* in *log-log* space of the above equation, unless the slope $$ A = 1 $$, we know it is a curved line in linear spacing.
+> First, notice that because $$ a $$ is just a number, $$ \log(a) $$ is just a number. Second, this logged equation is in the standard format of a line, with a y-intercept and slope. So when we view a *straight line* in *log-log* space of the above equation, unless the slope $$ b = 1 $$, we know it is a curved line in linear spacing.
 >
 > <figure>
 > <img src="{{ site.url }}/images/ecology/logplot.jpg" width="1000">
