@@ -47,7 +47,7 @@ tr:nth-child(odd) {background: #FFF}
 |     **9/11**    | **(F-D2)** | Disc 2 |  [Temperature as an ecological constraint]({{ site.url }}/teaching/ecology/section2/)    | [Gunderson & Leal 2015]({{ site.url }}/teaching/ecology/papers/Gunderson.pdf){:target="_blank"} |     |
 | **9/15** | **(T-L6)** | Energy 2 | Variation in energy | Bowman Ch. 5 |  HW-1 due  |
 | **9/17** | **(R-L7)** | Allometry | Allometry & Macroecology | [West & Brown]({{ site.url }}/teaching/ecology/papers/West_Brown_2004.pdf){:target="_blank"} |    |
-|     **9/18**    | **(F-D3)** | Disc 3 |  [Macroecology]()  |    |     |
+|     **9/18**    | **(F-D3)** | Disc 3 |  [Macroecology]({{ site.url }}/teaching/ecology/section3/)  |    |     |
 | **9/22** | **(T-L8)** | Evolution 1 | Ecology as the driver of natural selection | Bowman Ch. 6 |  HW-2 due  |
 | **9/24** | **(R-L9)** | Evolution 2 |  |  |    |
 |    **9/25**     | **(F-D4)** | Disc 4 |   Evolution & data  |  |  HW-3 due  |
