@@ -40,6 +40,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 2. [Lectures 3]({{ site.url }}/teaching/ecology/Lect3_BIO148.pdf)
 2. [Lectures 4]({{ site.url }}/teaching/ecology/Lect_4_BIO148.pdf)
 2. [Lectures 5]({{ site.url }}/teaching/ecology/Lect_5_BIO148.pdf)
+2. [Lectures 6]({{ site.url }}/teaching/ecology/Lect_6_BIO148.pdf)
 
 
 <!---
