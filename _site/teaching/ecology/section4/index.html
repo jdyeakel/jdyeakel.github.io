@@ -149,9 +149,130 @@
       <p><a href="http://localhost:4000/teaching/ecology">&lt; Back to Course Page</a><br />
 <br /></p>
 
+<p>Natural selection is the process by which different traits exhibited by individuals within a population are selected <em>for</em> or <em>against</em> over time. Traits that benefit the individual’s fitness are selected for, and traits that reduce the individual’s fitness are selected against. <strong><em>Fitness is defined by an individual’s ability to survive and reproduce.</em></strong> Individuals with traits that either benefit its ability to survive or produce viable offspring have greater fitness compared to those with lesser abilities within a given environment. Over generational timescales, it is the individuals with these <em>fitness-maximizing</em> traits that become more plentiful in the population. Evolution is defined by the change in trait distributions over this generational time-span. Importantly, natural selection is something that occurs at the <em>individual-level</em>; because evolution is defined with respect to changing trait distributions, it is something that occurs at the <em>population-level</em>.</p>
+
+<blockquote>
+  <h3 id="evolution-of-a-particular-trait-within-a-population-requires">Evolution of a particular trait within a population requires</h3>
+  <ol>
+    <li>Heritability (the trait is passed from parents to offspring)</li>
+    <li>Variability in the population (different individuals have different trait values)</li>
+    <li>That different trait values are linked to fitness differences</li>
+  </ol>
+</blockquote>
+
+<p>A <em>trait</em> can be any measurable characteristic of an individual… from anatomical or physiological characteristics such as body size or femur:tibia length ratios to the frequency of a particular behavior such as a mating vocalization. If the trait fulfills the above conditions, it is subject to selection and can evolve over time.</p>
+
 <h2 id="trait-distributions">Trait Distributions</h2>
 
+<p>If the trait is measured as a continuous variable (say height, length, or mass), it is often normally distributed within a population. That is, the frequencies of different trait values among individuals in the population follows a normal (or Gaussian) distribution. These types of distributions can be described by two statistics: the mean and the standard deviation.</p>
+
+<figure>
+<img src="http://localhost:4000/images/ecology/dist.jpg" width="700" />
+<figcaption> Frequency distribution of traits among indidviduals in a population. The **mean** is a statistic that describes the *central tendancy* of the distribution. The **standard deviation** is a statistic that describes the amount of variability of traits about the mean. Recall that it is this variability that fuels the selective process. Without variability there is nothing to select from.
+</figcaption>
+</figure>
+
+<p>Let’s look at one of the most famous examples of natural selection that we have observed in the wild, which was documented within a population of finches on a small island in the Galapagos Archipelago.</p>
+
+<figure>
+<img src="http://localhost:4000/images/ecology/galapagos.jpg" width="700" />
+<figcaption> The Galapagos islands, off the coast of Equador.
+</figcaption>
+</figure>
+
+<figure>
+<img src="http://localhost:4000/images/ecology/daphne.jpg" width="700" />
+<figcaption> Daphne Major is a barren and nearly treeless landscape.
+</figcaption>
+</figure>
+
+<blockquote>
+  <p><strong><em>In the 1970s-80s, biologists Peter and Rosemary Grant caught and measured birds from more than 20 generations of finches on the Galapagos island of Daphne Major. In one of those years, 1977, a severe drought caused vegetation to wither, and the only remaining food source were large, tough, drought-resistant seeds, which the finches ordinarily ignored. Were the birds with larger and stronger beaks for opening these tough seeds more likely to survive that year, and did they tend to pass this characteristic to their offspring? The data are beak depths (height of the beak at its base) of 751 finches caught the year before the drought (1976) and 89 finches captured the year after the drought (1978). -Statistical Sleuth (3rd edition)</em></strong></p>
+</blockquote>
+
+<p>Let’s now look at the beak width data collected by Rosemary and Peter Grant on the 1976 and 1978 expedition. We will plot the frequencies of beak depth across individuals in population measured during 1976 and 1978. We will use the <code class="highlighter-rouge">hist()</code> function in <code class="highlighter-rouge">R</code>, which plots the frequency distribution. Because the number of individuals sampled in 1976 is very different (751 individuals in 1976 and 89 individuals in 1978), we have scaled the y-axis so that we are looking at the <em>proportion</em> of individuals with different trait values (this means the y-axis will range from \(0 \leftrightarrow 1\)).</p>
+
+<figure>
+<img src="http://localhost:4000/images/ecology/beakdepth.jpg" width="700" />
+<figcaption> Galapagos finch beak measurements from the Peter &amp; Rosemary Grant expedition.
+</figcaption>
+</figure>
+
+<div class="language-R highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="w">    </span><span class="c1"># We first import the Peter and Rosemary Grant data set</span><span class="w">
+    </span><span class="n">library</span><span class="p">(</span><span class="n">Sleuth3</span><span class="p">)</span><span class="w">
+
+    </span><span class="c1"># Define the years as a vector</span><span class="w">
+    </span><span class="n">year</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">ex0218</span><span class="o">$</span><span class="n">Year</span><span class="w">
+    </span><span class="c1"># Define the depth measures as a vector</span><span class="w">
+    </span><span class="n">depth</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">ex0218</span><span class="o">$</span><span class="n">Depth</span><span class="w">
+
+    </span><span class="c1"># Select those measures taken in 1976</span><span class="w">
+    </span><span class="n">depth_1976</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">depth</span><span class="p">[</span><span class="n">which</span><span class="p">(</span><span class="n">year</span><span class="o">==</span><span class="m">1976</span><span class="p">)]</span><span class="w">
+
+    </span><span class="c1"># Select those measures taken in 1978</span><span class="w">
+    </span><span class="n">depth_1978</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">depth</span><span class="p">[</span><span class="n">which</span><span class="p">(</span><span class="n">year</span><span class="o">==</span><span class="m">1978</span><span class="p">)]</span><span class="w">
+
+    </span><span class="c1"># Histogram of 1976 measures (Black)</span><span class="w">
+    </span><span class="n">hist</span><span class="p">(</span><span class="n">depth_1976</span><span class="p">,</span><span class="n">xlim</span><span class="o">=</span><span class="nf">c</span><span class="p">(</span><span class="m">5</span><span class="p">,</span><span class="m">15</span><span class="p">),</span><span class="n">probability</span><span class="o">=</span><span class="kc">TRUE</span><span class="p">,</span><span class="n">ylim</span><span class="o">=</span><span class="nf">c</span><span class="p">(</span><span class="m">0</span><span class="p">,</span><span class="m">1</span><span class="p">),</span><span class="n">breaks</span><span class="o">=</span><span class="m">20</span><span class="p">,</span><span class="n">col</span><span class="o">=</span><span class="s1">'black'</span><span class="p">,</span><span class="n">xlab</span><span class="o">=</span><span class="s1">'Beak depth'</span><span class="p">,</span><span class="n">main</span><span class="o">=</span><span class="s1">'Beak depth 1976-1978'</span><span class="p">,</span><span class="n">ylab</span><span class="o">=</span><span class="s1">'Proportion of individuals sampled'</span><span class="p">)</span><span class="w">
+
+    </span><span class="c1"># Add on top histogram of 1978 measures (Gray)</span><span class="w">
+    </span><span class="n">hist</span><span class="p">(</span><span class="n">depth_1978</span><span class="p">,</span><span class="n">add</span><span class="o">=</span><span class="kc">TRUE</span><span class="p">,</span><span class="n">probability</span><span class="o">=</span><span class="kc">TRUE</span><span class="p">,</span><span class="n">col</span><span class="o">=</span><span class="s1">'gray'</span><span class="p">,</span><span class="n">breaks</span><span class="o">=</span><span class="m">20</span><span class="p">)</span><span class="w">
+
+    </span><span class="c1"># Legend to remind us which years the colors represent</span><span class="w">
+    </span><span class="n">legend</span><span class="p">(</span><span class="m">6</span><span class="p">,</span><span class="m">0.8</span><span class="p">,</span><span class="nf">c</span><span class="p">(</span><span class="s1">'1976'</span><span class="p">,</span><span class="s1">'1978'</span><span class="p">),</span><span class="n">pch</span><span class="o">=</span><span class="m">15</span><span class="p">,</span><span class="n">col</span><span class="o">=</span><span class="nf">c</span><span class="p">(</span><span class="s1">'black'</span><span class="p">,</span><span class="s1">'gray'</span><span class="p">))</span><span class="w">
+
+</span></code></pre></div></div>
+
+<iframe width="100%" height="500" src="https://rdrr.io/snippets/embed/?code=%23Paste%20code%20here" frameborder="0"></iframe>
+
+<blockquote>
+  <h3 id="discussion">Discussion</h3>
+  <ol>
+    <li>Use the <code class="highlighter-rouge">mean()</code> and <code class="highlighter-rouge">sd()</code> functions to calculate the mean and standard deviation of depth measurements from 1976 (<code class="highlighter-rouge">depth_1976</code>) and 1978 (<code class="highlighter-rouge">depth_1978</code>). How does the mean and standard deviation change over time?</li>
+    <li>As mentioned above, there is a large difference in the number of individuals sampled from 1976 to 1978. Why? Can we say something about the traits of the individuals who <em>weren’t</em> sampled in 1978? In other words, which finches were selected against and why?</li>
+    <li>Was this selection event caused directly or indirectly by the drought?</li>
+  </ol>
+</blockquote>
+
 <h2 id="selection-over-time">Selection over time</h2>
+
+<div class="language-R highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="w">    </span><span class="n">N</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">10</span><span class="w">
+    </span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">rnorm</span><span class="p">(</span><span class="n">N</span><span class="p">,</span><span class="m">0.5</span><span class="p">,</span><span class="m">0.1</span><span class="p">)</span><span class="w">
+    </span><span class="n">tmax</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">20</span><span class="w">
+    </span><span class="n">popsize</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">numeric</span><span class="p">(</span><span class="n">tmax</span><span class="p">)</span><span class="w">
+    </span><span class="n">meantrait</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">numeric</span><span class="p">(</span><span class="n">tmax</span><span class="p">)</span><span class="w">
+    </span><span class="k">for</span><span class="w"> </span><span class="p">(</span><span class="n">t</span><span class="w"> </span><span class="k">in</span><span class="w"> </span><span class="m">1</span><span class="o">:</span><span class="n">tmax</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w">
+        </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">N</span><span class="w"> </span><span class="o">&lt;=</span><span class="w"> </span><span class="m">0</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w">
+            </span><span class="k">break</span><span class="p">()</span><span class="w">
+        </span><span class="p">}</span><span class="w">
+        </span><span class="c1"># Reproduction</span><span class="w">
+        </span><span class="c1"># Roll a weighted dice</span><span class="w">
+        </span><span class="c1"># larger values of trait x produce more offspring</span><span class="w">
+        </span><span class="n">offspring</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">round</span><span class="p">(</span><span class="n">runif</span><span class="p">(</span><span class="nf">length</span><span class="p">(</span><span class="n">x</span><span class="p">))</span><span class="o">*</span><span class="n">x</span><span class="o">*</span><span class="m">2</span><span class="p">,</span><span class="m">0</span><span class="p">)</span><span class="w">
+        
+        </span><span class="c1"># Assume that offspring have same trait as parents +/- some mutation</span><span class="w">
+        </span><span class="k">for</span><span class="w"> </span><span class="p">(</span><span class="n">i</span><span class="w"> </span><span class="k">in</span><span class="w"> </span><span class="m">1</span><span class="o">:</span><span class="nf">length</span><span class="p">(</span><span class="n">offspring</span><span class="p">))</span><span class="w"> </span><span class="p">{</span><span class="w">
+            </span><span class="n">newx</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">rnorm</span><span class="p">(</span><span class="n">offspring</span><span class="p">[</span><span class="n">i</span><span class="p">],</span><span class="n">x</span><span class="p">,</span><span class="m">0.01</span><span class="p">)</span><span class="w">
+            </span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="n">x</span><span class="p">,</span><span class="n">newx</span><span class="p">)</span><span class="w">
+        </span><span class="p">}</span><span class="w">
+        
+        </span><span class="c1"># Mortality</span><span class="w">
+        </span><span class="c1"># Roll a weighted dice</span><span class="w">
+        </span><span class="c1"># smaller values of trait x increase mortality</span><span class="w">
+        </span><span class="n">prob_mort</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">exp</span><span class="p">(</span><span class="o">-</span><span class="p">(</span><span class="m">2</span><span class="o">*</span><span class="n">x</span><span class="p">))</span><span class="w">
+        </span><span class="n">d</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">which</span><span class="p">(</span><span class="n">runif</span><span class="p">(</span><span class="nf">length</span><span class="p">(</span><span class="n">x</span><span class="p">),</span><span class="m">0</span><span class="p">,</span><span class="m">1</span><span class="p">)</span><span class="w"> </span><span class="o">&lt;</span><span class="w"> </span><span class="n">prob_mort</span><span class="p">)</span><span class="w">
+
+        </span><span class="c1"># Remove dead individual traits</span><span class="w">
+        </span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">x</span><span class="p">[</span><span class="o">-</span><span class="n">d</span><span class="p">]</span><span class="w">
+
+        </span><span class="c1"># How many are left?</span><span class="w">
+        </span><span class="n">N</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">length</span><span class="p">(</span><span class="n">x</span><span class="p">)</span><span class="w">
+        </span><span class="n">popsize</span><span class="p">[</span><span class="n">t</span><span class="p">]</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">N</span><span class="w">
+        </span><span class="n">meantrait</span><span class="p">[</span><span class="n">t</span><span class="p">]</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">mean</span><span class="p">(</span><span class="n">x</span><span class="p">)</span><span class="w">
+        </span><span class="n">print</span><span class="p">(</span><span class="n">t</span><span class="p">)</span><span class="w">
+    </span><span class="p">}</span><span class="w">
+    </span><span class="n">plot</span><span class="p">(</span><span class="n">meantrait</span><span class="p">,</span><span class="n">type</span><span class="o">=</span><span class="s1">'l'</span><span class="p">,</span><span class="n">lwd</span><span class="o">=</span><span class="m">2</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
 
 <h2 id="different-types-of-selection">Different types of selection</h2>
 <p>Directional, stabilizing, disruptive</p>

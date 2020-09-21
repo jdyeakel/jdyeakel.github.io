@@ -176,8 +176,12 @@
 
 <p>Now let’s look at one of the most famous biological relationships… the depiction of metabolic rate, measured as heat produced per day in kilocalories, as a function of species’ body mass (kg), known as the <strong>Kleiber Law</strong></p>
 
-<p><img src="http://localhost:4000/images/ecology/metabolicrate_bodysize.jpg" />
-<br /></p>
+<figure>
+<img src="http://localhost:4000/images/ecology/metabolicrate_bodysize.jpg" />
+<figcaption> The Kleiber Curve, showing (in log-log space) the relationship between metabolic rate and body mass.
+</figcaption>
+</figure>
+<p><br /></p>
 
 <p>This is a figure created by Max Kleiber, a physiologist who, in the 1930s, discovered that metabolic rate scales in a very particular way with organismal body size. First, notice that the scales of the x- and y-axis are log-scaled… meaning that each successive quadrant (moving along the x- or y-axis) is 10x the size of the previous quadrant. Perhaps unsurprisingly, we observe that an elephant or whale generates more heat per day than a mouse or guineapig. With this log-spacing, the metabolic rate of species is linearly scaled with body mass.</p>
 
@@ -187,22 +191,22 @@
 Let’s take the following curve:</p>
 
 \[\begin{equation}
-Y = B X^A
+y = a M^b
 \end{equation}\]
 
-  <p>Now, this is a curve if \(A \neq 1\). However if we take the log of both sides of this equation, we get</p>
+  <p>Now, this is a curve if \(b \neq 1\). However if we take the log of both sides of this equation, we get</p>
 
 \[\begin{equation}
-\log(Y) = \log(B) + A\log(X).
+\log(y) = \log(a) + b\log(M).
 \end{equation}\]
 
-  <p>First, notice that because \(B\) is just a number, \(\log(B)\) is just a number. Second, this logged equation is in the standard format of a line… recall the familiar \(y = ax+b\) from algebra days. So when we view a <em>straight line</em> in <em>log-log</em> space of the above equation, unless the slope \(A = 1\), we know it is a curved line in linear spacing.</p>
-</blockquote>
+  <p>First, notice that because \(a\) is just a number, \(\log(a)\) is just a number. Second, this logged equation is in the standard format of a line, with a y-intercept and slope. So when we view a <em>straight line</em> in <em>log-log</em> space of the above equation, unless the slope \(b = 1\), we know it is a curved line in linear spacing.</p>
 
-<figure>
+  <figure>
 <img src="http://localhost:4000/images/ecology/logplot.jpg" width="1000" />
 <figcaption>On the left is the \( y = M^1 \) (purple) and \( y = M^{2/3} \) (blue) line in linear space. Note that \( y = M^1 \) is a straight line with a 1:1 slope, whereas \( y = M^{2/3} \) is slightly curved, or nonlinear. On the right are the same lines, but in log-log space. Here, the same relationships are displayed as straight lines, as expected from the above equations. An alternative to the plot on the right is to log the relationship first, and plot it in linear space.If we did this, we would need to label the axes Log(M) and Log(y)</figcaption>
 </figure>
+</blockquote>
 
 <p>Now let’s play with some data of our own… Below we will experiment with plotting</p>
 
@@ -237,9 +241,13 @@ Y = B X^A
 <p><strong><em>Why</em></strong> would metabolic rate \(B\) be expected to scale with body mass \(M\), and what scaling would be expected? <strong>(Remember - when we are discussing types of scaling, we are really talking about the value of \(b\) in the equation for metabolic rate \(B = a M^b\). We know that when this is logged, it is the value of the slope of the relationship between metabolic rate \(B\) and body mass \(M\). The parameter \(a\) just determines the intercept, which in log-log space is \(log(a)\). A linear scaling is when \(b = 1\). A superlinear scaling is when \(b &gt; 1\), and a sublinear scaling is when \(b &lt; 1\))</strong>. Let’s see if we can build some intuition about what to expect. There are two things to keep in mind… if we imagine a spherical organism increasing in size, the surface area and volume of a sphere scale differently:</p>
 
 <p><br />
-<br />
+<br /></p>
+<figure>
 <img src="http://localhost:4000/images/ecology/radius.jpg" width="1000" />
-where \(\propto\) means ‘in proportion to’. This way, we don’t have to write the full equation for the surface area of a sphere, which is \(SA = 4\pi r^2\), as the \(4 \pi\) is a constant and the bit we care about is that SA is in proportion to \(r^2\).</p>
+<figcaption> Left: a spherical animal with radius \( r \). Right: a sperical animal with radius \( 2r \) .
+</figcaption>
+</figure>
+<p>where \(\propto\) means ‘in proportion to’. This way, we don’t have to write the full equation for the surface area of a sphere, which is \(SA = 4\pi r^2\), as the \(4 \pi\) is a constant and the bit we care about is that SA is in proportion to \(r^2\).</p>
 
 <p>The HEAT produced by metabolism is produced in proportion to an organism’s volume (because the number of cells is in proportion to volume and each cell produces heat). However the heat must be DISSIPATED across the organism’s surface area. So the energy produced by metabolism \(B\) might be hypothesized to be scaled with volume \(V\)</p>
 
@@ -436,7 +444,7 @@ B_{\rm geometry} \propto M^{2/3}
 
 <p><strong><em>What does this mean???</em></strong> Let’s break it down. First note that there is a lot of variability… in other words the data are quite scattered and not close to the best-fit line. What does the best-fit line say? Notice it is relatively FLAT. What is the slope of the line? Is it close to zero or far from zero?</p>
 
-<p>Aside from the scatter, which is important in its own right, the flatness of the line tells us that <strong><em>POPULATIONS ARE EXPECTED TO USE THE SAME AMOUNT OF ENERGY WITHIN A GIVEN AREA</em></strong>. Let’s zip over to East Africa where there is still a diverse mammalian community. We take out our map and outline a relatively large area to conduct our observations, and let’s imagine that we have an unlimited budget and fancy technology. Within our 25 square miles (wow!) of observation, we measure the energy used by every savanna mouse (there are quite a few in 25 square miles!)… we measure the energy used by every Thompson’s gazelle… we measure the energy used by every kudu, every wildebeest, every lion, and every elephant and giraffe that we find as well. From what we have calculated above, we find that <strong><em>THE AMOUNT OF ENERGY USED BY THESE SPECIES WITHIN OUR 5 SQUARE MILES OF OBSERVATION IS EXPECTED TO BE THE SAME</em></strong>. This is mind-boggling. This means that a population of field mice is the same as a population of elephants within a given area… this means that - from the perspective of raw energy - species are <strong><em>equivalent</em></strong>. This is known as the <strong><em>energy equivalence hypothesis</em></strong>. As we observe above, the theoretical support for this hypothesis is reasonable, but it has yet to be proven.
+<p>Aside from the scatter, which is important in its own right, the flatness of the line tells us that <strong><em>POPULATIONS ARE EXPECTED TO USE THE SAME AMOUNT OF ENERGY WITHIN A GIVEN AREA</em></strong>. Let’s zip over to East Africa where there is still a diverse mammalian community. We take out our map and outline a relatively large area to conduct our observations, and let’s imagine that we have an unlimited budget and fancy technology. Within our 25 square miles (wow!) of observation, we measure the energy used by every savanna mouse (there are quite a few in 25 square miles!)… we measure the energy used by every Thompson’s gazelle… we measure the energy used by every kudu, every wildebeest, every lion, and every elephant and giraffe that we find as well. From what we have calculated above, we find that <strong><em>THE AMOUNT OF ENERGY USED BY THESE SPECIES WITHIN OUR 25 SQUARE MILES OF OBSERVATION IS EXPECTED TO BE THE SAME</em></strong>. This is mind-boggling. This means that a population of field mice is the same as a population of elephants within a given area… this means that - from the perspective of raw energy - species are <em>equivalent</em>. This is known as the <strong><em>energy equivalence hypothesis</em></strong>. As we observe above, the theoretical support for this hypothesis is reasonable, but it has yet to be proven.
 <br /> <br /> <br />
 Good job at getting through this Section, you 4-Dimensional badass!</p>
 
