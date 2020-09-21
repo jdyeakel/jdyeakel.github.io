@@ -93,50 +93,74 @@ Let's now look at the beak width data collected by Rosemary and Peter Grant on t
 ## Selection over time
 
 ```R
-reps = 100
-for (r in 1:reps) {
-    N = 100
-    x = rnorm(N,0.5,0.1)
+    evolution.sim = function(reps,tmax,N0,sd0,mutation) {
+        for (r in 1:reps) {
+            # Population begins at N0 individuals
+            N = N0
+            # Draw random trait values for individuals from normal distribution
+            # With mean of 0.5 and standard deviation of 0.1
+            x = rnorm(N,0.5,sd0)
+            # Initialize vectors to save population and trait values
+            popsize = numeric(tmax)
+            meantrait = numeric(tmax)
+            tic = 0
+            t = 0
+        
+            while ((t < tmax) && (tic == 0)) {
+                # Advance time by 1
+                t = t + 1
+                # Reproduction
+                # Roll a weighted dice
+                # larger values of trait x produce more offspring
+                offspring = round(rnorm(length(x),x*2,0.01),0)
+                
+                # Assume that offspring have same trait as parents +/- some mutation
+                for (i in 1:length(offspring)) {
+                    newx = rnorm(offspring[i],x[i],mutation)
+                    x = c(x,newx)
+                }
+                
+                # Mortality
+                # Roll an unweighted dice
+                # All individuals have the same chance of dying
+                prob_mort = rep(0.6,length(x))
+                d = which(runif(length(x),0,1) < prob_mort)
+
+                # Remove dead individual traits
+                x = x[-d]
+
+                # How many are left?
+                N = length(x)
+                # Save this value to a vector
+                popsize[t] = N
+                # Save population mean trait value to vector
+                meantrait[t] = mean(x)
+                
+                # If population is extinct, stop
+                if (length(x) <= 0) {
+                    tic = 1
+                }
+            }
+            # Plot the results
+            if (r == 1) {
+                plot(meantrait,type='l',lwd=2,ylim=c(0,1),col='#00000050',xlab='Time',ylab='Mean trait value of population')
+            } else {
+                lines(meantrait,lwd=2,col='#00000050')
+            }
+        }
+    }
+    # SET PARAMETER VALUES
+    mutation = 0.0
+    reps = 100
     tmax = 20
-    popsize = numeric(tmax)
-    meantrait = numeric(tmax)
-    for (t in 1:tmax) {
-        if (N <= 0) {
-            break()
-        }
-        # Reproduction
-        # Roll a weighted dice
-        # larger values of trait x produce more offspring
-        offspring = round(runif(length(x))*x*5,0)
-        
-        # Assume that offspring have same trait as parents +/- some mutation
-        for (i in 1:length(offspring)) {
-            newx = rnorm(offspring[i],x/5,0.1)
-            x = c(x,newx)
-        }
-        
-        # Mortality
-        # Roll a weighted dice
-        # smaller values of trait x increase mortality
-        prob_mort = rep(0.2,length(x)) #exp(-(2*x))
-        d = which(runif(length(x),0,1) < prob_mort)
-
-        # Remove dead individual traits
-        x = x[-d]
-
-        # How many are left?
-        N = length(x)
-        popsize[t] = N
-        meantrait[t] = mean(x)
-        # print(t)
-    }
-    if (r == 1) {
-        plot(meantrait,type='l',lwd=2,ylim=c(0,1),col='#00000050')
-    } else {
-        lines(meantrait,lwd=2,col='#00000050')
-    }
-}
+    N0 = 100
+    sd0 = 0.01
+    # RUN EVOLUTION SIMULATION
+    evolution.sim(reps,tmax,N0,sd0,mutation)
 ```
+
+We observe
+1. variation determines the SPEED OF SELECTION
 
 
 

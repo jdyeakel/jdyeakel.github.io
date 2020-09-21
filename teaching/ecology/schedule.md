@@ -50,13 +50,13 @@ tr:nth-child(odd) {background: #FFF}
 |     **9/18**    | **(F-D3)** | Disc 3 |  [Macroecology]({{ site.url }}/teaching/ecology/section3/)  |    |     |
 | **9/22** | **(T-L8)** | Evolution 1 | Ecology as the driver of natural selection | Bowman Ch. 6 |  HW-2 due  |
 | **9/24** | **(R-L9)** | Evolution 2 |  |  |    |
-|    **9/25**     | **(F-D4)** | Disc 4 |   Evolution & data  |  |  HW-3 due  |
+|    **9/25**     | **(F-D4)** | Disc 4 |   [Evolution & natural selection]()  |  |    |
 | **9/29** | **(T)** | ***EXAM 1*** |  |  |    |
 |   |   |   |   |   |   |
 |   |   |   |   |   |   |
 | **10/1** | **(R-L10)** | Life history | Life history diversity and tradeoffs | Bowman Ch. 7 |    |
 |    **10/2**     | **(F-D5)** | Disc 5 |  Life history analysis  |   |     |
-| **10/6** | **(T-L11)** | Behavior | Behavioral ecology | Bowman Ch. 7 |    |
+| **10/6** | **(T-L11)** | Behavior | Behavioral ecology | Bowman Ch. 7 |  HW-3 due  |
 | **10/8** | **(R-L12)** | Games | Evolutionary Game Theory | Easley & Kleinberg |    |
 |     **10/9**    | **(F-D6)** | Disc 6 |  Evolutionary Games  |  |  HW-4 due  |
 | **10/13** | **(T-L13)** | Populations 1 | Density dependence and population dynamics | Bowman Ch. 10 |    |
