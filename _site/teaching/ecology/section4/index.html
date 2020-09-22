@@ -236,43 +236,108 @@
 
 <h2 id="selection-over-time">Selection over time</h2>
 
-<div class="language-R highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="w">    </span><span class="n">N</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">10</span><span class="w">
-    </span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">rnorm</span><span class="p">(</span><span class="n">N</span><span class="p">,</span><span class="m">0.5</span><span class="p">,</span><span class="m">0.1</span><span class="p">)</span><span class="w">
-    </span><span class="n">tmax</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">20</span><span class="w">
-    </span><span class="n">popsize</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">numeric</span><span class="p">(</span><span class="n">tmax</span><span class="p">)</span><span class="w">
-    </span><span class="n">meantrait</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">numeric</span><span class="p">(</span><span class="n">tmax</span><span class="p">)</span><span class="w">
-    </span><span class="k">for</span><span class="w"> </span><span class="p">(</span><span class="n">t</span><span class="w"> </span><span class="k">in</span><span class="w"> </span><span class="m">1</span><span class="o">:</span><span class="n">tmax</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w">
-        </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">N</span><span class="w"> </span><span class="o">&lt;=</span><span class="w"> </span><span class="m">0</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w">
-            </span><span class="k">break</span><span class="p">()</span><span class="w">
-        </span><span class="p">}</span><span class="w">
-        </span><span class="c1"># Reproduction</span><span class="w">
-        </span><span class="c1"># Roll a weighted dice</span><span class="w">
-        </span><span class="c1"># larger values of trait x produce more offspring</span><span class="w">
-        </span><span class="n">offspring</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">round</span><span class="p">(</span><span class="n">runif</span><span class="p">(</span><span class="nf">length</span><span class="p">(</span><span class="n">x</span><span class="p">))</span><span class="o">*</span><span class="n">x</span><span class="o">*</span><span class="m">2</span><span class="p">,</span><span class="m">0</span><span class="p">)</span><span class="w">
-        
-        </span><span class="c1"># Assume that offspring have same trait as parents +/- some mutation</span><span class="w">
-        </span><span class="k">for</span><span class="w"> </span><span class="p">(</span><span class="n">i</span><span class="w"> </span><span class="k">in</span><span class="w"> </span><span class="m">1</span><span class="o">:</span><span class="nf">length</span><span class="p">(</span><span class="n">offspring</span><span class="p">))</span><span class="w"> </span><span class="p">{</span><span class="w">
-            </span><span class="n">newx</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">rnorm</span><span class="p">(</span><span class="n">offspring</span><span class="p">[</span><span class="n">i</span><span class="p">],</span><span class="n">x</span><span class="p">,</span><span class="m">0.01</span><span class="p">)</span><span class="w">
-            </span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="n">x</span><span class="p">,</span><span class="n">newx</span><span class="p">)</span><span class="w">
-        </span><span class="p">}</span><span class="w">
-        
-        </span><span class="c1"># Mortality</span><span class="w">
-        </span><span class="c1"># Roll a weighted dice</span><span class="w">
-        </span><span class="c1"># smaller values of trait x increase mortality</span><span class="w">
-        </span><span class="n">prob_mort</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">exp</span><span class="p">(</span><span class="o">-</span><span class="p">(</span><span class="m">2</span><span class="o">*</span><span class="n">x</span><span class="p">))</span><span class="w">
-        </span><span class="n">d</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">which</span><span class="p">(</span><span class="n">runif</span><span class="p">(</span><span class="nf">length</span><span class="p">(</span><span class="n">x</span><span class="p">),</span><span class="m">0</span><span class="p">,</span><span class="m">1</span><span class="p">)</span><span class="w"> </span><span class="o">&lt;</span><span class="w"> </span><span class="n">prob_mort</span><span class="p">)</span><span class="w">
+<p>Recall from above that evolution is defined by the change in trait frequencies over time. In the simplest framework, this would mean that the <em>mean</em> of the trait distribution for the population changes over time. In this next exercise, we will examine directly how the ingredients for natural selection that are listed above are absolutely vital for evolution to take place.</p>
 
-        </span><span class="c1"># Remove dead individual traits</span><span class="w">
-        </span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">x</span><span class="p">[</span><span class="o">-</span><span class="n">d</span><span class="p">]</span><span class="w">
+<p>Nature is complicated, and our goal now is to understand how these very particular ingredients for evolution by natural selection affect evolutionary dynamics. In order to explore these ideas, we need to strip away the complexity of the natural world to something very simple, which we call a <em>model</em>. We should think of this model as a <em>toy</em> representation of the natural world. We give this model characteristics that we hope are somewhat realistic and important to the problem that we are aiming to investigate, but without the complexities of reality to confuse our results.</p>
 
-        </span><span class="c1"># How many are left?</span><span class="w">
-        </span><span class="n">N</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">length</span><span class="p">(</span><span class="n">x</span><span class="p">)</span><span class="w">
-        </span><span class="n">popsize</span><span class="p">[</span><span class="n">t</span><span class="p">]</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">N</span><span class="w">
-        </span><span class="n">meantrait</span><span class="p">[</span><span class="n">t</span><span class="p">]</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">mean</span><span class="p">(</span><span class="n">x</span><span class="p">)</span><span class="w">
-        </span><span class="n">print</span><span class="p">(</span><span class="n">t</span><span class="p">)</span><span class="w">
+<p>So this is <em>not</em> a computer science class, and it isn’t important if you understand the details of the code below, but it <em>is</em> important that you understand what we call <strong><em>pseudocode</em></strong>. Pseudocode is what we call the collection of rules implemented by a block of code, which are generally described in the line-by-line comments.</p>
+
+<blockquote>
+  <p><strong><em>The Pseudocode: Here is what the simulation does</em></strong>:</p>
+  <ol>
+    <li>We imagine a population that starts with \(N_0 = 100\) individuals, each of which are given a trait value.</li>
+    <li>At the beginning we will randomly choose the trait value \(x\) from a normal distribution with an arbitrary mean of 0.5 and an initial standard deviation <code class="highlighter-rouge">sd0</code> that we input.</li>
+    <li>At <strong>each time-step</strong>, 2 things happen:
+      <ol>
+        <li>Each individual gives birth to some number of offspring. <strong><em>Individuals with higher trait values (values of \(x\)) have a slight reproductive advantage and give birth to more offspring.</em></strong> The offspring produced by an adult with a trait value \(x = m\) will have a similar trait value… we will draw the offspring’s trait from a normal distribution with a mean \(m\) and standard deviation \(v\), which we call the <code class="highlighter-rouge">mutation</code> value. This describes how different the offspring is likely to be from the parent… the larger <code class="highlighter-rouge">mutation</code> value, the more likely the offspring’s trait value will be different from the parent’s at \(x = m\).</li>
+        <li>Each individual has a probability of dying, regardless of its trait value.</li>
+      </ol>
+    </li>
+    <li>We encode these rules in the code below, and keep track of the <strong><em>mean trait value of the population</em></strong> over time. Sometimes too many individuals die and the simulation stops. In the plot this is shown as the mean trait value going to zero, which just means the population is now extinct.</li>
+    <li>Because there are so many random things that might happen in a single simulation of a population, we want to run the simulation many times. Each repetition is independent of the others. We will plot the mean trait values of <code class="highlighter-rouge">reps = 100</code> independently run simulations.</li>
+  </ol>
+</blockquote>
+
+<p>Now: read through the comments in the below code block, but don’t worry about the actual code itself (unless you dig that sort of thing). Copy the code block without editing anything, paste it into the R web-tool, and I’ll see you at the bottom.</p>
+
+<div class="language-R highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="w">    </span><span class="n">evolution.sim</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">function</span><span class="p">(</span><span class="n">reps</span><span class="p">,</span><span class="n">tmax</span><span class="p">,</span><span class="n">N0</span><span class="p">,</span><span class="n">sd0</span><span class="p">,</span><span class="n">mutation</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w">
+        </span><span class="k">for</span><span class="w"> </span><span class="p">(</span><span class="n">r</span><span class="w"> </span><span class="k">in</span><span class="w"> </span><span class="m">1</span><span class="o">:</span><span class="n">reps</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w">
+            </span><span class="c1"># Population begins at N0 individuals</span><span class="w">
+            </span><span class="n">N</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">N0</span><span class="w">
+            </span><span class="c1"># Draw random trait values for individuals from normal distribution</span><span class="w">
+            </span><span class="c1"># With mean of 0.5 and standard deviation given by parameter sd0</span><span class="w">
+            </span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">rnorm</span><span class="p">(</span><span class="n">N</span><span class="p">,</span><span class="m">0.5</span><span class="p">,</span><span class="n">sd0</span><span class="p">)</span><span class="w">
+            </span><span class="c1"># Initialize vectors to save population and trait values</span><span class="w">
+            </span><span class="n">popsize</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">numeric</span><span class="p">(</span><span class="n">tmax</span><span class="p">)</span><span class="w">
+            </span><span class="n">meantrait</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">numeric</span><span class="p">(</span><span class="n">tmax</span><span class="p">)</span><span class="w">
+            </span><span class="n">tic</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0</span><span class="w">
+            </span><span class="n">t</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0</span><span class="w">
+        
+            </span><span class="k">while</span><span class="w"> </span><span class="p">((</span><span class="n">t</span><span class="w"> </span><span class="o">&lt;=</span><span class="w"> </span><span class="n">tmax</span><span class="p">)</span><span class="w"> </span><span class="o">&amp;&amp;</span><span class="w"> </span><span class="p">(</span><span class="n">tic</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="m">0</span><span class="p">))</span><span class="w"> </span><span class="p">{</span><span class="w">
+                </span><span class="c1"># Advance time by 1</span><span class="w">
+                </span><span class="n">t</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">t</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="m">1</span><span class="w">
+                </span><span class="c1"># Reproduction</span><span class="w">
+                </span><span class="c1"># Roll a weighted dice</span><span class="w">
+                </span><span class="c1"># larger values of trait x produce more offspring</span><span class="w">
+                </span><span class="n">offspring</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">round</span><span class="p">(</span><span class="n">rnorm</span><span class="p">(</span><span class="nf">length</span><span class="p">(</span><span class="n">x</span><span class="p">),</span><span class="n">x</span><span class="o">*</span><span class="m">2</span><span class="p">,</span><span class="m">0.01</span><span class="p">),</span><span class="m">0</span><span class="p">)</span><span class="w">
+                
+                </span><span class="c1"># Assume that offspring have same trait as parents +/- some mutation</span><span class="w">
+                </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="nf">sum</span><span class="p">(</span><span class="n">offspring</span><span class="p">)</span><span class="w"> </span><span class="o">&gt;=</span><span class="w"> </span><span class="m">1</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w">
+                    </span><span class="k">for</span><span class="w"> </span><span class="p">(</span><span class="n">i</span><span class="w"> </span><span class="k">in</span><span class="w"> </span><span class="m">1</span><span class="o">:</span><span class="nf">length</span><span class="p">(</span><span class="n">offspring</span><span class="p">))</span><span class="w"> </span><span class="p">{</span><span class="w">
+                        </span><span class="n">newx</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">rnorm</span><span class="p">(</span><span class="n">offspring</span><span class="p">[</span><span class="n">i</span><span class="p">],</span><span class="n">x</span><span class="p">[</span><span class="n">i</span><span class="p">],</span><span class="n">mutation</span><span class="p">)</span><span class="w">
+                        </span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="n">x</span><span class="p">,</span><span class="n">newx</span><span class="p">)</span><span class="w">
+                    </span><span class="p">}</span><span class="w">
+                </span><span class="p">}</span><span class="w">
+
+                </span><span class="c1"># Mortality</span><span class="w">
+                </span><span class="c1"># Roll an unweighted dice</span><span class="w">
+                </span><span class="c1"># All individuals have the same chance of dying</span><span class="w">
+                </span><span class="c1"># The chance of dying increases with population size</span><span class="w">
+                </span><span class="n">prob_mort</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="p">(</span><span class="m">0.6</span><span class="o">*</span><span class="n">N</span><span class="p">)</span><span class="o">/</span><span class="n">N0</span><span class="w">
+                </span><span class="n">d</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">which</span><span class="p">(</span><span class="n">runif</span><span class="p">(</span><span class="nf">length</span><span class="p">(</span><span class="n">x</span><span class="p">),</span><span class="m">0</span><span class="p">,</span><span class="m">1</span><span class="p">)</span><span class="w"> </span><span class="o">&lt;</span><span class="w"> </span><span class="n">prob_mort</span><span class="p">)</span><span class="w">
+
+                </span><span class="c1"># Remove dead individual traits</span><span class="w">
+                </span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">x</span><span class="p">[</span><span class="o">-</span><span class="n">d</span><span class="p">]</span><span class="w">
+
+                </span><span class="n">N</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">length</span><span class="p">(</span><span class="n">x</span><span class="p">)</span><span class="w">
+                </span><span class="c1"># Save this value to a vector</span><span class="w">
+                </span><span class="n">popsize</span><span class="p">[</span><span class="n">t</span><span class="p">]</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">N</span><span class="w">
+                </span><span class="c1"># Save population mean trait value to vector</span><span class="w">
+                </span><span class="n">meantrait</span><span class="p">[</span><span class="n">t</span><span class="p">]</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">mean</span><span class="p">(</span><span class="n">x</span><span class="p">)</span><span class="w">
+                
+                </span><span class="c1"># If population is extinct, stop</span><span class="w">
+                </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="nf">length</span><span class="p">(</span><span class="n">x</span><span class="p">)</span><span class="w"> </span><span class="o">&lt;=</span><span class="w"> </span><span class="m">0</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w">
+                    </span><span class="n">tic</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">1</span><span class="w">
+                </span><span class="p">}</span><span class="w">
+            </span><span class="p">}</span><span class="w">
+            </span><span class="c1"># Plot the results</span><span class="w">
+            </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">r</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="m">1</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w">
+                </span><span class="n">plot</span><span class="p">(</span><span class="n">meantrait</span><span class="p">,</span><span class="n">type</span><span class="o">=</span><span class="s1">'l'</span><span class="p">,</span><span class="n">lwd</span><span class="o">=</span><span class="m">2</span><span class="p">,</span><span class="n">ylim</span><span class="o">=</span><span class="nf">c</span><span class="p">(</span><span class="m">0</span><span class="p">,</span><span class="m">1</span><span class="p">),</span><span class="n">col</span><span class="o">=</span><span class="s1">'#00000050'</span><span class="p">,</span><span class="n">xlab</span><span class="o">=</span><span class="s1">'Time'</span><span class="p">,</span><span class="n">ylab</span><span class="o">=</span><span class="s1">'Mean trait value of population'</span><span class="p">)</span><span class="w">
+            </span><span class="p">}</span><span class="w"> </span><span class="k">else</span><span class="w"> </span><span class="p">{</span><span class="w">
+                </span><span class="n">lines</span><span class="p">(</span><span class="n">meantrait</span><span class="p">,</span><span class="n">lwd</span><span class="o">=</span><span class="m">2</span><span class="p">,</span><span class="n">col</span><span class="o">=</span><span class="s1">'#00000050'</span><span class="p">)</span><span class="w">
+            </span><span class="p">}</span><span class="w">
+        </span><span class="p">}</span><span class="w">
     </span><span class="p">}</span><span class="w">
-    </span><span class="n">plot</span><span class="p">(</span><span class="n">meantrait</span><span class="p">,</span><span class="n">type</span><span class="o">=</span><span class="s1">'l'</span><span class="p">,</span><span class="n">lwd</span><span class="o">=</span><span class="m">2</span><span class="p">)</span><span class="w">
+
+    </span><span class="c1"># PARAMETERS</span><span class="w">
+    </span><span class="c1"># reps = number of repetitions</span><span class="w">
+    </span><span class="c1"># tmax = number of timesteps (keep this at 20)</span><span class="w">
+    </span><span class="c1"># N0 = population size at beginning (keep this at 100)</span><span class="w">
+    </span><span class="c1"># sd0 = trait standard deviation at beginning</span><span class="w">
+    </span><span class="c1"># mutation = trait standard deviation of offspring</span><span class="w">
+
+    </span><span class="c1"># RUN EVOLUTION SIMULATION</span><span class="w">
+    </span><span class="n">evolution.sim</span><span class="p">(</span><span class="n">reps</span><span class="o">=</span><span class="m">100</span><span class="p">,</span><span class="n">tmax</span><span class="o">=</span><span class="m">20</span><span class="p">,</span><span class="n">N0</span><span class="o">=</span><span class="m">100</span><span class="p">,</span><span class="n">sd0</span><span class="o">=</span><span class="m">0.1</span><span class="p">,</span><span class="n">mutation</span><span class="o">=</span><span class="m">0.1</span><span class="p">)</span><span class="w">
 </span></code></pre></div></div>
+
+<iframe width="100%" height="500" src="https://rdrr.io/snippets/embed/?code=%23Paste%20code%20here" frameborder="0"></iframe>
+
+<p>Now that you’ve run the code, without changing any of the parameter presets, what you observe should look pretty boring. <strong><em>What are you looking at?</em></strong> You are looking at the output of the simulation described above, where we are following the traits of individuals over many generations within a population. <strong><em>Each line represents the mean trait value of the population over time.</em></strong> Because there are random, or stochastic, processes in the simulation, we are running the simulation 100 times, which accounts for the 100 lines that you observe. Any population line that jumps to <em>zero</em> means that that particular population has gone extinct.</p>
+
+<p>We observe</p>
+<ol>
+  <li>variation determines the SPEED OF SELECTION</li>
+</ol>
 
 <h2 id="different-types-of-selection">Different types of selection</h2>
 <p>Directional, stabilizing, disruptive</p>

@@ -92,13 +92,30 @@ Let's now look at the beak width data collected by Rosemary and Peter Grant on t
 
 ## Selection over time
 
+Recall from above that evolution is defined by the change in trait frequencies over time. In the simplest framework, this would mean that the *mean* of the trait distribution for the population changes over time. In this next exercise, we will examine directly how the ingredients for natural selection that are listed above are absolutely vital for evolution to take place.
+
+Nature is complicated, and our goal now is to understand how these very particular ingredients for evolution by natural selection affect evolutionary dynamics. In order to explore these ideas, we need to strip away the complexity of the natural world to something very simple, which we call a *model*. We should think of this model as a *toy* representation of the natural world. We give this model characteristics that we hope are somewhat realistic and important to the problem that we are aiming to investigate, but without the complexities of reality to confuse our results.
+
+So this is *not* a computer science class, and it isn't important if you understand the details of the code below, but it *is* important that you understand what we call ***pseudocode***. Pseudocode is what we call the collection of rules implemented by a block of code, which are generally described in the line-by-line comments.
+
+> ***The Pseudocode: Here is what the simulation does***:
+> 1. We imagine a population that starts with $$ N_0 = 100 $$ individuals, each of which are given a trait value.  
+> 2. At the beginning we will randomly choose the trait value $$ x $$ from a normal distribution with an arbitrary mean of 0.5 and an initial standard deviation `sd0` that we input.  
+> 3. At **each time-step**, 2 things happen:  
+>     1. Each individual gives birth to some number of offspring. ***Individuals with higher trait values (values of $$ x $$) have a slight reproductive advantage and give birth to more offspring.*** The offspring produced by an adult with a trait value $$ x = m $$ will have a similar trait value... we will draw the offspring's trait from a normal distribution with a mean $$ m $$ and standard deviation $$ v $$, which we call the `mutation` value. This describes how different the offspring is likely to be from the parent... the larger `mutation` value, the more likely the offspring's trait value will be different from the parent's at $$ x = m $$.
+>     2. Each individual has a probability of dying, regardless of its trait value.  
+> 4. We encode these rules in the code below, and keep track of the ***mean trait value of the population*** over time. Sometimes too many individuals die and the simulation stops. In the plot this is shown as the mean trait value going to zero, which just means the population is now extinct.  
+> 5. Because there are so many random things that might happen in a single simulation of a population, we want to run the simulation many times. Each repetition is independent of the others. We will plot the mean trait values of `reps = 100` independently run simulations.
+
+Now: read through the comments in the below code block, but don't worry about the actual code itself (unless you dig that sort of thing). Copy the code block without editing anything, paste it into the R web-tool, and I'll see you at the bottom.
+
 ```R
     evolution.sim = function(reps,tmax,N0,sd0,mutation) {
         for (r in 1:reps) {
             # Population begins at N0 individuals
             N = N0
             # Draw random trait values for individuals from normal distribution
-            # With mean of 0.5 and standard deviation of 0.1
+            # With mean of 0.5 and standard deviation given by parameter sd0
             x = rnorm(N,0.5,sd0)
             # Initialize vectors to save population and trait values
             popsize = numeric(tmax)
@@ -106,7 +123,7 @@ Let's now look at the beak width data collected by Rosemary and Peter Grant on t
             tic = 0
             t = 0
         
-            while ((t < tmax) && (tic == 0)) {
+            while ((t <= tmax) && (tic == 0)) {
                 # Advance time by 1
                 t = t + 1
                 # Reproduction
@@ -115,21 +132,23 @@ Let's now look at the beak width data collected by Rosemary and Peter Grant on t
                 offspring = round(rnorm(length(x),x*2,0.01),0)
                 
                 # Assume that offspring have same trait as parents +/- some mutation
-                for (i in 1:length(offspring)) {
-                    newx = rnorm(offspring[i],x[i],mutation)
-                    x = c(x,newx)
+                if (sum(offspring) >= 1) {
+                    for (i in 1:length(offspring)) {
+                        newx = rnorm(offspring[i],x[i],mutation)
+                        x = c(x,newx)
+                    }
                 }
-                
+
                 # Mortality
                 # Roll an unweighted dice
                 # All individuals have the same chance of dying
-                prob_mort = rep(0.6,length(x))
+                # The chance of dying increases with population size
+                prob_mort = (0.6*N)/N0
                 d = which(runif(length(x),0,1) < prob_mort)
 
                 # Remove dead individual traits
                 x = x[-d]
 
-                # How many are left?
                 N = length(x)
                 # Save this value to a vector
                 popsize[t] = N
@@ -149,15 +168,23 @@ Let's now look at the beak width data collected by Rosemary and Peter Grant on t
             }
         }
     }
-    # SET PARAMETER VALUES
-    mutation = 0.0
-    reps = 100
-    tmax = 20
-    N0 = 100
-    sd0 = 0.01
+
+    # PARAMETERS
+    # reps = number of repetitions
+    # tmax = number of timesteps (keep this at 20)
+    # N0 = population size at beginning (keep this at 100)
+    # sd0 = trait standard deviation at beginning
+    # mutation = trait standard deviation of offspring
+
     # RUN EVOLUTION SIMULATION
-    evolution.sim(reps,tmax,N0,sd0,mutation)
+    evolution.sim(reps=100,tmax=20,N0=100,sd0=0.1,mutation=0.1)
 ```
+
+<iframe width='100%' height='500' src='https://rdrr.io/snippets/embed/?code=%23Paste%20code%20here' frameborder='0'></iframe>
+
+Now that you've run the code, without changing any of the parameter presets, what you observe should look pretty boring. ***What are you looking at?*** You are looking at the output of the simulation described above, where we are following the traits of individuals over many generations within a population. ***Each line represents the mean trait value of the population over time.*** Because there are random, or stochastic, processes in the simulation, we are running the simulation 100 times, which accounts for the 100 lines that you observe. Any population line that jumps to *zero* means that that particular population has gone extinct.
+
+
 
 We observe
 1. variation determines the SPEED OF SELECTION
