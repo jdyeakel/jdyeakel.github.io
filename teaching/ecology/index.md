@@ -58,6 +58,10 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 8. [Lecture 8](https://ucmerced.box.com/s/si2dto0c82pc7wn63w2491azx8dwg0ie)
 
 
+## Homework Keys
+1. [Homework 1]({{ site.url }}/teaching/ecology/Homework1.pdf)
+2. [Homework 2]({{ site.url }}/teaching/ecology/Homework2.pdf)
+
 <!---
 <hr>
 
