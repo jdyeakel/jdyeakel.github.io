@@ -34,6 +34,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 1. [Section 1 (Friday, September 4)]({{ site.url }}/teaching/ecology/section1/)  
 2. [Section 2 (Friday, September 11)]({{ site.url }}/teaching/ecology/section2/)  
 3. [Section 3 (Friday, September 18)]({{ site.url }}/teaching/ecology/section3/)  
+4. [Section 4 (Friday, September 25)]({{ site.url }}/teaching/ecology/section4/)  
 
 ## Lecture Slides
 1. [Lecture 1 & 2]({{ site.url }}/teaching/ecology/Lect1_2_BIO148.pdf)  
@@ -43,6 +44,8 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 2. [Lecture 6]({{ site.url }}/teaching/ecology/Lect_6_BIO148.pdf)
 2. [Lecture 7]({{ site.url }}/teaching/ecology/Lect_7_BIO148.pdf)
 2. [Lecture 8]({{ site.url }}/teaching/ecology/Lect_8_BIO148.pdf)
+2. [Lecture 9]({{ site.url }}/teaching/ecology/Lect_9_BIO148.pdf)
+
 
 ## Lecture Recordings
 1. [Lecture 1](https://ucmerced.box.com/s/xhbud7bj8maok0oj99evyl2t4l4pujjm)
