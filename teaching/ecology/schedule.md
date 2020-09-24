@@ -50,7 +50,7 @@ tr:nth-child(odd) {background: #FFF}
 |     **9/18**    | **(F-D3)** | Disc 3 |  [Macroecology]({{ site.url }}/teaching/ecology/section3/)  |    |     |
 | **9/22** | **(T-L8)** | Evolution 1 | Ecology as the driver of natural selection | Bowman Ch. 6 |  HW-2 due  |
 | **9/24** | **(R-L9)** | Evolution 2 |  |  |    |
-|    **9/25**     | **(F-D4)** | Disc 4 |   [Evolution & natural selection]()  |  |    |
+|    **9/25**     | **(F-D4)** | Disc 4 |   [Evolution by natural selection]()  |  |    |
 | **9/29** | **(T)** | ***EXAM 1*** |  |  |    |
 |   |   |   |   |   |   |
 |   |   |   |   |   |   |
