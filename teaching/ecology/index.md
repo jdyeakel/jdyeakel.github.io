@@ -59,8 +59,8 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 
 
 ## Homework Keys
-1. [Homework 1]({{ site.url }}/teaching/ecology/Homework1.pdf)
-2. [Homework 2]({{ site.url }}/teaching/ecology/Homework2.pdf)
+1. [Homework 1]({{ site.url }}/teaching/ecology/Homework1_key.pdf)
+2. [Homework 2]({{ site.url }}/teaching/ecology/Homework2_key.pdf)
 
 <!---
 <hr>
