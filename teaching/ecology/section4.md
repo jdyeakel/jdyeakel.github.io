@@ -218,7 +218,8 @@ Now let's set the initial variability to the lower value of `sd0=0.01` and explo
 > ### Discussion
 > 1. Describe what you see
 > 2. Which of the two had a larger impact on evolution? Increasing `sd0` or increasing `mutation`?
-> 3. Why?
+> 3. Which of the two had a larger impact on the *speed* of evolution? In other words, the time at which some amount of change is observed?  
+> 4. What do you think the *cause* of these differences is?
 
 ### Models tell us what questions to ask
 You've now examined field data showcasing a selective event that resulted in evolution of a population within a very short period of time, as well as a simple model of evolution. Consider how exploration of the model, and the assumptions built into it might change our perspective when going out and studying populations in the wild. The model is useful because it is very simple in terms of the rules that we've injected into it, and the results that it produces may lead us to examine nature in different ways. The model *is not* designed to replicate nature... it is meant to capture a hypothesis of how a very few set of rules may influence how nature works. It shows us where to look. By building our assumptions into a model and understanding its output, we can go back to the island of Daphne Major and investigate whether nature actually works the way the model predicts. If not, we have left something important out of the model, and we go back to the drawing board. If so, that is evidence that the relationships we have encoded into the model capture an important natural mechanism!
