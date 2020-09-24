@@ -86,11 +86,12 @@ Let's now look at the beak width data collected by Rosemary and Peter Grant on t
 
 > ### Discussion
 > 1. Use the `mean()` and `sd()` functions to calculate the mean and standard deviation of depth measurements from 1976 (`depth_1976`) and 1978 (`depth_1978`). How does the mean and standard deviation change over time?  
-> 2. As mentioned above, there is a large difference in the number of individuals sampled from 1976 to 1978. Why? Can we say something about the traits of the individuals who *weren't* sampled in 1978? In other words, which finches were selected against and why? 
-> 3. Was this selection event caused directly or indirectly by the drought?
+> 2. Try to explain *both* changes to the mean and stand deviation of the population.
+> 3. As mentioned above, there is a large difference in the number of individuals sampled from 1976 to 1978. Why? Can we say something about the traits of the individuals who *weren't* sampled in 1978? In other words, which finches were selected against and why? 
+> 4. Was this selection event caused directly or indirectly by the drought?
 
 
-## Selection over time
+## A Model of Evolution by Natural Selection
 
 Recall from above that evolution is defined by the change in trait frequencies over time. In the simplest framework, this would mean that the *mean* of the trait distribution for the population changes over time. In this next exercise, we will examine directly how the ingredients for natural selection that are listed above are absolutely vital for evolution to take place.
 
