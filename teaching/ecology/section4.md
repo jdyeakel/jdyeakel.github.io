@@ -191,7 +191,7 @@ Now that you've run the code, without changing any of the parameter presets, wha
 
 
 ### The effect of variation
-As implied above, there is not really evolution because we have not supplied the populations variability. Variability in this model comes in two forms: a) the trait variability that we initiate the population with, and b) the variability of offspring away from the parent's trait values. In both cases, the variability provided is very low.
+As implied above, there is not really evolution because we have not supplied the populations variability. Variability in this model comes in two forms: a) the trait variability that we initiate the population with, and b) the variability of offspring away from the parent's trait values. In both cases, the variability provided is very low. Oh hey... I seem to recall *variation in traits* being one of the 3 ingredients for evolution by natural selection to operate! Coincidence? Unlikely.
 
 Let's explore how increasing trait variability influences the evolutionary process. ***Remember*** we have incorporated the assumption that *higher values of the trait $$ x $$ provides a slight reproductive advantage*. In other words, individuals with larger $$ x $$ values have slightly more offspring than individuals with low values of $$ x $$. 
 
