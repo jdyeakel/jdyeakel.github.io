@@ -103,7 +103,7 @@ So this is *not* a computer science class, and it isn't important if you underst
 > 1. We imagine a population that starts with $$ N_0 = 100 $$ individuals, each of which are given a trait value.  
 > 2. At the beginning we will randomly choose the trait value $$ x $$ from a normal distribution with an arbitrary mean of 0.5 and an initial standard deviation `sd0` that we input.  
 > 3. At **each time-step**, 2 things happen:  
->     1. Each individual gives birth to some number of offspring. ***Individuals with higher trait values (values of $$ x $$) have a slight reproductive advantage and give birth to more offspring.*** The offspring produced by an adult with a trait value $$ x = m $$ will have a similar trait value... we will draw the offspring's trait from a normal distribution with a mean $$ m $$ and standard deviation $$ v $$, which we call the `mutation` value. This describes how different the offspring is likely to be from the parent... the larger `mutation` value, the more likely the offspring's trait value will be different from the parent's at $$ x = m $$.
+>     1. Each individual gives birth to some number of offspring. ***Individuals with higher trait values (values of $$ x $$) have a slight reproductive advantage and give birth to more offspring.*** The offspring produced by an adult with a trait value $$ x = m $$ will have a similar trait value... we will draw the offspring's trait from a normal distribution with a mean $$ m $$ and standard deviation that we call the `mutation` value. This describes how different the offspring is likely to be from the parent... the larger the `mutation` value, the more likely the offspring's trait value will be different from the parent's at $$ x = m $$. Because we are drawing the offspring's trait from a normal distribution around $$ x = m $$, the offspring has an equal change of having a trait value lower than $$ m $$ as having a trait value higher than $$ m $$.
 >     2. Each individual has a probability of dying, regardless of its trait value.  
 > 4. We encode these rules in the code below, and keep track of the ***mean trait value of the population*** over time. Sometimes too many individuals die and the simulation stops. In the plot this is shown as the mean trait value going to zero, which just means the population is now extinct.  
 > 5. Because there are so many random things that might happen in a single simulation of a population, we want to run the simulation many times. Each repetition is independent of the others. We will plot the mean trait values of `reps = 100` independently run simulations.
@@ -186,8 +186,9 @@ Now: read through the comments in the below code block, but don't worry about th
 Now that you've run the code, without changing any of the parameter presets, what you observe should look pretty boring. ***What are you looking at?*** You are looking at the output of the simulation described above, where we are following the traits of individuals over many generations within a population. ***Each line represents the mean trait value of the population over time.*** Because there are random, or stochastic, processes in the simulation, we are running the simulation 100 times, which accounts for the 100 lines that you observe. Any population line that jumps to *zero* means that that particular population has gone extinct.
 
 > ### Discussion
-> 1. Describe the output of the simulation results
-> 2. I mention above that the simulation results look boring, and I mean this in the sense that the mean trait value of the population does not change much over time. In other words, there is not really *evolution* here. Why? Pay particular attention to the `sd0` and `mutation` values.
+> 1. What is realistic and what is unrealistic about the model setup?
+> 2. Describe the output of the simulation results
+> 3. I mention above that the simulation results look boring, and I mean this in the sense that the mean trait value of the population does not change much over time. In other words, there is not really *evolution* here. Why? Pay particular attention to the `sd0` and `mutation` values.
 
 
 ### The effect of variation
