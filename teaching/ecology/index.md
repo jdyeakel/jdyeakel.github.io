@@ -36,12 +36,13 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 3. [Section 3 (Friday, September 18)]({{ site.url }}/teaching/ecology/section3/)  
 
 ## Lecture Slides
-1. [Lectures 1 & 2]({{ site.url }}/teaching/ecology/Lect1_2_BIO148.pdf)  
-2. [Lectures 3]({{ site.url }}/teaching/ecology/Lect3_BIO148.pdf)
-2. [Lectures 4]({{ site.url }}/teaching/ecology/Lect_4_BIO148.pdf)
-2. [Lectures 5]({{ site.url }}/teaching/ecology/Lect_5_BIO148.pdf)
-2. [Lectures 6]({{ site.url }}/teaching/ecology/Lect_6_BIO148.pdf)
-2. [Lectures 7]({{ site.url }}/teaching/ecology/Lect_7_BIO148.pdf)
+1. [Lecture 1 & 2]({{ site.url }}/teaching/ecology/Lect1_2_BIO148.pdf)  
+2. [Lecture 3]({{ site.url }}/teaching/ecology/Lect3_BIO148.pdf)
+2. [Lecture 4]({{ site.url }}/teaching/ecology/Lect_4_BIO148.pdf)
+2. [Lecture 5]({{ site.url }}/teaching/ecology/Lect_5_BIO148.pdf)
+2. [Lecture 6]({{ site.url }}/teaching/ecology/Lect_6_BIO148.pdf)
+2. [Lecture 7]({{ site.url }}/teaching/ecology/Lect_7_BIO148.pdf)
+2. [Lecture 8]({{ site.url }}/teaching/ecology/Lect_8_BIO148.pdf)
 
 ## Lecture Recordings
 1. [Lecture 1](https://ucmerced.box.com/s/xhbud7bj8maok0oj99evyl2t4l4pujjm)
@@ -51,6 +52,8 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 5. [Lecture 5](https://ucmerced.box.com/s/zhmykfsd0n03lgr28vly4pc9ho7mmaog)
 6. [Lecture 6](https://ucmerced.box.com/s/dv5b0dpav4cbz5vpt08oykxn0f1mkd6a)
 7. [Lecture 7a](https://ucmerced.box.com/s/jlf9tqbqhwhdo4lh01e1bpzt0lp4ys5y) [Lecture 7b](https://ucmerced.box.com/s/vyeeklvmm4lu0mkkm9wad0qu0l8f81xb)
+8. [Lecture 8](https://ucmerced.box.com/s/si2dto0c82pc7wn63w2491azx8dwg0ie)
+
 
 <!---
 <hr>
