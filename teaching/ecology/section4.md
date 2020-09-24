@@ -177,26 +177,51 @@ Now: read through the comments in the below code block, but don't worry about th
     # mutation = trait standard deviation of offspring
 
     # RUN EVOLUTION SIMULATION
-    evolution.sim(reps=100,tmax=20,N0=100,sd0=0.1,mutation=0.1)
+    evolution.sim(reps=100,tmax=20,N0=100,sd0=0.01,mutation=0.01)
 ```
 
 <iframe width='100%' height='500' src='https://rdrr.io/snippets/embed/?code=%23Paste%20code%20here' frameborder='0'></iframe>
 
 Now that you've run the code, without changing any of the parameter presets, what you observe should look pretty boring. ***What are you looking at?*** You are looking at the output of the simulation described above, where we are following the traits of individuals over many generations within a population. ***Each line represents the mean trait value of the population over time.*** Because there are random, or stochastic, processes in the simulation, we are running the simulation 100 times, which accounts for the 100 lines that you observe. Any population line that jumps to *zero* means that that particular population has gone extinct.
 
+> ### Discussion
+> 1. Describe the output of the simulation results
+> 2. I mention above that the simulation results look boring, and I mean this in the sense that the mean trait value of the population does not change much over time. In other words, there is not really *evolution* here. Why? Pay particular attention to the `sd0` and `mutation` values.
 
 
-We observe
-1. variation determines the SPEED OF SELECTION
+### The effect of variation
+As implied above, there is not really evolution because we have not supplied the populations variability. Variability in this model comes in two forms: a) the trait variability that we initiate the population with, and b) the variability of offspring away from the parent's trait values. In both cases, the variability provided is very low.
 
+Let's explore how increasing trait variability influences the evolutionary process. ***Remember*** we have incorporated the assumption that *higher values of the trait $$ x $$ provides a slight reproductive advantage*. In other words, individuals with larger $$ x $$ values have slightly more offspring than individuals with low values of $$ x $$. 
 
+**Initial trait variability**: Let's first increase slightly the amount of variability that individuals start with at the beginning of the simulation. Try the following permutations on the original implementation of the code by replacing the last line with:
+* `evolution.sim(reps=100,tmax=20,N0=100,sd0=0.05,mutation=0.01)`
+* `evolution.sim(reps=100,tmax=20,N0=100,sd0=0.1,mutation=0.01)`
 
-## Different types of selection
-Directional, stabilizing, disruptive
+> ### Discussion
+> 1. What does the value of `sd0` specify?
+> 2. Describe what you observe as you increase `sd0`. 
+> 3. What do you think is the cause of this effect?
 
+**Variability of offspring from parent trait values**: Now that we've experimented with `sd0`, let's now consider the variability of the offspring away from the parent, which is encoded in the parameter `mutation`. If `mutation=0`, then the offspring has *exactly* the same trait as its parent. So let's examine this first. With the previous results in mind, where `sd0=0.1` and the results that you examined, let's drop `mutation=0`, such that you plug in:
+* `evolution.sim(reps=100,tmax=20,N0=100,sd0=0.1,mutation=0)`
 
-## The effects of trophy hunting over time
+> ### Discussion
+> 1. Compare these results to the case where `sd0=0.1` and `mutation=0.01`. Are they different?
+> 2. The big question... if there *is no mutation*, meaning every offspring is *exactly the same as their parent*, how do you explain these results???
 
+Now let's set the initial variability to the lower value of `sd0=0.01` and explore just the impact of increasing `mutation`:
+* `evolution.sim(reps=100,tmax=20,N0=100,sd0=0.01,mutation=0.05)`
+* `evolution.sim(reps=100,tmax=20,N0=100,sd0=0.01,mutation=0.1)`
 
-## ?
+> ### Discussion
+> 1. Describe what you see
+> 2. Which of the two had a larger impact on evolution? Increasing `sd0` or increasing `mutation`?
+> 3. Why?
 
+### Models tell us what questions to ask
+You've now examined field data showcasing a selective event that resulted in evolution of a population within a very short period of time, as well as a simple model of evolution. Consider how exploration of the model, and the assumptions built into it might change our perspective when going out and studying populations in the wild. The model is useful because it is very simple in terms of the rules that we've injected into it, and the results that it produces may lead us to examine nature in different ways. The model *is not* designed to replicate nature... it is meant to capture a hypothesis of how a very few set of rules may influence how nature works. It shows us where to look. By building our assumptions into a model and understanding its output, we can go back to the island of Daphne Major and investigate whether nature actually works the way the model predicts. If not, we have left something important out of the model, and we go back to the drawing board. If so, that is evidence that the relationships we have encoded into the model capture an important natural mechanism!
+
+> ### Discussion
+> 1. What does the model suggest is important for evolution by natural selection?
+> 2. Relate these concepts to what is observed on Daphne Major. What might you measure and investigate if you could go back to the island, now that you have model predictions to guide your thinking?
