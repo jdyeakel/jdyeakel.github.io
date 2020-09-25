@@ -25,7 +25,7 @@ Welcome to the course website for ***Fundamentals of Ecology***. Of course, this
 
 
 *	Prof. Yeakel Office Hours: [Tuesdays, Thursdays 10:15-11:15 or by appointment](https://ucmerced.zoom.us/j/93141102627?pwd=ajgrVjYrZzJQcUhrV05kalJ1WFRVQT09)  
-*	TA Irina Barros Office Hours: [Friday 11am-12pm & 5:30-6:30pm]()  
+*	TA Irina Barros Office Hours: [Friday 11am-12pm & 3:30-4:30pm](https://ucmerced.zoom.us/j/6953954982?pwd=dlhtWHliVWV4SW1BU1A5ZmxqdStqQT09)  
 
 ## Contact
 Please use the Inbox application in the CatCourses (Canvas) website to contact either of us. *There is no guarantee of response if personal emails are used.*
