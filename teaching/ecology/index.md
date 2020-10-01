@@ -35,6 +35,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 2. [Section 2 (Friday, September 11)]({{ site.url }}/teaching/ecology/section2/)  
 3. [Section 3 (Friday, September 18)]({{ site.url }}/teaching/ecology/section3/)  
 4. [Section 4 (Friday, September 25)]({{ site.url }}/teaching/ecology/section4/)  
+5. [Section 5 (Friday, October 2)]({{ site.url }}/teaching/ecology/section5/)  
 
 ## Lecture Slides
 1. [Lecture 1 & 2]({{ site.url }}/teaching/ecology/Lect1_2_BIO148.pdf)  
@@ -45,6 +46,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 2. [Lecture 7]({{ site.url }}/teaching/ecology/Lect_7_BIO148.pdf)
 2. [Lecture 8]({{ site.url }}/teaching/ecology/Lect_8_BIO148.pdf)
 2. [Lecture 9]({{ site.url }}/teaching/ecology/Lect_9_BIO148.pdf)
+2. [Lecture 10]({{ site.url }}/teaching/ecology/Lect_10_BIO148.pdf)
 
 
 ## Lecture Recordings
@@ -57,9 +59,10 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 7. [Lecture 7a](https://ucmerced.box.com/s/jlf9tqbqhwhdo4lh01e1bpzt0lp4ys5y) [Lecture 7b](https://ucmerced.box.com/s/vyeeklvmm4lu0mkkm9wad0qu0l8f81xb)
 8. [Lecture 8](https://ucmerced.box.com/s/si2dto0c82pc7wn63w2491azx8dwg0ie)
 9. [Lecture 9](https://ucmerced.box.com/s/pnoskivlmybxf06pq1vd9f1gb2b7mgf9)
+10. [Lecture 10](https://ucmerced.box.com/s/suj62sd5tc95jyexdl6zqlc78kun738b)
 
 
-## Homework Keys
+## Keys
 1. [Homework 1]({{ site.url }}/teaching/ecology/Homework1_key.pdf)
 2. [Homework 2]({{ site.url }}/teaching/ecology/Homework2_key.pdf)
 

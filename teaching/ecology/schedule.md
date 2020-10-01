@@ -56,10 +56,10 @@ tr:nth-child(odd) {background: #FFF}
 |   |   |   |   |   |   |
 | **10/1** | **(R-L10)** | Life history | Life history diversity and tradeoffs | Bowman Ch. 7 |    |
 |    **10/2**     | **(F-D5)** | Disc 5 |  Life history analysis  |   |     |
-| **10/6** | **(T-L11)** | Behavior | Behavioral ecology | Bowman Ch. 7 |  HW-3 due  |
+| **10/6** | **(T-L11)** | Behavior | Behavioral ecology | Bowman Ch. 8 |    |
 | **10/8** | **(R-L12)** | Games | Evolutionary Game Theory | Easley & Kleinberg |    |
-|     **10/9**    | **(F-D6)** | Disc 6 |  Evolutionary Games  |  |  HW-4 due  |
-| **10/13** | **(T-L13)** | Populations 1 | Density dependence and population dynamics | Bowman Ch. 10 |    |
+|     **10/9**    | **(F-D6)** | Disc 6 |  Evolutionary Games  |  |    |
+| **10/13** | **(T-L13)** | Populations 1 | Density dependence and population dynamics | Bowman Ch. 10 |  HW-3 due  |
 | **10/15** | **(R-L14)** | Populations 2 | Logistic Growth & Discrete dynamics  |    |    |
 |     **10/16**    | **(F-D7)** | Disc 7 |  Exponential and logistic growth 1 |  |  HW-5 due  |
 | **10/20** | **(T-L15)** | Populations 3 | Fluctuations | Bowman Ch. 11.1-11.3 |    |

@@ -40,7 +40,7 @@ Every advantage has an associated cost, and the idea of life-history *trade-offs
 
 Now let's consider what happens in-between these reproductive events... For the mosquito, it must survive its entire life before it unloads its reproductive output. If it dies before then, it achieves a lifetime fitness value $$ \Phi=0 $$. In contrast, the chimpanzee female has staggered her reproductive output across 3 discrete events at different times throughout her life. If she dies between her first and second offspring, she still has passed her genetic material into the next generation, so has a lifetime fitness value $$ \Phi > 0 $$. We have already defined fitness as *reproduction + survival*, and we can now see how both of these terms come into play when determining the *lifetime fitness* of an individual. 
 
-Consider again the lifetime axes of the mosquito and chimpanzee. The tick-marks represent points in time that the individual must survive (i.e. where we assess survival). The probability of mortality for the mother $$\mu$$ is the probability that the female survives from one tickmark to the other. As such, the reproductive gain associated with the number of offspring listed on the lifetime axis is only obtained if the mother survives the previous periods leading up the reproduction. Let's try to calculate the lifetime fitness of the mosquito and the chimpanzee under these very different conditions. 
+Consider again the lifetime axes of the mosquito and chimpanzee. The tick-marks represent points in time that the individual must survive (i.e. where we assess survival). The probability of mortality for the mother $$\mu$$ is the probability that the female dies from one tickmark to the other. As such, the reproductive gain associated with the number of offspring listed on the lifetime axis is only obtained if the mother survives the previous periods leading up the reproduction. Let's try to calculate the lifetime fitness of the mosquito and the chimpanzee under these very different conditions. 
 
 Let's assume that the mother's probability of mortality between each tickmark is the same $$ \mu = 0.1 $$ (1%) (which by the way means that the probability of survival is $$(1-\mu)$$). However, let's assume that the probability of mortality for each individual offspring is different, capturing the tradeoff in investment. For the mosquito let's assume the mother is capable of laying 200 eggs at the end of her life, but that the offspring mortality $$ \mu_o = 0.98 $$ (98%). For the chimpanzee let's assume that the mother is capable of giving birth to 3 offspring at different stages of her lifetime, and the offspring mortality is very low $$ \mu_o = 0.12 $$ (12%). In other words, mosquitoes have *more* offspring that suffer *greater* mortality, and chimpanzees have *fewer* offspring that suffer *lower* mortality due to the energetic investment the mother puts into each offspring.
 
@@ -115,12 +115,12 @@ We can imagine a species' behavior as a set of iterative yes/no *decisions*. Now
 Some definitions:
 * $$\Phi$$ = The value of future reproductive success
 * $$\phi$$ = The amount of $$\Phi$$ that is at stake in this decision
-* $$a$$ = the proportionate increase in $$\phi$$ if there is a positive (yes) response
+* $$a$$ = the proportionate increase in $$\phi$$ that would result if there is a positive (yes) response
 * $$c$$ = the cost of $$a$$
 * $$b$$ = the proportionate decrease in $$\phi$$ if there is a negative (no)
 
 
-***YES Decision*** In words, we want to assess what $$\Phi$$ will be on the other side of this yes/no decision. If the decision is a *yes*, we will gain something but at a cost. We will call this modified fitness $$\Phi^\prime$$. Both $$a$$ and $$c$$ vary between 0 and 1. Use the extreme values of 0 and 1 to understand how they impact lifetime fitness assuming a *Yes* decision.
+***YES Decision*** In words, we want to assess what $$\Phi$$ will be on the other side of this yes/no decision. If the decision is a *yes*, we will gain something but at a cost. The amount $$\phi$$ is at stake, and a positive response will recover a proportionate amount of $$\phi$$ given by $$a$$ at cost $$c$$. We will call this modified fitness $$\Phi^\prime$$. Both $$a$$ and $$c$$ vary between 0 and 1. Use the extreme values of 0 and 1 for $$a$$ and $$c$$ to understand how they impact lifetime fitness assuming a *Yes* decision. I recommend first setting $$c=0$$ and examining the cases where $$a=0$$ (what does this mean?) and $$a=1$$ (what does this mean?). 
 
 $$
 \begin{equation}
@@ -136,29 +136,58 @@ $$
 \end{equation}
 $$
 
-So the question now is... when will selection favor the positive response (resulting in $$\Phi^\prime$$) and when will it favor the negative response (resulting in $$\Phi^{\prime \prime}$$)? Based on our assumption that the process of evolution selects for the fitness-maximizing strategy, we can see that the positive response will be favored if $$\Phi^\prime \geq \Phi^{\prime \prime}$$ and the negative response will be favored if $$\Phi^\prime < \Phi^{\prime \prime}$$.
+So the question now is... when will selection favor the positive response (resulting in $$\Phi^\prime$$) and when will it favor the negative response (resulting in $$\Phi^{\prime \prime}$$)? Based on our assumption that the process of evolution selects for the fitness-maximizing strategy, we can see that the positive response will be favored if $$\Phi^\prime > \Phi^{\prime \prime}$$ and the negative response will be favored if $$\Phi^\prime < \Phi^{\prime \prime}$$.
 
-There is something a little subtle here... we just said that the positive response is favored $$\Phi^\prime \geq \Phi^{\prime \prime}$$, and the $$\geq$$ sign implies that if either options results in the same lifetime fitness value, we are assuming that the positive response is favored.
+<!-- There is something a little subtle here... we just said that the positive response is favored $$\Phi^\prime \geq \Phi^{\prime \prime}$$, and the $$\geq$$ sign implies that if either options results in the same lifetime fitness value, we are assuming that the positive response is favored. -->
 
-
+Let us now explore these relationships graphically. We will first set values for the different parameters in the above model, and examine how $$\Phi^\prime$$ and $$\Phi^{\prime\prime}$$ vary as a function of *an increasing amount of fitness at stake* $$\phi$$ (i.e. we will examine $$\Phi^\prime$$ and $$\Phi^{\prime\prime}$$ as a function of $$\phi$$). In other words, how does the lifetime fitness following a positive vs. negative response change as the stakes $$\phi$$ increase?
 
 ```R
-    
+    # First set the total amount of lifetime fitness before the yes/no decision
     Phi = 100
+    # We are looking at how the fitness consequences of a yes/no decision 
+    # change with increasing stakes, so this needs to be a vector that starts 
+    # at 0 (no stakes) and ends at Phi (all is at stake)
     phi = seq(0,100,1)
 
+    # We will set the proportionate gain in phi to be 0.5
     a = 0.5
+
+    # And we will specify that the loss in phi if the decision 
+    # is negative is (1/2)a
     b = (1/2)*a
+
+    #For now we will ignore the cost
     c = 0.0
 
+    #Calculate Phi following a yes response
     Phi_prime = (1+a)*phi + (1-c)*(Phi-phi)
+
+    #Calculate Phi following a no response
     Phi_2prime = (1-b)*phi + (Phi - phi)
 
+    #Plot Phi^prime as a BLUE line
     plot(phi,Phi_prime,type='l',col='blue',xlab='Part of Phi at stake',ylab='Response',ylim=c(50,150))
+    #Plot Phi^primeprime as a RED line
     lines(phi,Phi_2prime,col='red')
 
+    # We will now add in a cost to see how that changes the relationships
+    # Will we change c to 0.25, and then recalculate Phi^prime
     c = 0.25
+    # Let's add the new Phi^prime as a DASHED blue line
     Phi_prime = (1+a)*phi + (1-c)*(Phi-phi)
-    Phi_2prime = (1-b)*phi + (Phi - phi)
     lines(phi,Phi_prime,col='blue',lty = 2)
 ```
+
+<iframe width='100%' height='500' src='https://rdrr.io/snippets/embed/?code=%23Paste%20code%20here' frameborder='0'></iframe>
+
+
+
+> ### Discussion
+> 1. Looking only at the SOLID blue $$\Phi^\prime$$ and SOLID red $$\Phi^{\prime\prime}$$ lines, what do we observe? Remember that in this case the gain of a positive response is always greater than the loss of a negative response, and there is no cost associated with the gain.
+> 2. When is $$\Phi^\prime > \Phi^{\prime\prime}$$?
+> 3. Now consider the case when $$c=0.25$$. So we are comparing the DASHED blue $$\Phi^\prime$$ line to the SOLID red $$\Phi^{\prime\prime}$$ line. What do you observe?
+> 4. When is $$\Phi^\prime > \Phi^{\prime\prime}$$, and when is it not? Does this make sense given the difference in cost from the solid to dashed blue line?
+> 5. Imagine these two different scenarios... where would these cases fall on the above graph, all other things being equal? *A mother reed warbler is deciding whether or not to forage once more before retiring for the night....*
+>       * in case 1, her offspring are near starvation
+>       * in case 2, her offspring are fat and healthy
