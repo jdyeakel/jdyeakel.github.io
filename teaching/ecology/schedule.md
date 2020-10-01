@@ -55,7 +55,7 @@ tr:nth-child(odd) {background: #FFF}
 |   |   |   |   |   |   |
 |   |   |   |   |   |   |
 | **10/1** | **(R-L10)** | Life history | Life history diversity and tradeoffs | Bowman Ch. 7 |    |
-|    **10/2**     | **(F-D5)** | Disc 5 |  Life history analysis  |   |     |
+|    **10/2**     | **(F-D5)** | Disc 5 |  [Life history strategies]({{ site.url }}/teaching/ecology/section5/)  |   |     |
 | **10/6** | **(T-L11)** | Behavior | Behavioral ecology | Bowman Ch. 8 |    |
 | **10/8** | **(R-L12)** | Games | Evolutionary Game Theory | Easley & Kleinberg |    |
 |     **10/9**    | **(F-D6)** | Disc 6 |  Evolutionary Games  |  |    |
