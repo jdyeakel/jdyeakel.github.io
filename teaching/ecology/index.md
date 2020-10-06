@@ -60,6 +60,9 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 8. [Lecture 8](https://ucmerced.box.com/s/si2dto0c82pc7wn63w2491azx8dwg0ie)
 9. [Lecture 9](https://ucmerced.box.com/s/pnoskivlmybxf06pq1vd9f1gb2b7mgf9)
 10. [Lecture 10](https://ucmerced.box.com/s/suj62sd5tc95jyexdl6zqlc78kun738b)
+    * [Wasp & Cockroach parasitism](https://ucmerced.box.com/s/qebmd9v6bror3i9x7up8ia5z91d992h4)
+    * [Wasp & Caterpillar parasitism](https://ucmerced.box.com/s/3x6wap7kjf257h0sscvdudhhl93r5qlc)
+    * [Zombie ants!](https://ucmerced.box.com/s/cqvgwgcq758jwpwwjz9n7hh210rt6uwr)
 
 
 ## Keys
