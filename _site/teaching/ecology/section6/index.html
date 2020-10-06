@@ -1,0 +1,375 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<title>Section 6 :: Game Theory &#8211; Yeakel Lab @ UC-Merced</title>
+
+<meta name="keywords" content="about, Jekyll, theme, responsive">
+
+
+<!-- Twitter Cards -->
+<meta name="twitter:title" content="Section 6 :: Game Theory">
+
+<meta name="twitter:site" content="@jdyeakel">
+<meta name="twitter:creator" content="@jdyeakel">
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="//jdyeakel.github.io/images/default-thumb.png">
+
+<!-- Open Graph -->
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Section 6 :: Game Theory">
+
+<meta property="og:url" content="//jdyeakel.github.io/teaching/ecology/section6/">
+<meta property="og:site_name" content="Yeakel Lab @ UC-Merced">
+
+
+
+
+
+<link rel="canonical" href="//jdyeakel.github.io/teaching/ecology/section6/">
+<link href="//jdyeakel.github.io/feed.xml" type="application/atom+xml" rel="alternate" title="Yeakel Lab @ UC-Merced Feed">
+
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="//jdyeakel.github.io/assets/css/main.css">
+
+<meta http-equiv="cleartype" content="on">
+
+<!-- HTML5 Shiv and Media Query Support -->
+<!--[if lt IE 9]>
+	<script src="//jdyeakel.github.io/assets/js/vendor/html5shiv.min.js"></script>
+	<script src="//jdyeakel.github.io/assets/js/vendor/respond.min.js"></script>
+<![endif]-->
+
+<!-- Modernizr -->
+<script src="//jdyeakel.github.io/assets/js/vendor/modernizr-2.7.1.custom.min.js"></script>
+
+<link href='//fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700|PT+Serif:400,700,400italic' rel='stylesheet' type='text/css'>
+
+<!-- Icons -->
+<!-- 16x16 -->
+<link rel="shortcut icon" href="//jdyeakel.github.io/favicon.ico">
+<!-- 32x32 -->
+<link rel="shortcut icon" href="//jdyeakel.github.io/favicon.png">
+<!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
+<link rel="apple-touch-icon-precomposed" href="//jdyeakel.github.io/images/apple-touch-icon-precomposed.png">
+<!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="//jdyeakel.github.io/images/apple-touch-icon-72x72-precomposed.png">
+<!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="//jdyeakel.github.io/images/apple-touch-icon-114x114-precomposed.png">
+<!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="//jdyeakel.github.io/images/apple-touch-icon-144x144-precomposed.png">
+
+<!-- Mathjax Support -->
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+</head>
+
+<body class="page">
+
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
+<!--[if lt IE 9]><div class="browser-upgrade alert alert-info">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div><![endif]-->
+
+<div class="navigation-wrapper">
+	<div class="site-name">
+		<a href="//jdyeakel.github.io">Yeakel Lab @ UC-Merced</a>
+	</div><!-- /.site-name -->
+	<div class="top-navigation">
+		<nav role="navigation" id="site-nav" class="nav">
+		    <ul>
+		        
+					    
+					    <li><a href="//jdyeakel.github.io/people/" >People</a></li>
+					  
+					    
+					    <li><a href="//jdyeakel.github.io/diversity/" >Diversity</a></li>
+					  
+					    
+					    <li><a href="//jdyeakel.github.io/research/" >Research</a></li>
+					  
+					    
+					    <li><a href="//jdyeakel.github.io/teaching/" >Teaching</a></li>
+					  
+					    
+					    <li><a href="//jdyeakel.github.io/collab/" >Collaborators</a></li>
+					  
+					    
+					    <li><a href="//jdyeakel.github.io/CV/" >Publications</a></li>
+					  
+					    
+					    <li><a href="//jdyeakel.github.io/posts/" >Posts</a></li>
+					  
+		    </ul>
+		</nav>
+	</div><!-- /.top-navigation -->
+</div><!-- /.navigation-wrapper -->
+
+
+
+<div id="main" role="main">
+  <div class="article-author-side">
+	  
+
+
+	<img src="//jdyeakel.github.io/images/ecology/elephants_small.jpg" class="bio-photo" alt="Justin D. Yeakel bio photo"></a>
+
+<h3>Fundamentals of Ecology</h3>
+<p>"The Earth is what we all have in common"<br> -Wendell Barry</p>
+<!-- <a href="mailto:jdyeakel@gmail.com" class="author-social" target="_blank"><i class="fa fa-envelope-square"></i> Email</a>
+
+
+
+
+
+<a href="http://github.com/jdyeakel" class="author-social" target="_blank"><i class="fa fa-github"></i> Github</a>
+
+
+
+
+
+
+<a href="http://twitter.com/jdyeakel" class="author-social" target="_blank"><i class="fa fa-twitter-square"></i> Twitter</a> -->
+
+ </div>
+  <article>
+    <h1>Section 6 :: Game Theory</h1>
+    <div class="article-wrap">
+      <h2 id="games">Games</h2>
+
+<h2 id="payoff-matrix">Payoff Matrix</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th> </th>
+      <th>Species A</th>
+      <th>Species B</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Species A</td>
+      <td>A-A</td>
+      <td>A-B</td>
+    </tr>
+    <tr>
+      <td>Species B</td>
+      <td>B-A</td>
+      <td>B-B</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th>Tables</th>
+      <th style="text-align: center">Are</th>
+      <th style="text-align: right">Cool</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>col 1 is</td>
+      <td style="text-align: center">left-aligned</td>
+      <td style="text-align: right">$1600</td>
+    </tr>
+    <tr>
+      <td>col 2 is</td>
+      <td style="text-align: center">centered</td>
+      <td style="text-align: right">$12</td>
+    </tr>
+    <tr>
+      <td>col 3 is</td>
+      <td style="text-align: center">right-aligned</td>
+      <td style="text-align: right">$1</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th> </th>
+      <th> </th>
+      <th> </th>
+      <th> </th>
+      <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="population-flow">Population flow</h2>
+
+<div class="language-R highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="w">    </span><span class="c1"># Define the evolutionary game function</span><span class="w">
+    </span><span class="n">evo.game</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">function</span><span class="p">(</span><span class="n">a</span><span class="p">,</span><span class="n">b</span><span class="p">,</span><span class="n">c</span><span class="p">,</span><span class="n">d</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w">
+        </span><span class="c1"># Proportion of A in population</span><span class="w">
+        </span><span class="n">propA</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">seq</span><span class="p">(</span><span class="m">0</span><span class="p">,</span><span class="m">1</span><span class="p">,</span><span class="m">0.05</span><span class="p">)</span><span class="w">
+
+        </span><span class="n">fA</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">a</span><span class="o">*</span><span class="n">propA</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">b</span><span class="o">*</span><span class="p">(</span><span class="m">1</span><span class="o">-</span><span class="n">propA</span><span class="p">)</span><span class="w">
+        </span><span class="n">fB</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">c</span><span class="o">*</span><span class="n">propA</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">d</span><span class="o">*</span><span class="p">(</span><span class="m">1</span><span class="o">-</span><span class="n">propA</span><span class="p">)</span><span class="w">
+
+        </span><span class="n">plot</span><span class="p">(</span><span class="n">propA</span><span class="p">,</span><span class="n">fA</span><span class="p">,</span><span class="n">type</span><span class="o">=</span><span class="s1">'l'</span><span class="p">,</span><span class="n">col</span><span class="o">=</span><span class="s1">'blue'</span><span class="p">,</span><span class="n">lwd</span><span class="o">=</span><span class="m">2</span><span class="p">,</span><span class="n">ylim</span><span class="o">=</span><span class="nf">c</span><span class="p">(</span><span class="nf">min</span><span class="p">(</span><span class="nf">c</span><span class="p">(</span><span class="n">fA</span><span class="p">,</span><span class="n">fB</span><span class="p">)),</span><span class="nf">max</span><span class="p">(</span><span class="nf">c</span><span class="p">(</span><span class="n">fA</span><span class="p">,</span><span class="n">fB</span><span class="p">))),</span><span class="n">xlab</span><span class="o">=</span><span class="s1">'Proportion of A in population'</span><span class="p">,</span><span class="n">ylab</span><span class="o">=</span><span class="s1">'Relative fitness'</span><span class="p">)</span><span class="w">
+        </span><span class="n">lines</span><span class="p">(</span><span class="n">propA</span><span class="p">,</span><span class="n">fB</span><span class="p">,</span><span class="n">col</span><span class="o">=</span><span class="s1">'red'</span><span class="p">,</span><span class="n">lwd</span><span class="o">=</span><span class="m">2</span><span class="p">)</span><span class="w"> 
+
+        </span><span class="n">text</span><span class="p">(</span><span class="m">0</span><span class="p">,(</span><span class="m">1+0.05</span><span class="p">)</span><span class="o">*</span><span class="nf">min</span><span class="p">(</span><span class="nf">c</span><span class="p">(</span><span class="n">fA</span><span class="p">,</span><span class="n">fB</span><span class="p">)),</span><span class="s1">'Flow'</span><span class="p">,</span><span class="n">cex</span><span class="o">=</span><span class="m">2</span><span class="p">)</span><span class="w">
+        </span><span class="k">for</span><span class="w"> </span><span class="p">(</span><span class="n">i</span><span class="w"> </span><span class="k">in</span><span class="w"> </span><span class="m">1</span><span class="o">:</span><span class="nf">length</span><span class="p">(</span><span class="n">propA</span><span class="p">))</span><span class="w"> </span><span class="p">{</span><span class="w">
+            </span><span class="n">loc</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">i</span><span class="w">
+            </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">fA</span><span class="p">[</span><span class="n">loc</span><span class="p">]</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="n">fB</span><span class="p">[</span><span class="n">loc</span><span class="p">])</span><span class="w"> </span><span class="p">{</span><span class="w">
+                </span><span class="c1"># points(propA[i],min(c(fA,fB)),pch=16)</span><span class="w">
+                </span><span class="n">text</span><span class="p">(</span><span class="n">propA</span><span class="p">[</span><span class="n">i</span><span class="p">],</span><span class="nf">min</span><span class="p">(</span><span class="nf">c</span><span class="p">(</span><span class="n">fA</span><span class="p">,</span><span class="n">fB</span><span class="p">)),</span><span class="s1">'&gt;'</span><span class="p">,</span><span class="n">cex</span><span class="o">=</span><span class="m">2</span><span class="p">)</span><span class="w">
+            </span><span class="p">}</span><span class="w"> 
+            </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">fA</span><span class="p">[</span><span class="n">loc</span><span class="p">]</span><span class="w"> </span><span class="o">&lt;</span><span class="w"> </span><span class="n">fB</span><span class="p">[</span><span class="n">loc</span><span class="p">])</span><span class="w"> </span><span class="p">{</span><span class="w">
+                </span><span class="c1"># points(propA[i],min(c(fA,fB)),pch=1)</span><span class="w">
+                </span><span class="n">text</span><span class="p">(</span><span class="n">propA</span><span class="p">[</span><span class="n">i</span><span class="p">],</span><span class="nf">min</span><span class="p">(</span><span class="nf">c</span><span class="p">(</span><span class="n">fA</span><span class="p">,</span><span class="n">fB</span><span class="p">)),</span><span class="s1">'&lt;'</span><span class="p">,</span><span class="n">cex</span><span class="o">=</span><span class="m">2</span><span class="p">)</span><span class="w">
+            </span><span class="p">}</span><span class="w">
+            </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">fA</span><span class="p">[</span><span class="n">loc</span><span class="p">]</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="n">fB</span><span class="p">[</span><span class="n">loc</span><span class="p">])</span><span class="w"> </span><span class="p">{</span><span class="w">
+                </span><span class="c1"># points(propA[i],min(c(fA,fB)),pch=1)</span><span class="w">
+                </span><span class="n">text</span><span class="p">(</span><span class="n">propA</span><span class="p">[</span><span class="n">i</span><span class="p">],</span><span class="nf">min</span><span class="p">(</span><span class="nf">c</span><span class="p">(</span><span class="n">fA</span><span class="p">,</span><span class="n">fB</span><span class="p">)),</span><span class="s1">'--'</span><span class="p">,</span><span class="n">cex</span><span class="o">=</span><span class="m">2</span><span class="p">)</span><span class="w">
+            </span><span class="p">}</span><span class="w">
+        </span><span class="p">}</span><span class="w">
+    </span><span class="p">}</span><span class="w">
+
+    </span><span class="n">evo.game</span><span class="p">(</span><span class="n">a</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">3</span><span class="p">,</span><span class="w"> </span><span class="n">b</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">5</span><span class="p">,</span><span class="w"> </span><span class="n">c</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">5</span><span class="p">,</span><span class="n">d</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">3</span><span class="p">)</span><span class="w">
+
+</span></code></pre></div></div>
+
+<h2 id="fitness-and-population-change-over-time">Fitness and population change over time</h2>
+
+<div class="language-R highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="w">    </span><span class="n">game.pop</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">function</span><span class="p">(</span><span class="n">a</span><span class="p">,</span><span class="n">b</span><span class="p">,</span><span class="n">c</span><span class="p">,</span><span class="n">d</span><span class="p">,</span><span class="n">propA</span><span class="p">,</span><span class="n">tmax</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w">
+        </span><span class="c1">#Initial values</span><span class="w">
+        </span><span class="n">fA</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">a</span><span class="o">*</span><span class="n">propA</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">b</span><span class="o">*</span><span class="p">(</span><span class="m">1</span><span class="o">-</span><span class="n">propA</span><span class="p">)</span><span class="w">
+        </span><span class="n">fB</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">c</span><span class="o">*</span><span class="n">propA</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">d</span><span class="o">*</span><span class="p">(</span><span class="m">1</span><span class="o">-</span><span class="n">propA</span><span class="p">)</span><span class="w">
+        </span><span class="n">favg</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">propA</span><span class="o">*</span><span class="n">fA</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="p">(</span><span class="m">1</span><span class="o">-</span><span class="n">propA</span><span class="p">)</span><span class="o">*</span><span class="n">fB</span><span class="w">
+
+        </span><span class="n">pA</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">numeric</span><span class="p">(</span><span class="n">tmax</span><span class="p">)</span><span class="w">
+        </span><span class="n">Favg</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">numeric</span><span class="p">(</span><span class="n">tmax</span><span class="p">)</span><span class="w">
+        </span><span class="n">FA</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">numeric</span><span class="p">(</span><span class="n">tmax</span><span class="p">)</span><span class="w">
+        </span><span class="n">FB</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">numeric</span><span class="p">(</span><span class="n">tmax</span><span class="p">)</span><span class="w">
+        </span><span class="n">pA</span><span class="p">[</span><span class="m">1</span><span class="p">]</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">propA</span><span class="w">
+        </span><span class="k">for</span><span class="w"> </span><span class="p">(</span><span class="n">t</span><span class="w"> </span><span class="k">in</span><span class="w"> </span><span class="m">1</span><span class="o">:</span><span class="p">(</span><span class="n">tmax</span><span class="m">-1</span><span class="p">))</span><span class="w"> </span><span class="p">{</span><span class="w">
+            </span><span class="n">fA</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">a</span><span class="o">*</span><span class="n">pA</span><span class="p">[</span><span class="n">t</span><span class="p">]</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">b</span><span class="o">*</span><span class="p">(</span><span class="m">1</span><span class="o">-</span><span class="n">pA</span><span class="p">[</span><span class="n">t</span><span class="p">])</span><span class="w">
+            </span><span class="n">fB</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">c</span><span class="o">*</span><span class="n">pA</span><span class="p">[</span><span class="n">t</span><span class="p">]</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">d</span><span class="o">*</span><span class="p">(</span><span class="m">1</span><span class="o">-</span><span class="n">pA</span><span class="p">[</span><span class="n">t</span><span class="p">])</span><span class="w">
+            </span><span class="n">favg</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">pA</span><span class="p">[</span><span class="n">t</span><span class="p">]</span><span class="o">*</span><span class="n">fA</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="p">(</span><span class="m">1</span><span class="o">-</span><span class="n">pA</span><span class="p">[</span><span class="n">t</span><span class="p">])</span><span class="o">*</span><span class="n">fB</span><span class="w">
+            </span><span class="n">deltaA</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">pA</span><span class="p">[</span><span class="n">t</span><span class="p">]</span><span class="o">*</span><span class="p">(</span><span class="n">fA</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="n">favg</span><span class="p">)</span><span class="w">
+            </span><span class="n">deltaB</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="p">(</span><span class="m">1</span><span class="o">-</span><span class="n">pA</span><span class="p">[</span><span class="n">t</span><span class="p">])</span><span class="o">*</span><span class="p">(</span><span class="n">fB</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="n">favg</span><span class="p">)</span><span class="w">
+
+            </span><span class="n">pA</span><span class="p">[</span><span class="n">t</span><span class="m">+1</span><span class="p">]</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">pA</span><span class="p">[</span><span class="n">t</span><span class="p">]</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">deltaA</span><span class="w">
+            </span><span class="n">Favg</span><span class="p">[</span><span class="n">t</span><span class="p">]</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">favg</span><span class="w">
+            </span><span class="n">FA</span><span class="p">[</span><span class="n">t</span><span class="p">]</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">fA</span><span class="w">
+            </span><span class="n">FB</span><span class="p">[</span><span class="n">t</span><span class="p">]</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">fB</span><span class="w">
+        </span><span class="p">}</span><span class="w">
+        </span><span class="n">plot</span><span class="p">(</span><span class="n">pA</span><span class="p">,</span><span class="n">type</span><span class="o">=</span><span class="s1">'l'</span><span class="p">,</span><span class="n">lwd</span><span class="o">=</span><span class="m">2</span><span class="p">,</span><span class="n">ylim</span><span class="o">=</span><span class="nf">c</span><span class="p">(</span><span class="m">0</span><span class="p">,</span><span class="m">1</span><span class="p">),</span><span class="n">col</span><span class="o">=</span><span class="s1">'blue'</span><span class="p">)</span><span class="w">
+        </span><span class="n">lines</span><span class="p">((</span><span class="m">1</span><span class="o">-</span><span class="n">pA</span><span class="p">),</span><span class="n">type</span><span class="o">=</span><span class="s1">'l'</span><span class="p">,</span><span class="n">lwd</span><span class="o">=</span><span class="m">2</span><span class="p">,</span><span class="n">col</span><span class="o">=</span><span class="s1">'red'</span><span class="p">)</span><span class="w">
+    </span><span class="p">}</span><span class="w">
+
+    </span><span class="n">game.pop</span><span class="p">(</span><span class="n">a</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">3</span><span class="p">,</span><span class="w"> </span><span class="n">b</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">5</span><span class="p">,</span><span class="w"> </span><span class="n">c</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">5</span><span class="p">,</span><span class="n">d</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">3</span><span class="p">,</span><span class="w"> </span><span class="n">propA</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.1</span><span class="p">,</span><span class="w"> </span><span class="n">tmax</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">20</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
+
+<p>Cycles
+<code class="highlighter-rouge">game.pop(a = 4, b = 8, c = 8,d = 3, propA = 0.00001, tmax = 20)</code></p>
+
+<h2 id="with-noise">With Noise?</h2>
+
+<h2 id="fitness-and-population-change-over-time-1">Fitness and population change over time</h2>
+
+<div class="language-R highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="w">    </span><span class="n">game.pop</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">function</span><span class="p">(</span><span class="n">a</span><span class="p">,</span><span class="n">b</span><span class="p">,</span><span class="n">c</span><span class="p">,</span><span class="n">d</span><span class="p">,</span><span class="n">propA</span><span class="p">,</span><span class="n">tmax</span><span class="p">,</span><span class="n">noise</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w">
+        </span><span class="c1">#Initial values</span><span class="w">
+        </span><span class="n">fA</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">a</span><span class="o">*</span><span class="n">propA</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">b</span><span class="o">*</span><span class="p">(</span><span class="m">1</span><span class="o">-</span><span class="n">propA</span><span class="p">)</span><span class="w">
+        </span><span class="n">fB</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">c</span><span class="o">*</span><span class="n">propA</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">d</span><span class="o">*</span><span class="p">(</span><span class="m">1</span><span class="o">-</span><span class="n">propA</span><span class="p">)</span><span class="w">
+        </span><span class="n">favg</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">propA</span><span class="o">*</span><span class="n">fA</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="p">(</span><span class="m">1</span><span class="o">-</span><span class="n">propA</span><span class="p">)</span><span class="o">*</span><span class="n">fB</span><span class="w">
+
+        </span><span class="n">pA</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">numeric</span><span class="p">(</span><span class="n">tmax</span><span class="p">)</span><span class="w">
+        </span><span class="n">Favg</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">numeric</span><span class="p">(</span><span class="n">tmax</span><span class="p">)</span><span class="w">
+        </span><span class="n">FA</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">numeric</span><span class="p">(</span><span class="n">tmax</span><span class="p">)</span><span class="w">
+        </span><span class="n">FB</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">numeric</span><span class="p">(</span><span class="n">tmax</span><span class="p">)</span><span class="w">
+        </span><span class="n">pA</span><span class="p">[</span><span class="m">1</span><span class="p">]</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">propA</span><span class="w">
+        </span><span class="k">for</span><span class="w"> </span><span class="p">(</span><span class="n">t</span><span class="w"> </span><span class="k">in</span><span class="w"> </span><span class="m">1</span><span class="o">:</span><span class="p">(</span><span class="n">tmax</span><span class="m">-1</span><span class="p">))</span><span class="w"> </span><span class="p">{</span><span class="w">
+            </span><span class="n">fA</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">a</span><span class="o">*</span><span class="n">pA</span><span class="p">[</span><span class="n">t</span><span class="p">]</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">b</span><span class="o">*</span><span class="p">(</span><span class="m">1</span><span class="o">-</span><span class="n">pA</span><span class="p">[</span><span class="n">t</span><span class="p">])</span><span class="w">
+            </span><span class="n">fB</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">c</span><span class="o">*</span><span class="n">pA</span><span class="p">[</span><span class="n">t</span><span class="p">]</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">d</span><span class="o">*</span><span class="p">(</span><span class="m">1</span><span class="o">-</span><span class="n">pA</span><span class="p">[</span><span class="n">t</span><span class="p">])</span><span class="w">
+            </span><span class="n">favg</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="p">(</span><span class="n">pA</span><span class="p">[</span><span class="n">t</span><span class="p">]</span><span class="o">*</span><span class="n">fA</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="p">(</span><span class="m">1</span><span class="o">-</span><span class="n">pA</span><span class="p">[</span><span class="n">t</span><span class="p">])</span><span class="o">*</span><span class="n">fB</span><span class="p">)</span><span class="o">*</span><span class="p">(</span><span class="m">1</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">rnorm</span><span class="p">(</span><span class="m">1</span><span class="p">,</span><span class="m">0</span><span class="p">,</span><span class="n">noise</span><span class="p">))</span><span class="w">
+            </span><span class="n">deltaA</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">pA</span><span class="p">[</span><span class="n">t</span><span class="p">]</span><span class="o">*</span><span class="p">(</span><span class="n">fA</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="n">favg</span><span class="p">)</span><span class="w">
+            </span><span class="n">deltaB</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="p">(</span><span class="m">1</span><span class="o">-</span><span class="n">pA</span><span class="p">[</span><span class="n">t</span><span class="p">])</span><span class="o">*</span><span class="p">(</span><span class="n">fB</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="n">favg</span><span class="p">)</span><span class="w">
+
+            </span><span class="n">pA</span><span class="p">[</span><span class="n">t</span><span class="m">+1</span><span class="p">]</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">max</span><span class="p">(</span><span class="m">0</span><span class="p">,</span><span class="nf">min</span><span class="p">(</span><span class="m">1</span><span class="p">,</span><span class="n">pA</span><span class="p">[</span><span class="n">t</span><span class="p">]</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">deltaA</span><span class="p">))</span><span class="w">
+            </span><span class="n">Favg</span><span class="p">[</span><span class="n">t</span><span class="p">]</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">favg</span><span class="w">
+            </span><span class="n">FA</span><span class="p">[</span><span class="n">t</span><span class="p">]</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">fA</span><span class="w">
+            </span><span class="n">FB</span><span class="p">[</span><span class="n">t</span><span class="p">]</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">fB</span><span class="w">
+        </span><span class="p">}</span><span class="w">
+        </span><span class="n">plot</span><span class="p">(</span><span class="n">pA</span><span class="p">,</span><span class="n">type</span><span class="o">=</span><span class="s1">'l'</span><span class="p">,</span><span class="n">lwd</span><span class="o">=</span><span class="m">2</span><span class="p">,</span><span class="n">ylim</span><span class="o">=</span><span class="nf">c</span><span class="p">(</span><span class="m">0</span><span class="p">,</span><span class="m">1</span><span class="p">),</span><span class="n">col</span><span class="o">=</span><span class="s1">'blue'</span><span class="p">)</span><span class="w">
+        </span><span class="n">lines</span><span class="p">((</span><span class="m">1</span><span class="o">-</span><span class="n">pA</span><span class="p">),</span><span class="n">type</span><span class="o">=</span><span class="s1">'l'</span><span class="p">,</span><span class="n">lwd</span><span class="o">=</span><span class="m">2</span><span class="p">,</span><span class="n">col</span><span class="o">=</span><span class="s1">'red'</span><span class="p">)</span><span class="w">
+    </span><span class="p">}</span><span class="w">
+
+    </span><span class="n">game.pop</span><span class="p">(</span><span class="n">a</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">3</span><span class="p">,</span><span class="w"> </span><span class="n">b</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">5</span><span class="p">,</span><span class="w"> </span><span class="n">c</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">5</span><span class="p">,</span><span class="n">d</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">3</span><span class="p">,</span><span class="w"> </span><span class="n">propA</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.1</span><span class="p">,</span><span class="w"> </span><span class="n">tmax</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">20</span><span class="p">,</span><span class="w"> </span><span class="n">noise</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.1</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
+
+
+    </div><!-- /.article-wrap -->
+    
+  </article>
+</div><!-- /#index -->
+
+<div class="footer-wrap">
+  <footer>
+    <div class="google-ads">
+  <!-- 320 x 50 ad -->
+  <script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <ins class="adsbygoogle"
+       style="display:inline-block;width:320px;height:50px"
+       data-ad-client=""
+       data-ad-slot=""></ins>
+  <script>
+  (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+</div><!-- /.google-ads -->
+
+<span>&copy; 2020 Justin D. Yeakel. Powered by <a href="http://jekyllrb.com">Jekyll</a> using the <a href="http://mademistakes.com/minimal-mistakes/">Minimal Mistakes</a> theme.</span>
+
+  </footer>
+</div><!-- /.footer-wrap -->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="//jdyeakel.github.io/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="//jdyeakel.github.io/assets/js/scripts.min.js"></script>
+
+
+  
+          
+
+</body>
+</html>

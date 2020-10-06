@@ -56,16 +56,16 @@ tr:nth-child(odd) {background: #FFF}
 |   |   |   |   |   |   |
 | **10/1** | **(R-L10)** | Life history | Life history diversity and tradeoffs | Bowman Ch. 7 |    |
 |    **10/2**     | **(F-D5)** | Disc 5 |  [Life history strategies]({{ site.url }}/teaching/ecology/section5/)  |   |     |
-| **10/6** | **(T-L11)** | Behavior | Behavioral ecology | Bowman Ch. 8 |    |
-| **10/8** | **(R-L12)** | Games | Evolutionary Game Theory | Easley & Kleinberg |    |
+| **10/6** | **(T-L11)** | Behavior | Behavioral ecology | Bowman Ch. 8, [Sinervo]({{ site.url }}/teaching/ecology/papers/optimalforaging.pdf) |    |
+| **10/8** | **(R-L12)** | Games | Evolutionary Game Theory | [Easley & Kleinberg]({{ site.url }}/teaching/ecology/papers/EvolGameTheory.pdf) |    |
 |     **10/9**    | **(F-D6)** | Disc 6 |  Evolutionary Games  |  |    |
 | **10/13** | **(T-L13)** | Populations 1 | Density dependence and population dynamics | Bowman Ch. 10 |  HW-3 due  |
 | **10/15** | **(R-L14)** | Populations 2 | Logistic Growth & Discrete dynamics  |    |    |
-|     **10/16**    | **(F-D7)** | Disc 7 |  Exponential and logistic growth 1 |  |  HW-5 due  |
-| **10/20** | **(T-L15)** | Populations 3 | Fluctuations | Bowman Ch. 11.1-11.3 |    |
+|     **10/16**    | **(F-D7)** | Disc 7 |  Exponential and logistic growth 1 |  |    |
+| **10/20** | **(T-L15)** | Populations 3 | Fluctuations | Bowman Ch. 11.1-11.3 |  HW-4 due  |
 | **10/22** | **(R-L16)** | Populations 4 | Extinctions |  |    |
-|    **10/23**     | **(F-D8)** | Disc 8 | Exponential and logistic growth 2  |  |  HW-6 due  |
-| **10/27** | **(T)** | ***EXAM 2*** |   |   |    |
+|    **10/23**     | **(F-D8)** | Disc 8 | Exponential and logistic growth 2  |  |    |
+| **10/27** | **(T)** | ***EXAM 2*** |   |   |  HW-5 due  |
 |   |   |   |   |   |   |
 |   |   |   |   |   |   |
 | **10/29** | **(T-L17)** | Competition 1 | Competition | Bowman Ch. 14 |    |
