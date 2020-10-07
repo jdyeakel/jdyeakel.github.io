@@ -36,6 +36,8 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 3. [Section 3 (Friday, September 18)]({{ site.url }}/teaching/ecology/section3/)  
 4. [Section 4 (Friday, September 25)]({{ site.url }}/teaching/ecology/section4/)  
 5. [Section 5 (Friday, October 2)]({{ site.url }}/teaching/ecology/section5/)  
+6. [Section 5 (Friday, October 8)]({{ site.url }}/teaching/ecology/section6/)  
+
 
 ## Lecture Slides
 1. [Lecture 1 & 2]({{ site.url }}/teaching/ecology/Lect1_2_BIO148.pdf)  

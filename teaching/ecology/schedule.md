@@ -58,7 +58,7 @@ tr:nth-child(odd) {background: #FFF}
 |    **10/2**     | **(F-D5)** | Disc 5 |  [Life history strategies]({{ site.url }}/teaching/ecology/section5/)  |   |     |
 | **10/6** | **(T-L11)** | Behavior | Behavioral ecology | Bowman Ch. 8, [Sinervo]({{ site.url }}/teaching/ecology/papers/optimalforaging.pdf){:target="_blank"} |    |
 | **10/8** | **(R-L12)** | Games | Evolutionary Game Theory | [Easley & Kleinberg]({{ site.url }}/teaching/ecology/papers/EvolGameTheory.pdf){:target="_blank"} |    |
-|     **10/9**    | **(F-D6)** | Disc 6 |  Evolutionary Games  |  |    |
+|     **10/9**    | **(F-D6)** | Disc 6 |  [Ecological Games]({{ site.url }}/teaching/ecology/section6/)    |  |    |
 | **10/13** | **(T-L13)** | Populations 1 | Density dependence and population dynamics | Bowman Ch. 10 |  HW-3 due  |
 | **10/15** | **(R-L14)** | Populations 2 | Logistic Growth & Discrete dynamics  |    |    |
 |     **10/16**    | **(F-D7)** | Disc 7 |  Exponential and logistic growth 1 |  |    |

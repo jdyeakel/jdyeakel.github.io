@@ -182,7 +182,7 @@ Notice that $$\Delta x$$ is positive if $$\Phi_A > \Psi$$ and negative if $$\Phi
 
 These are a simple set of rules, so let's code this into a simulation, which is presented in the code-block below. As before, we need to set the values of the payoff matrix $$(a,b,c,d)$$, but now we also need to set:
 *   `propA` = the initial proportion of A-type in the population
-*   `tmax` = the number of time steps of which we are simulating
+*   `tmax` = the number over time steps of which we are simulating
 
 ```R
     game.pop = function(a,b,c,d,propA,tmax) {
@@ -221,6 +221,11 @@ These are a simple set of rules, so let's code this into a simulation, which is 
 
 > ### Discussion
 > 1. Use the values that you used above to explore the dynamic consequences of Scenarios 1-5. Do they confirm your expectations?
+>       1. Scenario 1: $$ a > c~{\rm and}~b > d $$
+>       2. Scenario 2: $$ a < c~{\rm and}~b < d $$
+>       3. Scenario 3: $$ a > c~{\rm and}~b < d $$
+>       4. Scenario 4: $$ a = c~{\rm and}~b = d $$
+>       5. Scenario 5: $$ a > c~{\rm and}~b > d $$
 > 2. What is the effect of setting `propA` to a very low value? (e.g. `propA = 0.0001`) Consider what this might mean for invading populations.
 > 3. Evaluate the following: `game.pop(a = 4, b = 8, c = 8,d = 3, propA = 0.00001, tmax = 20)` What scenario is this with respect to? What is surprising about these results? Without simulating the dynamics of A/B-type composition within the population explicitly (i.e. given the payoff matrix alone as in the example before this one), would you have been able to predict the observed dynamics?
 > 4. Consider what the above results might mean in an environment this is subject to frequent disturbance.
