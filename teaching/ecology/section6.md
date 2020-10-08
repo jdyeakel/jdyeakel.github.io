@@ -8,14 +8,14 @@ comments: true
 
 ## Games in Biology
 
-We are all used to games, from *Uno* to *World of Warcraft*, if that's your bag. But the basic idea of a game... pitting players against each other or against the board itself captures some basic and universal ideas that are vital for understanding ecology and evolutionary biology. In a sense, we have already been exploring *games*. For example, in the previous Section we examined how different strategies - even in the relatively simple context of a *yes/no* decision - can be evaluated against each other to find that which is fitness-maximizing. This was a *game* in a relatively static sense. We examined a tradeoffs, where the costs and gains of making a *yes* decision resulted in a fitness value that could be compared against that of making a *no* decision.
+We are all used to games, from *Uno* to *World of Warcraft*, if that's your bag. But the basic idea of a game - pitting players against each other or against the board itself - captures some basic and universal ideas that are vital for understanding ecology and evolutionary biology. In a sense, we have already been exploring *games*. For example, in the previous Section we examined how different strategies - even in the relatively simple context of a *yes/no* decision - can be evaluated against each other to find that which is fitness-maximizing. This was a *game* in a relatively static sense. We examined a tradeoff, where the costs and gains of making a *yes* decision resulted in a fitness value that could be compared against that of making a *no* decision.
 
-In many ecological contexts, the *games* organisms play involve an interaction with another player. This means that the outcome of the game is conditioned on the strengths and weaknesses the other player brings to the table. For example, imagine a beetle population where there are are two morphs: a smaller-sized morph and a larger-sized morph. These morphs reflect different allelic combinations at the genetic level. Because both small and large morphs are of the same species, they compete for the same types of resources. This competition can be described as a *game*, and the game is expected to have different outcomes depending on who is playing. For example, let's follow an individual that is a large body-size morph. While foraging for resources, it will encounter morphs of it's own larger size, as well as morphs of a smaller size. The costs and benefits of engaging with these competing individuals will influence the outcome and ultimately the individuals fitness. As we have so often explored, fitness = survival + reproduction. If we are discussing the frequency of different alleles within a population, this means that allelic combinations that are more fit - that play games with strategies that maximize fitness - will be favored and eventually overtake the population.
+In many ecological contexts, the *games* organisms play involve an interaction with another player. This means that the outcome of the game is conditioned on the strengths and weaknesses the other player brings to the table. For example, imagine a beetle population where there are two morphs: a smaller-sized morph and a larger-sized morph. These morphs reflect different allelic combinations at the genetic level. Because both small and large morphs are of the same species, they compete for the same types of resources. This competition can be described as a *game*, and the game is expected to have different outcomes depending on who is playing. For example, let's follow an individual that is a large body-size morph. While foraging for resources, it will encounter morphs of its own larger size, as well as morphs of a smaller size. The costs and benefits of engaging with these potential competitors will influence the outcome and ultimately the individual's fitness. As we have so often explored, *fitness = survival + reproduction*. If we are discussing the frequency of different alleles within a population, this means that allelic combinations that are more fit - that play games with strategies that maximize fitness - will be favored and potentially overtake the population.
 
 
 ## The Payoff Matrix
 
-We can visualize a simple game with a payoff matrix. They way we can read this matrix is by considering the rows of the matrix as representing alternative player types and the rows of the matrix as describing encounters between the player type in the row and the player type in the column. So take the matrix below... this describes the most famous *game* scenario, called *The Prisoner's Dilemma*. We follow the outcome of a prisoner who is planning an escape from jail with a co-conspirator. The prisoner can take on either strategy (the *rows* of the matrix): they can *cooperate* with their co-conspirator, or they can *defect* and turn their co-conspirator in to the authorities. Likewise, their co-conspirator can take on the same set of strategies (the *columns* of the matrix). They can cooperate or they can defect.
+We can visualize a simple game with a *Payoff Matrix*. The way we read this matrix is by considering the rows of the matrix as representing alternative player types and the columns of the matrix as describing individuals that are encountered. So take the matrix below... this describes the most famous *game* scenario, called *The Prisoner's Dilemma*. We follow the outcome of a prisoner who is planning an escape from jail with a co-conspirator. The prisoner can take on either strategy (the *rows* of the matrix): they can *cooperate* with their co-conspirator, or they can *defect* and turn their co-conspirator in to the authorities. Likewise, their co-conspirator can take on the same set of strategies (the *columns* of the matrix). They can cooperate or they can defect.
 
 <figure>
 <img src="{{ site.url }}/images/ecology/prisdil.jpg" width="700">
@@ -23,8 +23,8 @@ We can visualize a simple game with a payoff matrix. They way we can read this m
 </figcaption>
 </figure>
 
-The elements of the Payoff matrix describe what Species A receives when the different scenarios outlined in the payoff matrix occur. So there are only a few things that can happen here:
-1. Prisoner A (PA) cooperates and prisoner B (PB) cooperates as well. PA and PB receive $$ R $$, the *reward*
+The elements of the Payoff Matrix describe what Prisoner A receives when the different scenarios outlined in the payoff matrix occur. So there are only a few things that can happen here:
+1. Prisoner A (PA) cooperates and prisoner B (PB) cooperates as well. PA and PB receive $$ R $$, the *reward* (this 'reward' could also represent a lesser punishment)
 2. PA cooperates, but PB defects. PA receives $$S$$. This is the *sucker's payoff*  
 3. PA defects, but PB cooperates. PA receives $$T$$. This is the *temptation payoff*  
         *   Note that for (2) PB in that scenario receives $$T$$  
@@ -105,16 +105,20 @@ Choose values for $$(a,b,c,d)$$ that satisfy these conditions and see how this t
 ```R
     # Define the evolutionary game function
     evo.game = function(a,b,c,d) {
+
         # Proportion of A in population
         propA = seq(0,1,0.05)
-
+        
+        # Define fitness values of A and B
         fA = a*propA + b*(1-propA)
         fB = c*propA + d*(1-propA)
 
+        # Plot fitness values as a function of propA
         plot(propA,fA,type='l',col='blue',lwd=2,ylim=c(min(c(fA,fB)),max(c(fA,fB))),xlab='Proportion of A in population (x)',ylab='Relative fitness')
         lines(propA,fB,col='red',lwd=2) 
         legend(0.8,max(c(fA,fB)),c('A-type','B-type'),pch=15,col=c('blue','red'))
 
+        # Add flow information
         text(0.05,(1+0.1)*min(c(fA,fB)),'Flow',cex=1.5)
         for (i in 1:length(propA)) {
             loc = i
@@ -186,16 +190,21 @@ These are a simple set of rules, so let's code this into a simulation, which is 
 
 ```R
     game.pop = function(a,b,c,d,propA,tmax) {
-        #Initial values
+        # Define fitness of A and B
         fA = a*propA + b*(1-propA)
         fB = c*propA + d*(1-propA)
+
+        # Define average fitness
         favg = propA*fA + (1-propA)*fB
 
+        # Empty vectors to save data
         pA = numeric(tmax)
         Favg = numeric(tmax)
         FA = numeric(tmax)
         FB = numeric(tmax)
         pA[1] = propA
+
+        # Time simulation
         for (t in 1:(tmax-1)) {
             fA = a*pA[t] + b*(1-pA[t])
             fB = c*pA[t] + d*(1-pA[t])
