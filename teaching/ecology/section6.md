@@ -6,6 +6,9 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 ---
 
+[< Back to Course Page]({{ site.url }}/teaching/ecology)  
+<br>
+
 ## Games in Biology
 
 We are all used to games, from *Uno* to *World of Warcraft*, if that's your bag. But the basic idea of a game - pitting players against each other or against the board itself - captures some basic and universal ideas that are vital for understanding ecology and evolutionary biology. In a sense, we have already been exploring *games*. For example, in the previous Section we examined how different strategies - even in the relatively simple context of a *yes/no* decision - can be evaluated against each other to find that which is fitness-maximizing. This was a *game* in a relatively static sense. We examined a tradeoff, where the costs and gains of making a *yes* decision resulted in a fitness value that could be compared against that of making a *no* decision.
