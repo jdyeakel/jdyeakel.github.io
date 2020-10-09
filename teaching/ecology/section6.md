@@ -220,7 +220,7 @@ These are a simple set of rules, so let's code this into a simulation, which is 
             FA[t] = fA
             FB[t] = fB
         }
-        plot(pA,type='l',lwd=2,ylim=c(0,1),col='blue',xlab='Proportion of Type A',xlab='Time')
+        plot(pA,type='l',lwd=2,ylim=c(0,1),col='blue',ylab='Proportion of Type A',xlab='Time')
         lines((1-pA),type='l',lwd=2,col='red')
         legend(0.8,1,c('Prop. A','Prop. B'),pch=15,col=c('blue','red'))
 
