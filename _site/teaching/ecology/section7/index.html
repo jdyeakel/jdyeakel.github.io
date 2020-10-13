@@ -168,9 +168,9 @@ N(t+\Delta t) &amp;= N(t) + (B - D)\Delta t \\
 N(t + \Delta t) - N(t) &amp;= (B - D)\Delta t
 \end{align}\]
 
-<p>This means something <em>slightly</em> different. We are saying that \(B\) and \(D\) represent the total births and total deaths <em>per unit time</em>. So if \(B\) \(D\) represent total births and total deaths per day, then the size of our temporal window \(\Delta t\) will increase or decrease the total number of births and deaths with respect to the size of the window. If \(\Delta t\) is 30 days, then the total number of births and deaths represent those expected within a month given the daily rates of \(B\) and \(D\). The second line is simply an algebraic manipulation of the first line, showing that within the temporal window \(\Delta t\) the change in that population over that time is equal to the total births minus total deaths.</p>
+<p>This means something <em>slightly</em> different. We are saying that \(B\) and \(D\) represent the total births and total deaths <em>per unit time</em>. So if \(B\) and \(D\) represent total births and total deaths per day, then the size of our temporal window \(\Delta t\) will increase or decrease the total number of births and deaths with respect to the size of the window. If \(\Delta t\) is 30 days, then the total number of births and deaths represent those expected within a month given the daily rates of \(B\) and \(D\). The second line is simply an algebraic manipulation of the first line, showing that within the temporal window \(\Delta t\) the change in that population over that time is equal to the total births minus total deaths.</p>
 
-<p>Now the question is: should we always expect the same number of births and deaths for a given time window? I hope you say <em>no</em>, because that’s the correct answer. Imagine our current population is 10… or imagine it is 10000000. We would expect a different total number of births and deaths, and we would expect this to change as a function of the population size. In this way we can describe the total number of births and deaths as being <em>density-dependent</em>. A simple assumption would be that births and deaths increase linearly with the size of the population. So \(B = bN(t)\) and \(D = dN(t)\). Notice that these are both straight lines with a <em>y-intercept</em> of zero (makes sense… if there are no individuals in the population there are no births or deaths!). Here, \(b\) is the <em>per capita birth rate</em>, and \(d\) is the <em>per-capita death rate</em>. We can then rewrite</p>
+<p>Now the question is: should we always expect the same number of births and deaths for a given time window regardless of population size? I hope you say <em>no</em>, because that’s the correct answer. Imagine our current population is 10… or imagine it is 10000000. We would expect a different total number of births and deaths, and we would expect this to change as a function of the population size. In this way we can describe the total number of births and deaths as being <em>density-dependent</em>. A simple assumption would be that births and deaths increase linearly with the size of the population. So \(B = bN(t)\) and \(D = dN(t)\). Notice that these are both straight lines with a <em>y-intercept</em> of zero (makes sense… if there are no individuals in the population there are no births or deaths!). Here, \(b\) is the <em>per capita birth rate</em>, and \(d\) is the <em>per-capita death rate</em>. We can then rewrite</p>
 
 \[\begin{align}
 \frac{N(t + \Delta t) - N(t)}{\Delta t}  &amp;= bN(t) - dN(t) \\ \\
@@ -201,14 +201,14 @@ Notice we have also divided both sides by \(\Delta t\), which will help with the
   <h3 id="discussion">Discussion</h3>
   <ol>
     <li>Experiment with the above parameter values. What happens when you change \(b\) to be greater, less-than, or equal to \(d\)? Describe in words what is happening in each scenario.</li>
-    <li>Compare results for small versus large time windows <code class="highlighter-rouge">Deltat</code></li>
+    <li>Compare results for small versus large time windows \(\Delta t\) <code class="highlighter-rouge">Deltat</code></li>
     <li>What is the shape of the population over time when we expand the amount of time over which we observe the population? e.g. try <code class="highlighter-rouge">tmax = 100</code></li>
     <li>Given \(\Delta t = 1\), what is the proportional change in population size? How would you calculate this? Hint: you don’t need to the code black to do this… Look to the last equation before the code block.</li>
   </ol>
 </blockquote>
 
 <h2 id="discrete-to-continuous-time">Discrete to Continuous time</h2>
-<p>As we will (or have) discuss(ed) in class, if we make the time window infinitesimally small, we can write</p>
+<p>As we will (or have) discuss(ed) in class, if we make the time window infinitesimally small (i.e. \(\Delta t \rightarrow 0\)), we can write</p>
 
 \[\begin{equation}
 \frac{\rm d}{\rm dt}N = rN
@@ -216,7 +216,7 @@ Notice we have also divided both sides by \(\Delta t\), which will help with the
 
 <p>A few things to note here… first is that the right-hand-side (RHS) of the equation looks a lot like the discrete time version. However, we now are using \(r\) instead of \(r_d\) to denote the population growth rate. This is because our interpretation of these parameters is a bit different. Here \(r\) is the <em>instantaneous rate of growth</em> of the population. To put this equation into words, we would say: <em>the change in the population over time is equal to rN, where r is the instantaneous rate of growth and N is the size of the population.</em></p>
 
-<p>You can use <strong><em>CALCULUS</em></strong> to solve this equation. Ha! - did the bold-faced and over-emphasized <strong><em>CALCULUS</em></strong> send shivers down your spine? Don’t worry matey… we won’t need calculus in this course. I’m not sure why I’ve lapsed into pirate lingo - maybe because I’m writing this in my backyard as my daughter plays with a pirate skeleton we bought for Halloween. <em>Anywho</em> - we can use calculus to solve the above equation for the population size at any point in time \(N(t)\). We won’t go through <em>how</em> to do this, but the solution is</p>
+<p>You can use <strong><em>CALCULUS</em></strong> to solve this equation. Ha! - did the bold-faced and over-emphasized <strong><em>CALCULUS</em></strong> send shivers down your spine? Don’t worry matey… we won’t need calculus in this course ☠️ I’m not sure why I’ve lapsed into pirate lingo - maybe because I’m writing this in my backyard as my daughter plays with a pirate skeleton we bought for Halloween. <em>Anyways</em> - we can use calculus to solve the above equation for the population size at any point in time \(N(t)\). We won’t go through <em>how</em> to do this, but the solution is</p>
 
 \[\begin{equation}
 N(t) = N_0 {\rm e}^{rt}
@@ -226,7 +226,192 @@ N(t) = N_0 {\rm e}^{rt}
   <h3 id="discussion-1">Discussion</h3>
   <ol>
     <li>Sketch your expectation for what \(N(t)\) as a function of time \(t\) should look like according to the above equation. Do you think it looks similar to or different than the discrete-time version?</li>
-    <li></li>
+    <li>We want to solve for the following: how long should it take for a population to increase by \(10\times\) as a function of \(r\)? Now imagine that the starting population is \(N_0 = 500\) and \(r=0.0032~{\rm yr^{-1}}\). How many years will it take for the population to reach \(10\times\) that size?</li>
+  </ol>
+</blockquote>
+
+<h2 id="carrying-capacity">Carrying Capacity</h2>
+
+<p>We have shown how discrete-time population growth relates to continuous-time population growth. We are now going to stick with continuous time population dynamics (we will spend an entire section next week back in discrete time).</p>
+
+<p>Exponential population growth occurs when the environment and resources are <em>not</em> limiting, and is usually observed at the beginning of a species’ colonization/invasion of a new habitat. However, as the population grows individuals consume resources and space. Eventually this <em>feeds back</em> to influence the rate at which the population is growing. In terms of our equation for population growth, we can say that the <em>per-capita</em> birth and death rates might be expected to change as the environment fills up with individuals. <strong><em>So where before we said total births \(B\) and deaths \(D\) were density-dependent (linear function of \(N\) with slopes given by constant per-capita birth and death rates \(b\) and \(d\)), now we are saying that these per-capita birth and death rates should not be constant, but also change with population size \(N\)</em></strong>.</p>
+
+<figure>
+<img src="//jdyeakel.github.io/images/ecology/percapitarates.jpg" width="700" />
+<figcaption> Constant (left) and density-dependent (right) per-capita birth and death rates. These are the average birth and death rates per individual in the population. A per-capita birth rate of 0.5/year means each individual is expected to have 1 offspring every two years (on average). A per-capita death rate of 0.5/year means that an individual lives (on average) two years before death. If \(b = d\) we have replacement... every two years an individual (on average) gives birth once and dies, replacing itself.
+</figcaption>
+</figure>
+
+<blockquote>
+  <h3 id="discussion-2">Discussion</h3>
+  <ol>
+    <li>These population equations generally only track females within sexually-reproducing populations. Why?</li>
+    <li>Why did we choose birth rates to decrease with increasing \(N\) and death rates to increase with increasing \(N\)?</li>
+    <li>For the figures shown on the left and right, we have drawn how <em>per-capita</em> birth and death rates change (or not) as a function of population size. Similar to how we related the fitness of a morph to changes in its proportion within a population, we can reconstruct the <em>flow</em> of the population along the <em>x-axis</em> by observing the relationship between <em>per-capita</em> birth and death rates. When should flow increase and when should flow decrease? Remember that the <em>x-axis</em> is population size \(N\). We are asking when should the population increase and when should it decrease given some combination of <em>per-capita</em> birth and death rates. On the figures above can you use the concept of <em>flow</em> to predict what will happen to the populations?</li>
+    <li>What if we swapped the definitions for birth and death rates? Can you use the concept of flow to anticipate what will happen to the population?</li>
+  </ol>
+</blockquote>
+
+<p>As we will (or have?) explore(d) in class, we can write down equations for density-dependent per-capita birth and death rates as</p>
+
+\[\begin{align}
+b^\prime &amp;= b - aN \\
+d^\prime &amp;= d + cN
+\end{align}\]
+
+<p>This explicitly encodes the idea that births decease with increasing \(N\) and deaths increase with increasing \(N\). Note also that the y-intercept for the <em>per-capita</em> birth rate is \(b\) and that the y-intercept for the <em>per-capita</em> death rate is \(d\). In other words, when \(N\) is close to zero (i.e. the population is very very small), the <em>per-capita</em> birth rate \(b^\prime \approx b\) and the <em>per-capita</em> death rate \(d^\prime \approx d\) (where \(\approx\) means <em>is approximately</em> or <em>is close to</em>). As we have defined \(r = b - d\), we can define a density dependent \(r^\prime = b^\prime - d^\prime\).</p>
+
+<p>Let’s substitute this into the continuous-time equation for population growth:</p>
+
+\[\begin{align}
+\frac{\rm d}{\rm dt}N &amp;= r^\prime N \\ \\
+\frac{\rm d}{\rm dt}N &amp;= (b^\prime - d^\prime)N \\ \\
+\frac{\rm d}{\rm dt}N &amp;= \left( (b - aN) - (d + cN) \right)N \\ \\
+\frac{\rm d}{\rm dt}N &amp;= (b-d)N\left( 1 - \frac{(a+c)}{(b-d)}N \right) \\ \\
+\frac{\rm d}{\rm dt}N &amp;= rN\left( 1 - \frac{(a+c)}{(b-d)}N \right)
+\end{align}\]
+
+<p>…and to remind us of the meaning of these parameters:</p>
+<blockquote>
+  <ul>
+    <li>\(r\) = intrinsic rate of growth (now specifically when the population is small)</li>
+    <li>\(b\) = per-capita birth rate when the population is small</li>
+    <li>\(d\) = per-capita death rate when the population is small</li>
+    <li>\(a\) = the slope at which births decline with increasing population size</li>
+    <li>\(c\) = the slope at which deaths incline with increasing population size</li>
+  </ul>
+</blockquote>
+
+<blockquote>
+  <h3 id="discussion-3">Discussion</h3>
+  <ol>
+    <li>Use algebraic manipulation to derive the 4th equation in the list above from the 3rd equation</li>
+  </ol>
+</blockquote>
+
+<p>We can simplify this a little bit. Let’s define a new parameter</p>
+
+\[\begin{align}
+K &amp;= \frac{b-d}{a+c},~{\rm or} \\ \\
+\frac{1}{K} &amp;= \frac{a+c}{b-d}
+\end{align}\]
+
+<p>Substituting this term in above gives us</p>
+
+\[\begin{equation}
+\frac{\rm d}{\rm dt}N = rN\left(1 - \frac{N}{K} \right)
+\end{equation}\]
+
+<p>Now let’s investigate how changes in \((r,b,d,a,c)\) impact the dynamics of the system in exactly the same way that we did before with respect to individual fitness. However, instead of visualizing which phenotypic fitness measure was greater or less than the other, we will examine when <em>per capita</em> birth rates are greater than death rates (population growth) and when <em>per capita</em> death rates are greater than birth rates (population decline).</p>
+
+<div class="language-R highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="w">    </span><span class="c1"># Define the Rates function</span><span class="w">
+    </span><span class="n">pop.flow</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">function</span><span class="p">(</span><span class="n">r</span><span class="p">,</span><span class="n">b</span><span class="p">,</span><span class="n">d</span><span class="p">,</span><span class="n">a</span><span class="p">,</span><span class="n">c</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w">
+
+        </span><span class="c1"># Population size</span><span class="w">
+        </span><span class="n">N</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">seq</span><span class="p">(</span><span class="m">0</span><span class="p">,</span><span class="m">100</span><span class="p">,</span><span class="m">5</span><span class="p">)</span><span class="w">
+        
+        </span><span class="c1"># Define per-capita birth and death rates</span><span class="w">
+        </span><span class="n">pcbr</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">b</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="n">a</span><span class="o">*</span><span class="n">N</span><span class="w">
+        </span><span class="n">pcdr</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">d</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">c</span><span class="o">*</span><span class="n">N</span><span class="w">
+
+        </span><span class="c1"># Plot percapita birth and death rates as a function of N</span><span class="w">
+        </span><span class="n">plot</span><span class="p">(</span><span class="n">N</span><span class="p">,</span><span class="n">pcbr</span><span class="p">,</span><span class="n">type</span><span class="o">=</span><span class="s1">'l'</span><span class="p">,</span><span class="n">col</span><span class="o">=</span><span class="s1">'blue'</span><span class="p">,</span><span class="n">lwd</span><span class="o">=</span><span class="m">2</span><span class="p">,</span><span class="n">ylim</span><span class="o">=</span><span class="nf">c</span><span class="p">(</span><span class="nf">min</span><span class="p">(</span><span class="nf">c</span><span class="p">(</span><span class="n">pcbr</span><span class="p">,</span><span class="n">pcdr</span><span class="p">)),</span><span class="nf">max</span><span class="p">(</span><span class="nf">c</span><span class="p">(</span><span class="n">pcbr</span><span class="p">,</span><span class="n">pcdr</span><span class="p">))),</span><span class="n">xlab</span><span class="o">=</span><span class="s1">'Population Size (N)'</span><span class="p">,</span><span class="n">ylab</span><span class="o">=</span><span class="s1">'Rate'</span><span class="p">)</span><span class="w">
+        </span><span class="n">lines</span><span class="p">(</span><span class="n">N</span><span class="p">,</span><span class="n">pcdr</span><span class="p">,</span><span class="n">col</span><span class="o">=</span><span class="s1">'red'</span><span class="p">,</span><span class="n">lwd</span><span class="o">=</span><span class="m">2</span><span class="p">)</span><span class="w"> 
+        </span><span class="n">legend</span><span class="p">(</span><span class="m">0.8</span><span class="p">,</span><span class="nf">max</span><span class="p">(</span><span class="nf">c</span><span class="p">(</span><span class="n">pcbr</span><span class="p">,</span><span class="n">pcdr</span><span class="p">)),</span><span class="nf">c</span><span class="p">(</span><span class="s1">'p-c birth rate'</span><span class="p">,</span><span class="s1">'p-c death rate'</span><span class="p">),</span><span class="n">pch</span><span class="o">=</span><span class="m">15</span><span class="p">,</span><span class="n">col</span><span class="o">=</span><span class="nf">c</span><span class="p">(</span><span class="s1">'blue'</span><span class="p">,</span><span class="s1">'red'</span><span class="p">))</span><span class="w">
+
+        </span><span class="c1"># Add flow information</span><span class="w">
+        </span><span class="n">text</span><span class="p">(</span><span class="m">1</span><span class="p">,(</span><span class="m">1-0.25</span><span class="p">)</span><span class="o">*</span><span class="nf">min</span><span class="p">(</span><span class="nf">c</span><span class="p">(</span><span class="n">pcbr</span><span class="p">,</span><span class="n">pcdr</span><span class="p">)),</span><span class="s1">'Flow'</span><span class="p">,</span><span class="n">cex</span><span class="o">=</span><span class="m">1.5</span><span class="p">)</span><span class="w">
+        </span><span class="k">for</span><span class="w"> </span><span class="p">(</span><span class="n">i</span><span class="w"> </span><span class="k">in</span><span class="w"> </span><span class="m">1</span><span class="o">:</span><span class="nf">length</span><span class="p">(</span><span class="n">N</span><span class="p">))</span><span class="w"> </span><span class="p">{</span><span class="w">
+            </span><span class="n">loc</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">i</span><span class="w">
+            </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">pcbr</span><span class="p">[</span><span class="n">loc</span><span class="p">]</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="n">pcdr</span><span class="p">[</span><span class="n">loc</span><span class="p">])</span><span class="w"> </span><span class="p">{</span><span class="w">
+                </span><span class="n">text</span><span class="p">(</span><span class="n">N</span><span class="p">[</span><span class="n">i</span><span class="p">],</span><span class="nf">min</span><span class="p">(</span><span class="nf">c</span><span class="p">(</span><span class="n">pcbr</span><span class="p">,</span><span class="n">pcdr</span><span class="p">)),</span><span class="s1">'&gt;'</span><span class="p">,</span><span class="n">cex</span><span class="o">=</span><span class="m">1.5</span><span class="p">)</span><span class="w">
+            </span><span class="p">}</span><span class="w"> 
+            </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">pcbr</span><span class="p">[</span><span class="n">loc</span><span class="p">]</span><span class="w"> </span><span class="o">&lt;</span><span class="w"> </span><span class="n">pcdr</span><span class="p">[</span><span class="n">loc</span><span class="p">])</span><span class="w"> </span><span class="p">{</span><span class="w">
+                </span><span class="n">text</span><span class="p">(</span><span class="n">N</span><span class="p">[</span><span class="n">i</span><span class="p">],</span><span class="nf">min</span><span class="p">(</span><span class="nf">c</span><span class="p">(</span><span class="n">pcbr</span><span class="p">,</span><span class="n">pcdr</span><span class="p">)),</span><span class="s1">'&lt;'</span><span class="p">,</span><span class="n">cex</span><span class="o">=</span><span class="m">1.5</span><span class="p">)</span><span class="w">
+            </span><span class="p">}</span><span class="w">
+            </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">pcbr</span><span class="p">[</span><span class="n">loc</span><span class="p">]</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="n">pcdr</span><span class="p">[</span><span class="n">loc</span><span class="p">])</span><span class="w"> </span><span class="p">{</span><span class="w">
+                </span><span class="n">text</span><span class="p">(</span><span class="n">N</span><span class="p">[</span><span class="n">i</span><span class="p">],</span><span class="nf">min</span><span class="p">(</span><span class="nf">c</span><span class="p">(</span><span class="n">pcbr</span><span class="p">,</span><span class="n">pcdr</span><span class="p">)),</span><span class="s1">'--'</span><span class="p">,</span><span class="n">cex</span><span class="o">=</span><span class="m">1.5</span><span class="p">)</span><span class="w">
+            </span><span class="p">}</span><span class="w">
+        </span><span class="p">}</span><span class="w">
+    </span><span class="p">}</span><span class="w">
+    </span><span class="c1"># Plug in parameter values and run</span><span class="w">
+    </span><span class="n">pop.flow</span><span class="p">(</span><span class="n">r</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.01</span><span class="p">,</span><span class="n">b</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.8</span><span class="p">,</span><span class="w"> </span><span class="n">d</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.2</span><span class="p">,</span><span class="w"> </span><span class="n">a</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.01</span><span class="p">,</span><span class="n">c</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.01</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
+
+<iframe width="100%" height="500" src="https://rdrr.io/snippets/embed/?code=%23Paste%20code%20here" frameborder="0"></iframe>
+
+<blockquote>
+  <h3 id="discussion-4">Discussion</h3>
+  <ol>
+    <li>Given <code class="highlighter-rouge">r = 0.01,b = 0.8, d = 0.2, a = 0.01,c = 0.01</code>, where does the flow indicate that the population will settle?</li>
+    <li>Plug in the values \((b,d,a,c)\) to solve for \(K\) given the equation for \(K\) above. Comparing this value to what we observe in the graph, what is our interpretation of what \(K\) means?</li>
+    <li>Let’s a) switch <code class="highlighter-rouge">b</code> and <code class="highlighter-rouge">d</code> and reverse the direction of the slope, so that our parameters are <code class="highlighter-rouge">r = 0.01,b = 0.2, d = 0.8, a = -0.01,c = -0.01</code>. How do we interpret what will happen to this population? Is this realistic?</li>
+    <li>Derive the y-intercepts and x-intercepts for \(b^\prime\) and \(d^\prime\) in terms of \((b,d,a,c)\). Can you confirm analytically the x- and y-intercepts that you observe in the above graph?</li>
+  </ol>
+</blockquote>
+
+<p>We are now going to use a <em>differential equation solver</em> to examine how \(N(t)\) changes over time \(t\). This is a numerical method for observing the dynamics of a differential equation system without having to solve for \(N(t)\). In fact, we <em>can</em> solve for \(N(t)\) using integration by parts (shudder), but we won’t go there in this class.</p>
+
+<div class="language-R highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="w">    </span><span class="n">library</span><span class="p">(</span><span class="n">deSolve</span><span class="p">)</span><span class="w">
+    </span><span class="c1"># Define the logistic growth dynamic model</span><span class="w">
+    </span><span class="n">pop.logistic</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">function</span><span class="p">(</span><span class="n">r</span><span class="p">,</span><span class="n">b</span><span class="p">,</span><span class="n">d</span><span class="p">,</span><span class="n">a</span><span class="p">,</span><span class="n">c</span><span class="p">,</span><span class="n">tmax</span><span class="p">,</span><span class="n">N0</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w">
+        </span><span class="n">yini</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="n">N</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">N0</span><span class="p">)</span><span class="w">
+        
+        </span><span class="n">fmap</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">function</span><span class="w"> </span><span class="p">(</span><span class="n">t</span><span class="p">,</span><span class="w"> </span><span class="n">y</span><span class="p">,</span><span class="w"> </span><span class="n">parms</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w">
+        </span><span class="n">with</span><span class="p">(</span><span class="n">as.list</span><span class="p">(</span><span class="n">y</span><span class="p">),</span><span class="w"> </span><span class="p">{</span><span class="w">
+            </span><span class="n">dN</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="p">(</span><span class="n">b</span><span class="o">-</span><span class="n">d</span><span class="p">)</span><span class="o">*</span><span class="n">N</span><span class="o">*</span><span class="p">(</span><span class="m">1</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="p">((</span><span class="n">a</span><span class="o">+</span><span class="n">c</span><span class="p">)</span><span class="o">/</span><span class="p">(</span><span class="n">b</span><span class="o">-</span><span class="n">d</span><span class="p">))</span><span class="o">*</span><span class="n">N</span><span class="p">)</span><span class="w">
+            </span><span class="nf">list</span><span class="p">(</span><span class="n">dN</span><span class="p">)</span><span class="w">
+        </span><span class="p">})</span><span class="w">
+        </span><span class="p">}</span><span class="w">
+        
+        </span><span class="n">times</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">seq</span><span class="p">(</span><span class="n">from</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0</span><span class="p">,</span><span class="w"> </span><span class="n">to</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">tmax</span><span class="p">,</span><span class="w"> </span><span class="n">by</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.1</span><span class="p">)</span><span class="w"> 
+        </span><span class="n">out</span><span class="w">   </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ode</span><span class="p">(</span><span class="n">y</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">yini</span><span class="p">,</span><span class="w"> </span><span class="n">times</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">times</span><span class="p">,</span><span class="w"> </span><span class="n">func</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">fmap</span><span class="p">,</span><span class="w"> </span><span class="n">parms</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">NULL</span><span class="p">)</span><span class="w">
+        
+        </span><span class="n">plot</span><span class="p">(</span><span class="n">out</span><span class="p">,</span><span class="w"> </span><span class="n">lwd</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">2</span><span class="p">,</span><span class="n">xlab</span><span class="o">=</span><span class="s1">'Time'</span><span class="p">,</span><span class="n">ylab</span><span class="o">=</span><span class="s1">'Population N(t)'</span><span class="p">)</span><span class="w">
+    </span><span class="p">}</span><span class="w">
+    </span><span class="c1"># Plug in parameter values and run</span><span class="w">
+    </span><span class="n">pop.logistic</span><span class="p">(</span><span class="n">r</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.01</span><span class="p">,</span><span class="n">b</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.8</span><span class="p">,</span><span class="w"> </span><span class="n">d</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.2</span><span class="p">,</span><span class="w"> </span><span class="n">a</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.01</span><span class="p">,</span><span class="n">c</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.01</span><span class="p">,</span><span class="n">tmax</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">1000</span><span class="p">,</span><span class="n">N0</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">1</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
+
+<iframe width="100%" height="500" src="https://rdrr.io/snippets/embed/?code=%23Paste%20code%20here" frameborder="0"></iframe>
+
+<blockquote>
+  <h3 id="discussion-5">Discussion</h3>
+  <ol>
+    <li>Input the initial parameter combinations that we investigated in the flow diagram. How does this plot compliment our expectations of the dynamics from predicting the flow?</li>
+    <li>Unlike the flow diagram, we have to input an initial population size \(N_0\). Try entering a large \(N_0\) as the starting population. What do you observe? Does the long-term dynamics change?</li>
+    <li>What is the role in <code class="highlighter-rouge">r</code>? How does changing <code class="highlighter-rouge">r</code> change what happens to the population?</li>
+    <li>As before, let’s a) switch <code class="highlighter-rouge">b</code> and <code class="highlighter-rouge">d</code> and reverse the direction of the slope, so that our parameters are <code class="highlighter-rouge">r = 0.01,b = 0.2, d = 0.8, a = -0.01,c = -0.01, tmax = 1000,N0 = 1</code>. Try this for \(N_0 = 1\), \(N_0 = 29\), \(N_0 = 30\), and \(N_0 = 31\). Does what you observe match your expectations for what you predicted the population to do from the flow diagram? Why do you think you got an error message for \(N_0 = 31\)?</li>
+  </ol>
+</blockquote>
+
+<p>Finally, let’s check out a simplified version of what we have above. Instead of changing \((b,d,a,c)\), we will used the compressed notation, where we assess population dynamics in terms of \((r,K)\).</p>
+
+<div class="language-R highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="w">    </span><span class="n">library</span><span class="p">(</span><span class="n">deSolve</span><span class="p">)</span><span class="w">
+    </span><span class="n">pop.logistic2</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">function</span><span class="p">(</span><span class="n">r</span><span class="p">,</span><span class="n">K</span><span class="p">,</span><span class="n">tmax</span><span class="p">,</span><span class="n">N0</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w">
+        </span><span class="n">yini</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="n">N</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">N0</span><span class="p">)</span><span class="w">
+        
+        </span><span class="n">fmap</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">function</span><span class="w"> </span><span class="p">(</span><span class="n">t</span><span class="p">,</span><span class="w"> </span><span class="n">y</span><span class="p">,</span><span class="w"> </span><span class="n">parms</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w">
+        </span><span class="n">with</span><span class="p">(</span><span class="n">as.list</span><span class="p">(</span><span class="n">y</span><span class="p">),</span><span class="w"> </span><span class="p">{</span><span class="w">
+            </span><span class="n">dN</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">r</span><span class="o">*</span><span class="n">N</span><span class="o">*</span><span class="p">(</span><span class="m">1</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="p">(</span><span class="n">N</span><span class="o">/</span><span class="n">K</span><span class="p">))</span><span class="w">
+            </span><span class="nf">list</span><span class="p">(</span><span class="n">dN</span><span class="p">)</span><span class="w">
+        </span><span class="p">})</span><span class="w">
+        </span><span class="p">}</span><span class="w">
+        
+        </span><span class="n">times</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">seq</span><span class="p">(</span><span class="n">from</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0</span><span class="p">,</span><span class="w"> </span><span class="n">to</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">tmax</span><span class="p">,</span><span class="w"> </span><span class="n">by</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.1</span><span class="p">)</span><span class="w"> 
+        </span><span class="n">out</span><span class="w">   </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ode</span><span class="p">(</span><span class="n">y</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">yini</span><span class="p">,</span><span class="w"> </span><span class="n">times</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">times</span><span class="p">,</span><span class="w"> </span><span class="n">func</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">fmap</span><span class="p">,</span><span class="w"> </span><span class="n">parms</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">NULL</span><span class="p">)</span><span class="w">
+        
+        </span><span class="n">plot</span><span class="p">(</span><span class="n">out</span><span class="p">,</span><span class="w"> </span><span class="n">lwd</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">2</span><span class="p">,</span><span class="n">xlab</span><span class="o">=</span><span class="s1">'Time'</span><span class="p">,</span><span class="n">ylab</span><span class="o">=</span><span class="s1">'Population N(t)'</span><span class="p">)</span><span class="w">
+    </span><span class="p">}</span><span class="w">
+    </span><span class="n">pop.logistic2</span><span class="p">(</span><span class="n">r</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.01</span><span class="p">,</span><span class="n">K</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">30</span><span class="p">,</span><span class="n">tmax</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">1000</span><span class="p">,</span><span class="n">N0</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">1</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
+
+<iframe width="100%" height="500" src="https://rdrr.io/snippets/embed/?code=%23Paste%20code%20here" frameborder="0"></iframe>
+
+<blockquote>
+  <h3 id="discussion-6">Discussion</h3>
+  <ol>
+    <li>Try alternative values for <code class="highlighter-rouge">r</code> and <code class="highlighter-rouge">K</code>. How do these parameters impact the dynamics of the population when you start at different population sizes <code class="highlighter-rouge">N0</code>?</li>
   </ol>
 </blockquote>
 
