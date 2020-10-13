@@ -50,6 +50,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 2. [Lecture 9]({{ site.url }}/teaching/ecology/Lect_9_BIO148.pdf)
 2. [Lecture 10]({{ site.url }}/teaching/ecology/Lect_10_BIO148.pdf)
 2. [Lecture 11]({{ site.url }}/teaching/ecology/Lect_11_BIO148.pdf)
+2. [Lecture 12]({{ site.url }}/teaching/ecology/Lect_12_BIO148.pdf)
 
 
 
@@ -68,6 +69,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
     * [Wasp & Caterpillar parasitism](https://ucmerced.box.com/s/3x6wap7kjf257h0sscvdudhhl93r5qlc)
     * [Zombie ants!](https://ucmerced.box.com/s/cqvgwgcq758jwpwwjz9n7hh210rt6uwr)
 11. [Lecture 11](https://ucmerced.box.com/s/nmssh70dxkdbvcf253q3nteph85lc2ci)
+11. [Lecture 12](https://ucmerced.box.com/s/tadek8nrd0hvqinsunehyocjjk6s0z0c)
 
 
 ## Keys
