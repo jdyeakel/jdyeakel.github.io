@@ -37,6 +37,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 4. [Section 4 (Friday, September 25)]({{ site.url }}/teaching/ecology/section4/)  
 5. [Section 5 (Friday, October 2)]({{ site.url }}/teaching/ecology/section5/)  
 6. [Section 6 (Friday, October 9)]({{ site.url }}/teaching/ecology/section6/)  
+7. [Section 7 (Friday, October 16)]({{ site.url }}/teaching/ecology/section7/)  
 
 
 ## Lecture Slides
