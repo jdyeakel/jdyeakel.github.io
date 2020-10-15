@@ -274,3 +274,20 @@ Finally, let's check out a simplified version of what we have above. Instead of 
 
 > ### Discussion
 > 1. Try alternative values for `r` and `K`. How do these parameters impact the dynamics of the population when you start at different population sizes `N0`?
+
+
+## Flow Diagram for the Logistic Equation
+
+Our population growth equation that incorporates density-dependent *per-capita* birth and death rates is known as the ***Logistic Equation***. You can see above how it has a sigmoidal shape... population growth begins exponentially but then tapers off as it reaches the carrying capacity $$K$$. And we have used the per-capita birth and death rates to anticipate the dynamics using the *flow* concept. Below we see that we can use the flow concept in a different way... to examine $$dN/dt$$ as a function of $$N$$.
+
+<figure>
+<img src="{{ site.url }}/images/ecology/logisticflow.jpg" width="700">
+<figcaption> \(dN/dt\) as a function of population size \(N\) for the *logistic equation*. Similar to looking at how per-capita birth and death rates change with population size, we can use the concept of *flow* to anticipate the dynamics of the system. Flow goes from left to right along the *x-axis* (increasing population size \(N\)) when \(dN/dt > 0\) and it goes from right to left along the *x-axis* (decreasing population size \(N\)) when \(dN/dt < 0\).
+</figcaption>
+</figure>
+
+> ### Discussion
+> 1. Where is the carrying capacity $$K$$?
+> 2. There are two values of $$N$$ where $$dN/dt = 0$$. What are they?
+> 3. Where is $$dN/dt$$ maximized on the plot above? Can you guess the value of $$N$$ corresponding to where $$dN/dt$$ is maximized? What is special about this point in terms of how the population changes over time?
+> 4. ***Bonus round***: Can you analyitically solve for the point at where $$dN/dt$$ is maximized in terms of $$N$$? Hint: to do this you would need to take the derivative of something...
