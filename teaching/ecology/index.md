@@ -53,6 +53,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 2. [Lecture 11]({{ site.url }}/teaching/ecology/Lect_11_BIO148.pdf)
 2. [Lecture 12]({{ site.url }}/teaching/ecology/Lecture_12_BIO148.pdf)
 2. [Lecture 13]({{ site.url }}/teaching/ecology/Lecture_13_BIO148.pdf)
+2. [Lecture 14]({{ site.url }}/teaching/ecology/Lecture_14_BIO148.pdf)
 
 
 
@@ -72,13 +73,16 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
     * [Wasp & Caterpillar parasitism](https://ucmerced.box.com/s/3x6wap7kjf257h0sscvdudhhl93r5qlc)
     * [Zombie ants!](https://ucmerced.box.com/s/cqvgwgcq758jwpwwjz9n7hh210rt6uwr)
 11. [Lecture 11](https://ucmerced.box.com/s/nmssh70dxkdbvcf253q3nteph85lc2ci)
-11. [Lecture 12](https://ucmerced.box.com/s/tadek8nrd0hvqinsunehyocjjk6s0z0c)
+12. [Lecture 12](https://ucmerced.box.com/s/tadek8nrd0hvqinsunehyocjjk6s0z0c)
+13. [Lecture 13](https://ucmerced.box.com/s/rn6ecyfjcweg5580rxeg3abdxwb3kadq)
+14. [Lecture 14](https://ucmerced.box.com/s/cd6zqdju55zg5nrasouxdtqmsaybrj1e)
 
 
 ## Keys
-1. [Homework 1]({{ site.url }}/teaching/ecology/Homework1_key.pdf)
-2. [Homework 2]({{ site.url }}/teaching/ecology/Homework2_key.pdf)
-3. [Exam 1]({{ site.url }}/teaching/ecology/Midterm1_key.pdf)
+1. [Homework 1](https://ucmerced.box.com/s/mq0rhxlkoh3hf1lmynivbgriky0atkzq)
+2. [Homework 2](https://ucmerced.box.com/s/7zd0ndwjsy12wgii8k6megpejbdnr1kf)
+3. [Exam 1](https://ucmerced.box.com/s/zknsr17k0dzksj0oq4k1k6wmva1ggcgb)
+4. [Homework 3](https://ucmerced.box.com/s/qmggvk4rwz7e0filb70t0vu75ynunm1p)
 
 <!---
 <hr>
