@@ -1,6 +1,6 @@
 ---
 layout: pagetrimnobio
-title: "Section 7 :: Discrete population growth"
+title: "Section 8 :: Discrete population growth"
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
@@ -170,6 +170,49 @@ The above algorithm constitutes what we call a *cobweb diagram*. We implement th
     }
     logistic.cobweb(rd = 1, K = 1, N0=0.01, tmax=40)
 
+```
+
+<iframe width='100%' height='1000' src='https://rdrr.io/snippets/embed/?code=%23Paste%20code%20here' frameborder='0'></iframe>
+
+
+> ### Discussion
+> 1. Across intervals of 0.1, at what value of $$r_d$$ do the dynamics become cyclic? Unpredictable?
+> 2. Compare `rd=1.8` to `rd=2.0`. What is the primary difference between these outcomes. Compare both the results of the cobweb diagram and the $$N(t)$$ vs. $$t$$ plot to establish your interpretation of what is going on.
+> 3. Do we observe cycles or chaotic dynamics in the continuous-time logistic model? ***(Below is the code block from Section 7 where we assessed continuous-time logistic dynamics, which you can use for reference)***
+> 4. Given these differences, what are the long-term implications for discrete-time vs. continuous-time population dynamics? 
+> 5. What ecological factors might promote continuous- vs. discrete-time population dynamics?
+
+## Compare the Continuous- and Discrete-time systems directly
+
+This code block allows us to directly compare the temporal dynamics of continuous-time and discrete-time logistic populations directly. Use this to inform your answers to the above questions.
+
+```R
+    library(deSolve)
+    pop.combined = function(r,K,N0,tmax) {
+        #Continuous model
+        yini = c(N = N0)
+        fmap = function (t, y, parms) {
+        with(as.list(y), {
+            dN <- r*N*(1 - (N/K))
+            list(dN)
+        })
+        }
+        
+        times <- seq(from = 1, to = tmax, by = 0.1) 
+        out   <- ode(y = yini, times = times, func = fmap, parms = NULL)
+        
+        # Discrete model
+        Nd = numeric(tmax)
+        Nd[1] = N0
+        for (t in 2:tmax) {
+            Ndt = Nd[t-1] + r*Nd[t-1]*(1 - Nd[t-1]/K)
+            Nd[t] = Ndt 
+        }
+        maxN = max(c(Nd,out[,2]))
+        plot(out, lwd = 2,xlab='Time',ylab='Population N(t)',col='blue',ylim=c(0,maxN))
+        lines(Nd,col='red',lwd=2)
+    }
+    pop.combined(r = 1,K = 1,N0 = 0.01,tmax = 40)
 ```
 
 <iframe width='100%' height='1000' src='https://rdrr.io/snippets/embed/?code=%23Paste%20code%20here' frameborder='0'></iframe>
