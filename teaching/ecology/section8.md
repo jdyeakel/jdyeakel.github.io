@@ -9,7 +9,7 @@ comments: true
 [< Back to Course Page]({{site.url}}/teaching/ecology)  
 <br>
 
-We have been exploring the continuous-time dynamics of populations, however there are many species for whom discrete-time dynamics make more sense. For example, if reproduction or mortality (or perhaps other large life-history events such as migration) occur at very particular periods of the year, likely driven by seasonal variation of environmental conditions, then birth and death processes should be expected to occur in discrete intervals of time. This means that the application of *instantaneous growth rates* are inappropriate and unlikely to result in the same predictions of population change over time.
+We have been exploring the continuous-time dynamics of populations, however there are many species for whom discrete-time dynamics make more sense. For example, if reproduction or mortality (or perhaps other large life-history events such as migration) occur at very particular periods of the year, likely driven by seasonal variation of environmental conditions, then birth and death processes should be expected to occur in discrete intervals of time. This means that the application of *instantaneous growth rates* are inappropriate and unlikely to result in accurate predictions of population change over time.
 
 Let us first reformulate our discrete approach to population dynamics from our continuous-time understanding (the opposite of what we did in Section 7). Consider exponential population growth in continuous time
 
@@ -49,7 +49,7 @@ $$
 > 1. If $$r_y = 0.2$$, what is the population growth rate in units $$[1/second]$$? In units of $$[1/day]$$?
 > 2. What are the units of $${\rm d}N/{\rm dt}$$?
 > 3. What are the units of $$N(t + \Delta t) - N(t)$$
-> 4. What are the units of $$K$$ in the logistic equation for continuous-time populations? (reference [Section 7]({{ site.url }}/teaching/ecology/section7))
+> 4. What are the units of $$K$$ in the logistic equation for continuous-time populations?
 
 ## Continuous Back to Discrete!
 
@@ -83,11 +83,11 @@ $$
 where $$\lambda = N(t+1)/N(t)$$.
 
 > ### Discussion
-> 1. Relate $$\lambda$$ to the instantaneous rate of growth $$r$$. In other words, solve for $$\lambda$$ in terms of $$r$$, and solve for $$r$$ in terms of $$\lambda$$. 
+> 1. Relate $$\lambda$$ to the instantaneous rate of growth $$r$$. In other words, solve for $$\lambda$$ in terms of $$r$$, and solve for $$r$$ in terms of $$\lambda$$. *Hint: do this by utilizing both continuous- and discrete-time definitions for $$N(t)$$.
 > 2. What does $$\lambda$$ represent compared to $$r$$, and how do different values of each correspond to increasing, decreasing, and steady state population dynamics? Plug in some values for each and experiment.
 > 3. If $$r = 0.02~{\rm year}^{-1}$$, what is $$\lambda$$ in a corresponding discrete-time system?
 > 4. What are $$r$$ and $$\lambda$$ at steady state? I.e. at the condition where the change in population size is zero over time?
-> 5. We discussed in class how to calculate the doubling time for a population according to continuous-time dynamics. Using the discrete time solution for $$N(t)$$, What is the equation for doubling time for a discrete-time population? How does this compare to the doubling time of a continuous-time population? *Hint: Solve $$2N_0 = N_0 \lambda^t$$ for $$t$$.*
+> 5. We discussed in class how to calculate the doubling time for a population according to continuous-time dynamics. Using the discrete time solution for $$N(t)$$, what is the equation for doubling time for a discrete-time population? How does this compare to the doubling time of a continuous-time population? *Hint: Solve $$2N_0 = N_0 \lambda^t$$ for $$t$$.*
 
 
 ## Discrete logistic population growth
@@ -139,7 +139,7 @@ Run the code block below, and see if your expectations for $$N \approx 0$$ and f
 
 For the continuous-time logistic equation, we were able to learn a lot about the dynamics of the system by graphically analyzing the 'flow' when we plotted $${\rm d}N/{\rm dt}$$ (on the y-axis) versus $$N$$ (on the x-axis). There is an analogous method for the discrete time logistic equation, however there is a little more to it that requires careful consideration.
 
-For the discrete-time system, we will graphically analyze the plot of $$N(t+1)$$ (on the y-axis) as a function of $$N(t)$$ (on the x-axis). As with the continuous-time equation, this produces a parabola. The parabola represents the mapping from $$N(t)$$ to $$N(t+1)$$. In other words, if our population is at value $$N(t)$$, to find the next value at time $$t+1$$, we identify the value of $$N(t)$$ on the x-axis, draw a vertical line up to the parabola, and this gives us the value at $$N(t+1)$$. We then reiterate the process. We can make life simpler for ourselves if we also draw the 1:1 line in the same plot (where $$N(t) = N(t+1)$$). Instead of going back to the x-axis for every $$N(t)$$ to draw vertical line up to the parabola (giving us $$N(t+1)$$), we can simply draw a horizontal line to the 1:1 line, and than a vertical line up or down to the parabola to get at the next value of $$N(t+1)$$. Below we observe the process for tracing the dynamics of a discrete time system in this way:
+For the discrete-time system, we will graphically analyze the plot of $$N(t+1)$$ (on the y-axis) as a function of $$N(t)$$ (on the x-axis). As with the continuous-time equation, this produces a parabola. The parabola represents the mapping from $$N(t)$$ to $$N(t+1)$$. In other words, if our population is at value $$N(t)$$, to find the next value at time $$t+1$$, we identify the value of $$N(t)$$ on the x-axis, draw a vertical line up to the parabola, and this gives us the value at $$N(t+1)$$. We then reiterate the process. We can make life simpler for ourselves if we also draw the 1:1 line in the same plot (where $$N(t) = N(t+1)$$). Instead of going back to the x-axis for every $$N(t)$$ to draw the vertical line up to the parabola (giving us $$N(t+1)$$), we can simply draw a horizontal line to the 1:1 line (resetting $$N(t+1)$$ to $$N(t)$$), and than a vertical line up or down to the parabola to get at the next value of $$N(t+1)$$. Below we observe the process for tracing the dynamics of a discrete time system in this way:
 *   First, find $$N(t)$$ on the x-axis
 *   Draw a vertical line up to the parabola. This is $$N(t+1)$$
 *   Draw a horizontal line over to the 1:1 line. This resets $$N(t)$$ along the x-axis
@@ -147,7 +147,7 @@ For the discrete-time system, we will graphically analyze the plot of $$N(t+1)$$
 *   Draw a horizontal line over to the 1:1 axis
 *   Repeat, repeat, repeat!
 
-The above algorithm constitutes what we call a *cobweb diagram*. We implement this algorithm via simulation in the code block below. Run the same parameter sets that you encoded above into the cobweb diagram below. Confirm that the time-simulation of the discrete-logistic equation and the cobweb diagram are telling us the same thing.
+The above algorithm constitutes what we call a *cobweb diagram*. We implement this algorithm via simulation in the code block below. Run the same parameter sets that you encoded above into the cobweb diagram below. ***Make sure you understand what the cobweb diagram is showing.*** Confirm that the time-simulation of the discrete-logistic equation and the cobweb diagram are telling us the same thing.
 
 ```R
     logistic.cobweb = function(rd,K,N0,tmax) {
