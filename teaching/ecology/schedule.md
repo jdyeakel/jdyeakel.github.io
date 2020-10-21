@@ -64,7 +64,7 @@ tr:nth-child(odd) {background: #FFF}
 |     **10/16**    | **(F-D7)** | Disc 7 |  [Exponential and Logistic Growth]({{ site.url }}/teaching/ecology/section7/) |  |    |
 | **10/20** | **(T-L15)** | Populations 3 | Fluctuations | Bowman Ch. 11.1-11.3 |  HW-4 due  |
 | **10/22** | **(R-L16)** | Populations 4 | Extinctions |  |    |
-|    **10/23**     | **(F-D8)** | Disc 8 | Exponential and logistic growth 2  |  |    |
+|    **10/23**     | **(F-D8)** | Disc 8 | [Exponential and logistic growth 2]({{ site.url }}/teaching/ecology/section8/)    |  |    |
 | **10/27** | **(T)** | ***EXAM 2*** |   |   |  HW-5 due  |
 |   |   |   |   |   |   |
 |   |   |   |   |   |   |
