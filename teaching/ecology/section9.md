@@ -237,5 +237,5 @@ $$
 $$
 
 > ### Discussion
-> 1. Explore this equation. What does it mean if $$\alpha = 1$$ or if $$\alpha < 1$$ (assume that $$\alpha$$ remains strictly positive). What does it mean if the size of the competiors population $$C$$ is large or small for a given value of $$\alpha$$? In other words, how do these variations impact $${\rm d}N/{\rm dt}$$?
+> 1. Explore this equation. What does it mean if $$\alpha = 1$$ or if $$\alpha < 1$$ (assume that $$\alpha$$ remains strictly positive). What does it mean if the size of the competitors population $$C$$ is large or small for a given value of $$\alpha$$? In other words, how do these variations impact $${\rm d}N/{\rm dt}$$?
 > 2. Solve for $${\rm d}N/{\rm dt} = 0$$. How does introducing a competitor alter our expectations from Logistic Growth?
