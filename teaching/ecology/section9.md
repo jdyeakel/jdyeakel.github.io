@@ -212,7 +212,7 @@ Make sure that you understand what all of the relationships mean and can elucida
 
 <figure>
 <img src="{{ site.url }}/images/ecology/popdiagrams.jpeg" width="700">
-<figcaption> Interpret these diagrams!
+<figcaption> Interpret these diagrams! As before the BLUE line is the per-capita birth rate, and the RED line is the per-capita death rate.
 </figcaption>
 </figure>
 
