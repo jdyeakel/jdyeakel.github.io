@@ -69,7 +69,7 @@ tr:nth-child(odd) {background: #FFF}
 |   |   |   |   |   |   |
 |   |   |   |   |   |   |
 | **10/29** | **(R-L17)** | Competition 1 | Competition | Bowman Ch. 14 |    |
-|    **10/30**     | **(F-D9)** | Disc 9 |  Lotka-Volterra competition dynamics  |   |    |
+|    **10/30**     | **(F-D9)** | Disc 9 |  [Population growth review]({{ site.url }}/teaching/ecology/section9/)  |   |    |
 | **11/3** | **(T-L18)** | Competition 2 | Competition dynamics |  |  HW-5 due  |
 | **11/5** | **(R-L19)** | Predation 1 | Herbivory and predation | Bowman Ch. 12 |    |
 |     **11/6**    | **(F-D10)** | Disc 10 |  Lotka-Volterra competition dynamics  |  | HW-6 due  |

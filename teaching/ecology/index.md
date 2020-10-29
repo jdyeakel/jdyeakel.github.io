@@ -39,6 +39,8 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 6. [Section 6 (Friday, October 9)]({{ site.url }}/teaching/ecology/section6/)  
 7. [Section 7 (Friday, October 16)]({{ site.url }}/teaching/ecology/section7/)  
 8. [Section 8 (Friday, October 22)]({{ site.url }}/teaching/ecology/section8/)  
+9. [Section 9 (Friday, October 30)]({{ site.url }}/teaching/ecology/section9/)  
+
 
 
 ## Lecture Slides
@@ -56,8 +58,8 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 12. [Lecture 13]({{ site.url }}/teaching/ecology/Lecture_13_BIO148.pdf)
 13. [Lecture 14]({{ site.url }}/teaching/ecology/Lecture_14_BIO148.pdf)
 14. [Lecture 15]({{ site.url }}/teaching/ecology/Lecture_15_BIO148.pdf)
-14. [Lecture 16]({{ site.url }}/teaching/ecology/Lecture_16_BIO148.pdf)
-
+15. [Lecture 16]({{ site.url }}/teaching/ecology/Lecture_16_BIO148.pdf)
+16. [Lecture 17]({{ site.url }}/teaching/ecology/Lecture_17_BIO148.pdf)
 
 
 
@@ -81,6 +83,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 14. [Lecture 14](https://ucmerced.box.com/s/cd6zqdju55zg5nrasouxdtqmsaybrj1e)
 15. Lecture 15 video file was corrupted! Gah!
 16. [Lecture 16](https://ucmerced.box.com/s/9u71l13ypfj80fifqpzv5j3duzpoc7qy)
+17. [Lecture 17](https://ucmerced.box.com/s/k3m9iarvutlxz0znfg7xdlm44s7qqvhv)
 
 
 ## Keys
@@ -91,6 +94,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 5. [Discussion Activity 5](https://ucmerced.box.com/s/pb1a37w4awwg6nisnx3bktv785ea8970)
 6. [Homework 4](https://ucmerced.box.com/s/kw9mzqhcl9cur1az5hkfffu7xzw7ai6l)
 7. [Discussion Activity 6](https://ucmerced.box.com/s/ar50rimz34mrm3kbgcu9nx2h6nm9q6nx)
+8. [Midterm 2](https://ucmerced.box.com/s/br28d5fsq7rplpqdjo2eqyua83b0uyhs)
 
 <!---
 <hr>
