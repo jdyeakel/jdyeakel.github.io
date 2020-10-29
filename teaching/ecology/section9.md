@@ -220,3 +220,22 @@ Make sure that you understand what all of the relationships mean and can elucida
 > 1. For each of the above diagrams... where are the steady states? What is the flow above or below the steady states?  What will happen to the population given that it starts at various places along the *x-axis*? 
 > 2. In which diagrams can you say something about how quickly the population changes over time? Where is population change fast, where is it slow? 
 > 3. In which diagrams is there an Allee effect (if any)? Why? 
+
+
+## Including the basics effects of competition!
+
+We will now consider a second species, with population density $$C$$. For now, we will ***not*** assume that $$C$$ changes over time... so it is a constant. The population of the competitor $$C$$ will stay the same even as $$N$$ changes over time (we will relax this assumption in the next section). The population of $$C$$ has a negative effect on the population of $$N$$, very similar to how a larger population $$N$$ is expected to limit resources, slowing down $${\rm d}N/{\rm dt}$$ as codified in the Logistic Equation.
+
+Let's state some assumptions... if individuals in population $$C$$ are doing the *same* things (for example using the same resources) as individuals in population $$N$$, we expect them to have the same effect on slowing down the growth of population $$N$$. If the individuals in population $$C$$ are doing *very different* things (for example using mostly different resources) as individuals in population $$N$$, we expect them to have less of an effect on the growth of population $$N$$. 
+
+Let's introduce a parameter $$\alpha$$ that captures this relationship. If $$\alpha=1$$ we will say that the competitors $$C$$ are using the same resources as the population $$N$$. If $$\alpha < 1$$, we will say that the competitors are using very different resources. So now let's introduce this into the Logistic Equation:
+
+$$
+\begin{equation}
+\frac{\rm d}{\rm dt}N = rN\left( 1 - \frac{N + \alpha C}{K}\right)
+\end{equation}
+$$
+
+> ### Discussion
+> 1. Explore this equation. What does it mean if $$\alpha = 1$$ or if $$\alpha < 1$$ (assume that $$\alpha$$ remains strictly positive). What does it mean if the size of the competiors population $$C$$ is large or small for a given value of $$\alpha$$? In other words, how do these variations impact $${\rm d}N/{\rm dt}$$?
+> 2. Solve for $${\rm d}N/{\rm dt} = 0$$. How does introducing a competitor alter our expectations from Logistic Growth?
