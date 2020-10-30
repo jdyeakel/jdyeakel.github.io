@@ -115,7 +115,7 @@ Now let's investigate how changes in $$(r,b,d,a,c)$$ impact the dynamics of the 
         }
     }
     # Plug in parameter values and run
-    pop.flow(r = 0.01,b = 0.8, d = 0.2, a = 0.01,c = 0.01)
+    pop.flow(b = 0.8, d = 0.2, a = 0.01,c = 0.01)
 ```
 
 <iframe width='100%' height='500' src='https://rdrr.io/snippets/embed/?code=%23Paste%20code%20here' frameborder='0'></iframe>
@@ -148,7 +148,7 @@ We are now going to use a *differential equation solver* to examine how $$N(t)$$
         plot(out, lwd = 2,xlab='Time',ylab='Population N(t)')
     }
     # Plug in parameter values and run
-    pop.logistic(r = 0.01,b = 0.8, d = 0.2, a = 0.01,c = 0.01,tmax = 1000,N0 = 1)
+    pop.logistic(b = 0.8, d = 0.2, a = 0.01,c = 0.01,tmax = 1000,N0 = 1)
 ```
 
 <iframe width='100%' height='500' src='https://rdrr.io/snippets/embed/?code=%23Paste%20code%20here' frameborder='0'></iframe>
