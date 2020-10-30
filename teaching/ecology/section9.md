@@ -85,7 +85,7 @@ Now let's investigate how changes in $$(r,b,d,a,c)$$ impact the dynamics of the 
 
 ```R
     # Define the Rates function
-    pop.flow = function(r,b,d,a,c) {
+    pop.flow = function(b,d,a,c) {
 
         # Population size
         N = seq(0,100,5)
@@ -132,7 +132,7 @@ We are now going to use a *differential equation solver* to examine how $$N(t)$$
 ```R
     library(deSolve)
     # Define the logistic growth dynamic model
-    pop.logistic = function(r,b,d,a,c,tmax,N0) {
+    pop.logistic = function(b,d,a,c,tmax,N0) {
         yini = c(N = N0)
         
         fmap = function (t, y, parms) {
