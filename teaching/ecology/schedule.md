@@ -70,10 +70,10 @@ tr:nth-child(odd) {background: #FFF}
 |   |   |   |   |   |   |
 | **10/29** | **(R-L17)** | Competition 1 | Competition | Bowman Ch. 14 |    |
 |    **10/30**     | **(F-D9)** | Disc 9 |  [Population growth review]({{ site.url }}/teaching/ecology/section9/)  |   |    |
-| **11/3** | **(T-L18)** | Competition 2 | Competition dynamics |  |  HW-5 due  |
+| **11/3** | **(T-L18)** | Competition 2 | Competition dynamics |  |    |
 | **11/5** | **(R-L19)** | Predation 1 | Herbivory and predation | Bowman Ch. 12 |    |
-|     **11/6**    | **(F-D10)** | Disc 10 |  Lotka-Volterra competition dynamics  |  | HW-6 due  |
-| **11/10** | **(T-L20)** | Predation 2 | Predation dynamics |  |    |
+|     **11/6**    | **(F-D10)** | Disc 10 |  [Lotka-Volterra competition dynamics]({{ site.url }}/teaching/ecology/section10/)  |  |   |
+| **11/10** | **(T-L20)** | Predation 2 | Predation dynamics |  |  HW-5 due  |
 | **11/12** | **(R-L21)** | Parasitism | Parasites and parasitoids | Bowman Ch. 13 |    |
 |    **11/13**     | **(F-D11)** | Disc 11 |  Lotka-Volterra predation dynamics |  | HW-7 due |
 | **11/17** | **(T-L22)** | Disease 1 | The dynamics of disease | TBD |    |
