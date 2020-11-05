@@ -61,6 +61,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 14. [Lecture 15]({{ site.url }}/teaching/ecology/Lecture_15_BIO148.pdf)
 15. [Lecture 16]({{ site.url }}/teaching/ecology/Lecture_16_BIO148.pdf)
 16. [Lecture 17]({{ site.url }}/teaching/ecology/Lecture_17_BIO148.pdf)
+16. [Lecture 18]({{ site.url }}/teaching/ecology/Lecture_18_BIO148.pdf)
 
 
 
@@ -85,6 +86,8 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 15. Lecture 15 video file was corrupted! Gah!
 16. [Lecture 16](https://ucmerced.box.com/s/9u71l13ypfj80fifqpzv5j3duzpoc7qy)
 17. [Lecture 17](https://ucmerced.box.com/s/k3m9iarvutlxz0znfg7xdlm44s7qqvhv)
+17. [Lecture 18](https://ucmerced.box.com/s/2dascotyf96yipj9jkk6kli26m1hndm2)
+
 
 
 ## Keys
