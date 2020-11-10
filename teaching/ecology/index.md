@@ -87,8 +87,8 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 15. Lecture 15 video file was corrupted! Gah!
 16. [Lecture 16](https://ucmerced.box.com/s/9u71l13ypfj80fifqpzv5j3duzpoc7qy)
 17. [Lecture 17](https://ucmerced.box.com/s/k3m9iarvutlxz0znfg7xdlm44s7qqvhv)
-17. [Lecture 18](https://ucmerced.box.com/s/2dascotyf96yipj9jkk6kli26m1hndm2)
-
+18. [Lecture 18](https://ucmerced.box.com/s/2dascotyf96yipj9jkk6kli26m1hndm2)
+19. [Lecture 19](https://ucmerced.box.com/s/d1mmmt8dll44egxlr4yu2f33kuzuwo5z)
 
 
 ## Keys
