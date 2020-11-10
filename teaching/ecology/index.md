@@ -61,7 +61,8 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 14. [Lecture 15]({{ site.url }}/teaching/ecology/Lecture_15_BIO148.pdf)
 15. [Lecture 16]({{ site.url }}/teaching/ecology/Lecture_16_BIO148.pdf)
 16. [Lecture 17]({{ site.url }}/teaching/ecology/Lecture_17_BIO148.pdf)
-16. [Lecture 18]({{ site.url }}/teaching/ecology/Lecture_18_BIO148.pdf)
+17. [Lecture 18]({{ site.url }}/teaching/ecology/Lecture_18_BIO148.pdf)
+18. [Lecture 19]({{ site.url }}/teaching/ecology/Lecture_19_BIO148.pdf)
 
 
 
