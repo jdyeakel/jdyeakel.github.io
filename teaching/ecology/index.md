@@ -102,6 +102,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 6. [Homework 4](https://ucmerced.box.com/s/kw9mzqhcl9cur1az5hkfffu7xzw7ai6l)
 7. [Discussion Activity 6](https://ucmerced.box.com/s/ar50rimz34mrm3kbgcu9nx2h6nm9q6nx)
 8. [Midterm 2](https://ucmerced.box.com/s/br28d5fsq7rplpqdjo2eqyua83b0uyhs)
+9. [Homework 5](https://ucmerced.box.com/s/ftlvk58oah3l6f3lfmpyf1558ngxrj8h)
 
 <!---
 <hr>
