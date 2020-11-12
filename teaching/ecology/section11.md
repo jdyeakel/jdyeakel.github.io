@@ -185,3 +185,4 @@ Now let's put the prey and predator isoclines + flow together to determine the o
 > 2. Translate these dynamics to a graph where you plot population sizes of the prey and predator on the *y-axis* against time on the *x-axis*. What pattern does this follow?
 > 3. Relate these expected dynamics to the Lynx-Hare system discussed in class. Are the LV predator-prey dynamics a reasonable mechanism for the observed Lynx/Hare population trajectories?
 > 4. What are the implications of these types of predator-prey dynamics with respect to the likelihood of extinction? Are populations exhibiting the dynamics expected from the LV predator-prey system 'safe' in terms of extinction risk? Why or why not?
+> 5. Solve for the point where $$dP/dt = 0$$ and $$dN/dt = 0$$. Will the system ever reach this point? If not, what is its significance?
