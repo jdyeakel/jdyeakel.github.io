@@ -75,7 +75,7 @@ tr:nth-child(odd) {background: #FFF}
 |     **11/6**    | **(F-D10)** | Disc 10 |  [Lotka-Volterra competition dynamics]({{ site.url }}/teaching/ecology/section10/)  |  |   |
 | **11/10** | **(T-L20)** | Predation 2 | Predation dynamics |  |  HW-5 due  |
 | **11/12** | **(R-L21)** | Parasitism | Parasites and parasitoids | Bowman Ch. 13 |    |
-|    **11/13**     | **(F-D11)** | Disc 11 |  Lotka-Volterra predation dynamics |  |  |
+|    **11/13**     | **(F-D11)** | Disc 11 |  [Lotka-Volterra predation dynamics]({{ site.url }}/teaching/ecology/section11/) |  |  |
 | **11/17** | **(T-L22)** | Disease 1 | The dynamics of disease | TBD |    |
 | **11/19** | **(R-L23)** | Disease 2 | Epidemics and pandemics |  |    |
 |    **11/20**     | **(F-D12)** | Disc 12 |  Modeling disease dynamics |  | HW-6 due |
