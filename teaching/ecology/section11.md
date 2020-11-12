@@ -14,7 +14,7 @@ comments: true
 
 As we have investigated the dynamics of two species engaged in competitive interactions with each other, we will now use the *same methodology* to investigate two species engaged in a predator-prey interaction. There is one important difference here: while the Lotka-Volterra competition system is entirely symmetric (the equation for competitor $$N_1$$ mirrors the equation for competitor $$N_2$$), we have to consider very different forms for the predator and prey because they interact in different (asymmetric) ways.
 
-There are ***four** important processes that the predator and prey equations need to capture:
+There are **four** important processes that the predator and prey equations need to capture:
 
 1.  The prey species $$N$$ grows exponentially in the absence of the predator
 2.  The prey species $$N$$ has a mortality caused by the predator
