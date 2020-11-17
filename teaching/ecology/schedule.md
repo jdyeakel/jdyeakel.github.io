@@ -74,7 +74,7 @@ tr:nth-child(odd) {background: #FFF}
 | **11/5** | **(R-L19)** | Competition 3 |  |  |    |
 |     **11/6**    | **(F-D10)** | Disc 10 |  [Lotka-Volterra competition dynamics]({{ site.url }}/teaching/ecology/section10/)  |  |   |
 | **11/10** | **(T-L20)** | Predation 1 | Herbivory and Predation | Bowman Ch. 12 |  HW-5 due  |
-| **11/12** | **(R-L21)** | Predation 2 |  | Bowman Ch. 13 |    |
+| **11/12** | **(R-L21)** | Predation 2 |  |  |    |
 |    **11/13**     | **(F-D11)** | Disc 11 |  [Lotka-Volterra predation dynamics]({{ site.url }}/teaching/ecology/section11/) |  |  |
 | **11/17** | **(T-L22)** | Predation 3 | Predation dynamics | | |
 | **11/19** | **(R-L23)** | Parasitism | Parasites and Parasitoids | Bowman Chap. 13 |    |
