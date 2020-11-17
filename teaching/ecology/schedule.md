@@ -71,25 +71,30 @@ tr:nth-child(odd) {background: #FFF}
 | **10/29** | **(R-L17)** | Competition 1 | Competition | Bowman Ch. 14 |    |
 |    **10/30**     | **(F-D9)** | Disc 9 |  [Population growth review]({{ site.url }}/teaching/ecology/section9/)  |   |    |
 | **11/3** | **(T-L18)** | Competition 2 | Competition dynamics |  |    |
-| **11/5** | **(R-L19)** | Predation 1 | Herbivory and predation | Bowman Ch. 12 |    |
+| **11/5** | **(R-L19)** | Competition 3 |  | Bowman Ch. 12 |    |
 |     **11/6**    | **(F-D10)** | Disc 10 |  [Lotka-Volterra competition dynamics]({{ site.url }}/teaching/ecology/section10/)  |  |   |
-| **11/10** | **(T-L20)** | Predation 2 | Predation dynamics |  |  HW-5 due  |
-| **11/12** | **(R-L21)** | Parasitism | Parasites and parasitoids | Bowman Ch. 13 |    |
+| **11/10** | **(T-L20)** | Predation 1 | Herbivory and Predation |  |  HW-5 due  |
+| **11/12** | **(R-L21)** | Predation 2 |  | Bowman Ch. 13 |    |
 |    **11/13**     | **(F-D11)** | Disc 11 |  [Lotka-Volterra predation dynamics]({{ site.url }}/teaching/ecology/section11/) |  |  |
-| **11/17** | **(T-L22)** | Disease 1 | The dynamics of disease | TBD |    |
-| **11/19** | **(R-L23)** | Disease 2 | Epidemics and pandemics |  |    |
-|    **11/20**     | **(F-D12)** | Disc 12 |  Modeling disease dynamics |  | HW-6 due |
+<!-- | **11/17** | **(T-L22)** | Disease 1 | The dynamics of disease | TBD |    |
+| **11/19** | **(R-L23)** | Disease 2 | Epidemics and pandemics |  |    | -->
+| **11/17** | **(T-L22)** | Predation 3 | Predation dynamics | | |
+| **11/19** | **(R-L23)** | Parasitism | Parasites and Parasitoids | Bowman Chap. 13 |    |
+|    **11/20**     | **(F-D12)** | Disc 12 |  LV dynamics review |  | HW-6 due |
 | **11/24** | **(T)** | ***EXAM III*** |  |   |    |
 |   |   |   |   |   |   |
 |   |   |   |   |   |   |
 | **11/26** |  | **No Class** | Thanksgiving Break |  |    |
 |     **11/27**    |  | **No Disc** |  No Discussion Section |  |  |
-| **12/1** | **(T-L24)** | Interactions | Mutualisms & commensalisms | Bowman Chs. 15, 16.1 |    |
-| **12/3** | **(R-L25)** | Metapop. | Populations in space | ??? |    |
-|    **12/4**     | **(F-D13)** | Disc 13 | Modeling metapopulation dynamics  | |  |
-| **12/8** | **(T-L26)** | Communities | Community assembly, succession | Bowman Ch. 17 |    |
+| **12/1** | **(T-L24)** | Disease 1 | The dynamics of disease | TBD |    |
+| **12/3** | **(R-L25)** | Disease 2 | Epidemics and pandemics |  |    |
+|    **12/4**     | **(F-D13)** | Disc 13 | Disease dynamics  | |  |
+| **12/8** | **(T-L26)** | Interactions | Mutualisms & commensalisms | Bowman Chs. 15, 16.1 |    |
+| **12/10** | **(R-L27)** | Food webs | Ecological networks | TBD |    |
+|    **12/11**     | **(F-D14)** | Disc 13 | Species interaction networks  | |  |
+<!-- | **12/8** | **(T-L26)** | Communities | Community assembly, succession | Bowman Ch. 17 |    |
 | **12/10** | **(R-L27)** | Biogeography | Patterns of species diversity | Bowman Ch. 18 |    |
-|     **12/11**    | **(F-D14)** | Disc 14 | Modeling colonization & extinction  | |  |
+|     **12/11**    | **(F-D14)** | Disc 14 | Modeling colonization & extinction  | |  | -->
 | **12/15** | **(T)** | ***FINAL EXAM*** | Comprehensive (3-6PM)  |  |  |
 
 <!---
