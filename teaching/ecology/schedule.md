@@ -76,8 +76,6 @@ tr:nth-child(odd) {background: #FFF}
 | **11/10** | **(T-L20)** | Predation 1 | Herbivory and Predation | Bowman Ch. 12 |  HW-5 due  |
 | **11/12** | **(R-L21)** | Predation 2 |  | Bowman Ch. 13 |    |
 |    **11/13**     | **(F-D11)** | Disc 11 |  [Lotka-Volterra predation dynamics]({{ site.url }}/teaching/ecology/section11/) |  |  |
-<!-- | **11/17** | **(T-L22)** | Disease 1 | The dynamics of disease | TBD |    |
-| **11/19** | **(R-L23)** | Disease 2 | Epidemics and pandemics |  |    | -->
 | **11/17** | **(T-L22)** | Predation 3 | Predation dynamics | | |
 | **11/19** | **(R-L23)** | Parasitism | Parasites and Parasitoids | Bowman Chap. 13 |    |
 |    **11/20**     | **(F-D12)** | Disc 12 |  LV dynamics review |  | HW-6 due |
@@ -92,10 +90,15 @@ tr:nth-child(odd) {background: #FFF}
 | **12/8** | **(T-L26)** | Interactions | Mutualisms & commensalisms | Bowman Chs. 15, 16.1 |    |
 | **12/10** | **(R-L27)** | Food webs | Ecological networks | TBD |    |
 |    **12/11**     | **(F-D14)** | Disc 13 | Species interaction networks  | |  |
+| **12/15** | **(T)** | ***FINAL EXAM*** | Comprehensive (3-6PM)  |  |  |
+
+
+
 <!-- | **12/8** | **(T-L26)** | Communities | Community assembly, succession | Bowman Ch. 17 |    |
 | **12/10** | **(R-L27)** | Biogeography | Patterns of species diversity | Bowman Ch. 18 |    |
 |     **12/11**    | **(F-D14)** | Disc 14 | Modeling colonization & extinction  | |  | -->
-| **12/15** | **(T)** | ***FINAL EXAM*** | Comprehensive (3-6PM)  |  |  |
+<!-- | **11/17** | **(T-L22)** | Disease 1 | The dynamics of disease | TBD |    |
+| **11/19** | **(R-L23)** | Disease 2 | Epidemics and pandemics |  |    | -->
 
 <!---
 | **11/17** | **23-T** | Interactions | Mutualism and commensalism | Bowman Ch. 15 |    |
