@@ -35,7 +35,7 @@ In this context, we were considering the profitability of a particular foraging 
 $$
 \begin{align}
 P &= \frac{\phi(E_{\rm gain} - E_{\rm cost}) + (1-\phi)(-E_{\rm cost})}{\phi T + (1-\phi) W} \\ \\
-P &= \phi(E_{\rm gain - E_{\rm cost}}) + (1-\phi)(-E_{\rm cost})
+P &= \phi(E_{\rm gain} - E_{\rm cost}) + (1-\phi)(-E_{\rm cost})
 \end{align}
 $$
 
