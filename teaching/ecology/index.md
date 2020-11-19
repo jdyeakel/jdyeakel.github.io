@@ -68,6 +68,8 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 18. [Lecture 19]({{ site.url }}/teaching/ecology/Lecture_19_BIO148.pdf)
 19. [Lecture 20]({{ site.url }}/teaching/ecology/Lecture_20_BIO148.pdf)
 20. [Lecture 21]({{ site.url }}/teaching/ecology/Lecture_21_BIO148.pdf)
+20. [Lecture 22]({{ site.url }}/teaching/ecology/Lecture_22_BIO148.pdf)
+20. [Lecture 23]({{ site.url }}/teaching/ecology/Lecture_23_BIO148.pdf)
 
 
 
@@ -96,6 +98,8 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 19. [Lecture 19](https://ucmerced.box.com/s/d1mmmt8dll44egxlr4yu2f33kuzuwo5z)
 20. [Lecture 20](https://ucmerced.box.com/s/czxl7kfm06sodfakrr5jkf23dxtgc6c4)
 21. [Lecture 21](https://ucmerced.box.com/s/sccae4ryfn6py8lbvj9mp3zo8igtzprk)
+22. [Lecture 22](https://ucmerced.box.com/s/p86r7sf9ymf9y1tduqlr6avfdyv2u4xh)
+23. [Lecture 23](https://ucmerced.box.com/s/oeprfisbmyxhd8134st0gj300999ddzs)
 
 
 ## Keys
