@@ -78,7 +78,7 @@ tr:nth-child(odd) {background: #FFF}
 |    **11/13**     | **(F-D11)** | Disc 11 |  [Lotka-Volterra predation dynamics]({{ site.url }}/teaching/ecology/section11/) |  |  |
 | **11/17** | **(T-L22)** | Predation 3 | Predation dynamics | | |
 | **11/19** | **(R-L23)** | Parasitism | Parasites and Parasitoids | Bowman Chap. 13 |    |
-|    **11/20**     | **(F-D12)** | Disc 12 |  LV dynamics review |  | HW-6 due |
+|    **11/20**     | **(F-D12)** | Disc 12 |  [LV dynamics review]({{ site.url }}/teaching/ecology/section12/) |  | HW-6 due |
 | **11/24** | **(T)** | ***EXAM III*** |  |   |    |
 |   |   |   |   |   |   |
 |   |   |   |   |   |   |
