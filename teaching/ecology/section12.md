@@ -76,7 +76,7 @@ Now let's put together our new Profitability equation over the course of a singl
 
 $$
 \begin{align}
-P &= \phi(E_{\rm gain - E_{\rm cost}}) + (1-\phi)(-E_{\rm cost}) \\ \\
+P &= \phi(E_{\rm gain} - E_{\rm cost}) + (1-\phi)(-E_{\rm cost}) \\ \\
 P &= (1 - (1-s)^n)(E_{\rm gain} - E_{\rm cost}) + (1-s)^n(-E_{\rm cost})
 \end{align}
 $$
@@ -131,8 +131,6 @@ $$
     n = seq(1,20)
 
     #Define other parameters
-    #Probability of success
-    s = 0.1 
     #Daily energetic gain of at least one success (max intake)
     Egain = 4000 #kilocalories
     #Daily energetic cost
