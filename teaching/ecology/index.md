@@ -69,9 +69,10 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 18. [Lecture 19]({{ site.url }}/teaching/ecology/Lecture_19_BIO148.pdf)
 19. [Lecture 20]({{ site.url }}/teaching/ecology/Lecture_20_BIO148.pdf)
 20. [Lecture 21]({{ site.url }}/teaching/ecology/Lecture_21_BIO148.pdf)
-20. [Lecture 22]({{ site.url }}/teaching/ecology/Lecture_22_BIO148.pdf)
-20. [Lecture 23]({{ site.url }}/teaching/ecology/Lecture_23_BIO148.pdf)
-
+21. [Lecture 22]({{ site.url }}/teaching/ecology/Lecture_22_BIO148.pdf)
+22. [Lecture 23]({{ site.url }}/teaching/ecology/Lecture_23_BIO148.pdf)
+23. [Lecture 24]({{ site.url }}/teaching/ecology/Lecture_24_BIO148.pdf)
+24. [Lecture 25]({{ site.url }}/teaching/ecology/Lecture_25_BIO148.pdf)
 
 
 ## Lecture Recordings
@@ -101,6 +102,8 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 21. [Lecture 21](https://ucmerced.box.com/s/sccae4ryfn6py8lbvj9mp3zo8igtzprk)
 22. [Lecture 22](https://ucmerced.box.com/s/p86r7sf9ymf9y1tduqlr6avfdyv2u4xh); [Persistance Hunting](https://ucmerced.box.com/s/3bu8nyt67vivp2104vwopl1s0f4ky5n8)
 23. [Lecture 23](https://ucmerced.box.com/s/oeprfisbmyxhd8134st0gj300999ddzs); [Zombie Crickets](https://ucmerced.box.com/s/riqwtm1il62ky3lg2e24h9rksokm4sdo); [Zombie Spiders](https://ucmerced.box.com/s/38teflrh86hygc5ceklzjg80gyvymm7i); [Toxoplasma](https://ucmerced.box.com/s/wtlu19wvw0ps20oodge82013obl1ybs7); [Malaria1](https://ucmerced.box.com/s/ezzhq1yumlrx7gnpubhu3jyif9w1k46u); [Malaria2](https://ucmerced.box.com/s/c0ejp2fl3l1a2z83iqkqalym2xgem57t)
+24. [Lecture 24](https://ucmerced.box.com/s/yd1wp6i094b5r1hfjf3mk3khwgx78vgk)
+25. [Lecture 25](https://ucmerced.box.com/s/8xpu9q3c07hs4xh5hm119yn6fchgk8k9)
 
 
 ## Keys
