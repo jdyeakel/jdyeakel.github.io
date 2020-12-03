@@ -86,7 +86,7 @@ tr:nth-child(odd) {background: #FFF}
 |     **11/27**    |  | **No Disc** |  No Discussion Section |  |  |
 | **12/1** | **(T-L24)** | Disease 1 | The dynamics of disease | Bowman 13.4-end, [Blackwood to 2.2.2]({{ site.url }}/teaching/ecology/papers/Blackwood_SIR.pdf) |    |
 | **12/3** | **(R-L25)** | Disease 2 | Epidemics and pandemics | [R0 is just an average](https://www.santafe.edu/news-center/news/transmission-t-024-cristopher-moore-on-the-heavy-tail-of-outbreaks) |    |
-|    **12/4**     | **(F-D13)** | Disc 13 | Disease dynamics  | |  |
+|    **12/4**     | **(F-D13)** | Disc 13 | [Disease dynamics]({{ site.url }}/teaching/ecology/section13/)  | |  |
 | **12/8** | **(T-L26)** | Interactions | Mutualisms & commensalisms | Bowman Chs. 15, 16.1 |    |
 | **12/10** | **(R-L27)** | Food webs | Ecological networks | TBD |    |
 |    **12/11**     | **(F-D14)** | Disc 14 | Species interaction networks  | | HW-7 due |

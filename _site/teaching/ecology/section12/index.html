@@ -5,13 +5,13 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
 <meta charset="utf-8">
-<title>Section 11 :: Predation &#8211; Yeakel Lab @ UC-Merced</title>
+<title>Section 12 :: Profitability Revisted and LV Review &#8211; Yeakel Lab @ UC-Merced</title>
 
 <meta name="keywords" content="about, Jekyll, theme, responsive">
 
 
 <!-- Twitter Cards -->
-<meta name="twitter:title" content="Section 11 :: Predation">
+<meta name="twitter:title" content="Section 12 :: Profitability Revisted and LV Review">
 
 <meta name="twitter:site" content="@jdyeakel">
 <meta name="twitter:creator" content="@jdyeakel">
@@ -22,7 +22,7 @@
 <!-- Open Graph -->
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Section 11 :: Predation">
+<meta property="og:title" content="Section 12 :: Profitability Revisted and LV Review">
 
 <meta property="og:url" content="//jdyeakel.github.io/teaching/ecology/section12/">
 <meta property="og:site_name" content="Yeakel Lab @ UC-Merced">
@@ -144,7 +144,7 @@
 
  </div>
   <article>
-    <h1>Section 11 :: Predation</h1>
+    <h1>Section 12 :: Profitability Revisted and LV Review</h1>
     <div class="article-wrap">
       <p><a href="//jdyeakel.github.io/teaching/ecology">&lt; Back to Course Page</a><br />
 <br /></p>
@@ -169,7 +169,7 @@ P = \frac{\phi E_{\rm success} + (1-\phi)E_{\rm fail}}{\phi T + (1-\phi)W}
 
 \[\begin{align}
 P &amp;= \frac{\phi(E_{\rm gain} - E_{\rm cost}) + (1-\phi)(-E_{\rm cost})}{\phi T + (1-\phi) W} \\ \\
-P &amp;= \phi(E_{\rm gain - E_{\rm cost}}) + (1-\phi)(-E_{\rm cost})
+P &amp;= \phi(E_{\rm gain} - E_{\rm cost}) + (1-\phi)(-E_{\rm cost})
 \end{align}\]
 
 <blockquote>
@@ -222,7 +222,7 @@ P &amp;= \phi(E_{\rm gain - E_{\rm cost}}) + (1-\phi)(-E_{\rm cost})
 <p>Now let’s put together our new Profitability equation over the course of a single day with varying numbers of encounters. We now have</p>
 
 \[\begin{align}
-P &amp;= \phi(E_{\rm gain - E_{\rm cost}}) + (1-\phi)(-E_{\rm cost}) \\ \\
+P &amp;= \phi(E_{\rm gain} - E_{\rm cost}) + (1-\phi)(-E_{\rm cost}) \\ \\
 P &amp;= (1 - (1-s)^n)(E_{\rm gain} - E_{\rm cost}) + (1-s)^n(-E_{\rm cost})
 \end{align}\]
 
@@ -277,8 +277,6 @@ s^* &amp;= 1 - \left(\frac{E_{\rm gain} - E_{\rm cost}}{E_{\rm gain}}\right)^{\f
     </span><span class="n">n</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">seq</span><span class="p">(</span><span class="m">1</span><span class="p">,</span><span class="m">20</span><span class="p">)</span><span class="w">
 
     </span><span class="c1">#Define other parameters</span><span class="w">
-    </span><span class="c1">#Probability of success</span><span class="w">
-    </span><span class="n">s</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.1</span><span class="w"> 
     </span><span class="c1">#Daily energetic gain of at least one success (max intake)</span><span class="w">
     </span><span class="n">Egain</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">4000</span><span class="w"> </span><span class="c1">#kilocalories</span><span class="w">
     </span><span class="c1">#Daily energetic cost</span><span class="w">
