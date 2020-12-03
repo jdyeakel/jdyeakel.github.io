@@ -71,6 +71,25 @@ Very similar to what your book provides in chapter 13, this represents a thresho
 > 2. Can you think or different diseases that might be described by a higher or lower $$\gamma/\beta$$? Justify your reasoning.
 > 3. Consider the definitions of $$\beta$$ and $$\gamma$$. How would *social distancing* impact these parameters? Which of the two would it most likely affect and in what way?
 
+## The basic reproductive number
+
+Ultimately, we want to know - on average - how many hosts will be secondarily infected by an infected host. This can be determined by finding $$R_0$$ (pronounced *R knot*), and is very similar to determining the threshold density of susceptible individuals needed for a pathogen to spread. The important distinction here is the $$R_0$$ is defined relative to a host population *nearly entirely composed of susceptible individuals*. In other words, $$R_0$$ must be determined at the beginning of the infection, where there $$S(t=0) = N-1$$ and $$I(t=0) = 1$$. To find $$R_0$$ for the basic SIR model, we examine the condition for disease spread
+
+$$
+\begin{align}
+{\rm d}{\rm dt}I &> 0 \\ \\
+\beta \frac{I}{N} S - \gamma I &> 0 \\ \\
+\beta \frac{I}{N} S &> \gamma I \\ \\
+\beta \frac{S}{N} &> \gamma \\ \\
+\beta \frac{N-1}{N} &> \gamma \\ \\
+\beta &> \gamma \\ \\
+\frac{\beta}{\gamma} &> 1 \\ \\
+R_0 = \frac{\beta}{\gamma} &> 1
+\end{align}
+$$
+
+As we can see here, we must assume that $$(N+1)/N$$ approximates 1, and this is only true of the size of the population $$N$$ is large. We also find that $$R_0 = \beta/\gamma$$. When $$\beta/\gamma > 1$$ the disease will spread because each infected host will spread it to more than one susceptible host. When $$\beta/\gamma < 1$$, the disease will not spread because each infected host will spread the pathogen to less than one susceptible host (on average). 
+
 
 ## The full SIR model
 Now let's consider the dynamics of infection as well as the dynamics of the susceptible and recovered compartments. Any flow of individuals entering the infected compartment *needs to leave the susceptible compartment*. So the outflow of susceptibles must match the inflow of infected! That gives us
@@ -192,5 +211,6 @@ $$
 > ### Discussion
 > 1. What dynamics do you observe for $$S(t)$$, $$I(t)$$, and $$R(t)$$?
 > 2. The trajectory for $$I(t)$$ does not go to zero over time. What do this mean?
-> 3. Solve for the steady states of $$S^*$$, $$I^*$$, and $$R^*$$.
-> 4. Confirm your analytical steady state solutions match the simulation given different parameter values
+> 3. Solve for $$R_0$$ for the SIR model with demographic processes.
+> 4. Solve for the steady states of $$S^*$$, $$I^*$$, and $$R^*$$.
+> 5. Confirm your analytical steady state solutions match the simulation given different parameter values
