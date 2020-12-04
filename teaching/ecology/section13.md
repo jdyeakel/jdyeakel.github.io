@@ -195,15 +195,22 @@ $$
         times <- seq(from = 0, to = tmax, by = 0.1) 
         out   <- ode(y = yini, times = times, func = fmap, parms = NULL)
         
-        maxvalue = max(out[,2:4])
-        nstar = sum(out[tmax,2:4])
+        
+        nt = apply(out[,2:4],1,sum)
+        maxvalue = max(out[,2:4]/nt)
+        nstar = nt[tmax]
 
-        plot(out[,1],out[,2], lwd = 2,xlab='Time',ylab='Compartment Size',type='l',ylim=c(0,maxvalue),col='green')
-        lines(out[,1],out[,3],lwd=2,col='red')
-        lines(out[,1],out[,4],lwd=2,col='blue')
+        Ssol <- (gamma + mu)/beta
+        Isol <- b/(gamma + mu) - mu/beta
+        Rsol <- (gamma/mu) * (b/(gamma + mu) - mu/beta)
+
+        plot(out[,1],out[,2]/nt, lwd = 2,xlab='Time',ylab='Proportional Compartment Size',type='l',ylim=c(0,maxvalue),col='green')
+        lines(out[,1],out[,3]/nt,lwd=2,col='red')
+        lines(out[,1],out[,4]/nt,lwd=2,col='blue')
         legend(0.9*tmax,maxvalue,c('S','I','R'),col=c('green','red','blue'),pch=16)
-        # lines(seq(1,tmax,length.out=10),rep(((gamma+mu)/beta)*nstar,10))
-        # lines(seq(1,tmax,length.out=10),rep((gamma/mu)*((b-mu)/beta)*nstar,10))
+        # lines(seq(1,tmax,length.out=10),rep(Ssol,10),lty=2)
+        # lines(seq(1,tmax,length.out=10),rep(Isol,10),lty=2)
+        # lines(seq(1,tmax,length.out=10),rep(Rsol,10).lty=2)
     }
     sir.demo(beta = 0.3,gamma=0.1,b=0.02,mu=0.02,tmax = 1000,S0 = 99, I0 = 1, R0 = 0)
 ```
@@ -211,8 +218,19 @@ $$
 
 
 > ### Discussion
-> 1. What dynamics do you observe for $$S(t)$$, $$I(t)$$, and $$R(t)$$?
-> 2. The trajectory for $$I(t)$$ does not go to zero over time. What do this mean?
+> 1. Note that here we are plotting the proportional size of the $$S$$, $$I$$, and $$R$$ compartment! What dynamics do you observe for $$S(t)/N(t)$$, $$I(t)/N(t)$$, and $$R(t)/N(t)$$?
+> 2. The trajectory for $$I(t)/N(t)$$ does not go to zero over time. What do this mean?
 > 3. Solve for $$R_0$$ for the SIR model with demographic processes.
-> 4. Solve for the steady states of $$S^*$$, $$I^*$$, and $$R^*$$.
+> 4. Confirm the following steady state solutions (shown below) by solving for $$dS/dt=0$$, $$dI/dt=0$$, and $$dR/dt=0$$ 
 > 5. Confirm your analytical steady state solutions match the simulation given different parameter values
+
+Steady state solutions for the demographic SIR model
+
+$$
+\begin{align}
+\frac{S^*}{N^*} &= \frac{\gamma + \mu}{\beta} \\ \\
+\frac{I^*}{N^*} &= \frac{b}{\gamma+\mu} - \frac{\mu}{\beta} \\ \\
+\frac{R^*}{N^*} &= \frac{\gamma}{\mu}\left(\frac{b}{\gamma+\mu}-\frac{\mu}{\beta}\right)
+\end{align}
+$$
+
