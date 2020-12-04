@@ -77,7 +77,7 @@ Ultimately, we want to know - on average - how many hosts will be secondarily in
 
 $$
 \begin{align}
-{\rm d}{\rm dt}I &> 0 \\ \\
+\frac{\rm d}{\rm dt}I &> 0 \\ \\
 \beta \frac{I}{N} S - \gamma I &> 0 \\ \\
 \beta \frac{I}{N} S &> \gamma I \\ \\
 \beta \frac{S}{N} &> \gamma \\ \\
@@ -88,7 +88,7 @@ R_0 = \frac{\beta}{\gamma} &> 1
 \end{align}
 $$
 
-As we can see here, we must assume that $$(N+1)/N$$ approximates 1, and this is only true of the size of the population $$N$$ is large. We also find that $$R_0 = \beta/\gamma$$. When $$\beta/\gamma > 1$$ the disease will spread because each infected host will spread it to more than one susceptible host. When $$\beta/\gamma < 1$$, the disease will not spread because each infected host will spread the pathogen to less than one susceptible host (on average). 
+As we can see here, we must assume that $$(N+1)/N$$ approximates 1, and this is only true if the size of the population $$N$$ is large. We also find that $$R_0 = \beta/\gamma$$. When $$\beta/\gamma > 1$$ the disease will spread because each infected host will spread it to more than one susceptible host. When $$\beta/\gamma < 1$$, the disease will not spread because each infected host will spread the pathogen to less than one susceptible host (on average). 
 
 
 ## The full SIR model
@@ -145,6 +145,7 @@ Now let's examine a simulation of the above equations
         plot(out[,1],out[,2], lwd = 2,xlab='Time',ylab='Compartment Size',type='l',ylim=c(0,S0+I0+R0),col='green')
         lines(out[,1],out[,3],lwd=2,col='red')
         lines(out[,1],out[,4],lwd=2,col='blue')
+        legend(0.9*tmax,S0+I0+R0,c('S','I','R'),col=c('green','red','blue'),pch=16)
     }
     sir.basic(beta = 0.1,gamma=0.05,tmax = 1000,S0 = 99, I0 = 1, R0 = 0)
 ```
@@ -152,7 +153,7 @@ Now let's examine a simulation of the above equations
 <iframe width='100%' height='800' src='https://rdrr.io/snippets/embed/?code=%23Paste%20code%20here' frameborder='0'></iframe>
 
 > ### Discussion
-> 1. Given `beta = 0.1,gamma=0.05`, what is the outcome of the outbreak? Does everyone become infected?
+> 1. Given `beta = 0.1,gamma=0.05`, what is the outcome of the outbreak? Does everyone become infected? How is this relevance to *herd immunity*?
 > 2. Tune up the pathogen's transmission rate... compared to a lower transmission rate, what do you notice about the steady state of the susceptible population over time?
 > 3. What combination of transmission rates and recovery rates leads to larger/short peak outbreaks vs. prolonged outbreaks?
 
@@ -200,6 +201,7 @@ $$
         plot(out[,1],out[,2], lwd = 2,xlab='Time',ylab='Compartment Size',type='l',ylim=c(0,maxvalue),col='green')
         lines(out[,1],out[,3],lwd=2,col='red')
         lines(out[,1],out[,4],lwd=2,col='blue')
+        legend(0.9*tmax,maxvalue,c('S','I','R'),col=c('green','red','blue'),pch=16)
         # lines(seq(1,tmax,length.out=10),rep(((gamma+mu)/beta)*nstar,10))
         # lines(seq(1,tmax,length.out=10),rep((gamma/mu)*((b-mu)/beta)*nstar,10))
     }
