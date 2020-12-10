@@ -44,6 +44,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 11. [Section 11 (Friday, November 13)]({{ site.url }}/teaching/ecology/section11/)
 12. [Section 12 (Friday, November 20)]({{ site.url }}/teaching/ecology/section12/)
 13. [Section 13 (Friday, December 4)]({{ site.url }}/teaching/ecology/section13/)
+14. [Section 14 (Friday, December 11)]({{ site.url }}/teaching/ecology/section14/)
 
 
 

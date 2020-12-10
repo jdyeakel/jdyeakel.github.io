@@ -89,7 +89,7 @@ tr:nth-child(odd) {background: #FFF}
 |    **12/4**     | **(F-D13)** | Disc 13 | [Disease dynamics]({{ site.url }}/teaching/ecology/section13/)  | |  |
 | **12/8** | **(T-L26)** | Interactions | Mutualisms & commensalisms | Bowman Chap. 15 |    |
 | **12/10** | **(R-L27)** | Food webs | Ecological networks | Bowman Chap. 16 |    |
-|    **12/11**     | **(F-D14)** | Disc 14 | Species interaction networks  | | HW-7 due |
+|    **12/11**     | **(F-D14)** | Disc 14 | [Species interaction networks]({{ site.url }}/teaching/ecology/section14/)  | | HW-7 due |
 | **12/15** | **(T)** | ***FINAL EXAM*** | Comprehensive (3-6PM)  |  |  |
 
 
