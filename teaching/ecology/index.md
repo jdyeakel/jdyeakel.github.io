@@ -73,6 +73,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 22. [Lecture 23]({{ site.url }}/teaching/ecology/Lecture_23_BIO148.pdf)
 23. [Lecture 24]({{ site.url }}/teaching/ecology/Lecture_24_BIO148.pdf)
 24. [Lecture 25]({{ site.url }}/teaching/ecology/Lecture_25_BIO148.pdf)
+25. [Lecture 26]({{ site.url }}/teaching/ecology/Lecture_26_BIO148.pdf)
 
 
 ## Lecture Recordings
