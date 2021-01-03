@@ -1,6 +1,6 @@
 ---
 layout: pagetrim
-title: "The Natural History of Dinosaurs"
+title: "The Natural History of Dinosaurs :: Spring 2021"
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
@@ -11,13 +11,13 @@ image:
 
 
 ## Info
-* Class time/location: MW 10:30-11:45 in KOLLIG 217  
-* Section time/location: M 12:30-1:20 in CLSSRM 279; W 1:30-2:20 in CLSSRM 288; M 6:30-7:20 in CLSSRM 203  
-* Office hours: Justin (MW 9-10 in SE1 288); Taran (R 11-1 SE1 278)  
-* [Syllabus](http://jdyeakel.github.io/teaching/dinos/Syllabus_spring2018.pdf)  
-[Updated class schedule (*updated 2/25*)](http://jdyeakel.github.io/teaching/dinos/updatedsyllabus.pdf)  
+* Class time/location: MW 10:30-11:45 on ZOOM  
+<!-- * Section time/location: M 12:30-1:20 in CLSSRM 279; W 1:30-2:20 in CLSSRM 288; M 6:30-7:20 in CLSSRM 203   -->
+* Office hours: Justin (TBD); Irina (TBD)  
+<!-- * [Syllabus](http://jdyeakel.github.io/teaching/dinos/Syllabus_spring2018.pdf)  
+[Updated class schedule (*updated 2/25*)](http://jdyeakel.github.io/teaching/dinos/updatedsyllabus.pdf)   -->
 
-
+<!-- 
 > **Exam IV: Saturday May 5 from 8:00-11:00am	KOLLIG 217**  
 > Covering Lectures 21 onwards and Chapters: 14, 16 and selected readings (below)  
 > You will need the long-green SCANTRON (No. 882-E)  
@@ -73,4 +73,4 @@ image:
 * [Section 2: Cladistics](http://jdyeakel.github.io/teaching/dinos/Section_2_Cladistics.pdf)  
 * [Section 3: Anatomy](http://jdyeakel.github.io/teaching/dinos/Section_3_Anatomy.pdf)  
 * [Section 4: Cladistics 2](http://jdyeakel.github.io/teaching/dinos/Section_4_Cladistics2.pdf)  
-* Section 5 Assignment: [Watch this movie](https://youtu.be/hVsuDIMRZwA) and then [complete this worksheet](http://jdyeakel.github.io/teaching/dinos/Section_5_Clash.pdf) (due the following section)  
+* Section 5 Assignment: [Watch this movie](https://youtu.be/hVsuDIMRZwA) and then [complete this worksheet](http://jdyeakel.github.io/teaching/dinos/Section_5_Clash.pdf) (due the following section)   -->
