@@ -9,7 +9,7 @@ image:
   credit: jdyeakel
 ---
 
-> ### [Natural History of Dinosaurs (Spring, 2018)]({{ site.url }}/teaching/dinos/)   
+> ### [Natural History of Dinosaurs (Spring, 2021)]({{ site.url }}/teaching/dinos/)   
 > 65 million quarters of a second in the making
 
 <br>
