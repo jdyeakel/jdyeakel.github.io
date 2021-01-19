@@ -30,7 +30,7 @@ table{
 td{
     border:1px solid #808080;
 } */
-tr:nth-child(even) {background: #CCC}
+tr:nth-child(even) {background: #B2DFEE}
 tr:nth-child(odd) {background: #FFF}
 </style>
 
