@@ -51,9 +51,9 @@ tr:nth-child(odd) {background: #FFF}
 |  | **2/10** | **(W-L7)** | Review |  |  |    |
 |  | **2/12**  | **F-H2** | Homework |  |  |  Hmwk 2 due   |
 |  |         | **D3** | Disc 3 |  Anatomy  |  [Anatomy worksheet]({{ site.url }}/teaching/dinos/Section_3_Anatomy.pdf){:target="_blank"}  |     |
-| 5 | **2/15** | **(M-No Class)** |  |  |  |    |
+| 5 | **2/15** | **M** | **No Class** |  |  |    |
 |  |  | **2/17** | **W** | ***Exam I***   |  |  |    |
-|  |         | **No Disc** |  |   |  |    |
+|  |         |  | **No Disc** |   |  |    |
 | 6 | **2/22** | **(M-L8)** | Marginocephalians | Pachys | Fast. Chp. 6 |    |
 |  | **2/24** | **(M-L9)** | Marginocephalians | Ceratops |  |    |
 |  |         | **D4** | Disc 4 |  Clash of the Dinos  |   |     |
