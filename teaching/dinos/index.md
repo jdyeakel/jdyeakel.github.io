@@ -1,5 +1,5 @@
 ---
-layout: pagetrim
+layout: pagetrimdino
 title: "The Natural History of Dinosaurs :: Spring 2021"
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
@@ -10,10 +10,32 @@ image:
 ---
 
 
+## Welcome!
+Welcome to the course website for ***Natural History of Dinosaurs***. Of course, this semester we will be running this course entirely remotely, with both lecture and discussion section occurring on ZOOM (links below). This course will be conducted ***synchronously***, meaning that it is mandatory that you attend lectures and discussions *at the times they occur*. This will be the primary site that will host course information and changes to the schedule, as well as your Discussion Section activities. The Catcourses, or Canvas, site for this course will be used for assessments (homework and exams) and of course grades. See the [syllabus]({{ site.url }}/teaching/dinos/syllabus) for details and the [schedule]({{ site.url }}/teaching/dinos/schedule) for information regarding important dates and content.
+
+---
+
 ## Info
-* Class time/location: MW 10:30-11:45 on ZOOM  
+*	[Syllabus]({{ site.url }}/teaching/dinos/syllabus)  
+* [Schedule]({{ site.url }}/teaching/dinos/schedule)  
+
+*	**Lecture**: MW 10:30-11:45AM on [ZOOM](https://ucmerced.zoom.us/j/89025936181?pwd=bU9YSmNjT0xmR1dFVmUvanJ1aXRwQT09)  
+*	**Section BIO/ESS-065-11D**: **M** 12:30-1:20 on [ZOOM](https://ucmerced.zoom.us/j/89530180696?pwd=TWxtMXhTTHJSR2VGKzB6Yy96SzZzZz09)  
+*	**Section BIO/ESS-065-13D**: **M** 1:30-2:20 on [ZOOM](https://ucmerced.zoom.us/j/88311377473?pwd=cFo3OUdUZmg0dzEwanlWckdiMEt5Zz09)  
+*	**Section BIO/ESS-065-12D**: **W** 12:30-1:20 on [ZOOM](https://ucmerced.zoom.us/j/84452104725?pwd=dFFuUFRjN2RmWWI2Vy92Yzl5YmdtZz09)  
+
+
+*	Prof. Yeakel Office Hours: [TBD or by appointment](https://ucmerced.zoom.us/j/89025936181?pwd=bU9YSmNjT0xmR1dFVmUvanJ1aXRwQT09)  
+*	TA Irina Barros Office Hours: [TBD]()  
+
+## Contact
+Please use the Inbox application in the CatCourses (Canvas) website to contact either of us. *There is no guarantee of response if personal emails are used.*
+
+
+<!-- ## Info
+* Class time/location: MW 10:30-11:45 on ZOOM   -->
 <!-- * Section time/location: M 12:30-1:20 in CLSSRM 279; W 1:30-2:20 in CLSSRM 288; M 6:30-7:20 in CLSSRM 203   -->
-* Office hours: Justin (TBD); Irina (TBD)  
+<!-- * Office hours: Justin (TBD); Irina (TBD)   -->
 <!-- * [Syllabus](http://jdyeakel.github.io/teaching/dinos/Syllabus_spring2018.pdf)  
 [Updated class schedule (*updated 2/25*)](http://jdyeakel.github.io/teaching/dinos/updatedsyllabus.pdf)   -->
 
