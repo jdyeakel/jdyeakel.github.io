@@ -37,8 +37,8 @@ tr:nth-child(odd) {background: #FFF}
 | Wk | Date | Lect/Disc_# | Lecture_Topic | Description | Required Readings | Assign. |
 | ---------- | ---------- | ----------- | --------------- | ------------- | ------------ |
 | 1 | **1/20**       | **(W-L1)** | Introduction | Paleontology and fossils | Fast. Ch. 1,2 |     |
-| 2 |         |  | **No Disc** | No Discussion section |  |     |
-|  | **1/25**  | **(M-L2)** | Evolution 1 | Natural selection | Fast. Chp. 3 |     |
+|  |         |  | **No Disc** | No Discussion section |  |     |
+| 2 | **1/25**  | **(M-L2)** | Evolution 1 | Natural selection | Fast. Chp. 3 |     |
 |  |  **1/27**  | **(W-L3)** | Evolution 2 | Cladistics |  |     |
 |  |   | **F** | Homework |  |  |  Hmwk 1 due   |
 |  |        | **D1** | Disc 1 | Paleontology and Sedimentology | [Sed. worksheet]({{ site.url }}/teaching/dinos/Section_1_Strat_Section.pdf){:target="_blank"} |     |
@@ -89,7 +89,7 @@ tr:nth-child(odd) {background: #FFF}
 | 16 | **5/3** | **(M-L24)** | Extinction |  | TBD |    |
 |  | **5/5** | **(W-L23)** | Review |  |  |    |
 |  |        | **D13** | Disc 13 |   | |  |
-| 17 | **5/8** | **Sat.** | ***FINAL EXAM*** | Comprehensive (8-11AM)  |  |  |
+|  | **5/8** | **Sat.** | ***FINAL EXAM*** | Comprehensive (8-11AM)  |  |  |
 
 
 
