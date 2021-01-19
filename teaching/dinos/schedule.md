@@ -40,14 +40,14 @@ tr:nth-child(odd) {background: #FFF}
 |  |         |  | **No Disc** | No Discussion section |  |     |
 | 2 | **1/25**  | **(M-L2)** | Evolution 1 | Natural selection | Fast. Chp. 3 |     |
 |  |  **1/27**  | **(W-L3)** | Evolution 2 | Cladistics |  |     |
-|  |   | **F** | Homework |  |  |  Hmwk 1 due   |
+|  | **1/29**  | **F** | Homework |  |  |  Hmwk 1 due   |
 |  |        | **D1** | Disc 1 | Paleontology and Sedimentology | [Sed. worksheet]({{ site.url }}/teaching/dinos/Section_1_Strat_Section.pdf){:target="_blank"} |     |
 | 3 | **2/1**       | **(M-L4)** | Early life | Cambrian through the Permian | Fast. Chp. 4 |     |
 |  |  **2/3**   | **(W-L5)** | Dinosaurs | Basal dinosaurs | Fast. Part II, Chp. 5 |     |
 |  |        | **D2** | Disc 2 |  Cladistics    | [Cladistics worksheet]({{ site.url }}/teaching/dinos/Section_2_Cladistics.pdf){:target="_blank"} |     |
 | 4 | **2/8** | **(M-L6)** | Thyreophorans | Stegosaurs/Ankylosaurs | Fast. Chp. 10 |    |
 |  | **2/10** | **(W-L7)** | Review |  |  |    |
-|  |   | **F** | Homework |  |  |  Hmwk 2 due   |
+|  | **2/12**  | **F** | Homework |  |  |  Hmwk 2 due   |
 |  |         | **D3** | Disc 3 |  Anatomy  |  [Anatomy worksheet]({{ site.url }}/teaching/dinos/Section_3_Anatomy.pdf){:target="_blank"}  |     |
 | 5 | **2/15** | **(M-No Class)** |  |  |  |    |
 |  |  | **2/17** | **W** | ***Exam I***   |  |  |    |
@@ -57,11 +57,11 @@ tr:nth-child(odd) {background: #FFF}
 |  |         | **D4** | Disc 4 |  Clash of the Dinos  |   |     |
 | 7 | **3/1** | **(M-L10)** | Ornithopods 1 |  | Fast. Chp. 7 |    |
 |  | **3/3** | **(W-L11)** | Ornithopods 2 |  |  |    |
-|  |   | **F** | Homework |  |  |  Hmwk 3 due   |
+|  |  **3/5** | **F** | Homework |  |  |  Hmwk 3 due   |
 |  |         | **D5** | Disc 5 |     |  |    |
 | 8 | **3/8** | **(M-L12)** | Sauropods 1 |  | Fast. Part III, Chp. 8 |   |
 |  | **3/10** | **(W-L13)** | Sauropods 2 |  |    |    |
-|  |   | **F** | Homework |  |  |  Hmwk 4 due   |
+|  |  **3/12** | **F** | Homework |  |  |  Hmwk 4 due   |
 |  |         | **D6** | Disc 6 |   |  |    |
 | 9 | **3/15** | **(M-L14)** | Review |  |  |  |
 |  | **3/17** | **W** | ***Exam II*** |  |  |    |
@@ -74,7 +74,7 @@ tr:nth-child(odd) {background: #FFF}
 |  |       | **D8** |  |    |  |   |
 | 12 | **4/5** | **(M-L17)** | Theropods 2 |  |  |    |
 |  | **4/7** | **(W-L18)** | Origin of Birds 1 |  | Fast. Chp. 10 |    |
-|  |   | **F** | Homework |  |  |  Hmwk 5 due   |
+|  |  **4/9** | **F** | Homework |  |  |  Hmwk 5 due   |
 |  |         | **D9** | Disc 9 |   |  |  |
 | 13 | **4/12** | **(M-L19)** | Origin of Birds 2 |  | | |
 |  | **4/14** | **W** | ***Exam III*** |  |  |    |
@@ -84,7 +84,7 @@ tr:nth-child(odd) {background: #FFF}
 |  |         | **D11** | Disc 11 |   | |  |
 | 15 | **4/26** | **(M-L22)** | Mesozoic World |  | Fast. Chp. 15 |    |
 |  | **4/28** | **(W-L23)** | Mammals |  | Brusatte Chp. 9 |    |
-|  |   | **F** | Homework |  |  |  Hmwk 6 due   |
+|  |  **4/30** | **F** | Homework |  |  |  Hmwk 6 due   |
 |  |        | **D12** | Disc 12 |   | |  |
 | 16 | **5/3** | **(M-L24)** | Extinction |  | TBD |    |
 |  | **5/5** | **(W-L23)** | Review |  |  |    |
