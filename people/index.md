@@ -69,14 +69,14 @@ I generally use network-theoretic approaches – combined with empirical measure
 
 <div>
 <p style="float: left;padding-right:25px"><img src="/images/Irina-web.jpg" width="125"></p>
-<b>Irina Birskis Barros</b> "I will join UC Merced as a PhD student in Fall 2018. I am interested in how species assemble into communities, especially how diversity shapes and is shaped by species interactions. I aim to use empirical data, mathematical modeling and network theory to investigate how ecological networks assemble and what factors might influence their stability and structure over evolutionary time."  <BR> <BR> <BR> <BR>     
+ <b><a href="https://birskisbarros.weebly.com/">Irina Birskis Barros</a></b>"I will join UC Merced as a PhD student in Fall 2018. I am interested in how species assemble into communities, especially how diversity shapes and is shaped by species interactions. I aim to use empirical data, mathematical modeling and network theory to investigate how ecological networks assemble and what factors might influence their stability and structure over evolutionary time."  <BR> <BR> <BR> <BR>     
 </div>     
 
 <BR CLEAR="...">
 
 <div>
 <p style="float: left;padding-right:25px"><img src="/images/Megha-web.jpg" width="125"></p>
-<b>Megha Suswaram</b> "I am broadly interested in how phenotypic variation evolves with complex ecological interactions. I use modeling to understand trophic interactions, feedbacks and selection pressures in eco-evolutionary biology.  I am particularly interested in understanding the effect of antagonistic selection pressures on phenotypic trait evolution and how it changes predator – prey dynamics. I am also exploring conditions under which mutualisms may evolve between the different kind of predator-prey interactions."  <BR> <BR>     
+<b><a href="http://www.meghasuswaram.com">Megha Suswaram</a></b> "I am broadly interested in how phenotypic variation evolves with complex ecological interactions. I use modeling to understand trophic interactions, feedbacks and selection pressures in eco-evolutionary biology.  I am particularly interested in understanding the effect of antagonistic selection pressures on phenotypic trait evolution and how it changes predator – prey dynamics. I am also exploring conditions under which mutualisms may evolve between the different kind of predator-prey interactions."  <BR> <BR>     
 </div>     
 
 <BR CLEAR="...">
