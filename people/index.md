@@ -67,14 +67,14 @@ I generally use network-theoretic approaches – combined with empirical measure
 
 <div>
 <p style="float: left;padding-right:25px"><img src="/images/Irina-web.jpg" width="125"></p>
- <b><a href="https://birskisbarros.weebly.com/">Irina Birskis Barros</a></b>"I will join UC Merced as a PhD student in Fall 2018. I am interested in how species assemble into communities, especially how diversity shapes and is shaped by species interactions. I aim to use empirical data, mathematical modeling and network theory to investigate how ecological networks assemble and what factors might influence their stability and structure over evolutionary time."  <BR> <BR> <BR> <BR>     
+ <b><a href="https://birskisbarros.weebly.com/" target="_blank">Irina Birskis Barros</a></b>"I will join UC Merced as a PhD student in Fall 2018. I am interested in how species assemble into communities, especially how diversity shapes and is shaped by species interactions. I aim to use empirical data, mathematical modeling and network theory to investigate how ecological networks assemble and what factors might influence their stability and structure over evolutionary time."  <BR> <BR> <BR> <BR>     
 </div>     
 
 <BR CLEAR="...">
 
 <div>
 <p style="float: left;padding-right:25px"><img src="/images/Megha-web.jpg" width="125"></p>
-<b><a href="http://www.meghasuswaram.com">Megha Suswaram</a></b> "I am broadly interested in how phenotypic variation evolves with complex ecological interactions. I use modeling to understand trophic interactions, feedbacks and selection pressures in eco-evolutionary biology.  I am particularly interested in understanding the effect of antagonistic selection pressures on phenotypic trait evolution and how it changes predator – prey dynamics. I am also exploring conditions under which mutualisms may evolve between the different kind of predator-prey interactions."  <BR> <BR>     
+<b><a href="http://www.meghasuswaram.com" target="_blank">Megha Suswaram</a></b> "I am broadly interested in how phenotypic variation evolves with complex ecological interactions. I use modeling to understand trophic interactions, feedbacks and selection pressures in eco-evolutionary biology.  I am particularly interested in understanding the effect of antagonistic selection pressures on phenotypic trait evolution and how it changes predator – prey dynamics. I am also exploring conditions under which mutualisms may evolve between the different kind of predator-prey interactions."  <BR> <BR>     
 </div>     
 
 <BR CLEAR="...">
@@ -93,19 +93,19 @@ I generally use network-theoretic approaches – combined with empirical measure
 
 <span style="text-align=left;font-size:1.5em;color:#4292E5;">Lab Alumni</span>
 <div>
-<p style="float: left;padding-right:25px"><img src="/images/Uttam-web.jpg" width="125"></p> <b><a href="https://scholar.google.com/citations?user=8AVQ7NgAAAAJ&hl=en">Uttam Bhat</a></b>  "I study problems in ecology using tools from physics. In particular, currently I'm studying how different foraging behaviors affect the depletion pattern in the environment, and in turn how the depletion affects the forager's lifetime. For this, I use tools from random walks, first-passage processes and asymptotic analysis."  <BR> <BR>     
+<p style="float: left;padding-right:25px"><img src="/images/Uttam-web.jpg" width="125"></p> <b><a href="https://scholar.google.com/citations?user=8AVQ7NgAAAAJ&hl=en" target="_blank">Uttam Bhat</a></b>  "I study problems in ecology using tools from physics. In particular, currently I'm studying how different foraging behaviors affect the depletion pattern in the environment, and in turn how the depletion affects the forager's lifetime. For this, I use tools from random walks, first-passage processes and asymptotic analysis."  <BR> <BR>     
 </div>     
 
 <BR CLEAR="...">
 
 <div>
-<p style="float: left;padding-right:25px"><img src="/images/JP-web.jpg" width="125"></p> <b><a href="http://jeanpgibert.weebly.com">Jean-Philippe Gibert</a></b> <b>Former McDonnell Fellow; Assistant Professor, Duke University NC</b> "I study how phenotypic variation affects the structure and dynamics of complex food webs and how this effect is mediated by environmental factors such as temperature. To do so, I integrate information across systems and taxa and often combine mathematical, computational and empirical tools." <BR> <BR> <BR> <BR> 
+<p style="float: left;padding-right:25px"><img src="/images/JP-web.jpg" width="125"></p> <b><a href="http://jeanpgibert.weebly.com" target="_blank">Jean-Philippe Gibert</a></b> <b>Former McDonnell Fellow; Assistant Professor, Duke University NC</b> "I study how phenotypic variation affects the structure and dynamics of complex food webs and how this effect is mediated by environmental factors such as temperature. To do so, I integrate information across systems and taxa and often combine mathematical, computational and empirical tools." <BR> <BR> <BR> <BR> 
 </div>      
 
 <BR CLEAR="...">
 
 <div>
-<p style="float: left;padding-right:25px"><img src="/images/Jack-web.jpg" width="125"></p> <b><a href="http://jackhopkinswildlife.com">John (Jack) Hopkins III</a></b> <b>Assistant Professor, Unity College ME</b> "I primarily conduct empirical field-based research that uses a variety of sampling methods and quantitative approaches to investigate the effects of environmental change on species interactions, wildlife-habitat relationships, and the foraging behavior and nutrition of free-ranging mammals." <BR> <BR> <BR> <BR>
+<p style="float: left;padding-right:25px"><img src="/images/Jack-web.jpg" width="125"></p> <b><a href="http://jackhopkinswildlife.com" target="_blank">John (Jack) Hopkins III</a></b> <b>Assistant Professor, Unity College ME</b> "I primarily conduct empirical field-based research that uses a variety of sampling methods and quantitative approaches to investigate the effects of environmental change on species interactions, wildlife-habitat relationships, and the foraging behavior and nutrition of free-ranging mammals." <BR> <BR> <BR> <BR>
 </div>      
 
 <BR CLEAR="...">
