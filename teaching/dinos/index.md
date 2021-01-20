@@ -20,9 +20,9 @@ Welcome to the course website for ***Natural History of Dinosaurs***. Of course,
 * [Schedule]({{ site.url }}/teaching/dinos/schedule)  
 
 *	**Lecture**: MW 10:30-11:45AM on [ZOOM](https://ucmerced.zoom.us/j/89025936181?pwd=bU9YSmNjT0xmR1dFVmUvanJ1aXRwQT09)  
-*	**Section BIO/ESS-065-11D**: **M** 12:30-1:20 on [ZOOM](https://ucmerced.zoom.us/j/89530180696?pwd=TWxtMXhTTHJSR2VGKzB6Yy96SzZzZz09)  
-*	**Section BIO/ESS-065-13D**: **M** 1:30-2:20 on [ZOOM](https://ucmerced.zoom.us/j/88311377473?pwd=cFo3OUdUZmg0dzEwanlWckdiMEt5Zz09)  
-*	**Section BIO/ESS-065-12D**: **W** 12:30-1:20 on [ZOOM](https://ucmerced.zoom.us/j/84452104725?pwd=dFFuUFRjN2RmWWI2Vy92Yzl5YmdtZz09)  
+*	**Section BIO/ESS-065 11D or 02D**: **M** 12:30-1:20 on [ZOOM](https://ucmerced.zoom.us/j/89530180696?pwd=TWxtMXhTTHJSR2VGKzB6Yy96SzZzZz09)  
+*	**Section BIO/ESS-065 13D or 04D**: **M** 1:30-2:20 on [ZOOM](https://ucmerced.zoom.us/j/88311377473?pwd=cFo3OUdUZmg0dzEwanlWckdiMEt5Zz09)  
+*	**Section BIO/ESS-065 12D or 03D**: **W** 12:30-1:20 on [ZOOM](https://ucmerced.zoom.us/j/84452104725?pwd=dFFuUFRjN2RmWWI2Vy92Yzl5YmdtZz09)  
 
 
 *	Prof. Yeakel Office Hours: [TBD or by appointment](https://ucmerced.zoom.us/j/89025936181?pwd=bU9YSmNjT0xmR1dFVmUvanJ1aXRwQT09)  
