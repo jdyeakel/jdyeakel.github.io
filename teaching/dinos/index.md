@@ -31,6 +31,11 @@ Welcome to the course website for ***Natural History of Dinosaurs***. Of course,
 ## Contact
 Please use the Inbox application in the CatCourses (Canvas) website to contact either of us. *There is no guarantee of response if personal emails are used.*
 
+---
+
+## Lecture Recordings
+1. [Lecture 1 :: 9/20](https://ucmerced.box.com/s/1x6g3ujapak3eos71z0dj3r5ruyyvh6u)
+
 
 <!-- ## Info
 * Class time/location: MW 10:30-11:45 on ZOOM   -->
