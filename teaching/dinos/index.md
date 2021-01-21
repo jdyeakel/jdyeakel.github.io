@@ -36,6 +36,8 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 ## Lecture Recordings
 1. [Lecture 1 :: 9/20](https://ucmerced.box.com/s/1x6g3ujapak3eos71z0dj3r5ruyyvh6u)
 
+## Lecture PDFs
+1. [Lecture 1 :: 9/20](https://ucmerced.box.com/s/mqmjjh4uagj6bqnpaats23qa0vmhrgt6)
 
 <!-- ## Info
 * Class time/location: MW 10:30-11:45 on ZOOM   -->
