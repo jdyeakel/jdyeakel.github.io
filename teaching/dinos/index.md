@@ -33,11 +33,14 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 
 ---
 
+## Discussion Sections
+1. [Discussion Section 1 :: 1/25, 1/27]({{ site.url }}/teaching/dinos/Section_1_Strat_Section.pdf)
+
 ## Lecture Recordings
-1. [Lecture 1 :: 9/20](https://ucmerced.box.com/s/1x6g3ujapak3eos71z0dj3r5ruyyvh6u)
+1. [Lecture 1 :: 1/20](https://ucmerced.box.com/s/1x6g3ujapak3eos71z0dj3r5ruyyvh6u)
 
 ## Lecture PDFs
-1. [Lecture 1 :: 9/20](https://ucmerced.box.com/s/mqmjjh4uagj6bqnpaats23qa0vmhrgt6)
+1. [Lecture 1 :: 1/20](https://ucmerced.box.com/s/mqmjjh4uagj6bqnpaats23qa0vmhrgt6)
 
 <!-- ## Info
 * Class time/location: MW 10:30-11:45 on ZOOM   -->
