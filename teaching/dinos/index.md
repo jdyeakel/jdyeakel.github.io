@@ -26,7 +26,7 @@ Welcome to the course website for ***Natural History of Dinosaurs***. Of course,
 
 
 *	Prof. Yeakel Office Hours: [MF 3-4pm or by appointment](https://ucmerced.zoom.us/j/89025936181?pwd=bU9YSmNjT0xmR1dFVmUvanJ1aXRwQT09)  
-*	TA Irina Barros Office Hours: [TBD]()  
+*	TA Irina Barros Office Hours: M 2:30-3:30; W 1:30-2:30  
 
 ## Contact
 Please use the Inbox application in the CatCourses (Canvas) website to contact either of us. *There is no guarantee of response if personal emails are used.*
