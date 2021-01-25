@@ -16,7 +16,7 @@ comments: true
     * BIO/ESS-065-11D or 02D **M** 12:30-1:20 [Zoom Link](https://ucmerced.zoom.us/j/89530180696?pwd=TWxtMXhTTHJSR2VGKzB6Yy96SzZzZz09)  
     * BIO/ESS-065-13D or 04D **M** 1:30-2:20 [Zoom Link](https://ucmerced.zoom.us/j/88311377473?pwd=cFo3OUdUZmg0dzEwanlWckdiMEt5Zz09)  
     * BIO/ESS-065-12D or 03D **W** 12:30-1:20 [Zoom Link](https://ucmerced.zoom.us/j/84452104725?pwd=dFFuUFRjN2RmWWI2Vy92Yzl5YmdtZz09)  
-+ **Instructor**: Justin D. Yeakel  
++ **Instructor**: Justin D. Yeakel; Office Hours: [MF 3-4pm or by appointment](https://ucmerced.zoom.us/j/89025936181?pwd=bU9YSmNjT0xmR1dFVmUvanJ1aXRwQT09)   
 + **Teaching Assistant**: Irina Barros  
 + **Course Websites**  
     Everything that we do this this course will revolve around two principle websites. In some cases, information will be duplicated on both sites (link to readings), and I will attempt to cross-link as necessary.

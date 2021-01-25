@@ -25,7 +25,7 @@ Welcome to the course website for ***Natural History of Dinosaurs***. Of course,
 *	**Section BIO/ESS-065 12D or 03D**: **W** 12:30-1:20 on [ZOOM](https://ucmerced.zoom.us/j/84452104725?pwd=dFFuUFRjN2RmWWI2Vy92Yzl5YmdtZz09)  
 
 
-*	Prof. Yeakel Office Hours: [TBD or by appointment](https://ucmerced.zoom.us/j/89025936181?pwd=bU9YSmNjT0xmR1dFVmUvanJ1aXRwQT09)  
+*	Prof. Yeakel Office Hours: [MF 3-4pm or by appointment](https://ucmerced.zoom.us/j/89025936181?pwd=bU9YSmNjT0xmR1dFVmUvanJ1aXRwQT09)  
 *	TA Irina Barros Office Hours: [TBD]()  
 
 ## Contact
