@@ -46,6 +46,9 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 2. [Lecture 2 :: 1/25](https://ucmerced.box.com/s/rzknkdubsorm1r8geo04v7vab9r753j4){:target="_blank"}  
 3. [Lecture 3 :: 1/27](https://ucmerced.box.com/s/38fuy8z6c0gg0r1hv4936q31znct1vd8){:target="_blank"}  
 
+## Lecture movie clips
+[Geerat Vermeij Coevolutionary Arms Race](https://ucmerced.box.com/s/h3c52gixgdvegpxkvaah3iuqffizryws){:target="_blank"}  
+
 <!-- ## Info
 * Class time/location: MW 10:30-11:45 on ZOOM   -->
 <!-- * Section time/location: M 12:30-1:20 in CLSSRM 279; W 1:30-2:20 in CLSSRM 288; M 6:30-7:20 in CLSSRM 203   -->
