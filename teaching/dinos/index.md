@@ -40,14 +40,16 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 1. [Lecture 1 :: 1/20](https://ucmerced.box.com/s/1x6g3ujapak3eos71z0dj3r5ruyyvh6u){:target="_blank"}  
 2. [Lecture 2 :: 1/25](https://ucmerced.box.com/s/nw428s0fl3o7bydyzn3cmi541b8f0xh1){:target="_blank"}  
 3. [Lecture 3 :: 1/27](https://ucmerced.box.com/s/tpzrpndcm7eu7cnzl8afuclzi0563bl1){:target="_blank"}
+4. [Lecture 4 :: 2/1](https://ucmerced.box.com/s/mi58b3yx7pt53znoajy2mpk39spldpxq){:target="_blank"}
 
 ## Lecture PDFs
 1. [Lecture 1 :: 1/20](https://ucmerced.box.com/s/mqmjjh4uagj6bqnpaats23qa0vmhrgt6){:target="_blank"}  
 2. [Lecture 2 :: 1/25](https://ucmerced.box.com/s/rzknkdubsorm1r8geo04v7vab9r753j4){:target="_blank"}  
 3. [Lecture 3 :: 1/27](https://ucmerced.box.com/s/38fuy8z6c0gg0r1hv4936q31znct1vd8){:target="_blank"}  
+4. [Lecture 4 :: 2/1](https://ucmerced.box.com/s/m2or6vnt0jtil63c0lfhk4851gpgt3jo){:target="_blank"}  
 
 ## Lecture movie clips
-[Geerat Vermeij Coevolutionary Arms Race](https://ucmerced.box.com/s/h3c52gixgdvegpxkvaah3iuqffizryws){:target="_blank"}  
+[Geerat Vermeij: Coevolutionary Arms Race](https://ucmerced.box.com/s/h3c52gixgdvegpxkvaah3iuqffizryws){:target="_blank"}  
 
 <!-- ## Info
 * Class time/location: MW 10:30-11:45 on ZOOM   -->
