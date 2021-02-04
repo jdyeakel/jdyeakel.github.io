@@ -44,7 +44,7 @@ tr:nth-child(odd) {background: #FFF}
 |  |  **1/27**  | **(W-L3)** | Evolution 2 | Cladistics |  |     |
 |  | **1/29**  | **F-H1** | Homework |  |  |  Hmwk 1 due   |
 |  |        | **D1** | Disc 1 | Paleontology and Sedimentology | [Sed. worksheet]({{ site.url }}/teaching/dinos/Section_1_Strat_Section.pdf){:target="_blank"} |     |
-| 3 | **2/1**       | **(M-L4)** | Early life | Cambrain through Devonian | Fast. Chp. 4 |     |
+| 3 | **2/1**       | **(M-L4)** | Early life | Cambrian through Devonian | Fast. Chp. 4 |     |
 |  |  **2/3**   | **(W-L5)** | Early life | Devonian through Permian |  |     |
 |  |        | **D2** | Disc 2 |  Cladistics    | [Cladistics worksheet]({{ site.url }}/teaching/dinos/Section_2_Cladistics.pdf){:target="_blank"} |     |
 | 4 | **2/8** | **(M-L6)** | Dinosaurs | Basal dinosaurs | Fast. Part II, Chp. 5 |    |
