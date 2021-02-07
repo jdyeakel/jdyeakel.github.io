@@ -34,7 +34,9 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 ---
 
 ## Discussion Sections
-1. [Discussion Section 1 :: 1/25, 1/27]({{ site.url }}/teaching/dinos/Section_1_Strat_Section.pdf)
+1. [Discussion Section 1 :: 1/25, 1/27]({{ site.url }}/teaching/dinos/Section_1_Strat_Section.pdf)  
+2. [Discussion Section 2 :: 2/1, 2/3]({{ site.url }}/teaching/dinos/Section_2_Cladistics.pdf){:target="_blank"}  
+2. [Discussion Section 3 :: 2/8, 2/10]({{ site.url }}/teaching/dinos/Section_3_Anatomy.pdf){:target="_blank"}
 
 ## Lecture Recordings
 1. [Lecture 1 :: 1/20](https://ucmerced.box.com/s/1x6g3ujapak3eos71z0dj3r5ruyyvh6u){:target="_blank"}  
@@ -52,6 +54,8 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 
 ## Lecture movie clips
 [Geerat Vermeij: Coevolutionary Arms Race](https://ucmerced.box.com/s/h3c52gixgdvegpxkvaah3iuqffizryws){:target="_blank"}  
+[First reptiles](https://ucmerced.box.com/s/sdtg7ncakwfdy966cmonshkrfrp2bqof){:target="_blank"}  
+
 
 ## Keys
 1. [Homework 1 key](https://ucmerced.box.com/s/fyqie873aebjec71uze7l22t1ubhuqv1){:target="_blank"}  
