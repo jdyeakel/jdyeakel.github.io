@@ -54,6 +54,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 4. [Lecture 4 :: 2/1](https://ucmerced.box.com/s/m2or6vnt0jtil63c0lfhk4851gpgt3jo){:target="_blank"}  
 5. [Lecture 5 :: 2/3](https://ucmerced.box.com/s/on6pwyxpnjza9sbj72mvn10rm73e8yv7){:target="_blank"}  
 6. [Lecture 6 :: 2/8](https://ucmerced.box.com/s/svqehujoa20ytx2hi2lt17jj17kg3vrz){:target="_blank"}  
+7. [Lecture 7 :: 2/10](https://ucmerced.box.com/s/2zmu70cj9tf49xd1l0yysm2xkm28i2k4){:target="_blank"} 
 
 ## Lecture movie clips
 [Geerat Vermeij: Coevolutionary Arms Race](https://ucmerced.box.com/s/h3c52gixgdvegpxkvaah3iuqffizryws){:target="_blank"}  
