@@ -56,7 +56,7 @@ tr:nth-child(odd) {background: #FFF}
 |  |         |  | **No Disc** |   |  |    |
 | 6 | **2/22** | **(M-L8)** | Marginocephalians | Pachys | Fast. Chp. 6 |    |
 |  | **2/24** | **(M-L9)** | Marginocephalians | Ceratops |  |    |
-|  |         | **D4** | Disc 4 |  Clash of the Dinos  |   |     |
+|  |         | **D4** | Disc 4 |  Cladistics 2  | [Cladistics 2 worksheet]({{ site.url }}/teaching/dinos/Section_4_Cladistics2.pdf){:target="_blank"}  |     |
 | 7 | **3/1** | **(M-L10)** | Ornithopods 1 |  | Fast. Chp. 7 |    |
 |  | **3/3** | **(W-L11)** | Ornithopods 2 |  |  |    |
 |  |  **3/5** | **F-H3** | Homework |  |  |  Hmwk 3 due   |

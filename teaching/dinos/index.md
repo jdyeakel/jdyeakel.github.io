@@ -36,7 +36,8 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 ## Discussion Sections
 1. [Discussion Section 1 :: 1/25, 1/27]({{ site.url }}/teaching/dinos/Section_1_Strat_Section.pdf)  
 2. [Discussion Section 2 :: 2/1, 2/3]({{ site.url }}/teaching/dinos/Section_2_Cladistics.pdf){:target="_blank"}  
-2. [Discussion Section 3 :: 2/8, 2/10]({{ site.url }}/teaching/dinos/Section_3_Anatomy.pdf){:target="_blank"}
+3. [Discussion Section 3 :: 2/8, 2/10]({{ site.url }}/teaching/dinos/Section_3_Anatomy.pdf){:target="_blank"}  
+4. [Discussion Section 4 :: 2/22, 2/24]({{ site.url }}/teaching/dinos/Section_4_Cladistics2.pdf){:target="_blank"}  
 
 ## Lecture Recordings
 1. [Lecture 1 :: 1/20](https://ucmerced.box.com/s/1x6g3ujapak3eos71z0dj3r5ruyyvh6u){:target="_blank"}  
