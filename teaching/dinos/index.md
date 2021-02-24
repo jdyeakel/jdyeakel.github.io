@@ -47,6 +47,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 5. [Lecture 5 :: 2/3](https://ucmerced.box.com/s/sz7jkomjp6s11w25mkke252kfo2t58bc){:target="_blank"}
 6. [Lecture 6 :: 2/8](https://ucmerced.box.com/s/dg2dxdpmv3kbr4o4a3iwtvkgpwlh6pv2){:target="_blank"}
 7. [Lecture 7 :: 2/10](https://ucmerced.box.com/s/5ap9f298iprpfxha08k1vlz9dg7s69wa){:target="_blank"}
+8. [Lecture 8 :: 2/22](https://ucmerced.box.com/s/if64uoonjva6sueftpqd0nolpi1dap2g){:target="_blank"}
 
 ## Lecture PDFs
 1. [Lecture 1 :: 1/20](https://ucmerced.box.com/s/mqmjjh4uagj6bqnpaats23qa0vmhrgt6){:target="_blank"}  
