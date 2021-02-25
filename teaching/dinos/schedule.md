@@ -60,7 +60,7 @@ tr:nth-child(odd) {background: #FFF}
 | 7 | **3/1** | **(M-L10)** | Ornithopods 1 |  | Fast. Chp. 7 |    |
 |  | **3/3** | **(W-L11)** | Ornithopods 2 |  |  |    |
 |  |  **3/5** | **F-H3** | Homework |  |  |  Hmwk 3 due   |
-|  |         | **D5** | Disc 5 |     |  |    |
+|  |         | **D5** | Disc 5 |  Thermoregulation   | Reading [1](https://www.wired.com/2009/07/toucanbill/){:target="_blank"} & [2](https://www.smithsonianmag.com/science-nature/armored-dinosaurs-kept-cool-labyrinth-nose-canals-180971073/){:target="_blank"}; Supp [1](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0207381){:target="_blank"} & [2](https://science.sciencemag.org/content/325/5939/468?ijkey=b5e9d5b337a93ab599c7c44bec9573a4cca5224e&keytype2=tf_ipsecsha){:target="_blank"} |    |
 | 8 | **3/8** | **(M-L12)** | Sauropods 1 |  | Fast. Part III, Chp. 8 |   |
 |  | **3/10** | **(W-L13)** | Sauropods 2 |  |    |    |
 |  |  **3/12** | **F-H4** | Homework |  |  |  Hmwk 4 due   |
