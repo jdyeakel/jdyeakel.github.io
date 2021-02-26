@@ -49,6 +49,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 6. [Lecture 6 :: 2/8](https://ucmerced.box.com/s/dg2dxdpmv3kbr4o4a3iwtvkgpwlh6pv2){:target="_blank"}
 7. [Lecture 7 :: 2/10](https://ucmerced.box.com/s/5ap9f298iprpfxha08k1vlz9dg7s69wa){:target="_blank"}
 8. [Lecture 8 :: 2/22](https://ucmerced.box.com/s/if64uoonjva6sueftpqd0nolpi1dap2g){:target="_blank"}
+9. [Lecture 9 :: 2/24](https://ucmerced.box.com/s/9b5ma9s3gog38nedje6d5l559amwcck0){:target="_blank"}
 
 ## Lecture PDFs
 1. [Lecture 1 :: 1/20](https://ucmerced.box.com/s/mqmjjh4uagj6bqnpaats23qa0vmhrgt6){:target="_blank"}  
@@ -58,6 +59,8 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 5. [Lecture 5 :: 2/3](https://ucmerced.box.com/s/on6pwyxpnjza9sbj72mvn10rm73e8yv7){:target="_blank"}  
 6. [Lecture 6 :: 2/8](https://ucmerced.box.com/s/svqehujoa20ytx2hi2lt17jj17kg3vrz){:target="_blank"}  
 7. [Lecture 7 :: 2/10](https://ucmerced.box.com/s/2zmu70cj9tf49xd1l0yysm2xkm28i2k4){:target="_blank"} 
+8. [Lecture 8 :: 2/22](https://ucmerced.box.com/s/ws62vjgdiyaadohptnvxnk3l2q0vypal){:target="_blank"}  
+9. [Lecture 9 :: 2/24](https://ucmerced.box.com/s/2mgfmjc8xpby4z13fjtp6twa4n24clq5){:target="_blank"}  
 
 ## Lecture movie clips
 [Geerat Vermeij: Coevolutionary Arms Race](https://ucmerced.box.com/s/h3c52gixgdvegpxkvaah3iuqffizryws){:target="_blank"}  
