@@ -50,6 +50,8 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 7. [Lecture 7 :: 2/10](https://ucmerced.box.com/s/5ap9f298iprpfxha08k1vlz9dg7s69wa){:target="_blank"}
 8. [Lecture 8 :: 2/22](https://ucmerced.box.com/s/if64uoonjva6sueftpqd0nolpi1dap2g){:target="_blank"}
 9. [Lecture 9 :: 2/24](https://ucmerced.box.com/s/9b5ma9s3gog38nedje6d5l559amwcck0){:target="_blank"}
+10. [Lecture 10 :: 3/1](https://ucmerced.box.com/s/c15r03klvpi1849240ryjoadslvjrgkz){:target="_blank"}
+11. [Lecture 11 :: 3/3](https://ucmerced.box.com/s/o0rp7j5zo3gr2xgcvld2nfzrobasoyow){:target="_blank"}  
 
 ## Lecture PDFs
 1. [Lecture 1 :: 1/20](https://ucmerced.box.com/s/mqmjjh4uagj6bqnpaats23qa0vmhrgt6){:target="_blank"}  
@@ -61,10 +63,15 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 7. [Lecture 7 :: 2/10](https://ucmerced.box.com/s/2zmu70cj9tf49xd1l0yysm2xkm28i2k4){:target="_blank"} 
 8. [Lecture 8 :: 2/22](https://ucmerced.box.com/s/ws62vjgdiyaadohptnvxnk3l2q0vypal){:target="_blank"}  
 9. [Lecture 9 :: 2/24](https://ucmerced.box.com/s/2mgfmjc8xpby4z13fjtp6twa4n24clq5){:target="_blank"}  
+10. [Lecture 10 :: 3/1](https://ucmerced.box.com/s/rz5xbdahkoqdi1l7pb29r9b5ydu21zw6){:target="_blank"}  
+11. [Lecture 11 :: 3/3](https://ucmerced.box.com/s/gafgs05ecqv7itfwh9me6cfimtke0pi9){:target="_blank"}  
 
 ## Lecture movie clips
 [Geerat Vermeij: Coevolutionary Arms Race](https://ucmerced.box.com/s/h3c52gixgdvegpxkvaah3iuqffizryws){:target="_blank"}  
 [First reptiles](https://ucmerced.box.com/s/sdtg7ncakwfdy966cmonshkrfrp2bqof){:target="_blank"}  
+[Dinosaurs Decoded: Jack Horner](https://ucmerced.box.com/s/trnzzsepp2z81yvixk7pc5cg9vxiqj32){:target="_blank"}  
+[Dinosaurs! Full documentary with Christopher Reeve](https://ucmerced.box.com/s/f3jp06kxm0isyuuoy1734y8omguhuedw){:target="_blank"}  
+[Parasaurolophus vocal signal](https://ucmerced.box.com/s/2c9v71uwt2kai11ryrwqcz05e1amdr1l){:target="_blank"}  
 
 
 ## Keys
