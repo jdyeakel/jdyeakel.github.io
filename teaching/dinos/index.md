@@ -40,7 +40,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 4. [Discussion Section 4 :: 2/22, 2/24]({{ site.url }}/teaching/dinos/Section_4_Cladistics2.pdf){:target="_blank"}  
 5. Discussion Section 5 :: 3/1, 3/3; Readings [1](https://www.wired.com/2009/07/toucanbill/){:target="_blank"} & [2](https://www.smithsonianmag.com/science-nature/armored-dinosaurs-kept-cool-labyrinth-nose-canals-180971073/){:target="_blank"}; Supplemental Readings [1](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0207381){:target="_blank"} & [2](https://science.sciencemag.org/content/325/5939/468?ijkey=b5e9d5b337a93ab599c7c44bec9573a4cca5224e&keytype2=tf_ipsecsha){:target="_blank"}
 6. [Discussion Section 6 materials :: 3/8, 3/10](https://ucmerced.box.com/s/4nxac80451bs7bze4m7gc2nyby579cio){:target="_blank"} 
-7. [Discussion Section 7 (not in-person) :: 3/15, 3/17](https://ucmerced.box.com/s/gtbzmxc4oou7wmki8xyj60exusqew30q){:target="_blank"} 
+7. [Discussion Section 7, Dinosaur Wars! (not in-person) :: 3/15, 3/17](https://ucmerced.box.com/s/gtbzmxc4oou7wmki8xyj60exusqew30q){:target="_blank"} 
 
 
 ## Lecture Recordings
