@@ -64,7 +64,7 @@ tr:nth-child(odd) {background: #FFF}
 | 8 | **3/8** | **(M-L12)** | Sauropods 1 |  | Fast. Part III, Chp. 8 |   |
 |  | **3/10** | **(W-L13)** | Sauropods 2 |  |    |    |
 |  |  **3/12** | **F-H4** | Homework |  |  |  Hmwk 4 due   |
-|  |         | **D6** | Disc 6 |   |  |    |
+|  |         | **D6** | Disc 6 | [Dinosaur Wars](https://ucmerced.box.com/s/gtbzmxc4oou7wmki8xyj60exusqew30q){:target="_blank"}  | Not in person |    |
 | 9 | **3/15** | **(M-L14)** | Review |  |  |  |
 |  | **3/17** | **W** | ***Exam II*** |  |  |    |
 |  |        | **D7** | Disc 7 |     |  |    |
