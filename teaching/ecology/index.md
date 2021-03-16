@@ -29,7 +29,7 @@ Welcome to the course website for ***Fundamentals of Ecology***. Of course, this
 
 ## Contact
 Please use the Inbox application in the CatCourses (Canvas) website to contact either of us. *There is no guarantee of response if personal emails are used.*
-
+<!-- 
 ## Discussion Sections
 1. [Section 1 (Friday, September 4)]({{ site.url }}/teaching/ecology/section1/)  
 2. [Section 2 (Friday, September 11)]({{ site.url }}/teaching/ecology/section2/)  
@@ -131,7 +131,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 9. [Homework 5](https://ucmerced.box.com/s/ftlvk58oah3l6f3lfmpyf1558ngxrj8h)
 10. [Homework 6](https://ucmerced.box.com/s/qm4nv2aqn75600y5sa67jt7895af2rm1)
 11. [Midterm 3](https://ucmerced.box.com/s/pucbero3q9455jprz9d5tjph5zzbfvsy)
-12. [Homework 7](https://ucmerced.box.com/s/7a87krmio94gho996f5m8oalbg1jr2u3)
+12. [Homework 7](https://ucmerced.box.com/s/7a87krmio94gho996f5m8oalbg1jr2u3) -->
 
 <!---
 <hr>
