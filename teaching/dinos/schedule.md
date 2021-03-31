@@ -71,7 +71,7 @@ tr:nth-child(odd) {background: #FFF}
 | 10 | **3/22** | **(M-No Class)** | Spring Break |  |  |    |
 |  | **3/24** | **(W-No Class)** | Spring Break |  |  |    |
 |  |         | **No Disc** |  |  |   |    |
-| 11 | **3/29** | **(M-L15)** | Metabolism |  | Brusatte Chp. 8 |    |
+| 11 | **3/29** | **(M-L15)** | Metabolism |  | Fast. Chp. 13 |    |
 |  | **3/31** | **(W-L16)** | Theropods 1 |  | Fast. Chp. 9 |    |
 |  |       | **D8** |  |    |  |   |
 | 12 | **4/5** | **(M-L17)** | Theropods 2 |  |  |    |

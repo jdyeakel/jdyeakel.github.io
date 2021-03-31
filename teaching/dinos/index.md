@@ -87,6 +87,8 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 2. [Homework 2 key](https://ucmerced.box.com/s/j0nhve5wgq9uakzuc0i16wg875hsj9h3){:target="_blank"}  
 3. [Midterm 1 key](https://ucmerced.box.com/s/uwa06adiyb4r5fva2xxmwn298ldhk3gp){:target="_blank"}  
 4. [Homework 3 key](https://ucmerced.box.com/s/uvl0p5dm9bxoxy44au16k929adyb3vo2){:target="_blank"}  
+5. [Midterm 2 key](https://ucmerced.box.com/s/11yf8b91n9bfne6ic5tqwlrgwxwzhuiw){:target="_blank"}  
+
 
 <!-- ## Info
 * Class time/location: MW 10:30-11:45 on ZOOM   -->
