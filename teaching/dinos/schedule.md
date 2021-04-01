@@ -73,7 +73,7 @@ tr:nth-child(odd) {background: #FFF}
 |  |         | **No Disc** |  |  |   |    |
 | 11 | **3/29** | **(M-L15)** | Metabolism |  | Fast. Chp. 13 |    |
 |  | **3/31** | **(W-L16)** | Theropods 1 |  | Fast. Chp. 9 |    |
-|  |       | **D8** |  |    |  |   |
+|  |       | **D8** | Disc 8 | [Schroeder et al. paper](https://ucmerced.box.com/s/08jfqfcwdtnecfzc9djh0g42w87z5gi8){:target="_blank"}   |  |   |
 | 12 | **4/5** | **(M-L17)** | Theropods 2 |  |  |    |
 |  | **4/7** | **(W-L18)** | Origin of Birds 1 |  | Fast. Chp. 10 |    |
 |  |  **4/9** | **F-H5** | Homework |  |  |  Hmwk 5 due   |
