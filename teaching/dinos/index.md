@@ -58,6 +58,9 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 12. [Lecture 12 :: 3/8](https://ucmerced.box.com/s/2mqx58x38o7465lu32jhi2ez9bbxg15g){:target="_blank"}  
 13. [Lecture 13 :: 3/10](https://ucmerced.box.com/s/yc05wuidwe617mvodw3s15cyff5qw8jv){:target="_blank"}  
 14. [Lecture 14 :: 3/15](https://ucmerced.box.com/s/hbb1c3wvwva6l3iuwqezyuz1rzsxbtig){:target="_blank"}  
+15. [Lecture 15 :: 3/29](https://ucmerced.box.com/s/7nvl9ciq5x7jz7u52plxbmr105wg8f8p){:target="_blank"}  
+16. [Lecture 16a :: 3/31](https://ucmerced.box.com/s/rwua132jbx9yu9j3ykvz9no3tqhl1046){:target="_blank"}, [Lecture 16b](https://ucmerced.box.com/s/6g4o5ghzxl75h839i0f2q38cd83zcbl1){:target="_blank"}  
+
 
 ## Lecture PDFs
 1. [Lecture 1 :: 1/20](https://ucmerced.box.com/s/mqmjjh4uagj6bqnpaats23qa0vmhrgt6){:target="_blank"}  
@@ -73,6 +76,8 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 11. [Lecture 11 :: 3/3](https://ucmerced.box.com/s/gafgs05ecqv7itfwh9me6cfimtke0pi9){:target="_blank"}  
 12. [Lecture 12, 13 :: 3/8, 3/10](https://ucmerced.box.com/s/67rj7fa8blvm888fsra93lu2q95azkt0){:target="_blank"}  
 13. [Lecture 14 :: 3/15](https://ucmerced.box.com/s/ry5dfm9lzuy3jda5wfzcf640z2iq85bh){:target="_blank"}  
+15. [Lecture 15 :: 3/29](https://ucmerced.box.com/s/dm4s0i0ll2ofw1xvgv6z1t5b33w98gzo){:target="_blank"}  
+16. [Lecture 16 :: 3/31](https://ucmerced.box.com/s/vpa4odk3l0gycrgbjfbuznsi9dbnoc2u){:target="_blank"}; [Metabolism notes](https://ucmerced.box.com/s/p55xe1xak6ykmqurhfu6gvu6sz38g2ug){:target="_blank"}  
 
 ## Lecture movie clips
 [Geerat Vermeij: Coevolutionary Arms Race](https://ucmerced.box.com/s/h3c52gixgdvegpxkvaah3iuqffizryws){:target="_blank"}  
@@ -80,6 +85,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 [Dinosaurs Decoded: Jack Horner](https://ucmerced.box.com/s/trnzzsepp2z81yvixk7pc5cg9vxiqj32){:target="_blank"}  
 [Dinosaurs! Full documentary with Christopher Reeve](https://ucmerced.box.com/s/f3jp06kxm0isyuuoy1734y8omguhuedw){:target="_blank"}  
 [Parasaurolophus vocal signal](https://ucmerced.box.com/s/2c9v71uwt2kai11ryrwqcz05e1amdr1l){:target="_blank"}  
+[Evolve: Body Size](https://ucmerced.box.com/s/gu0d8258rw5kmmep7xpke4djc03sd6xm){:target="_blank"}  
 
 
 ## Keys
