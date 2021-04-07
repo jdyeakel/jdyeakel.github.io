@@ -80,6 +80,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 13. [Lecture 14 :: 3/15](https://ucmerced.box.com/s/ry5dfm9lzuy3jda5wfzcf640z2iq85bh){:target="_blank"}  
 15. [Lecture 15 :: 3/29](https://ucmerced.box.com/s/dm4s0i0ll2ofw1xvgv6z1t5b33w98gzo){:target="_blank"}  
 16. [Lecture 16 :: 3/31](https://ucmerced.box.com/s/vpa4odk3l0gycrgbjfbuznsi9dbnoc2u){:target="_blank"}; [Metabolism notes](https://ucmerced.box.com/s/p55xe1xak6ykmqurhfu6gvu6sz38g2ug){:target="_blank"}  
+17. [Lecture 17 :: 4/5](https://ucmerced.box.com/s/hzynywo2f9nlxm529511ae1ipwfjmtgf){:target="_blank"}  
 
 ## Lecture movie clips
 [Geerat Vermeij: Coevolutionary Arms Race](https://ucmerced.box.com/s/h3c52gixgdvegpxkvaah3iuqffizryws){:target="_blank"}  
