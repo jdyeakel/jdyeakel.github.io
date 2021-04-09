@@ -42,7 +42,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 6. [Discussion Section 6 materials :: 3/8, 3/10](https://ucmerced.box.com/s/4nxac80451bs7bze4m7gc2nyby579cio){:target="_blank"} 
 7. [Discussion Section 7, Dinosaur Wars! (not in-person) :: 3/15, 3/17](https://ucmerced.box.com/s/gtbzmxc4oou7wmki8xyj60exusqew30q){:target="_blank"}  
 8. [Discussion Section 9 :: 4/5, 4/7; read this paper by Schroeder et al. 2021](https://ucmerced.box.com/s/08jfqfcwdtnecfzc9djh0g42w87z5gi8){:target="_blank"} 
-9. [Discussion 10, Origin of Birds (not in-person) :: 4/12, 4/14](https://ucmerced.box.com/s/yqr6fc2tci22jbheq7qmkjpr0yaqrwk8){:target="_blank"}  
+9. [Discussion Section 10, Origin of Birds (not in-person) :: 4/12, 4/14](https://ucmerced.box.com/s/yqr6fc2tci22jbheq7qmkjpr0yaqrwk8){:target="_blank"}  
 
 
 ## Lecture Recordings
@@ -62,7 +62,8 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 14. [Lecture 14 :: 3/15](https://ucmerced.box.com/s/hbb1c3wvwva6l3iuwqezyuz1rzsxbtig){:target="_blank"}  
 15. [Lecture 15 :: 3/29](https://ucmerced.box.com/s/7nvl9ciq5x7jz7u52plxbmr105wg8f8p){:target="_blank"}  
 16. [Lecture 16a :: 3/31](https://ucmerced.box.com/s/rwua132jbx9yu9j3ykvz9no3tqhl1046){:target="_blank"}, [Lecture 16b](https://ucmerced.box.com/s/6g4o5ghzxl75h839i0f2q38cd83zcbl1){:target="_blank"}  
-17. [Lecture 17](https://ucmerced.box.com/s/dmcjcitxye308zlu9eqpj8jqjql4yhs2){:target="_blank"}  
+17. [Lecture 17 :: 4/5](https://ucmerced.box.com/s/dmcjcitxye308zlu9eqpj8jqjql4yhs2){:target="_blank"}  
+18. [Lecture 18 :: 4/7](https://ucmerced.box.com/s/tudztc35k5gi8cu10wo8p53zugvst2os){:target="_blank"}  
 
 
 ## Lecture PDFs
@@ -81,6 +82,9 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 13. [Lecture 14 :: 3/15](https://ucmerced.box.com/s/ry5dfm9lzuy3jda5wfzcf640z2iq85bh){:target="_blank"}  
 15. [Lecture 15 :: 3/29](https://ucmerced.box.com/s/dm4s0i0ll2ofw1xvgv6z1t5b33w98gzo){:target="_blank"}  
 16. [Lecture 16 :: 3/31](https://ucmerced.box.com/s/vpa4odk3l0gycrgbjfbuznsi9dbnoc2u){:target="_blank"}; [Metabolism notes](https://ucmerced.box.com/s/p55xe1xak6ykmqurhfu6gvu6sz38g2ug){:target="_blank"}  
+17. [Lecture 17, 18 :: 4/5, 4/7](https://ucmerced.box.com/s/hzynywo2f9nlxm529511ae1ipwfjmtgf){:target="_blank"}  
+
+
 
 ## Lecture movie clips
 [Geerat Vermeij: Coevolutionary Arms Race](https://ucmerced.box.com/s/h3c52gixgdvegpxkvaah3iuqffizryws){:target="_blank"}  
@@ -89,6 +93,9 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 [Dinosaurs! Full documentary with Christopher Reeve](https://ucmerced.box.com/s/f3jp06kxm0isyuuoy1734y8omguhuedw){:target="_blank"}  
 [Parasaurolophus vocal signal](https://ucmerced.box.com/s/2c9v71uwt2kai11ryrwqcz05e1amdr1l){:target="_blank"}  
 [Evolve: Body Size](https://ucmerced.box.com/s/gu0d8258rw5kmmep7xpke4djc03sd6xm){:target="_blank"}  
+[Discussion Section 7, Dinosaur Wars! (not in-person) :: 3/15, 3/17](https://ucmerced.box.com/s/gtbzmxc4oou7wmki8xyj60exusqew30q){:target="_blank"}  
+[Discussion Section 10, Origin of Birds (not in-person) :: 4/12, 4/14](https://ucmerced.box.com/s/yqr6fc2tci22jbheq7qmkjpr0yaqrwk8){:target="_blank"}  
+
 
 
 ## Keys
@@ -97,6 +104,8 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 3. [Midterm 1 key](https://ucmerced.box.com/s/uwa06adiyb4r5fva2xxmwn298ldhk3gp){:target="_blank"}  
 4. [Homework 3 key](https://ucmerced.box.com/s/uvl0p5dm9bxoxy44au16k929adyb3vo2){:target="_blank"}  
 5. [Midterm 2 key](https://ucmerced.box.com/s/11yf8b91n9bfne6ic5tqwlrgwxwzhuiw){:target="_blank"}  
+6. [Homework 4 key](https://ucmerced.box.com/s/fxqyk1rxdahm1f83826814n1r1nvsn5s){:target="_blank"}  
+
 
 
 <!-- ## Info
