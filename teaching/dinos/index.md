@@ -15,7 +15,7 @@ Welcome to the course website for ***Natural History of Dinosaurs***. Of course,
 
 ---
 
-## Info
+## Information
 *	[Syllabus]({{ site.url }}/teaching/dinos/syllabus)  
 * [Schedule]({{ site.url }}/teaching/dinos/schedule)  
 
