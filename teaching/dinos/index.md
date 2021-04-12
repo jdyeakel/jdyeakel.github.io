@@ -64,6 +64,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 16. [Lecture 16a :: 3/31](https://ucmerced.box.com/s/rwua132jbx9yu9j3ykvz9no3tqhl1046){:target="_blank"}, [Lecture 16b](https://ucmerced.box.com/s/6g4o5ghzxl75h839i0f2q38cd83zcbl1){:target="_blank"}  
 17. [Lecture 17 :: 4/5](https://ucmerced.box.com/s/dmcjcitxye308zlu9eqpj8jqjql4yhs2){:target="_blank"}  
 18. [Lecture 18 :: 4/7](https://ucmerced.box.com/s/tudztc35k5gi8cu10wo8p53zugvst2os){:target="_blank"}  
+19. [Lecture 19 :: 4/12](https://ucmerced.box.com/s/4pthwvzaoman7op77jweww7gmrmaf6be){:target="_blank"}  
 
 
 ## Lecture PDFs
@@ -83,6 +84,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 15. [Lecture 15 :: 3/29](https://ucmerced.box.com/s/dm4s0i0ll2ofw1xvgv6z1t5b33w98gzo){:target="_blank"}  
 16. [Lecture 16 :: 3/31](https://ucmerced.box.com/s/vpa4odk3l0gycrgbjfbuznsi9dbnoc2u){:target="_blank"}; [Metabolism notes](https://ucmerced.box.com/s/p55xe1xak6ykmqurhfu6gvu6sz38g2ug){:target="_blank"}  
 17. [Lecture 17, 18 :: 4/5, 4/7](https://ucmerced.box.com/s/hzynywo2f9nlxm529511ae1ipwfjmtgf){:target="_blank"}  
+18. [Lecture 19 :: 4/12](https://ucmerced.box.com/s/dpdrvzmkoliwq5kbvnrmcx3d607wqdmd){:target="_blank"}  
 
 
 
