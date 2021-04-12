@@ -76,10 +76,10 @@ tr:nth-child(odd) {background: #FFF}
 |  |       | **D8** | Disc 8 |    |  |   |
 | 12 | **4/5** | **(M-L17)** | Theropods 2 |  | Fast. Chp. 7 |    |
 |  | **4/7** | **(W-L18)** | Theropods 3 |  |  |    |
-|  |  **4/9** | **F-H5** | Homework |  |  |  Hmwk 5 due   |
 |  |         | **D9** | Disc 9 | [Schroeder et al. paper](https://ucmerced.box.com/s/08jfqfcwdtnecfzc9djh0g42w87z5gi8){:target="_blank"}  |  |  |
 | 13 | **4/12** | **(M-L19)** | Origin of Birds |  |  | |
 |  | **4/14** | **W** | ***Exam III*** |  |  |    |
+|  |  **4/15** | **R-H5** | Homework |  |  |  Hmwk 5 due   |
 |  |        | **D10** | Disc 10 | [Origin of Birds](https://ucmerced.box.com/s/yqr6fc2tci22jbheq7qmkjpr0yaqrwk8){:target="_blank"}    |  |  |
 | 14 | **4/19** | **(M-L20)** | Flying Reptiles |  | TBD |    |
 |  | **4/21** | **(W-L21)** | Swimming Reptiles |  | TBD |    |
