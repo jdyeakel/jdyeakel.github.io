@@ -107,7 +107,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 4. [Homework 3 key](https://ucmerced.box.com/s/uvl0p5dm9bxoxy44au16k929adyb3vo2){:target="_blank"}  
 5. [Midterm 2 key](https://ucmerced.box.com/s/11yf8b91n9bfne6ic5tqwlrgwxwzhuiw){:target="_blank"}  
 6. [Homework 4 key](https://ucmerced.box.com/s/fxqyk1rxdahm1f83826814n1r1nvsn5s){:target="_blank"}  
-7. [Mideterm 3 key](https://ucmerced.box.com/s/c2f7idnir2ko9lkisfn1sxk0zrojugtx){:target="_blank"}  
+7. [Midterm 3 key](https://ucmerced.box.com/s/c2f7idnir2ko9lkisfn1sxk0zrojugtx){:target="_blank"} (note: both 'endotherms' count as correct for Q11)  
 
 
 <!-- ## Info
