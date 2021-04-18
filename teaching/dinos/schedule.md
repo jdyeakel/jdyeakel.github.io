@@ -80,10 +80,10 @@ tr:nth-child(odd) {background: #FFF}
 | 13 | **4/12** | **(M-L19)** | Theropods 4 |  |  | |
 |  | **4/14** | **W** | ***Exam III*** |  |  |    |
 |  |  **4/15** | **R-H5** | Homework |  |  |  Hmwk 5 due   |
-|  |        | **D10** | Disc 10 | [Origin of Birds](https://ucmerced.box.com/s/yqr6fc2tci22jbheq7qmkjpr0yaqrwk8){:target="_blank"}    |  |  |
+|  |        | **D10** | Disc 10 | [Origin of Birds](https://ucmerced.box.com/s/yqr6fc2tci22jbheq7qmkjpr0yaqrwk8){:target="_blank"}    |  Not in person |  |
 | 14 | **4/19** | **(M-L20)** | Origin of Birds |  | Fast. Chp. 8 |    |
 |  | **4/21** | **(W-L21)** | Flying Reptiles |  | TBD |    |
-|  |         | **D11** | Disc 11 |   | |  |
+|  |         | **D11** | Disc 11 | [Origin of Birds Discussion](https://ucmerced.box.com/s/yqr6fc2tci22jbheq7qmkjpr0yaqrwk8){:target="_blank"}  | [Worksheet](https://ucmerced.box.com/s/tj3sqx111hezniqemlt13zbd372niutf){:target="_blank"}  |  |
 | 15 | **4/26** | **(M-L22)** | Swimming Reptiles |  | TBD |    |
 |  | **4/28** | **(W-L23)** | Mesozoic World |  | Fast. Chp. 15 |    |
 |  |  **4/30** | **F-H6** | Homework |  |  |  Hmwk 6 due   |
