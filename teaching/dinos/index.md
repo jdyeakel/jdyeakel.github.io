@@ -86,6 +86,8 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 16. [Lecture 16 :: 3/31](https://ucmerced.box.com/s/vpa4odk3l0gycrgbjfbuznsi9dbnoc2u){:target="_blank"}; [Metabolism notes](https://ucmerced.box.com/s/p55xe1xak6ykmqurhfu6gvu6sz38g2ug){:target="_blank"}  
 17. [Lecture 17, 18 :: 4/5, 4/7](https://ucmerced.box.com/s/hzynywo2f9nlxm529511ae1ipwfjmtgf){:target="_blank"}  
 18. [Lecture 19 :: 4/12](https://ucmerced.box.com/s/dpdrvzmkoliwq5kbvnrmcx3d607wqdmd){:target="_blank"}  
+19. [Lecture 20 :: 4/19](https://ucmerced.box.com/s/2jj4z8clck9ig6wafbug30fprtr7s0tk){:target="_blank"}  
+20. [Lecture 21 :: 4/21](https://ucmerced.box.com/s/uy12sogfv9jg4mwrjntm7hsqew23n0al){:target="_blank"}  
 
 
 
