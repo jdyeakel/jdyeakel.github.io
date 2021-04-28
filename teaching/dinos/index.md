@@ -67,6 +67,8 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 19. [Lecture 19 :: 4/12](https://ucmerced.box.com/s/4pthwvzaoman7op77jweww7gmrmaf6be){:target="_blank"}  
 20. [Lecture 20 :: 4/19](https://ucmerced.box.com/s/wxxtzvgj030vekcknyiv7uq22ojje4wl){:target="_blank"}  
 21. [Lecture 21 :: 4/21](https://ucmerced.box.com/s/7o6v4d8k53w28owr53413x8e0l5pou36){:target="_blank"}  
+22. [Lecture 22 :: 4/26](https://ucmerced.box.com/s/rh645bazf4yzm5wd1uq83k76qq3ognst){:target="_blank"}  
+23. [Lecture 23 :: 4/28](https://ucmerced.box.com/s/gsh4hpne6xcv11qpvryakunw4i1c66s6){:target="_blank"}  
 
 ## Lecture PDFs
 1. [Lecture 1 :: 1/20](https://ucmerced.box.com/s/mqmjjh4uagj6bqnpaats23qa0vmhrgt6){:target="_blank"}  
@@ -88,6 +90,8 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 18. [Lecture 19 :: 4/12](https://ucmerced.box.com/s/dpdrvzmkoliwq5kbvnrmcx3d607wqdmd){:target="_blank"}  
 19. [Lecture 20 :: 4/19](https://ucmerced.box.com/s/2jj4z8clck9ig6wafbug30fprtr7s0tk){:target="_blank"}  
 20. [Lecture 21 :: 4/21](https://ucmerced.box.com/s/uy12sogfv9jg4mwrjntm7hsqew23n0al){:target="_blank"}  
+21. [Lecture 22 :: 4/26](https://ucmerced.box.com/s/dc7xehaoprt6xsuwvtwhhtsl3b1q50m4){:target="_blank"}  
+22. [Lecture 23 :: 4/28](https://ucmerced.box.com/s/urnp2056ptwxcddl7oky4lzba3ujx7lj){:target="_blank"}  
 
 
 
@@ -100,6 +104,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 [Evolve: Body Size](https://ucmerced.box.com/s/gu0d8258rw5kmmep7xpke4djc03sd6xm){:target="_blank"}  
 [Discussion Section 7, Dinosaur Wars! (not in-person) :: 3/15, 3/17](https://ucmerced.box.com/s/gtbzmxc4oou7wmki8xyj60exusqew30q){:target="_blank"}  
 [Discussion Section 10, Origin of Birds (not in-person) :: 4/12, 4/14](https://ucmerced.box.com/s/yqr6fc2tci22jbheq7qmkjpr0yaqrwk8){:target="_blank"}  
+[*Sarcosuchus* (SuperCroc) full clip](https://ucmerced.box.com/s/z7bevpqnjnd84ocprkh0etmt8mgtwrqq){:target="_blank"} 
 
 
 
