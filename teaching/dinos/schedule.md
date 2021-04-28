@@ -84,11 +84,11 @@ tr:nth-child(odd) {background: #FFF}
 | 14 | **4/19** | **(M-L20)** | Origin of Birds |  | Fast. Chp. 8 |    |
 |  | **4/21** | **(W-L21)** | Flying Reptiles |  | TBD |    |
 |  |         | **D11** | Disc 11 | [Origin of Birds Discussion](https://ucmerced.box.com/s/yqr6fc2tci22jbheq7qmkjpr0yaqrwk8){:target="_blank"}  | [Worksheet](https://ucmerced.box.com/s/tj3sqx111hezniqemlt13zbd372niutf){:target="_blank"}  |  |
-| 15 | **4/26** | **(M-L22)** | Swimming Reptiles |  | TBD |    |
+| 15 | **4/26** | **(M-L22)** | Swimming Reptiles |  |  |    |
 |  | **4/28** | **(W-L23)** | Mesozoic World |  | Fast. Chp. 15 |    |
-|  |  **4/30** | **F-H6** | Homework |  |  |  Hmwk 6 due   |
+|  |  **4/30** | **F-H6** | Homework |  | [Motani 2009](https://ucmerced.box.com/s/lry9eenbs4fq251wzuvoezbbmtihbvg2){:target="_blank"}   |  Hmwk 6 due   |
 |  |        | **D12** | Disc 12 |   | |  |
-| 16 | **5/3** | **(M-L24)** | Mammals |  | Brusatte Chp. 9 |    |
+| 16 | **5/3** | **(M-L24)** | Mammals |  |  |    |
 |  | **5/5** | **(W-L23)** | Extinction |  |  |    |
 |  |        | **D13** | Disc 13 |   | |  |
 |  | **5/8** | **Sat.** | ***FINAL EXAM*** | Comprehensive (8-11AM)  |  |  |
