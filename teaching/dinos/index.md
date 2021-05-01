@@ -49,7 +49,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 7. [Discussion Section 7, Dinosaur Wars! (not in-person) :: 3/15, 3/17](https://ucmerced.box.com/s/gtbzmxc4oou7wmki8xyj60exusqew30q){:target="_blank"}  
 8. [Discussion Section 9 :: 4/5, 4/7; read this paper by Schroeder et al. 2021](https://ucmerced.box.com/s/08jfqfcwdtnecfzc9djh0g42w87z5gi8){:target="_blank"} 
 9. [Discussion Section 10, Origin of Birds (not in-person) :: 4/12, 4/14](https://ucmerced.box.com/s/yqr6fc2tci22jbheq7qmkjpr0yaqrwk8){:target="_blank"}  
-10. [Discussion Section 11, Origin of Birds recap in-person :: 4/19, 4/21](https://ucmerced.box.com/s/yqr6fc2tci22jbheq7qmkjpr0yaqrwk8){:target="_blank"}  + [Worksheet](https://ucmerced.box.com/s/tj3sqx111hezniqemlt13zbd372niutf){:target="_blank"}
+10. [Discussion Section 11, Origin of Birds recap in-person :: 4/19, 4/21](https://ucmerced.box.com/s/yqr6fc2tci22jbheq7qmkjpr0yaqrwk8){:target="_blank"}  + [Worksheet](https://ucmerced.box.com/s/tj3sqx111hezniqemlt13zbd372niutf){:target="_blank"}  
 
 ## Lecture Recordings
 1. [Lecture 1 :: 1/20](https://ucmerced.box.com/s/1x6g3ujapak3eos71z0dj3r5ruyyvh6u){:target="_blank"}  
