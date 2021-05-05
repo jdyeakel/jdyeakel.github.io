@@ -13,6 +13,10 @@ image:
 ## Welcome!
 Welcome to the course website for ***Natural History of Dinosaurs***. Of course, this semester we will be running this course entirely remotely, with both lecture and discussion section occurring on ZOOM (links below). This course will be conducted ***synchronously***, meaning that it is mandatory that you attend lectures and discussions *at the times they occur*. This will be the primary site that will host course information and changes to the schedule, as well as your Discussion Section activities. The Catcourses, or Canvas, site for this course will be used for assessments (homework and exams) and of course grades. See the [syllabus]({{ site.url }}/teaching/dinos/syllabus) for details and the [schedule]({{ site.url }}/teaching/dinos/schedule) for information regarding important dates and content.
 
+## FINAL EXAM
+
+***Saturday May 8th 8AM-11AM*** [ZOOM](https://ucmerced.zoom.us/j/89553654793?pwd=WXJsc0FqVzdBdmRJQlkrTnhxWkdEUT09)
+
 ---
 
 ## Information
@@ -75,6 +79,8 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 21. [Lecture 21 :: 4/21](https://ucmerced.box.com/s/7o6v4d8k53w28owr53413x8e0l5pou36){:target="_blank"}  
 22. [Lecture 22 :: 4/26](https://ucmerced.box.com/s/rh645bazf4yzm5wd1uq83k76qq3ognst){:target="_blank"}  
 23. [Lecture 23 :: 4/28](https://ucmerced.box.com/s/gsh4hpne6xcv11qpvryakunw4i1c66s6){:target="_blank"}  
+24. [Lecture 24 :: 5/3](https://ucmerced.box.com/s/m707pfqohyiv0x8ob3g06jpcad84e82g){:target="_blank"}  
+25. [Lecture 25 :: 5/5](https://ucmerced.box.com/s/kdqhhy591cvsasyi74kjm0cwhaa5yjys){:target="_blank"}  
 
 ## Lecture PDFs
 1. [Lecture 1 :: 1/20](https://ucmerced.box.com/s/mqmjjh4uagj6bqnpaats23qa0vmhrgt6){:target="_blank"}  
@@ -98,7 +104,8 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 20. [Lecture 21 :: 4/21](https://ucmerced.box.com/s/uy12sogfv9jg4mwrjntm7hsqew23n0al){:target="_blank"}  
 21. [Lecture 22 :: 4/26](https://ucmerced.box.com/s/dc7xehaoprt6xsuwvtwhhtsl3b1q50m4){:target="_blank"}  
 22. [Lecture 23 :: 4/28](https://ucmerced.box.com/s/urnp2056ptwxcddl7oky4lzba3ujx7lj){:target="_blank"}  
-
+23. [Lecture 24 :: 5/3](https://ucmerced.box.com/s/1svc93bx7psevy4p9grm3jmcijlzpm65){:target="_blank"} plus [Mammals](https://ucmerced.box.com/s/7ymz6jy7me9eu8n02vh5f63dowpvudbo){:target="_blank"}
+24. [Lecture 25 :: 5/5](https://ucmerced.box.com/s/awje5wwlr0p51jwqhj3q6ig3a4zzmuq1){:target="_blank"}
 
 
 ## Lecture movie clips
@@ -111,7 +118,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 [Discussion Section 7, Dinosaur Wars! (not in-person) :: 3/15, 3/17](https://ucmerced.box.com/s/gtbzmxc4oou7wmki8xyj60exusqew30q){:target="_blank"}  
 [Discussion Section 10, Origin of Birds (not in-person) :: 4/12, 4/14](https://ucmerced.box.com/s/yqr6fc2tci22jbheq7qmkjpr0yaqrwk8){:target="_blank"}  
 [*Sarcosuchus* (SuperCroc) full clip](https://ucmerced.box.com/s/z7bevpqnjnd84ocprkh0etmt8mgtwrqq){:target="_blank"} 
-
+[Mammal ears](https://ucmerced.box.com/s/1zat59f0bb65s0syj8zn3694efg9r7jo){:target="_blank"} 
 
 
 ## Keys
@@ -122,7 +129,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 5. [Midterm 2 key](https://ucmerced.box.com/s/11yf8b91n9bfne6ic5tqwlrgwxwzhuiw){:target="_blank"}  
 6. [Homework 4 key](https://ucmerced.box.com/s/fxqyk1rxdahm1f83826814n1r1nvsn5s){:target="_blank"}  
 7. [Midterm 3 key](https://ucmerced.box.com/s/c2f7idnir2ko9lkisfn1sxk0zrojugtx){:target="_blank"} (note: both 'endotherms' count as correct for Q11)  
-
+8. [Homework 5 key](https://ucmerced.box.com/s/7oxhydab6s586apdt8462yg36cduj2cn){:target="_blank"}  
 
 <!-- ## Info
 * Class time/location: MW 10:30-11:45 on ZOOM   -->
