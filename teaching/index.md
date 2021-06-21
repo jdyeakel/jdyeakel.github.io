@@ -14,7 +14,7 @@ image:
 
 <br>
 
-> ### [Fundamentals of Ecology (Fall, 2020)]({{ site.url }}/teaching/ecology/)  
+> ### [Fundamentals of Ecology (Summer, 2021)]({{ site.url }}/teaching/ecology/)  
 > Putting the Lotka in your Volterra since 1926       
 
 <br>

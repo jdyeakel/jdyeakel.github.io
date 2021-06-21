@@ -1,0 +1,451 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<title>Fundamentals of Ecology :: Fall, 2020 &#8211; Yeakel Lab @ UC-Merced</title>
+
+<meta name="keywords" content="about, Jekyll, theme, responsive">
+
+
+<!-- Twitter Cards -->
+<meta name="twitter:title" content="Fundamentals of Ecology :: Fall, 2020">
+
+<meta name="twitter:site" content="@jdyeakel">
+<meta name="twitter:creator" content="@jdyeakel">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="//jdyeakel.github.io/images/monterey.jpg">
+
+<!-- Open Graph -->
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Fundamentals of Ecology :: Fall, 2020">
+
+<meta property="og:url" content="//jdyeakel.github.io/teaching/ecology/fall2020.txt">
+<meta property="og:site_name" content="Yeakel Lab @ UC-Merced">
+
+
+
+
+
+<link rel="canonical" href="//jdyeakel.github.io/teaching/ecology/fall2020.txt">
+<link href="//jdyeakel.github.io/feed.xml" type="application/atom+xml" rel="alternate" title="Yeakel Lab @ UC-Merced Feed">
+
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="//jdyeakel.github.io/assets/css/main.css">
+
+<meta http-equiv="cleartype" content="on">
+
+<!-- HTML5 Shiv and Media Query Support -->
+<!--[if lt IE 9]>
+	<script src="//jdyeakel.github.io/assets/js/vendor/html5shiv.min.js"></script>
+	<script src="//jdyeakel.github.io/assets/js/vendor/respond.min.js"></script>
+<![endif]-->
+
+<!-- Modernizr -->
+<script src="//jdyeakel.github.io/assets/js/vendor/modernizr-2.7.1.custom.min.js"></script>
+
+<link href='//fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700|PT+Serif:400,700,400italic' rel='stylesheet' type='text/css'>
+
+<!-- Icons -->
+<!-- 16x16 -->
+<link rel="shortcut icon" href="//jdyeakel.github.io/favicon.ico">
+<!-- 32x32 -->
+<link rel="shortcut icon" href="//jdyeakel.github.io/favicon.png">
+<!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
+<link rel="apple-touch-icon-precomposed" href="//jdyeakel.github.io/images/apple-touch-icon-precomposed.png">
+<!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="//jdyeakel.github.io/images/apple-touch-icon-72x72-precomposed.png">
+<!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="//jdyeakel.github.io/images/apple-touch-icon-114x114-precomposed.png">
+<!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="//jdyeakel.github.io/images/apple-touch-icon-144x144-precomposed.png">
+
+<!-- Mathjax Support -->
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+</head>
+
+<body class="page">
+
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
+<!--[if lt IE 9]><div class="browser-upgrade alert alert-info">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div><![endif]-->
+
+<div class="navigation-wrapper">
+	<div class="site-name">
+		<a href="//jdyeakel.github.io">Yeakel Lab @ UC-Merced</a>
+	</div><!-- /.site-name -->
+	<div class="top-navigation">
+		<nav role="navigation" id="site-nav" class="nav">
+		    <ul>
+		        
+					    
+					    <li><a href="//jdyeakel.github.io/people/" >People</a></li>
+					  
+					    
+					    <li><a href="//jdyeakel.github.io/diversity/" >Diversity</a></li>
+					  
+					    
+					    <li><a href="//jdyeakel.github.io/research/" >Research</a></li>
+					  
+					    
+					    <li><a href="//jdyeakel.github.io/teaching/" >Teaching</a></li>
+					  
+					    
+					    <li><a href="//jdyeakel.github.io/collab/" >Collaborators</a></li>
+					  
+					    
+					    <li><a href="//jdyeakel.github.io/CV/" >Publications</a></li>
+					  
+					    
+					    <li><a href="//jdyeakel.github.io/posts/" >Posts</a></li>
+					  
+		    </ul>
+		</nav>
+	</div><!-- /.top-navigation -->
+</div><!-- /.navigation-wrapper -->
+
+
+  <div class="image-wrap">
+  <img src=
+    
+      "//jdyeakel.github.io/images/monterey.jpg"
+    
+  alt="Fundamentals of Ecology :: Fall, 2020 feature image">
+  
+  </div><!-- /.image-wrap -->
+
+
+<div id="main" role="main">
+  <div class="article-author-side">
+	  
+
+
+	<img src="//jdyeakel.github.io/images/ecology/elephants_small.jpg" class="bio-photo" alt="Justin D. Yeakel bio photo"></a>
+
+<h3>Fundamentals of Ecology</h3>
+<p>"The Earth is what we all have in common"<br> -Wendell Barry</p>
+<!-- <a href="mailto:jdyeakel@gmail.com" class="author-social" target="_blank"><i class="fa fa-envelope-square"></i> Email</a>
+
+
+
+
+
+<a href="http://github.com/jdyeakel" class="author-social" target="_blank"><i class="fa fa-github"></i> Github</a>
+
+
+
+
+
+
+<a href="http://twitter.com/jdyeakel" class="author-social" target="_blank"><i class="fa fa-twitter-square"></i> Twitter</a> -->
+
+ </div>
+  <article>
+    <h1>Fundamentals of Ecology :: Fall, 2020</h1>
+    <div class="article-wrap">
+      ## Welcome!
+Welcome to the course website for ***Fundamentals of Ecology***. Of course, this semester we will be running this course entirely remotely, with both lecture and discussion section occurring on ZOOM (links below). This course will be conducted ***synchronously***, meaning that it is mandatory that you attend lectures and discussions *at the times they occur*. This will be the primary site that will host course information and changes to the schedule, as well as your Discussion Section activities. The Catcourses, or Canvas, site for this course will be used for assessments (homework and exams) and of course grades. See the [syllabus](//jdyeakel.github.io/teaching/ecology/syllabus/) for details and the [schedule](//jdyeakel.github.io/teaching/ecology/schedule/) for information regarding important dates and content.
+
+---
+
+## Info
+*	[Syllabus](//jdyeakel.github.io/teaching/ecology/syllabus/)  
+* [Schedule](//jdyeakel.github.io/teaching/ecology/schedule/)  
+
+*	**Lecture**: TR 9:00-10:15 on [ZOOM](https://ucmerced.zoom.us/j/93141102627?pwd=ajgrVjYrZzJQcUhrV05kalJ1WFRVQT09)  
+*	**Section BIO/ESS-148-02D**: F 1:30-2:20 on [ZOOM](https://ucmerced.zoom.us/j/96261126746?pwd=ZmxqZW1EdktNSGZhYXhkSmdONnZOZz09)  
+*	**Section BIO/ESS-148-03D**: F 2:30-3:20 on [ZOOM](https://ucmerced.zoom.us/j/91856105994?pwd=OUVmaGtDMU8yKzZRVmRMNXhVS2R3Zz09)  
+*	**Section BIO/ESS-148-04D**: F 4:30-5:20 on [ZOOM](https://ucmerced.zoom.us/j/92269177977?pwd=aDhMcUs4MS9YSnQ0TXMyVUlMTThOZz09)  
+
+
+*	Prof. Yeakel Office Hours: [Tuesdays, Thursdays 10:15-11:15 or by appointment](https://ucmerced.zoom.us/j/93141102627?pwd=ajgrVjYrZzJQcUhrV05kalJ1WFRVQT09)  
+*	TA Irina Barros Office Hours: [Friday 11am-12pm & 3:30-4:30pm](https://ucmerced.zoom.us/j/6953954982?pwd=dlhtWHliVWV4SW1BU1A5ZmxqdStqQT09)  
+
+## Contact
+Please use the Inbox application in the CatCourses (Canvas) website to contact either of us. *There is no guarantee of response if personal emails are used.*
+
+<!--- ## Discussion Sections
+1. [Section 1 (Friday, September 4)](//jdyeakel.github.io/teaching/ecology/section1/)  
+2. [Section 2 (Friday, September 11)](//jdyeakel.github.io/teaching/ecology/section2/)  
+3. [Section 3 (Friday, September 18)](//jdyeakel.github.io/teaching/ecology/section3/)  
+4. [Section 4 (Friday, September 25)](//jdyeakel.github.io/teaching/ecology/section4/)  
+5. [Section 5 (Friday, October 2)](//jdyeakel.github.io/teaching/ecology/section5/)  
+6. [Section 6 (Friday, October 9)](//jdyeakel.github.io/teaching/ecology/section6/)  
+7. [Section 7 (Friday, October 16)](//jdyeakel.github.io/teaching/ecology/section7/)  
+8. [Section 8 (Friday, October 22)](//jdyeakel.github.io/teaching/ecology/section8/)  
+9. [Section 9 (Friday, October 30)](//jdyeakel.github.io/teaching/ecology/section9/)  
+10. [Section 10 (Friday, November 6)](//jdyeakel.github.io/teaching/ecology/section10/)  
+11. [Section 11 (Friday, November 13)](//jdyeakel.github.io/teaching/ecology/section11/)
+12. [Section 12 (Friday, November 20)](//jdyeakel.github.io/teaching/ecology/section12/)
+13. [Section 13 (Friday, December 4)](//jdyeakel.github.io/teaching/ecology/section13/)
+14. [Section 14 (Friday, December 11)](//jdyeakel.github.io/teaching/ecology/section14/)
+
+
+
+
+## Lecture Slides
+1. [Lecture 1 & 2](//jdyeakel.github.io/teaching/ecology/Lect1_2_BIO148.pdf)  
+2. [Lecture 3](//jdyeakel.github.io/teaching/ecology/Lect3_BIO148.pdf)
+3. [Lecture 4](//jdyeakel.github.io/teaching/ecology/Lect_4_BIO148.pdf)
+4. [Lecture 5](//jdyeakel.github.io/teaching/ecology/Lect_5_BIO148.pdf)
+5. [Lecture 6](//jdyeakel.github.io/teaching/ecology/Lect_6_BIO148.pdf)
+6. [Lecture 7](//jdyeakel.github.io/teaching/ecology/Lect_7_BIO148.pdf)
+7. [Lecture 8](//jdyeakel.github.io/teaching/ecology/Lect_8_BIO148.pdf)
+8. [Lecture 9](//jdyeakel.github.io/teaching/ecology/Lect_9_BIO148.pdf)
+9. [Lecture 10](//jdyeakel.github.io/teaching/ecology/Lect_10_BIO148.pdf)
+10. [Lecture 11](//jdyeakel.github.io/teaching/ecology/Lect_11_BIO148.pdf)
+11. [Lecture 12](//jdyeakel.github.io/teaching/ecology/Lecture_12_BIO148.pdf)
+12. [Lecture 13](//jdyeakel.github.io/teaching/ecology/Lecture_13_BIO148.pdf)
+13. [Lecture 14](//jdyeakel.github.io/teaching/ecology/Lecture_14_BIO148.pdf)
+14. [Lecture 15](//jdyeakel.github.io/teaching/ecology/Lecture_15_BIO148.pdf)
+15. [Lecture 16](//jdyeakel.github.io/teaching/ecology/Lecture_16_BIO148.pdf)
+16. [Lecture 17](//jdyeakel.github.io/teaching/ecology/Lecture_17_BIO148.pdf)
+17. [Lecture 18](//jdyeakel.github.io/teaching/ecology/Lecture_18_BIO148.pdf)
+18. [Lecture 19](//jdyeakel.github.io/teaching/ecology/Lecture_19_BIO148.pdf)
+19. [Lecture 20](//jdyeakel.github.io/teaching/ecology/Lecture_20_BIO148.pdf)
+20. [Lecture 21](//jdyeakel.github.io/teaching/ecology/Lecture_21_BIO148.pdf)
+21. [Lecture 22](//jdyeakel.github.io/teaching/ecology/Lecture_22_BIO148.pdf)
+22. [Lecture 23](//jdyeakel.github.io/teaching/ecology/Lecture_23_BIO148.pdf)
+23. [Lecture 24](//jdyeakel.github.io/teaching/ecology/Lecture_24_BIO148.pdf)
+24. [Lecture 25](//jdyeakel.github.io/teaching/ecology/Lecture_25_BIO148.pdf)
+25. [Lecture 26](//jdyeakel.github.io/teaching/ecology/Lecture_26_BIO148.pdf)
+
+
+## Lecture Recordings
+1. [Lecture 1](https://ucmerced.box.com/s/xhbud7bj8maok0oj99evyl2t4l4pujjm)
+2. [Lecture 2](https://ucmerced.box.com/s/pf7iikfpren4hi7kowulmq74s4re1z9o)
+3. [Lecture 3](https://ucmerced.box.com/s/my7xv1ixn30ksu2v3icvzbhjjvhf3hwd)
+4. [Lecture 4](https://ucmerced.box.com/s/m234fatsoeasn9hjyt9r4t4twnarisan)
+5. [Lecture 5](https://ucmerced.box.com/s/zhmykfsd0n03lgr28vly4pc9ho7mmaog)
+6. [Lecture 6](https://ucmerced.box.com/s/dv5b0dpav4cbz5vpt08oykxn0f1mkd6a)
+7. [Lecture 7a](https://ucmerced.box.com/s/jlf9tqbqhwhdo4lh01e1bpzt0lp4ys5y) [Lecture 7b](https://ucmerced.box.com/s/vyeeklvmm4lu0mkkm9wad0qu0l8f81xb)
+8. [Lecture 8](https://ucmerced.box.com/s/si2dto0c82pc7wn63w2491azx8dwg0ie)
+9. [Lecture 9](https://ucmerced.box.com/s/pnoskivlmybxf06pq1vd9f1gb2b7mgf9)
+10. [Lecture 10](https://ucmerced.box.com/s/suj62sd5tc95jyexdl6zqlc78kun738b)
+    * [Wasp & Cockroach parasitism](https://ucmerced.box.com/s/qebmd9v6bror3i9x7up8ia5z91d992h4)
+    * [Wasp & Caterpillar parasitism](https://ucmerced.box.com/s/3x6wap7kjf257h0sscvdudhhl93r5qlc)
+    * [Zombie ants!](https://ucmerced.box.com/s/cqvgwgcq758jwpwwjz9n7hh210rt6uwr)
+11. [Lecture 11](https://ucmerced.box.com/s/nmssh70dxkdbvcf253q3nteph85lc2ci)
+12. [Lecture 12](https://ucmerced.box.com/s/tadek8nrd0hvqinsunehyocjjk6s0z0c)
+13. [Lecture 13](https://ucmerced.box.com/s/rn6ecyfjcweg5580rxeg3abdxwb3kadq)
+14. [Lecture 14](https://ucmerced.box.com/s/cd6zqdju55zg5nrasouxdtqmsaybrj1e)
+15. Lecture 15 video file was corrupted! Gah!
+16. [Lecture 16](https://ucmerced.box.com/s/9u71l13ypfj80fifqpzv5j3duzpoc7qy)
+17. [Lecture 17](https://ucmerced.box.com/s/k3m9iarvutlxz0znfg7xdlm44s7qqvhv)
+18. [Lecture 18](https://ucmerced.box.com/s/2dascotyf96yipj9jkk6kli26m1hndm2)
+19. [Lecture 19](https://ucmerced.box.com/s/d1mmmt8dll44egxlr4yu2f33kuzuwo5z)
+20. [Lecture 20](https://ucmerced.box.com/s/czxl7kfm06sodfakrr5jkf23dxtgc6c4)
+21. [Lecture 21](https://ucmerced.box.com/s/sccae4ryfn6py8lbvj9mp3zo8igtzprk)
+22. [Lecture 22](https://ucmerced.box.com/s/p86r7sf9ymf9y1tduqlr6avfdyv2u4xh) 
+    * [Persistance Hunting](https://ucmerced.box.com/s/3bu8nyt67vivp2104vwopl1s0f4ky5n8)
+23. [Lecture 23](https://ucmerced.box.com/s/oeprfisbmyxhd8134st0gj300999ddzs)  
+    * [Zombie Crickets](https://ucmerced.box.com/s/riqwtm1il62ky3lg2e24h9rksokm4sdo)
+    * [Zombie Spiders](https://ucmerced.box.com/s/38teflrh86hygc5ceklzjg80gyvymm7i)
+    * [Toxoplasma](https://ucmerced.box.com/s/wtlu19wvw0ps20oodge82013obl1ybs7)
+    * [Malaria1](https://ucmerced.box.com/s/ezzhq1yumlrx7gnpubhu3jyif9w1k46u)
+    * [Malaria2](https://ucmerced.box.com/s/c0ejp2fl3l1a2z83iqkqalym2xgem57t)
+24. [Lecture 24](https://ucmerced.box.com/s/yd1wp6i094b5r1hfjf3mk3khwgx78vgk)
+25. [Lecture 25](https://ucmerced.box.com/s/8xpu9q3c07hs4xh5hm119yn6fchgk8k9)
+    * [Ant-Acacias 1](https://ucmerced.box.com/s/1s0zjnssjcaj2bgtmtes7f0kp865wgqt)
+    * [Ant-Acacias 2](https://ucmerced.box.com/s/9g84vu0n9718p1ph0f18xaf7mdrf00d8)
+    * [Coral-Algae](https://ucmerced.box.com/s/bsge5ywrxi42ij6mhzi2ufsxl7tg26gu)
+    * [Leaf-cutter Ants-Fungi](https://ucmerced.box.com/s/u5ubpnn5ig86y0frn7hruc9862bclvpc)
+26. [Lecture 26](https://ucmerced.box.com/s/ww8znbar914hklzb15oh9sw8lhaz33zd)
+
+
+## Keys
+1. [Homework 1](https://ucmerced.box.com/s/mq0rhxlkoh3hf1lmynivbgriky0atkzq)
+2. [Homework 2](https://ucmerced.box.com/s/7zd0ndwjsy12wgii8k6megpejbdnr1kf)
+3. [Exam 1](https://ucmerced.box.com/s/zknsr17k0dzksj0oq4k1k6wmva1ggcgb)
+4. [Homework 3](https://ucmerced.box.com/s/qmggvk4rwz7e0filb70t0vu75ynunm1p)
+5. [Discussion Activity 5](https://ucmerced.box.com/s/pb1a37w4awwg6nisnx3bktv785ea8970)
+6. [Homework 4](https://ucmerced.box.com/s/kw9mzqhcl9cur1az5hkfffu7xzw7ai6l)
+7. [Discussion Activity 6](https://ucmerced.box.com/s/ar50rimz34mrm3kbgcu9nx2h6nm9q6nx)
+8. [Midterm 2](https://ucmerced.box.com/s/br28d5fsq7rplpqdjo2eqyua83b0uyhs)
+9. [Homework 5](https://ucmerced.box.com/s/ftlvk58oah3l6f3lfmpyf1558ngxrj8h)
+10. [Homework 6](https://ucmerced.box.com/s/qm4nv2aqn75600y5sa67jt7895af2rm1)
+11. [Midterm 3](https://ucmerced.box.com/s/pucbero3q9455jprz9d5tjph5zzbfvsy)
+12. [Homework 7](https://ucmerced.box.com/s/7a87krmio94gho996f5m8oalbg1jr2u3) 
+
+
+<hr>
+
+*Exam II*: Lecture notes; Book chapters 7, 8, and 10; Section readings
+
+### Discussion section materials
+* Week 2 Reading: [Excerpts from A Sand County Almanac](http://jdyeakel.github.io/teaching/ecology/papers/Leopold_Excerpts.pdf)
+* Week 3 Reading: [The Naturalist by Barry Lopez](http://jdyeakel.github.io/teaching/ecology/papers/Lopez_TheNaturalist.pdf)
+* Week 4: [Discussion Questions](http://jdyeakel.github.io/teaching/ecology/guide_09_13.pdf)
+* Week 5: [Allometry](http://jdyeakel.github.io/teaching/ecology/papers/Allometry.pdf)
+* Week 6: [Parasite Life History](http://jdyeakel.github.io/teaching/ecology/papers/Kochin_ParasiteEvolution.pdf)
+* Week 7: [Optimal Foraging Theory](http://jdyeakel.github.io/teaching/ecology/papers/optimalforaging.pdf)
+* Week 8: [Game Theory](http://jdyeakel.github.io/teaching/ecology/papers/EvolGameTheory.pdf)
+
+
+
+<hr>
+
+[Homework 2: due in section during the week of March 20. Print and turn in.](http://jdyeakel.github.io/teaching/ecology/Homework2.pdf)
+<br>
+[Homework 3: due the day of the final exam!](http://jdyeakel.github.io/teaching/ecology/Homework3.pdf )
+
+<hr>
+
+[Natural History Field Report Instructions](http://jdyeakel.github.io/teaching/ecology/NaturalHistoryFieldReport.pdf)
+
+<hr>
+
+### Lecture materials
+
+### Discussion section materials
+
+
+*	Week 1: The web of life. **Required reading:** Cain chap. 1 ([slides](http://jdyeakel.github.io/teaching/ecology/slides/Lect1_BIO148.pdf))
+*	Week 2: Scales in ecology. [**Required reading**](http://jdyeakel.github.io/teaching/ecology/papers/01_Levin.pdf) ([slides](http://jdyeakel.github.io/teaching/ecology/slides/Lect2_BIO148.pdf))
+*	Week 3: Biomes. **Required reading:** Cain chap. 3 ([slides](http://jdyeakel.github.io/teaching/ecology/slides/Lect3_BIO148.pdf))
+*	Week 4: Energy & Evolution. **Required reading:** Cain chap.5,6 ([slides](http://jdyeakel.github.io/teaching/ecology/slides/Lect5_BIO148.pdf))
+*	Week 5: Evolution cont.  **Required reading:** Cain chap. 6,7  ([slides](http://jdyeakel.github.io/teaching/ecology/slides/Lect6_BIO148.pdf))
+* **Exam I (2/15/2017)**: Covers Cain 1,3,5,6; section papers, lecture notes on those topics
+
+<hr>
+
+* Week 6: Life cycles and behavioral ecology. **Required reading:** Cain chap. 8
+* Week 7: Behavioral Ecology cont. **Required reading:** Cain chap. 8 **&** [A bit about Game Theory](http://jdyeakel.github.io/teaching/ecology/papers/EvolGameTheory.pdf)
+* Week 8: Population Ecology. **Required reading:** Cain chap. 10
+* Week 9: Population Ecology (cont.) **Required reading** Cain chap. 11 up to (but not including) the Delayed Density Dependance material.
+* **Exam II (3/29/2017)**: Covers Cain 8,9,10,part of 11; section papers, lecture notes
+
+<hr>
+
+* Week 10: Species Interactions: Competition. **Required Reading** Cain chap. 12
+* Week 11: Competition *continued*
+* Week 12: Predation and herbivory: **Required Reading** Cain chap. 13
+* Week 13: Parasitism and disease: **Required Reading** Cain chap. 14
+* Week 14: Mutualisms and commensalisms: **Required Reading** *Notes*. See Cain chap. 15 for additional details/extensions of concepts
+* Week 15: Communities **Required Reading** Cain chap. 16
+* Week 16: Metapopulations *Notes*. See Cain Chaps. 17/18 for additional details/extensions of concepts  
+* **Exam III (5/6/2017)**: Covers Notes + Cain 12,13,14,16
+
+
+<hr>
+### Discussion section materials
+
+*	Week 1: No section
+*	Week 2: [**Required reading**](http://jdyeakel.github.io/teaching/ecology/papers/01_Levin.pdf)
+*	Week 3: [**Required reading**](http://jdyeakel.github.io/teaching/ecology/papers/02_Chamberlain.pdf)
+*	Week 4: [**Required reading**](http://jdyeakel.github.io/teaching/ecology/papers/03_Kocher.pdf), [Supplementary](http://jdyeakel.github.io/teaching/ecology/papers/03supp_Joyce.pdf)
+* Week 5: No reading required for section, though attendance required.
+* Week 6: No section this week
+* Week 7: [**Required Reading**](http://jdyeakel.github.io/teaching/ecology/papers/04_Wolf.pdf)
+* Week 8 (3/6 - 3/10): [**Required Reading**](http://jdyeakel.github.io/teaching/ecology/papers/05_Packer.pdf)
+* Week 9 (3/13 - 3/17): [**Required Reading**](http://jdyeakel.github.io/teaching/ecology/papers/06_Dominy.pdf)
+* Week 10 (4/3 - 4/7): No reading required
+* Week 11 (4/10 - 4/14): [**Required Reading**](http://jdyeakel.github.io/teaching/ecology/papers/07_Estes.pdf)
+--->
+
+
+
+| Wk | Date | Lect/Disc_# | Lecture_Topic | Description | Required Readings | Assign. |
+| ---------- | ---------- | ----------- | --------------- | ------------- | ------------ |
+| 1 | **1/20**       | **(W-L1)** | Introduction | Paleontology and fossils | Fast. Ch. 1,2 |     |
+|  |         |  | **No Disc** | No Discussion section |  |     |
+| 2 | **1/25**  | **(M-L2)** | Evolution 1 | Natural selection | Fast. Chp. 3 |     |
+|  |  **1/27**  | **(W-L3)** | Evolution 2 | Cladistics |  |     |
+|  | **1/29**  | **F-H1** | Homework |  |  |  Hmwk 1 due   |
+|  |        | **D1** | Disc 1 | Paleontology and Sedimentology | [Sed. worksheet](//jdyeakel.github.io/teaching/dinos/Section_1_Strat_Section.pdf){:target="_blank"} |     |
+| 3 | **2/1**       | **(M-L4)** | Early life | Cambrian through Devonian | Fast. Chp. 4 |     |
+|  |  **2/3**   | **(W-L5)** | Early life | Devonian through Permian |  |     |
+|  |        | **D2** | Disc 2 |  Cladistics    | [Cladistics worksheet](//jdyeakel.github.io/teaching/dinos/Section_2_Cladistics.pdf){:target="_blank"} |     |
+| 4 | **2/8** | **(M-L6)** | Dinosaurs | Basal dinosaurs | Fast. Part II, Chp. 5 |    |
+|  | **2/10** | **(W-L7)** | Thyreophorans | Stegosaurs | Fast. Chp. 10 |    |
+|  | **2/12**  | **F-H2** | Homework |  |  |  Hmwk 2 due   |
+|  |         | **D3** | Disc 3 |  Anatomy  |  [Anatomy worksheet](//jdyeakel.github.io/teaching/dinos/Section_3_Anatomy.pdf){:target="_blank"}  |     |
+| 5 | **2/15** | **M** | **No Class** |  |  |    |
+|  |  | **2/17** | **W** | ***Exam I***   |  |  |    |
+|  |         |  | **No Disc** |   |  |    |
+| 6 | **2/22** | **(M-L8)** | Thyreophorans | Ankylos | Fast. Chp. 10 |    |
+|  | **2/24** | **(M-L9)** | Marginocephalians | Pachys | Fast. Chp. 11 |    |
+|  |         | **D4** | Disc 4 |  Cladistics 2  | [Cladistics 2 worksheet](//jdyeakel.github.io/teaching/dinos/Section_4_Cladistics2.pdf){:target="_blank"}  |     |
+| 7 | **3/1** | **(M-L10)** | Marginocephalians | Ceratops | Fast. Chp. 11 |    |
+|  | **3/3** | **(W-L11)** | Ornithopods |  | Fast. Chp. 12 |    |
+|  |  **3/5** | **F-H3** | Homework |  |  |  Hmwk 3 due   |
+|  |         | **D5** | Disc 5 |  Thermoregulation   | Reading [1](https://www.wired.com/2009/07/toucanbill/){:target="_blank"} & [2](https://www.smithsonianmag.com/science-nature/armored-dinosaurs-kept-cool-labyrinth-nose-canals-180971073/){:target="_blank"}; Supp [1](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0207381){:target="_blank"} & [2](https://science.sciencemag.org/content/325/5939/468?ijkey=b5e9d5b337a93ab599c7c44bec9573a4cca5224e&keytype2=tf_ipsecsha){:target="_blank"} |    |
+| 8 | **3/8** | **(M-L12)** | Sauropods 1 |  | Fast. Part III, Chp. 8 |   |
+|  | **3/10** | **(W-L13)** | Sauropods 2 |  |    |    |
+|  |  **3/12** | **F-H4** | Homework |  |  |  Hmwk 4 due   |
+|  |         | **D6** | Disc 6 | [Dinosaur Wars](https://ucmerced.box.com/s/gtbzmxc4oou7wmki8xyj60exusqew30q){:target="_blank"}  | Not in person |    |
+| 9 | **3/15** | **(M-L14)** | Review |  |  |  |
+|  | **3/17** | **W** | ***Exam II*** |  |  |    |
+|  |        | **D7** | Disc 7 |     |  |    |
+| 10 | **3/22** | **(M-No Class)** | Spring Break |  |  |    |
+|  | **3/24** | **(W-No Class)** | Spring Break |  |  |    |
+|  |         | **No Disc** |  |  |   |    |
+| 11 | **3/29** | **(M-L15)** | Metabolism |  | Fast. Chp. 13 |    |
+|  | **3/31** | **(W-L16)** | Theropods 1 |  | Fast. Chp. 6 |    |
+|  |       | **D8** | Disc 8 |    |  |   |
+| 12 | **4/5** | **(M-L17)** | Theropods 2 |  | Fast. Chp. 7 |    |
+|  | **4/7** | **(W-L18)** | Theropods 3 |  |  |    |
+|  |         | **D9** | Disc 9 | [Schroeder et al. paper](https://ucmerced.box.com/s/08jfqfcwdtnecfzc9djh0g42w87z5gi8){:target="_blank"}  |  |  |
+| 13 | **4/12** | **(M-L19)** | Theropods 4 |  |  | |
+|  | **4/14** | **W** | ***Exam III*** |  |  |    |
+|  |  **4/15** | **R-H5** | Homework |  |  |  Hmwk 5 due   |
+|  |        | **D10** | Disc 10 | [Origin of Birds](https://ucmerced.box.com/s/yqr6fc2tci22jbheq7qmkjpr0yaqrwk8){:target="_blank"}    |  Not in person |  |
+| 14 | **4/19** | **(M-L20)** | Origin of Birds |  | Fast. Chp. 8 |    |
+|  | **4/21** | **(W-L21)** | Flying Reptiles |  | TBD |    |
+|  |         | **D11** | Disc 11 | [Origin of Birds Discussion](https://ucmerced.box.com/s/yqr6fc2tci22jbheq7qmkjpr0yaqrwk8){:target="_blank"}  | [Worksheet](https://ucmerced.box.com/s/tj3sqx111hezniqemlt13zbd372niutf){:target="_blank"}  |  |
+| 15 | **4/26** | **(M-L22)** | Swimming Reptiles |  |  |    |
+|  | **4/28** | **(W-L23)** | Mesozoic World |  | Fast. Chp. 15 |    |
+|  |  **4/30** | **F-H6** | Homework |  | [Motani 2009](https://ucmerced.box.com/s/lry9eenbs4fq251wzuvoezbbmtihbvg2){:target="_blank"}   |  Hmwk 6 due   |
+|  |        | **D12** | Disc 12 |   | |  |
+| 16 | **5/3** | **(M-L24)** | Mammals |  |  |    |
+|  | **5/5** | **(W-L23)** | Extinction |  |  |    |
+|  |        | **D13** | Disc 13 |   | |  |
+|  | **5/8** | **Sat.** | ***FINAL EXAM*** | Comprehensive (8-11AM)  |  |  |
+
+
+    </div><!-- /.article-wrap -->
+    
+  </article>
+</div><!-- /#index -->
+
+<div class="footer-wrap">
+  <footer>
+    <div class="google-ads">
+  <!-- 320 x 50 ad -->
+  <script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <ins class="adsbygoogle"
+       style="display:inline-block;width:320px;height:50px"
+       data-ad-client=""
+       data-ad-slot=""></ins>
+  <script>
+  (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+</div><!-- /.google-ads -->
+
+<span>&copy; 2021 Justin D. Yeakel. Powered by <a href="http://jekyllrb.com">Jekyll</a> using the <a href="http://mademistakes.com/minimal-mistakes/">Minimal Mistakes</a> theme.</span>
+
+  </footer>
+</div><!-- /.footer-wrap -->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="//jdyeakel.github.io/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="//jdyeakel.github.io/assets/js/scripts.min.js"></script>
+
+
+  
+          
+
+</body>
+</html>

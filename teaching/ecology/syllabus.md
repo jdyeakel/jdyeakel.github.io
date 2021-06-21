@@ -68,32 +68,3 @@ comments: true
         * **Exams**: There will be 3 “midterm” exams during the semester and 1 comprehensive final. There will be no make-up exams or early exams. If you are sick during an exam, you must supply a note from your doctor verifying your illness. Your grade for the missed exam will be based on your average score from the other exams. You cannot miss more than one exam for an excused illness and taking the final is mandatory in order to pass the course. ***Exams will be open-book + open-note and delivered via Canvas***
         * ***Grading***: Your final grade will be based on the following: lecture attendance: 5%; discussion section participation & activities: 15%; homework: 15%; midterms: 45% (three, 15% each); and comprehensive final exam: 20%.  
         * Grades will be given using the approximate framework: A: 90 - 100%, B: 80 - 90%, C: 70 - 80%, D: 60 - 70%, F: < 60%. This framework is subject to change given the distribution of the final grades.
-
---------------------------------
-
-+ **Academic Integrity**: Academic integrity is the foundation of an academic community and without it none of the educational or research goals of the university can be achieved. All members of the university community are responsible for its academic integrity. Existing policies forbid cheating on examinations, plagiarism and other forms of academic dishonesty.  
-    * Each student in this course is expected to abide by the [University of California, Merced’s Academic Honesty Policy](http://studentlife.ucmerced.edu/what-we-do/student-judicial-affairs/academicy-honesty-policy)
-    * Any work submitted by a student in this course for academic credit will be the student's own work. 
-    * You are encouraged to study together (virtually) and to discuss information and concepts covered in lecture and the sections with other students (virtually). You can give "consulting" help to or receive "consulting" help from such students (virtually). However, this permissible cooperation should never involve one student having possession of a copy of all or part of work done by someone else, in the form of an e mail, an e mail attachment file, a diskette, or a hard copy. Should copying occur, both the student who copied work from another student and the student who gave material to be copied will both automatically receive a zero for the assignment. Penalty for violation of this Policy can also be extended to include failure of the course and University disciplinary action. 
-    * During examinations, you must do your own work. Communication in any form is not permitted during the examinations, nor may you compare papers, copy from others, or collaborate in any way. Any collaborative behavior during the examinations will result in failure of the exam, and may lead to failure of the course and University disciplinary action.
-    * Examples of academic dishonesty include:
-        * receiving or providing unauthorized assistance on examinations
-        * using unauthorized materials during an examination
-        * plagiarism - using materials from sources without citations
-        * altering an exam and submitting it for re-grading
-        * fabricating data or references
-        * using false excuses to obtain extensions of time or to skip coursework
-    * The ultimate success of a code of academic conduct depends largely on the degree to which the students fulfill their responsibilities towards academic integrity. These responsibilities include:
-        * Be honest at all times.
-        * Act fairly toward others. For example, do not disrupt or seek an unfair advantage over others by cheating, or by communicating during exams.
-        * Take group as well as individual responsibility for honorable behavior. Collectively, as well as individually, make every effort to prevent and avoid academic misconduct, and report acts of misconduct which you witness.
-        * Do not submit the same work in more than one class. Unless otherwise specified by the instructor, all work submitted to fulfill course requirements must be work done by the student specifically for that course. This means that work submitted for one course cannot be used to satisfy requirements of another course unless the student obtains permission from the instructor.
-        * Unless permitted by the instructor, do not work with others on graded coursework, including on exams or on homework assignments. When an instructor specifically informs students that they may collaborate on work required for a course, the extent of the collaboration must not exceed the limits set by the instructor.
-        * Know what plagiarism is and take steps to avoid it. When using the words or ideas of another, even if paraphrased in your own words, you must cite your source. Students who are confused about whether a particular act constitutes plagiarism should consult the instructor who gave the assignment.
-        * Know the rules --- ignorance is no defense. Those who violate campus rules regarding academic misconduct are subject to disciplinary sanctions, including suspension and dismissal.
-
-+ **Accommodations for Students with Disabilities**  
-
-    The University of California Merced is committed to ensuring equal academic opportunities and inclusion for students with disabilities based on the principles of independent living, accessible universal design and diversity. I am available to discuss appropriate academic accommodations that may be required for student with disabilities. Requests for academic accommodations are to be made during the first three weeks of the semester, except for unusual circumstances. Students are encouraged to register with Disability Services Center to verify their eligibility for appropriate accommodations.  
-
-    The instructor will make every effort to accommodate all students who, because of religious obligations, have conflicts with scheduled exams, assignments, or required attendance. Please speak with the instructor during the first week of class regarding any potential academic adjustments or accommodations that may arise due to religious beliefs during this term.
