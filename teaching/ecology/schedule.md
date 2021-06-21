@@ -13,7 +13,6 @@ comments: true
 <br>
 T = Tuesday  
 R = Thursday  
-F = Friday  
 L = Lecture  
 D = Discussion
 

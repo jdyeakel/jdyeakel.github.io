@@ -1,6 +1,6 @@
 ---
 layout: pagetrimnobio
-title: "Fundamentals of Ecology (BIO/ESS 148) :: Syllabus, Fall 2020"
+title: "Fundamentals of Ecology (BIO/ESS 148) :: Syllabus, Summer 2021"
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
@@ -10,14 +10,12 @@ comments: true
 [> To Course Schedule]({{ site.url }}/teaching/ecology/schedule)
 
 
-+ **Lecture Time**: Tuesdays and Thursday, 09:00 - 10:15AM  
-+ **Lecture Location**: [Zoom Link](https://ucmerced.zoom.us/j/93141102627?pwd=ajgrVjYrZzJQcUhrV05kalJ1WFRVQT09)
-+ **Discussion section times**  
-    * Friday 1:30-2:20 [Zoom Link](https://ucmerced.zoom.us/j/96261126746?pwd=ZmxqZW1EdktNSGZhYXhkSmdONnZOZz09)  
-    * Friday 2:30-3:20 [Zoom Link](https://ucmerced.zoom.us/j/91856105994?pwd=OUVmaGtDMU8yKzZRVmRMNXhVS2R3Zz09)  
-    * Friday 4:30-5:20 [Zoom Link](https://ucmerced.zoom.us/j/92269177977?pwd=aDhMcUs4MS9YSnQ0TXMyVUlMTThOZz09)  
-+ **Instructor**: Justin D. Yeakel  
-+ **Teaching Assistant**: Irina Barros  
++ **Lecture Time**: Tuesdays and Thursday, 08:30 - 11:15AM  
++ **Lecture Location**: [Zoom Link](https://ucmerced.zoom.us/j/88378477222)
++ **Discussion section time**  
+    * Thursday 11:30-1:20 [Zoom Link](https://ucmerced.zoom.us/j/89614080974)  
++ **Instructor**: Justin D. Yeakel; office hours [Mondays 10-11 or by appointment](https://ucmerced.zoom.us/j/87600225759)  
++ **Teaching Assistant**: Taran Rallings; office hours TBD  
 + **Course Websites**  
     Everything that we do this this course will revolve around two principle websites. In some cases, information will be duplicated on both sites (link to readings), and I will attempt to cross-link as necessary.
     > The [***CatCourse Website (Canvas)***](https://catcourses.ucmerced.edu/): Turning in assignments, grades, lectures, links to readings  
@@ -54,7 +52,7 @@ comments: true
     * ***Class Attendance and Participation Policy***  
         * This course is delivered ***synchronously over ZOOM***, meaning that lecture & discussion attendance *at the time of the lecture & discussion* is required.
         * Attendance and participation in the discussion section is required and will be a component of the student’s course grade.  
-        * The 5 lowest lecture attendance scores will be dropped  
+        * The **3** lowest lecture attendance scores will be dropped  
     * ***Required and Supplemental Readings***  
         * **Required Textbook**: W.D. Bowman, S.D. Hacker, and Cain, M.L. 2017. Ecology, 4th or 5th Edition. Sinauer Associates, Inc., Publishers. Sunderland, MA.  
         * The ebook is a good option, as it is a bit cheaper (visit school bookstore for more info)  
@@ -65,6 +63,6 @@ comments: true
         * **Homework**: Throughout the semester,  homework assignments will be assigned, consisting of exercises provided by the Teaching Assistant/Instructor. ***Homework assignments will be delivered via Canvas***  
         <!-- * **Quizzes**: Quizzes will be given periodically during the lecture period. They will not necessarily be announced. -->  
         * **Discussion Activities**: All students are required to go to their respective Discussion Sections and participate/engage in the discussions and activities conducted in the section. Your discussion grade will take into account both participation and responses to Discussion assignments. ***Only otherwise notified, Discussion Activity scores will be delivered via CatCourses***   
-        * **Exams**: There will be 3 “midterm” exams during the semester and 1 comprehensive final. There will be no make-up exams or early exams. If you are sick during an exam, you must supply a note from your doctor verifying your illness. Your grade for the missed exam will be based on your average score from the other exams. You cannot miss more than one exam for an excused illness and taking the final is mandatory in order to pass the course. ***Exams will be open-book + open-note and delivered via Canvas***
-        * ***Grading***: Your final grade will be based on the following: lecture attendance: 5%; discussion section participation & activities: 15%; homework: 15%; midterms: 45% (three, 15% each); and comprehensive final exam: 20%.  
+        * **Exams**: There will be **2** “midterm” exams during the semester and **1** comprehensive final. There will be no make-up exams or early exams. If you are sick during an exam, you must supply a note from your doctor verifying your illness. Your grade for the missed exam will be based on your average score from the other exams. You cannot miss more than one exam for an excused illness and taking the final is mandatory in order to pass the course. ***Exams will be open-book + open-note and delivered via Canvas***
+        * ***Grading***: Your final grade will be based on the following: lecture attendance: 5%; discussion section participation & activities: 15%; homework: 15%; midterms: 40% (two, 20% each); and comprehensive final exam: 25%.  
         * Grades will be given using the approximate framework: A: 90 - 100%, B: 80 - 90%, C: 70 - 80%, D: 60 - 70%, F: < 60%. This framework is subject to change given the distribution of the final grades.
