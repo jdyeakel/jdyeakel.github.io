@@ -43,7 +43,7 @@ comments: true
 
 + **Format & Procedures**  
     
-    This course is structured as follows: two 75-minute lecture sessions and one 50-minute discussion section per week. Discussion sections will provide students an opportunity to discuss in more detail scientific findings from peer-reviewed publications and practice using the R programming langauge to confront ecological problems. Your participation in discussion section is mandatory.  
+    This course is structured as follows: two 165-minute lecture sessions and one 110-minute discussion section per week. Discussion sections will provide students an opportunity to discuss in more detail scientific findings from peer-reviewed publications and practice using the R programming langauge to confront ecological problems. Your participation in discussion section is mandatory.  
 <!-- 
     We will also spend a Saturday morning in March exploring the Vernal Pools ecosystem just off campus to apply some of our newly gained ecological knowledge to the field. All students are required to attend and participate. Field observations from the Vernal Pools will be used to write a Field Report towards the end of the semester. -->
 
