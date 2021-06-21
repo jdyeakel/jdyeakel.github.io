@@ -7,7 +7,7 @@ comments: true
 ---
 
 [< Back to Course Page]({{ site.url }}/teaching/ecology)  
-[> To Course Schedule]({{ site.url }}/teaching/ecology/schedule)
+[> To Course Schedule]({{ site.url }}/teaching/ecology/schedule_summer/)
 
 
 + **Lecture Time**: Tuesdays and Thursday, 08:30 - 11:15AM  

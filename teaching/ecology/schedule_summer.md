@@ -72,7 +72,7 @@ tr:nth-child(odd) {background: #FFF}
 | **7/27** | **(T-L11)** | Predation 1 | Herbivory and Predation | Bowman Ch. 12 |    |
 |  |  | Predation dynamics |  |  |    |
 | **7/29** | **(R-L12)** | Parasitism | Parasites and Parasitoids | Bowman Chap. 13 |    |
-|  |  | Disease | The dynamics of disease | Bowman 13.4-end, [Blackwood to 2.2.2]({{ site.url }}/teaching/ecology/papers/Blackwood_SIR.pdf) [R0 is just an average](https://www.santafe.edu/news-center/news/transmission-t-024-cristopher-moore-on-the-heavy-tail-of-outbreaks) |    |
+|  |  | Disease | The dynamics of disease | Bowman 13.4-end, [Blackwood to 2.2.2]({{ site.url }}/teaching/ecology/papers/Blackwood_SIR.pdf); [R0 is just an average](https://www.santafe.edu/news-center/news/transmission-t-024-cristopher-moore-on-the-heavy-tail-of-outbreaks) |    |
 |         | **(D6)** | Disc 6 |  Predation and Disease dynamics  |  |  Hmwk 5 due |
 | **8/3** | **(T-L13)** | Interactions | Mutualisms & commensalisms | Bowman Chap. 15 |    |
 |  |  | Food webs | Ecological networks | Bowman Chap. 16 |    |
