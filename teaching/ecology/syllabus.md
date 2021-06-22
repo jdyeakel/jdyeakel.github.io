@@ -22,7 +22,7 @@ comments: true
     > The [***Ecology Course Website***]({{ site.url }}/teaching/ecology): Basic course information, discussion section activities, links to readings  
 + **Course Schedule**: 
 
-    [Course Schedule]({{ site.url }}/teaching/ecology/schedule)  
+    [Course Schedule]({{ site.url }}/teaching/ecology/schedule_summer)  
 + **Course Description**  
 
     This course fulfills an upper division requirement for the Ecology and Evolutionary Biology (EEB) emphasis track of the Biological Sciences Major, as well an upper division requirement for the Earth Systems Science Major. This course provides an introduction to ecology - the scientific study of how organisms interact with each other and their physical environment. Prerequisite: BIO 001 or BIO 005 or ESS 001 or ESS 005 or consent of instructor. Normal Letter Grade only.
