@@ -346,6 +346,7 @@ The experiment Simberloff devised is both simple and a bit nutty. He selected a 
     lines(time4,island4,col=pal[4],lwd=2)
     lines(time5,island5,col=pal[5],lwd=2)
     lines(time6,island6,col=pal[6],lwd=2)
+    legend(400,2-,legend=c(1,2,3,4,5,6),col=pal,pch=16)
 
     # We can assess recovery by comparing the species diversity at the first 
     # point in time (pre-extermination) to the species diversity at the last
