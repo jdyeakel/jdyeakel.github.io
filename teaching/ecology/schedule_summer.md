@@ -53,7 +53,7 @@ tr:nth-child(odd) {background: #FFF}
 |   |   | Allometry | Allometry & Macroecology 1 | [West & Brown]({{ site.url }}/teaching/ecology/papers/West_Brown_2004.pdf){:target="_blank"} |    |
 | **7/01** | **(R-L4)** | Allometry | Allometry & Macroecology 2 | |    |
 |  |  | Evolution | Evolution 1 | Bowman Ch. 6 |    |
-|         | **(D2)** | Disc 2 |  Macroecology  |    |  Hmwk 1 due   |
+|         | **(D2)** | Disc 2 |  [Macroecology]({{ site.url }}/teaching/ecology/summersections/section_2_metabolism/){:target="_blank"}  |    |  Hmwk 1 due   |
 | **7/06** | **(T-L5)** | ***Exam I*** |  |  |    |
 |  |  | Evolution | Evolution 2 |  |    |
 | **7/08** | **(R-L6)** | Life history | Life history diversity and tradeoffs | Bowman Ch. 7 |    |
