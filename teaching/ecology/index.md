@@ -32,9 +32,10 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 ## Lecture Recordings
 * [Lecture 1 :: 6/22](https://ucmerced.box.com/s/m93lnwkd6ywha9h50bsd72js43nuauc1){:target="_blank"}   
 * [Lecture 2 :: 6/24](https://ucmerced.box.com/s/nawj4u8oaazat9nzmxgwdp6plpn4dyhc){:target="_blank"}  
+* [Lecture 3a :: 6/29](https://ucmerced.box.com/s/4m7k5w48ibfga9t270fuzoqad1tglys7){:target="_blank"}; [Lecture 3b :: 6/29](https://ucmerced.box.com/s/vc5ki6rxa9t6ulw89d5x98ejjajlpxpm){:target="_blank"}  
 
 
 ## Lecture Slides
 * [Lecture 1 :: 6/22](https://ucmerced.box.com/s/yoz5vwxnzg2rpbfgbxwbjfu4zalnyq85){:target="_blank"}  
 * [Lecture 2 :: 6/24](https://ucmerced.box.com/s/4sd77mloba3vof3izqtfvcaovzefcudo){:target="_blank"}  
-
+* [Lecture 3 notes :: 6/29](https://ucmerced.box.com/s/8ttqi8wvz8hy8nogvssq0rtzi187valy){:target="_blank"}; [Lecture 3 slides :: 6/29](https://ucmerced.box.com/s/k93scigxhbvjp1nxck8adnisqkc8xudf){:target="_blank"}
