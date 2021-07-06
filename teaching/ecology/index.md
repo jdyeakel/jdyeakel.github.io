@@ -29,6 +29,14 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 
 ---
 
+## Discussion Sections and Demonstrations
+* [Demo 1: Intro to R]({{ site.url }}/teaching/ecology/summersections/demo_1_introtoR/){:target="_blank"}  
+* [Section 1: Temperature as a constraint]({{ site.url }}/teaching/ecology/summersections/section_1_temperature/){:target="_blank"}  
+* [Section 2: Metabolism & allometry]({{ site.url }}/teaching/ecology/summersections/section_2_metabolism/){:target="_blank"}  
+* [Section 3: Evolution by natural selection]({{ site.url }}/teaching/ecology/summersections/section_3_evolution/){:target="_blank"}
+
+---
+
 ## Lecture Recordings
 * [Lecture 1 :: 6/22](https://ucmerced.box.com/s/m93lnwkd6ywha9h50bsd72js43nuauc1){:target="_blank"}   
 * [Lecture 2 :: 6/24](https://ucmerced.box.com/s/nawj4u8oaazat9nzmxgwdp6plpn4dyhc){:target="_blank"}  
