@@ -58,7 +58,7 @@ tr:nth-child(odd) {background: #FFF}
 |  |  | Evolution | Evolution 2 |  |    |
 | **7/08** | **(R-L6)** | Life history | Life history diversity and tradeoffs | Bowman Ch. 7 |    |
 |  |  | Behavior | Behavioral ecology | Bowman Ch. 8, [Sinervo]({{ site.url }}/teaching/ecology/papers/optimalforaging.pdf){:target="_blank"} |    |
-|         | **(D3)** | Disc 3 |   Evolution by natural selection  |  |  Hmwk 2 due  |
+|         | **(D3)** | Disc 3 |   [Evolution by natural selection]({{ site.url }}/teaching/ecology/summersections/section_3_evolution/){:target="_blank"}  |  |  Hmwk 2 due  |
 | **7/13** | **(T-L7)** | Games | Evolutionary Game Theory | [Easley & Kleinberg]({{ site.url }}/teaching/ecology/papers/EvolGameTheory.pdf){:target="_blank"} |    |
 |  |  | Populations 1 | Density dependence and population dynamics | Bowman Ch. 10 |    |
 | **7/15** | **(R-L8)** | Populations 2 | Logistic Growth   |    |    |
