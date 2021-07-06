@@ -18,11 +18,11 @@ Welcome to the course website for ***Fundamentals of Ecology***. Of course, this
 *	[Syllabus]({{ site.url }}/teaching/ecology/syllabus/)  
 * [Schedule]({{ site.url }}/teaching/ecology/schedule_summer/)  
 
-*	**Lecture**: TR 8:30-11:15 on [ZOOM]()  
-*	**Discussion Section**: R 11:30-1:20 on [ZOOM]()
+*	**Lecture**: TR 8:30-11:15 on [ZOOM](https://ucmerced.zoom.us/j/88378477222)  
+*	**Discussion Section**: R 11:30-1:20 on [ZOOM](https://ucmerced.zoom.us/j/89614080974)
 
-*	Prof. Yeakel Office Hours: [Mondays 10-11 or by appointment]()  
-*	TA Taran Rallings Office Hours: [TBD]()  
+*	Prof. Yeakel Office Hours: [Mondays 10-11 or by appointment](https://ucmerced.zoom.us/j/87600225759?pwd=dkRmbHF1dWJ2eGpsVHZURnhjVEltUT09)  
+*	TA Taran Rallings Office Hours: [Tuesday 1-2 or by appointment](https://ucmerced.zoom.us/j/88401001197)  
 
 ## Contact
 Please use the Inbox application in the CatCourses (Canvas) website to contact either of us. *There is no guarantee of response if personal emails are used.*
