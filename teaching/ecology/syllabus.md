@@ -15,7 +15,7 @@ comments: true
 + **Discussion section time**  
     * Thursday 11:30-1:20 [Zoom Link](https://ucmerced.zoom.us/j/89614080974)  
 + **Instructor**: Justin D. Yeakel; office hours [Mondays 10-11 or by appointment](https://ucmerced.zoom.us/j/87600225759)  
-+ **Teaching Assistant**: Taran Rallings; office hours TBD  
++ **Teaching Assistant**: Taran Rallings; office hours [Tuesdays 1-2](https://ucmerced.zoom.us/j/88401001197)    
 + **Course Websites**  
     Everything that we do this this course will revolve around two principle websites. In some cases, information will be duplicated on both sites (link to readings), and I will attempt to cross-link as necessary.
     > The [***CatCourse Website (Canvas)***](https://catcourses.ucmerced.edu/): Turning in assignments, grades, lectures, links to readings  
