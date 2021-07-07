@@ -33,6 +33,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 * [Demo 1: Intro to R]({{ site.url }}/teaching/ecology/summersections/demo_1_introtoR/){:target="_blank"}  
 * [Section 1: Temperature as a constraint]({{ site.url }}/teaching/ecology/summersections/section_1_temperature/){:target="_blank"}  
 * [Section 2: Metabolism & allometry]({{ site.url }}/teaching/ecology/summersections/section_2_metabolism/){:target="_blank"}  
+* [Demo 2: Life histories]({{ site.url }}/teaching/ecology/summersections/demo_2_lifehistory/){:target="_blank"}
 * [Section 3: Evolution by natural selection]({{ site.url }}/teaching/ecology/summersections/section_3_evolution/){:target="_blank"}
 
 ---
@@ -42,6 +43,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 * [Lecture 2 :: 6/24](https://ucmerced.box.com/s/nawj4u8oaazat9nzmxgwdp6plpn4dyhc){:target="_blank"}  
 * [Lecture 3a :: 6/29](https://ucmerced.box.com/s/4m7k5w48ibfga9t270fuzoqad1tglys7){:target="_blank"}; [Lecture 3b :: 6/29](https://ucmerced.box.com/s/vc5ki6rxa9t6ulw89d5x98ejjajlpxpm){:target="_blank"}  
 * [Lecture 4 :: 7/1](https://ucmerced.box.com/s/tkceytrmck1fl7muq0po076k6aoczd8v){:target="_blank"}  
+* [Lecture 5 :: 7/6](https://ucmerced.box.com/s/2qlwghguintbzl0dz6b9nzvs3iujyxci){:target="_blank"}  
 
 
 ## Lecture Slides
@@ -49,7 +51,9 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 * [Lecture 2 :: 6/24](https://ucmerced.box.com/s/4sd77mloba3vof3izqtfvcaovzefcudo){:target="_blank"}  
 * [Lecture 3 notes :: 6/29](https://ucmerced.box.com/s/8ttqi8wvz8hy8nogvssq0rtzi187valy){:target="_blank"}; [Lecture 3 slides :: 6/29](https://ucmerced.box.com/s/k93scigxhbvjp1nxck8adnisqkc8xudf){:target="_blank"}
 * [Lecture 4 :: 7/1](https://ucmerced.box.com/s/5rksgy58p1yn9knkdyb1dvdkauwqy6pv){:target="_blank"}  
+* [Lecture 5 :: 7/6](https://ucmerced.box.com/s/vzwbn7hn0kejly5lmulyezkqc6p9dwd6){:target="_blank"}  
 
 
 ## Keys
 * [Homework 1](https://ucmerced.box.com/s/t8x44jw6z51yy2xyxwodmuawpwe0k4jd){:target="_blank"}  
+* [Midterm 1](https://ucmerced.box.com/s/foghxfb9xq9c0ihak98je0memwzoyqby){:target="_blank"}  

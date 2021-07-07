@@ -24,14 +24,14 @@
 <meta property="og:type" content="article">
 <meta property="og:title" content="Section 5 :: Life History Strategies">
 
-<meta property="og:url" content="//jdyeakel.github.io/teaching/ecology/summersections/section5/">
+<meta property="og:url" content="//jdyeakel.github.io/teaching/ecology/summersections/demo_2_lifehistory/">
 <meta property="og:site_name" content="Yeakel Lab @ UC-Merced">
 
 
 
 
 
-<link rel="canonical" href="//jdyeakel.github.io/teaching/ecology/summersections/section5/">
+<link rel="canonical" href="//jdyeakel.github.io/teaching/ecology/summersections/demo_2_lifehistory/">
 <link href="//jdyeakel.github.io/feed.xml" type="application/atom+xml" rel="alternate" title="Yeakel Lab @ UC-Merced Feed">
 
 
@@ -246,94 +246,6 @@
   </ol>
 </blockquote>
 
-<h2 id="decision-making-and-future-fitness">Decision-making and future fitness</h2>
-
-<p>Above we explored how to assess the accumulated fitness consequences of alternative strategies spanning the <em>r-K</em> selection gradient, but where these strategies are <em>static</em>. Of course, individual behaviors are dynamic in response to real-time conditions, and do not generally have static strategies. In other words, individuals within species <em>react</em> to external conditions by changing their behavior and the cumulation of these reactions have a large impact on – and often <em>define</em> – their life-history strategies.</p>
-
-<p>We can imagine a species’ behavior as a set of iterative yes/no <em>decisions</em>. Now don’t make the mistake and read <em>decision</em> as a cognitive choice… the decisions that species make characterizing their behaviors are selected for over evolutionary time, and thus are encoded in their genes, but do not always mean that they are cognitively thinking through and weighing the costs/benefits of particular decisions. For example, when a reed warbler <em>decides</em> whether or not to forage once more to gather an extra amount of food for her chicks before the sun sets for the night, the decision need not be a cognitive calculation, but a behavioral predisposition fueled by her genes that make her more or less likely to decide one way or the other. Linking these binary yes/no decisions to the above activity, after sexual maturity both chimps and mosquitoes make <em>decisions</em> whether or not to invest in reproduction throughout their lives… the mosquito decision tree pertaining to the above example is then: <em>(no no no no no no no no no yes)</em>, and the chimp decision tree is <em>(no no no no no yes yes no no yes)</em>. So, in this context, these genetically-determined ‘decisions’ make the strategy.</p>
-
-<p><strong><em>We will assume that natural selection over evolutionary time has resulted in species with behaviors the maximize their lifetime fitness.</em></strong> We will assume this in the context of a yes/no decision. Let’s use the example of a warbler deciding whether or not to gather one additional morsel of food for her brood before the sun sets for the day, which is a binary yes/no decision.</p>
-
-<p>Some definitions:</p>
-<ul>
-  <li>\(\Phi\) = The value of future reproductive success</li>
-  <li>\(\phi\) = The amount of \(\Phi\) that is at stake in this decision</li>
-  <li>\(a\) = the proportionate increase in \(\phi\) that would result if there is a positive (yes) response</li>
-  <li>\(c\) = the cost of \(a\)</li>
-  <li>\(b\) = the proportionate decrease in \(\phi\) if there is a negative (no)</li>
-</ul>
-
-<p><strong><em>YES Decision</em></strong> In words, we want to assess what \(\Phi\) will be on the other side of this yes/no decision. If the decision is a <em>yes</em>, we will gain something but at a cost. The amount \(\phi\) is at stake, and a positive response will recover a proportionate amount of \(\phi\) given by \(a\) at cost \(c\). We will call this modified fitness \(\Phi^\prime\). Both \(a\) and \(c\) vary between 0 and 1. Use the extreme values of 0 and 1 for \(a\) and \(c\) to understand how they impact lifetime fitness assuming a <em>Yes</em> decision. I recommend first setting \(c=0\) and examining the cases where \(a=0\) (what does this mean?) and \(a=1\) (what does this mean?).</p>
-
-\[\begin{equation}
-\Phi^\prime = (1+a)\phi + (1-c)(\Phi-\phi)
-\end{equation}\]
-
-<p><strong><em>NO Decision</em></strong> If the decision is a <em>no</em>, the modified fitness is \(\Phi^{\prime \prime}\) we will assume that we lose what is at stake, proportional to \(b\). So if \(b=1\), all of what is at stake (all of \(\phi\)) is lost; if \(b=0\), none of what is at stake is lost.</p>
-
-\[\begin{equation}
-\Phi^{\prime \prime} = (1-b)\phi + (\Phi - \phi)
-\end{equation}\]
-
-<p>So the question now is… when will selection favor the positive response (resulting in \(\Phi^\prime\)) and when will it favor the negative response (resulting in \(\Phi^{\prime \prime}\))? Based on our assumption that the process of evolution selects for the fitness-maximizing strategy, we can see that the positive response will be favored if \(\Phi^\prime &gt; \Phi^{\prime \prime}\) and the negative response will be favored if \(\Phi^\prime &lt; \Phi^{\prime \prime}\).</p>
-
-<!-- There is something a little subtle here... we just said that the positive response is favored $$\Phi^\prime \geq \Phi^{\prime \prime}$$, and the $$\geq$$ sign implies that if either options results in the same lifetime fitness value, we are assuming that the positive response is favored. -->
-
-<p>Let us now explore these relationships graphically. We will first set values for the different parameters in the above model, and examine how \(\Phi^\prime\) and \(\Phi^{\prime\prime}\) vary as a function of <em>an increasing amount of fitness at stake</em> \(\phi\) (i.e. we will examine \(\Phi^\prime\) and \(\Phi^{\prime\prime}\) as a function of \(\phi\)). In other words, how does the lifetime fitness following a positive vs. negative response change as the stakes \(\phi\) increase?</p>
-
-<div class="language-R highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="w">    </span><span class="c1"># First set the total amount of lifetime fitness before the yes/no decision</span><span class="w">
-    </span><span class="n">Phi</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">100</span><span class="w">
-    </span><span class="c1"># We are looking at how the fitness consequences of a yes/no decision </span><span class="w">
-    </span><span class="c1"># change with increasing stakes, so this needs to be a vector that starts </span><span class="w">
-    </span><span class="c1"># at 0 (no stakes) and ends at Phi (all is at stake)</span><span class="w">
-    </span><span class="n">phi</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">seq</span><span class="p">(</span><span class="m">0</span><span class="p">,</span><span class="m">100</span><span class="p">,</span><span class="m">1</span><span class="p">)</span><span class="w">
-
-    </span><span class="c1"># We will set the proportionate gain in phi to be 0.5</span><span class="w">
-    </span><span class="n">a</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.5</span><span class="w">
-
-    </span><span class="c1"># And we will specify that the loss in phi if the decision </span><span class="w">
-    </span><span class="c1"># is negative is (1/2)a</span><span class="w">
-    </span><span class="n">b</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="p">(</span><span class="m">1</span><span class="o">/</span><span class="m">2</span><span class="p">)</span><span class="o">*</span><span class="n">a</span><span class="w">
-
-    </span><span class="c1">#For now we will ignore the cost</span><span class="w">
-    </span><span class="n">c</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.0</span><span class="w">
-
-    </span><span class="c1">#Calculate Phi following a yes response</span><span class="w">
-    </span><span class="n">Phi_prime</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="p">(</span><span class="m">1</span><span class="o">+</span><span class="n">a</span><span class="p">)</span><span class="o">*</span><span class="n">phi</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="p">(</span><span class="m">1</span><span class="o">-</span><span class="n">c</span><span class="p">)</span><span class="o">*</span><span class="p">(</span><span class="n">Phi</span><span class="o">-</span><span class="n">phi</span><span class="p">)</span><span class="w">
-
-    </span><span class="c1">#Calculate Phi following a no response</span><span class="w">
-    </span><span class="n">Phi_2prime</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="p">(</span><span class="m">1</span><span class="o">-</span><span class="n">b</span><span class="p">)</span><span class="o">*</span><span class="n">phi</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="p">(</span><span class="n">Phi</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="n">phi</span><span class="p">)</span><span class="w">
-
-    </span><span class="c1">#Plot Phi^prime as a BLUE line</span><span class="w">
-    </span><span class="n">plot</span><span class="p">(</span><span class="n">phi</span><span class="p">,</span><span class="n">Phi_prime</span><span class="p">,</span><span class="n">type</span><span class="o">=</span><span class="s1">'l'</span><span class="p">,</span><span class="n">col</span><span class="o">=</span><span class="s1">'blue'</span><span class="p">,</span><span class="n">xlab</span><span class="o">=</span><span class="s1">'Part of Phi at stake'</span><span class="p">,</span><span class="n">ylab</span><span class="o">=</span><span class="s1">'Response'</span><span class="p">,</span><span class="n">ylim</span><span class="o">=</span><span class="nf">c</span><span class="p">(</span><span class="m">50</span><span class="p">,</span><span class="m">150</span><span class="p">))</span><span class="w">
-    </span><span class="c1">#Plot Phi^primeprime as a RED line</span><span class="w">
-    </span><span class="n">lines</span><span class="p">(</span><span class="n">phi</span><span class="p">,</span><span class="n">Phi_2prime</span><span class="p">,</span><span class="n">col</span><span class="o">=</span><span class="s1">'red'</span><span class="p">)</span><span class="w">
-
-    </span><span class="c1"># We will now add in a cost to see how that changes the relationships</span><span class="w">
-    </span><span class="c1"># Will we change c to 0.25, and then recalculate Phi^prime</span><span class="w">
-    </span><span class="n">c</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.25</span><span class="w">
-    </span><span class="c1"># Let's add the new Phi^prime as a DASHED blue line</span><span class="w">
-    </span><span class="n">Phi_prime</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="p">(</span><span class="m">1</span><span class="o">+</span><span class="n">a</span><span class="p">)</span><span class="o">*</span><span class="n">phi</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="p">(</span><span class="m">1</span><span class="o">-</span><span class="n">c</span><span class="p">)</span><span class="o">*</span><span class="p">(</span><span class="n">Phi</span><span class="o">-</span><span class="n">phi</span><span class="p">)</span><span class="w">
-    </span><span class="n">lines</span><span class="p">(</span><span class="n">phi</span><span class="p">,</span><span class="n">Phi_prime</span><span class="p">,</span><span class="n">col</span><span class="o">=</span><span class="s1">'blue'</span><span class="p">,</span><span class="n">lty</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">2</span><span class="p">)</span><span class="w">
-</span></code></pre></div></div>
-
-<iframe width="100%" height="500" src="https://rdrr.io/snippets/embed/?code=%23Paste%20code%20here" frameborder="0"></iframe>
-
-<blockquote>
-  <h3 id="discussion-3">Discussion</h3>
-  <ol>
-    <li>Looking only at the SOLID blue \(\Phi^\prime\) and SOLID red \(\Phi^{\prime\prime}\) lines, what do we observe? Remember that in this case the gain of a positive response is always greater than the loss of a negative response, and there is no cost associated with the gain.</li>
-    <li>When is \(\Phi^\prime &gt; \Phi^{\prime\prime}\)?</li>
-    <li>Now consider the case when \(c=0.25\). So we are comparing the DASHED blue \(\Phi^\prime\) line to the SOLID red \(\Phi^{\prime\prime}\) line. What do you observe?</li>
-    <li>When is \(\Phi^\prime &gt; \Phi^{\prime\prime}\), and when is it not? Does this make sense given the difference in cost from the solid to dashed blue line?</li>
-    <li>Imagine these two different scenarios… where would these cases fall on the above graph, all other things being equal? <em>A mother reed warbler is deciding whether or not to forage once more before retiring for the night….</em>
-      <ul>
-        <li>in case 1, her offspring are near starvation</li>
-        <li>in case 2, her offspring are fat and healthy</li>
-      </ul>
-    </li>
-  </ol>
-</blockquote>
 
     </div><!-- /.article-wrap -->
     
