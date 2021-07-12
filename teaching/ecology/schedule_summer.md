@@ -63,7 +63,7 @@ tr:nth-child(odd) {background: #FFF}
 |  |  | Populations 1 | Density dependence and population dynamics | Bowman Ch. 10 |    |
 | **7/15** | **(R-L8)** | Populations 2 | Logistic Growth   |    |    |
 |  |  |  | Discrete dynamics & Cobweb diagrams  |    |    |
-|         | **(D4)** | Disc 4 |  Exponential and Logistic Growth |  |  Hmwk 3 due  |
+|         | **(D4)** | Disc 4 |  [Exponential and Logistic Growth]({{ site.url }}/teaching/ecology/summersections/section_4_pop1/){:target="_blank"} |  |  Hmwk 3 due  |
 | **7/20** | **(T-L9)** | Competition | Intro to competition | Bowman Ch. 14 |    |
 |  |  |  | Competition dynamics 1 |  |    |
 | **7/22** | **(R-L10)** | ***Exam II*** |  |  |    |
