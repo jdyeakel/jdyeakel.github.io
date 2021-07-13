@@ -35,6 +35,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 * [Section 2: Metabolism & allometry]({{ site.url }}/teaching/ecology/summersections/section_2_metabolism/){:target="_blank"}  
 * [Demo 2: Life histories]({{ site.url }}/teaching/ecology/summersections/demo_2_lifehistory/){:target="_blank"}
 * [Section 3: Evolution by natural selection]({{ site.url }}/teaching/ecology/summersections/section_3_evolution/){:target="_blank"}
+* [Demo 3: Game Theory]({{ site.url }}/teaching/ecology/summersections/demo_3_gametheory/){:target="_blank"}  
 * [Section 4: Exponential and Logistic Growth]({{ site.url }}/teaching/ecology/summersections/section_4_pop1/){:target="_blank"}  
 
 ---

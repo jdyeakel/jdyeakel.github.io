@@ -59,7 +59,7 @@ tr:nth-child(odd) {background: #FFF}
 | **7/08** | **(R-L6)** | Life history  | Life history diversity & tradeoffs w/ [Demo]({{ site.url }}/teaching/ecology/summersections/demo_2_lifehistory/){:target="_blank"} | Bowman Ch. 7 |    |
 |  |  | Behavior | Behavioral ecology | Bowman Ch. 8, [Sinervo]({{ site.url }}/teaching/ecology/papers/optimalforaging.pdf){:target="_blank"} |    |
 |         | **(D3)** | Disc 3 |   [Evolution by natural selection]({{ site.url }}/teaching/ecology/summersections/section_3_evolution/){:target="_blank"}  |  |  Hmwk 2 due  |
-| **7/13** | **(T-L7)** | Games | Evolutionary Game Theory | [Easley & Kleinberg]({{ site.url }}/teaching/ecology/papers/EvolGameTheory.pdf){:target="_blank"} |    |
+| **7/13** | **(T-L7)** | Games | Evolutionary Game Theory w/ [Demo]({{ site.url }}/teaching/ecology/summersections/demo_3_gametheory/){:target="_blank"}   | [Easley & Kleinberg]({{ site.url }}/teaching/ecology/papers/EvolGameTheory.pdf){:target="_blank"} |    |
 |  |  | Populations 1 | Density dependence and population dynamics | Bowman Ch. 10 |    |
 | **7/15** | **(R-L8)** | Populations 2 | Logistic Growth   |    |    |
 |  |  |  | Discrete dynamics & Cobweb diagrams  |    |    |

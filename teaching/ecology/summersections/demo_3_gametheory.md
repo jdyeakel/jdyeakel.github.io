@@ -1,6 +1,6 @@
 ---
 layout: pagetrimnobio
-title: "Section 6 :: Game Theory"
+title: "Demo 3 :: Game Theory"
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
@@ -11,7 +11,9 @@ comments: true
 
 ## Games in Biology
 
-We are all used to games, from *Uno* to *World of Warcraft*, if that's your bag. But the basic idea of a game - pitting players against each other or against the board itself - captures some basic and universal ideas that are vital for understanding ecology and evolutionary biology. In a sense, we have already been exploring *games*. For example, in the previous Section we examined how different strategies - even in the relatively simple context of a *yes/no* decision - can be evaluated against each other to find that which is fitness-maximizing. This was a *game* in a relatively static sense. We examined a tradeoff, where the costs and gains of making a *yes* decision resulted in a fitness value that could be compared against that of making a *no* decision.
+We are all used to games, from *Uno* to *World of Warcraft*, if that's your bag. But the basic idea of a game - pitting players against each other or against the board itself - captures some basic and universal ideas that are vital for understanding ecology and evolutionary biology. 
+
+<!-- In a sense, we have already been exploring *games*. For example, in the previous Section we examined how different strategies - even in the relatively simple context of a *yes/no* decision - can be evaluated against each other to find that which is fitness-maximizing. This was a *game* in a relatively static sense. We examined a tradeoff, where the costs and gains of making a *yes* decision resulted in a fitness value that could be compared against that of making a *no* decision. -->
 
 In many ecological contexts, the *games* organisms play involve an interaction with another player. This means that the outcome of the game is conditioned on the strengths and weaknesses the other player brings to the table. For example, imagine a beetle population where there are two morphs: a smaller-sized morph and a larger-sized morph. These morphs reflect different allelic combinations at the genetic level. Because both small and large morphs are of the same species, they compete for the same types of resources. This competition can be described as a *game*, and the game is expected to have different outcomes depending on who is playing. For example, let's follow an individual that is a large body-size morph. While foraging for resources, it will encounter morphs of its own larger size, as well as morphs of a smaller size. The costs and benefits of engaging with these potential competitors will influence the outcome and ultimately the individual's fitness. As we have so often explored, *fitness = survival + reproduction*. If we are discussing the frequency of different alleles within a population, this means that allelic combinations that are more fit - that play games with strategies that maximize fitness - will be favored and potentially overtake the population.
 
@@ -237,7 +239,7 @@ These are a simple set of rules, so let's code this into a simulation, which is 
 >       2. Scenario 2: $$ a < c~{\rm and}~b < d $$
 >       3. Scenario 3: $$ a > c~{\rm and}~b < d $$
 >       4. Scenario 4: $$ a = c~{\rm and}~b = d $$
->       5. Scenario 5: $$ a > c~{\rm and}~b > d $$
+>       5. Scenario 5: $$ a < c~{\rm and}~b > d $$
 > 2. What is the effect of setting `propA` to a very low value? (e.g. `propA = 0.0001`) Consider what this might mean for invading populations.
 > 3. Evaluate the following: `game.pop(a = 4, b = 8, c = 8,d = 3, propA = 0.00001, tmax = 20)` What scenario is this with respect to? What is surprising about these results? Without simulating the dynamics of A/B-type composition within the population explicitly (i.e. given the payoff matrix alone as in the example before this one), would you have been able to predict the observed dynamics?
 > 4. Consider what the above results might mean in an environment this is subject to frequent disturbance.
