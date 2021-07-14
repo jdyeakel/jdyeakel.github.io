@@ -47,6 +47,8 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 * [Lecture 4 :: 7/1](https://ucmerced.box.com/s/tkceytrmck1fl7muq0po076k6aoczd8v){:target="_blank"}  
 * [Lecture 5 :: 7/6](https://ucmerced.box.com/s/2qlwghguintbzl0dz6b9nzvs3iujyxci){:target="_blank"}  
 * [Lecture 6 :: 7/8](https://ucmerced.box.com/s/nvg0pl2x4fs74bmq4ij5clmnuqz1m0v8){:target="_blank"}  
+* [Lecture 7 :: 7/13](https://ucmerced.box.com/s/o48jja5v9f3g4w3lsj181v9sbpd908f2){:target="_blank"}  
+
 
 
 ## Lecture Slides
@@ -56,6 +58,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 * [Lecture 4 :: 7/1](https://ucmerced.box.com/s/5rksgy58p1yn9knkdyb1dvdkauwqy6pv){:target="_blank"}  
 * [Lecture 5 :: 7/6](https://ucmerced.box.com/s/vzwbn7hn0kejly5lmulyezkqc6p9dwd6){:target="_blank"}  
 * [Lecture 6 :: 7/8](https://ucmerced.box.com/s/p3v2elc94rgkrqjqsfrxhhe05hlcwgmk){:target="_blank"}  
+* [Lecture 7 :: 7/13](https://ucmerced.box.com/s/8o575dr8av8v3w5p00ro469h8w3qp6qa){:target="_blank"}  
 
 
 ## Keys

@@ -43,6 +43,10 @@ In review
 Preprint
 -->
 
+2021
+:	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1016/j.palaeo.2021.110393"></div> Fannin, L. <span style="color:#4292E5;">Yeakel J.D.</span>,Venkataraman V.V., Seyoum C., Geraads D., Fashing P., Nguyen N., Fox-Dobbs K., Dominy N.J. [Carbon and strontium isotope ratios shed new light on the paleobiology and collapse of *Theropithecus*, a primate experiment in graminivory](https://www.sciencedirect.com/science/article/abs/pii/S0031018221001784){:target="_blank"} *Palaeogeography, Palaeoclimatology, Palaeoecology*.  
+
+
 
 2020
 :	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="	10.1038/s41467-020-17164-x"></div> <span style="color:#4292E5;">Yeakel J.D.</span>, Pires M.M., de Aguiar M.A.M., O'Donnell J.L., Guimarães P.R., Gravel D., Gross T. [Diverse interactions and ecosystem engineering can stabilize community assembly](https://www.nature.com/articles/s41467-020-17164-x){:target="_blank"} *Nature Communications*.
