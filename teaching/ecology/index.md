@@ -67,3 +67,5 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 ## Keys
 * [Homework 1](https://ucmerced.box.com/s/t8x44jw6z51yy2xyxwodmuawpwe0k4jd){:target="_blank"}  
 * [Midterm 1](https://ucmerced.box.com/s/foghxfb9xq9c0ihak98je0memwzoyqby){:target="_blank"}  
+* [Homework 2](https://ucmerced.box.com/s/bphi7mr0fsdw93cz8y145vcqw3v6wfvh){:target="_blank"}  
+* [Homework 3](https://ucmerced.box.com/s/l98qpym1ld03ac1nfzso8hwon0yrc8gt){:target="_blank"}  
