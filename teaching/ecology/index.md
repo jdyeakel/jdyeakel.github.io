@@ -53,6 +53,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 * [Lecture 7 :: 7/13](https://ucmerced.box.com/s/o48jja5v9f3g4w3lsj181v9sbpd908f2){:target="_blank"}  
 * [Lecture 8 :: 7/15](https://ucmerced.box.com/s/6pyh085pb578ghv4paumzylxy7vegmqw){:target="_blank"}  
 * [Lecture 9 :: 7/20](https://ucmerced.box.com/s/zx2ightohn5mpdvewwbphylspzdus32c){:target="_blank"}  
+* [Lecture 10 :: 7/22](https://ucmerced.box.com/s/ltjuz6sa9efld5fvobv6cwjlaulrhe0c){:target="_blank"}  
 
 
 
@@ -66,6 +67,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 * [Lecture 7 :: 7/13](https://ucmerced.box.com/s/8o575dr8av8v3w5p00ro469h8w3qp6qa){:target="_blank"}  
 * [Lecture 8 :: 7/15](https://ucmerced.box.com/s/m8tj3uil82dmyodjy46ev4zz1398v11n){:target="_blank"}  
 * [Lecture 9 :: 7/20](https://ucmerced.box.com/s/wp1gf776m9ei4mvbidaqaz124o9cerh6){:target="_blank"}  
+* [Lecture 10 :: 7/22](https://ucmerced.box.com/s/k5gp736lk8jla12qwlxuako2jxrh2l5d){:target="_blank"}  
 
 
 ## Keys
@@ -73,3 +75,4 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 * [Midterm 1](https://ucmerced.box.com/s/foghxfb9xq9c0ihak98je0memwzoyqby){:target="_blank"}  
 * [Homework 2](https://ucmerced.box.com/s/bphi7mr0fsdw93cz8y145vcqw3v6wfvh){:target="_blank"}  
 * [Homework 3](https://ucmerced.box.com/s/l98qpym1ld03ac1nfzso8hwon0yrc8gt){:target="_blank"}  
+* *Note - Midterm 2 key will be available on July 31*  

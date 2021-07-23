@@ -51,12 +51,12 @@ The main plot will show the $$N_1$$ (red) and $$N_2$$ (blue) isoclines, as well 
         n2_isocline = K2 - beta*N1size;
 
         par(fig = c(0,1,0,1))
-        plot(N1size,n1_isocline,type='l',lwd=2,col=pal[1],xlim=c(0,maxtraj*1.2),ylim = c(0,maxtraj*1.2),xlab='N1 population',ylab='N2 population')
-        lines(N1size,n2_isocline,lwd=2,col=pal[2])
+        plot(N1size,n1_isocline,type='l',lwd=2,col=pal[1],xlim=c(0,maxtraj*1.2),ylim = c(0,maxtraj*1.2),xlab='N1 population',ylab='N2 population',lty=2)
+        lines(N1size,n2_isocline,lwd=2,col=pal[2],lty=2)
         points(N1start,N2start,pch=16,cex=2,col=pal[3])
         lines(N1traj,N2traj,col=pal[3],lwd=2)
         points(N1end,N2end,pch=8,cex=2,col=pal[3])
-        legend(0,120,c('N1 isocline','N2 isocline'),pch=16,col=pal)
+        legend(0,maxtraj*1.2,c('N1 isocline','N2 isocline'),pch=16,col=pal)
 
         par(fig = c(0.5,1, 0.5, 1), new = T)
         plot(timeline,N1traj,type='l',col=pal[1],xlab='Time',ylab='Pop. size',lwd=2,ylim = c(0,maxtraj))
@@ -73,6 +73,8 @@ The main plot will show the $$N_1$$ (red) and $$N_2$$ (blue) isoclines, as well 
 ---
 
 Here are some parameter combinations to try out. Practice interpreting how knowledge of the isoclines directs our understanding of what the population trajectories will be. By observing how the isocline intercepts change (i.e. which isocline is higher or lower along the *x-* and *y-axis*) try sketching out the flow on paper, and confirm that the flow accurately predicts what occurs with the trajectories of $$N_1$$ and $$N_2$$.
+
+For each example, try running it with different initial population starting points `N1start` and `N2start` to get a sense how the isoclines direct flow initiated at different population sizes of each competitor species.
 
 *   `comp.flow(r1 = 0.2, r2 = 0.1, alpha = 2, beta = 0.5, K1 = 120, K2 = 80, N1start = 20, N2start = 10, tmax = 500)`
 *   `comp.flow(r1 = 0.2, r2 = 0.1, alpha = 2, beta = 0.5, K1 = 150, K2 = 50, N1start = 20, N2start = 10, tmax = 500)`
