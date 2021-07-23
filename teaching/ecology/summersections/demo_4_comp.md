@@ -39,25 +39,29 @@ The main plot will show the $$N_1$$ (red) and $$N_2$$ (blue) isoclines, as well 
         N2traj = out[,3];
         timeline = out[,1];
 
+        N1end = tail(N1traj,n=1)
+        N2end = tail(N2traj,n=1)
+
         maxtraj = max(c(N1traj,N2traj));
 
-        N1size = seq(0,maxtraj);
-        N2size = seq(0,maxtraj);
+        N1size = seq(0,maxtraj*1.2);
+        N2size = seq(0,maxtraj*1.2);
 
         n1_isocline = K1/alpha - N1size/alpha;
         n2_isocline = K2 - beta*N1size;
 
         par(fig = c(0,1,0,1))
-        plot(N1size,n1_isocline,type='l',lwd=2,col=pal[1],xlim=c(0,maxtraj),ylim = c(0,maxtraj),xlab='N1 population',ylab='N2 population')
+        plot(N1size,n1_isocline,type='l',lwd=2,col=pal[1],xlim=c(0,maxtraj*1.2),ylim = c(0,maxtraj*1.2),xlab='N1 population',ylab='N2 population')
         lines(N1size,n2_isocline,lwd=2,col=pal[2])
         points(N1start,N2start,pch=16,cex=2,col=pal[3])
         lines(N1traj,N2traj,col=pal[3],lwd=2)
+        points(N1end,N2end,pch=8,cex=2,col=pal[3])
         legend(0,120,c('N1 isocline','N2 isocline'),pch=16,col=pal)
 
         par(fig = c(0.5,1, 0.5, 1), new = T)
         plot(timeline,N1traj,type='l',col=pal[1],xlab='Time',ylab='Pop. size',lwd=2,ylim = c(0,maxtraj))
         lines(timeline,N2traj,type='l',col=pal[2],lwd=2,)
-        
+
     }
     # Plug in parameter values and run
     comp.flow(r1 = 0.2, r2 = 0.1, alpha = 2, beta = 0.5, K1 = 120, K2 = 80, N1start = 20, N2start = 10, tmax = 500)
@@ -65,7 +69,11 @@ The main plot will show the $$N_1$$ (red) and $$N_2$$ (blue) isoclines, as well 
 
 <iframe width='100%' height='1000' src='https://rdrr.io/snippets/embed/?code=%23Paste%20code%20here' frameborder='0'></iframe>
 
-Here are some combination to try out. Practice interpreting what these mean
+
+---
+
+Here are some parameter combinations to try out. Practice interpreting how knowledge of the isoclines directs our understanding of what the population trajectories will be. By observing how the isocline intercepts change (i.e. which isocline is higher or lower along the *x-* and *y-axis*) try sketching out the flow on paper, and confirm that the flow accurately predicts what occurs with the trajectories of $$N_1$$ and $$N_2$$.
+
 *   `comp.flow(r1 = 0.2, r2 = 0.1, alpha = 2, beta = 0.5, K1 = 120, K2 = 80, N1start = 20, N2start = 10, tmax = 500)`
 *   `comp.flow(r1 = 0.2, r2 = 0.1, alpha = 2, beta = 0.5, K1 = 150, K2 = 50, N1start = 20, N2start = 10, tmax = 500)`
 *   `comp.flow(r1 = 0.2, r2 = 0.1, alpha = 2, beta = 2, K1 = 120, K2 = 80, N1start = 5, N2start = 45, tmax = 500)`
