@@ -67,6 +67,6 @@ The main plot will show the $$N_1$$ (red) and $$N_2$$ (blue) isoclines, as well 
     comp.flow(r1 = 0.2, r2 = 0.1, alpha = 5, beta = 0.8, K1 = 300, K2 = 100, N1start = 40, N2start = 40, tmax = 500)
 ```
 
-<iframe width='100%' height='500' src='https://rdrr.io/snippets/embed/?code=%23Paste%20code%20here' frameborder='0'></iframe>
+<iframe width='100%' height='1000' src='https://rdrr.io/snippets/embed/?code=%23Paste%20code%20here' frameborder='0'></iframe>
 
 
