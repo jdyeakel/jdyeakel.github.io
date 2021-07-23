@@ -57,8 +57,6 @@ The main plot will show the $$N_1$$ (red) and $$N_2$$ (blue) isoclines, as well 
         par(fig = c(0.5,1, 0.5, 1), new = T)
         plot(timeline,N1traj,type='l',col=pal[1],xlab='Time',ylab='Pop. size',lwd=2,ylim = c(0,maxtraj))
         lines(timeline,N2traj,type='l',col=pal[2],lwd=2,)
-
-
         
     }
     # Plug in parameter values and run
