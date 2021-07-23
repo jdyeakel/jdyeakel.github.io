@@ -21,14 +21,6 @@ The main plot will show the $$N_1$$ (red) and $$N_2$$ (blue) isoclines, as well 
     pal = brewer.pal(3,'Set1')
     # Define the Rates function
     comp.flow = function(r1,r2,alpha,beta,K1,K2,N1start,N2start,tmax) {
-
-        N1size = seq(0,120);
-        N2size = seq(0,120);
-
-        n1_isocline = K1/alpha - N1size/alpha;
-        n2_isocline = K2 - beta*N1size;
-
-        
         # LV.comp = function(r1,r2,alpha,beta,K1,K2,N1start,N2start,tmax) {
         yini = c(N1 = N1start,N2 = N2start)
         
@@ -49,8 +41,14 @@ The main plot will show the $$N_1$$ (red) and $$N_2$$ (blue) isoclines, as well 
 
         maxtraj = max(c(N1traj,N2traj));
 
+        N1size = seq(0,maxtraj);
+        N2size = seq(0,maxtraj);
+
+        n1_isocline = K1/alpha - N1size/alpha;
+        n2_isocline = K2 - beta*N1size;
+
         par(fig = c(0,1,0,1))
-        plot(N1size,n1_isocline,type='l',lwd=2,col=pal[1],xlim=c(0,120),ylim = c(0,120),xlab='N1 population',ylab='N2 population')
+        plot(N1size,n1_isocline,type='l',lwd=2,col=pal[1],xlim=c(0,maxtraj),ylim = c(0,maxtraj),xlab='N1 population',ylab='N2 population')
         lines(N1size,n2_isocline,lwd=2,col=pal[2])
         points(N1start,N2start,pch=16,cex=2,col=pal[3])
         lines(N1traj,N2traj,col=pal[3],lwd=2)
@@ -64,9 +62,13 @@ The main plot will show the $$N_1$$ (red) and $$N_2$$ (blue) isoclines, as well 
         
     }
     # Plug in parameter values and run
-    comp.flow(r1 = 0.2, r2 = 0.1, alpha = 5, beta = 0.8, K1 = 300, K2 = 100, N1start = 40, N2start = 40, tmax = 500)
+    comp.flow(r1 = 0.2, r2 = 0.1, alpha = 2, beta = 0.5, K1 = 120, K2 = 80, N1start = 20, N2start = 10, tmax = 500)
 ```
 
 <iframe width='100%' height='1000' src='https://rdrr.io/snippets/embed/?code=%23Paste%20code%20here' frameborder='0'></iframe>
 
-
+Here are some combination to try out. Practice interpreting what these mean
+*   `comp.flow(r1 = 0.2, r2 = 0.1, alpha = 2, beta = 0.5, K1 = 120, K2 = 80, N1start = 20, N2start = 10, tmax = 500)`
+*   `comp.flow(r1 = 0.2, r2 = 0.1, alpha = 2, beta = 0.5, K1 = 150, K2 = 50, N1start = 20, N2start = 10, tmax = 500)`
+*   `comp.flow(r1 = 0.2, r2 = 0.1, alpha = 2, beta = 2, K1 = 120, K2 = 80, N1start = 5, N2start = 45, tmax = 500)`
+*   `comp.flow(r1 = 0.2, r2 = 0.1, alpha = 2, beta = 2, K1 = 120, K2 = 80, N1start = 20, N2start = 10, tmax = 500)`
