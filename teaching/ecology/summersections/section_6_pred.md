@@ -9,6 +9,143 @@ comments: true
 [< Back to Course Page]({{ site.url }}/teaching/ecology)  
 <br>
 
+## Calculating Profitability as a function of the number of encounters
+
+Let's consider the equation for profitability that we discussed earlier in the semester
+
+$$
+\begin{equation}
+P = \frac{E_{\rm net}}{T}
+\end{equation}
+$$
+
+where $$E$$ is the net energy gain, and $$T$$ is time. We added some complexity when we considered profitability of a particular foraging bout given the probability of successfully obtaining a particular resource, such that
+
+$$
+\begin{equation}
+P = \frac{\phi E_{\rm success} + (1-\phi)E_{\rm fail}}{\phi T + (1-\phi)W}
+\end{equation}
+$$
+
+where $$\phi$$ was the probability of success, $$E_{\rm success}$$ was the net energetic gain associated with the probability of success, $$E_{\rm fail}$$ was the net energetic gain associated with a failure, $$T$$ was time spent foraging during a successful bout, and $$W$$ was time spent foraging during an unsuccessful bout. Moreover, we originally assumed that $$E_{\rm fail} = 0$$, simplifying the numerator of the equation.
+
+
+In this context, we were considering the profitability of a particular foraging *bout*. Now let's consider profitability over the course of an entire day. We will assume that a predator consumer has various numbers of encounters with a particular prey species. If it successfully encounters and captures a single prey species, it fills its stomach and obtains $$E_{\rm gain}$$. However when considering *net* energetic gain, we also have to consider the metabolic cost. So if $$\phi$$ is the probability of successfully encountering and capturing at least one prey within a day, the equation will become
+
+$$
+\begin{align}
+P &= \frac{\phi(E_{\rm gain} - E_{\rm cost}) + (1-\phi)(-E_{\rm cost})}{\phi T + (1-\phi) W} \\ \\
+P &= \phi(E_{\rm gain} - E_{\rm cost}) + (1-\phi)(-E_{\rm cost})
+\end{align}
+$$
+
+> ### Discussion
+> 1. Why does the denominator in the above equation disappear? What are the units and values of $$T$$ and $$W$$?
+> 2. What is our interpretation of $$\phi$$?
+> 3. What is our interpretation of $$E_{\rm gain}$$ and $$E_{\rm cost}$$?
+
+In the above profitability equation, $$\phi$$ is generally defined... it is just the probability that at least one prey is killed and consumed over the course of the day. But we can do a bit better than this. We might assume that $$\phi$$ should change with the *number of encounters* between the predator and it's targeted prey. As the number of encounters increases, the likelihood that it captures *at least one* individual should increase. Likewise, if it encounters very few individuals, the probability of success over the course of the day should decline.
+
+Let's write $$\phi$$ in terms of the number of encounters the predator has with its prey over the course of a day. We need to consider two things:
+*   the number of encounters $$n$$
+*   the probability of successfully capture a prey *within a single encounter* $$s$$.
+
+First, start with one encounter... if there is just one encounter then $$\phi = s$$. Now consider two encounters... this is a bit more complicated. Because $$\phi$$ is just the probability of *any* successful encounter, there are a number of things that can happen:
+1. A success then a success with probability $$s \cdot s$$
+2. A success then failure with probability $$s(1-s)$$
+3. A failure then a success with probability $$(1-s)s$$
+4. A failure then a failure $$(1-s)(1-s)$$
+
+> ### Discussion
+> 1. Why do the above events have the probabilities given? Convince yourself that you understand *why*.
+> 2. If we consider the probabilities of *all* things that can potentially occur, they have to add up to one. Do the above events add up to one?
+
+As we see from above, a single encounter is simple and there are two things that can occur... succeed with probability $$s$$ or fail with probability $$(1-s)$$. Two events are more complicated, as more sequences of events can occur. And as you might expect this gets worse with more and more encounters. However, there is a nice little trick we can employ. All we really care about is whether or not *at least* one encounter is successful. With regard to the two encounters described above, we care about whether possibilities 1-3 occur. In other words, we just want to know when the predator *does not fail*. This makes the problem easier, because the probability that the predator *does not fail* is just $$1 - (1-s)(1-s) = 1 - (1-s)^2$$. In fact, this gives us a general formula for the probability of a least one success, which is
+
+$$
+\begin{equation}
+\phi = 1 - (1-s)^n
+\end{equation}
+$$
+
+> ### Discussion
+> 1. Describe in words this new equation for $$\phi$$
+> 2. What is the role of $$n$$ here? Recall that $$n$$ is the number of encounters
+
+Now let's put together our new Profitability equation over the course of a single day with varying numbers of encounters. We now have
+
+$$
+\begin{align}
+P &= \phi(E_{\rm gain} - E_{\rm cost}) + (1-\phi)(-E_{\rm cost}) \\ \\
+P &= (1 - (1-s)^n)(E_{\rm gain} - E_{\rm cost}) + (1-s)^n(-E_{\rm cost})
+\end{align}
+$$
+
+Let's examine how profitability increases as a function of the number of encounters:
+
+
+```R
+    # Define a sequence for number of encounters
+    n = seq(1,20)
+
+    #Define other parameters
+    #Probability of success
+    s = 0.1 
+    #Daily energetic gain of at least one success (max intake)
+    Egain = 4000 #kilocalories
+    #Daily energetic cost
+    Ecost = 2000 #kilocalories
+
+    profitability = (1 - (1-s)^n)*(Egain - Ecost) + (1-s)^n*(-Ecost)
+
+    #Plot relationships between Profitability and number of encounters
+    plot(n,profitability,xlab="Number of encounters",ylab="Profitability (kcal/day)",type='b')
+```
+
+<iframe width='100%' height='500' src='https://rdrr.io/snippets/embed/?code=%23Paste%20code%20here' frameborder='0'></iframe>
+
+
+> ### Discussion
+> 1. Describe the relationship that you observe in words. How does profitability depend on the number of encounters?
+> 2. This is of course 'average profitability' given that we are dealing with probabilities. On average, how many encounters does the predator need to have in order to break even?
+> 3. What attributes of prey and predator would be expected to impact the number of encounters per day?
+> 4. Experiment with different values of the parameters, and in particular the 'break-even number of encounters' vs. $$s$$.
+
+One last interesting point... the break-even point as defined above is when profitability is zero... this means that the amount gained is equal to the amount lost (given that we are accounting for both energetic gains and losses through a day). We can solve for this point explicitly in terms of the break-even value of $$s^*$$, which we denote as being 'special' with the asterisk ($$*$$).
+
+$$
+\begin{align}
+0 &= (1 - (1-s^*)^n)(E_{\rm gain} - E_{\rm cost}) + (1-s^*)^n(-E_{\rm cost}) \\ \\
+s^* &= 1 - \left(\frac{E_{\rm gain} - E_{\rm cost}}{E_{\rm gain}}\right)^{\frac{1}{n}}
+\end{align}
+$$
+
+> ### Discussion
+> 1. By setting the profitability equation to zero, try to solve for $$s^*$$
+> 2. What do you think this will show? Will $$s^*$$ increase or decrease with the number of encounters $$n$$?
+> 3. Examine the relationship below, and then try to justify the relationship with an ecological argument...
+
+
+```R
+    # Define a sequence for number of encounters
+    n = seq(1,20)
+
+    #Define other parameters
+    #Daily energetic gain of at least one success (max intake)
+    Egain = 4000 #kilocalories
+    #Daily energetic cost
+    Ecost = 2000 #kilocalories
+
+    #The break even probability of success for a single encounter
+    breakevensuccessprob = 1 - (-((Ecost - Egain)/Egain))^(1/n)
+
+    #Plot relationships between Profitability and number of encounters
+    plot(n,breakevensuccessprob,xlab="Number of encounters",ylab="Break-even success probability",type='b')
+```
+
+<iframe width='100%' height='500' src='https://rdrr.io/snippets/embed/?code=%23Paste%20code%20here' frameborder='0'></iframe>
+
+
 
 ## The Lotka-Volterra Predation System
 
@@ -188,10 +325,12 @@ Now let's put the prey and predator isoclines + flow together to determine the o
 > 5. Solve for the point where $$dP/dt = 0$$ and $$dN/dt = 0$$. Will the system ever reach this point? If not, what is its significance?
 
 
-## Visualizing consumer-resource isoclines and dynamics
+## Visualizing predator-prey isoclines and dynamics
 
-Below is a code block where the Lotka Volterra consumer-resource system is simulated.
-The main plot will show the $$N_1$$ (red) and $$N_2$$ (blue) isoclines, as well as the starting point and trajectory of the $$N_1$$ and $$N_2$$ populations over time (green circle and line, respectively). On the top right inset is a plot of the two $$N_1$$ and $$N_2$$ population sizes plotted over time. Make sure that you understand how the isoclines determine the flow and direct how the combined trajectories of $$N_1$$ and $$N_2$$ (green) change over time, and how this corresponds to the population sizes shown in the inset.
+Below is a code block where the Lotka Volterra predatpr-prey system is simulated.
+The main plot will show the predator $$P$$ (red) and prey $$N$$ (blue) isoclines, as well as the starting point and trajectory of the $$P$$ and $$N$$ populations over time (green circle and line, respectively). On the top right inset is a plot of the two $$P$$ and $$N$$ population sizes plotted over time. Make sure that you understand how the isoclines determine the flow and direct how the combined trajectories of $$P$$ and $$N$$ (green) change over time, and how this corresponds to the population sizes shown in the inset.
+
+Try changing the values of the parameters. Based on your derived equations for the $$P$$ and $$N$$ isoclines, try to anticipate what the changes you make will do to the predator/prey dynamics.
 
 
 ```R
@@ -199,63 +338,53 @@ The main plot will show the $$N_1$$ (red) and $$N_2$$ (blue) isoclines, as well 
     library(deSolve)
     pal = brewer.pal(3,'Set1')
     # Define the Rates function
-    comp.flow = function(r1,r2,alpha,beta,K1,K2,N1start,N2start,tmax) {
+    pred.flow = function(r,a,b,m,Pstart,Nstart,tmax) {
         # LV.comp = function(r1,r2,alpha,beta,K1,K2,N1start,N2start,tmax) {
-        yini = c(N1 = N1start,N2 = N2start)
+        yini = c(P = Pstart,N = Nstart)
         
         fmap = function (t, y, parms) {
         with(as.list(y), {
-            dN1 <- r1*y[1]*(1 - (y[1] + alpha*y[2])/K1)
-            dN2 <- r2*y[2]*(1 - (y[2] + beta*y[1])/K2)
-            list(c(dN1,dN2))
+            dP <- b*a*y[2]*y[1] - m*y[1]
+            dN <- r*y[2] - a*y[2]*y[1]
+            list(c(dP,dN))
         })
         }
         
         times <- seq(from = 0, to = tmax, by = 0.1) 
         out   <- ode(y = yini, times = times, func = fmap, parms = NULL)
 
-        N1traj = out[,2];
-        N2traj = out[,3];
+        Ptraj = out[,2];
+        Ntraj = out[,3];
         timeline = out[,1];
 
-        N1end = tail(N1traj,n=1)
-        N2end = tail(N2traj,n=1)
+        Pend = tail(Ptraj,n=1)
+        Nend = tail(Ntraj,n=1)
 
-        maxtraj = max(c(N1traj,N2traj));
+        maxtraj = max(c(Ptraj,Ntraj));
 
-        N1size = seq(0,maxtraj*1.2);
-        N2size = seq(0,maxtraj*1.2);
+        Psize = maxtraj*1.2;
+        Nsize = maxtraj*1.2;
 
-        n1_isocline = K1/alpha - N1size/alpha;
-        n2_isocline = K2 - beta*N1size;
+        p_isocline = m/(b*a); # = N
+        n_isocline = r/a; # = P
 
         par(fig = c(0,1,0,1))
-        plot(N1size,n1_isocline,type='l',lwd=2,col=pal[1],xlim=c(0,maxtraj*1.2),ylim = c(0,maxtraj*1.2),xlab='N1 population',ylab='N2 population',lty=2)
-        lines(N1size,n2_isocline,lwd=2,col=pal[2],lty=2)
-        points(N1start,N2start,pch=16,cex=2,col=pal[3])
-        lines(N1traj,N2traj,col=pal[3],lwd=2)
-        points(N1end,N2end,pch=8,cex=2,col=pal[3])
-        legend(0,maxtraj*1.2,c('N1 isocline','N2 isocline'),pch=16,col=pal)
+        plot(rep(p_isocline,100),seq(-10,Psize,length.out=100),type='l',lwd=2,col=pal[1],xlim=c(0,maxtraj*1.2),ylim = c(0,maxtraj*1.2),xlab='N1 population',ylab='N2 population',lty=2)
+        lines(seq(-10,Nsize,length.out=100),rep(n_isocline,100),lwd=2,col=pal[2],lty=2)
+        points(Nstart,Pstart,pch=16,cex=2,col=pal[3])
+        lines(Ntraj,Ptraj,col=pal[3],lwd=2)
+        points(Nend,Pend,pch=8,cex=2,col=pal[3])
+        legend(0,maxtraj*1.2,c('P isocline','N isocline'),pch=16,col=pal)
 
         par(fig = c(0.5,1, 0.5, 1), new = T)
-        plot(timeline,N1traj,type='l',col=pal[1],xlab='Time',ylab='Pop. size',lwd=2,ylim = c(0,maxtraj))
-        lines(timeline,N2traj,type='l',col=pal[2],lwd=2,)
+        plot(timeline,Ptraj,type='l',col=pal[1],xlab='Time',ylab='Pop. size',lwd=2,ylim = c(0,maxtraj))
+        lines(timeline,Ntraj,type='l',col=pal[2],lwd=2,)
 
     }
     # Plug in parameter values and run
-    comp.flow(r1 = 0.2, r2 = 0.1, alpha = 2, beta = 0.5, K1 = 120, K2 = 80, N1start = 20, N2start = 10, tmax = 500)
+    pred.flow(r = 0.5, a = 0.01, b = 0.1, m = 0.1, Pstart = 70, Nstart = 100, tmax = 500)
 ```
 
 <iframe width='100%' height='1000' src='https://rdrr.io/snippets/embed/?code=%23Paste%20code%20here' frameborder='0'></iframe>
 
 
----
-
-Here are some parameter combinations to try out. Practice interpreting how knowledge of the isoclines directs our understanding of what the population trajectories will be. By observing how the isocline intercepts change (i.e. which isocline is higher or lower along the *x-* and *y-axis*) try sketching out the flow on paper, and confirm that the flow accurately predicts what occurs with the trajectories of $$N_1$$ and $$N_2$$.
-
-For each example, try running it with different initial population starting points `N1start` and `N2start` to get a sense how the isoclines direct flow initiated at different population sizes of each competitor species.
-
-*   `comp.flow(r1 = 0.2, r2 = 0.1, alpha = 2, beta = 0.5, K1 = 120, K2 = 80, N1start = 20, N2start = 10, tmax = 500)`
-*   `comp.flow(r1 = 0.2, r2 = 0.1, alpha = 2, beta = 0.5, K1 = 150, K2 = 50, N1start = 20, N2start = 10, tmax = 500)`
-*   `comp.flow(r1 = 0.2, r2 = 0.1, alpha = 2, beta = 2, K1 = 120, K2 = 80, N1start = 5, N2start = 45, tmax = 500)`
-*   `comp.flow(r1 = 0.2, r2 = 0.1, alpha = 2, beta = 2, K1 = 120, K2 = 80, N1start = 20, N2start = 10, tmax = 500)`
