@@ -53,7 +53,7 @@ Try changing the values of the parameters. Based on your derived equations for t
         n_isocline = r/a; # = P
 
         par(fig = c(0,1,0,1))
-        plot(rep(p_isocline,100),seq(-10,Psize,length.out=100),type='l',lwd=2,col=pal[1],xlim=c(0,maxtraj*1.2),ylim = c(0,maxtraj*1.2),xlab='N1 population',ylab='N2 population',lty=2)
+        plot(rep(p_isocline,100),seq(-10,Psize,length.out=100),type='l',lwd=2,col=pal[1],xlim=c(0,maxtraj*1.2),ylim = c(0,maxtraj*1.2),xlab='N population',ylab='P population',lty=2)
         lines(seq(-10,Nsize,length.out=100),rep(n_isocline,100),lwd=2,col=pal[2],lty=2)
         points(Nstart,Pstart,pch=16,cex=2,col=pal[3])
         lines(Ntraj,Ptraj,col=pal[3],lwd=2)
