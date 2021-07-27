@@ -39,6 +39,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 * [Section 4: Exponential and Logistic Growth]({{ site.url }}/teaching/ecology/summersections/section_4_pop1/){:target="_blank"}  
 * [Section 5: Competition]({{ site.url }}/teaching/ecology/summersections/section_5_comp/){:target="_blank"}  
 * [Demo 4: Simulating Competition]({{ site.url }}/teaching/ecology/summersections/demo_4_comp/){:target="_blank"}  
+* [Demo 5: Simulating Predation]({{ site.url }}/teaching/ecology/summersections/demo_5_pred/){:target="_blank"}  
 
 
 ---
