@@ -80,3 +80,7 @@ For each example, try running it with different initial population starting poin
 *   `comp.flow(r1 = 0.2, r2 = 0.1, alpha = 2, beta = 0.5, K1 = 150, K2 = 50, N1start = 20, N2start = 10, tmax = 500)`
 *   `comp.flow(r1 = 0.2, r2 = 0.1, alpha = 2, beta = 2, K1 = 120, K2 = 80, N1start = 5, N2start = 45, tmax = 500)`
 *   `comp.flow(r1 = 0.2, r2 = 0.1, alpha = 2, beta = 2, K1 = 120, K2 = 80, N1start = 20, N2start = 10, tmax = 500)`
+*   `comp.flow(r1 = 0.2, r2 = 0.1, alpha = 0.5, beta = 1, K1 = 30, K2 = 40, N1start = 5, N2start = 45, tmax = 500)`
+*   `comp.flow(r1 = 0.2, r2 = 0.1, alpha = 0.5, beta = 1, K1 = 30, K2 = 40, N1start = 20, N2start = 40, tmax = 500)`
+*   `comp.flow(r1 = 0.2, r2 = 0.1, alpha = 0.5, beta = 1, K1 = 30, K2 = 40, N1start = 50, N2start = 20, tmax = 500)`  
+
