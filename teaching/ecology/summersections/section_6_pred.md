@@ -48,19 +48,19 @@ In the above profitability equation, $$\phi$$ is generally defined... it is just
 
 Let's write $$\phi$$ in terms of the number of encounters the predator has with its prey over the course of a day. We need to consider two things:
 *   the number of encounters $$n$$
-*   the probability of successfully capture a prey *within a single encounter* $$s$$.
+*   the probability of successfully capturing a prey *within a single encounter* $$s$$.
 
 First, start with one encounter... if there is just one encounter then $$\phi = s$$. Now consider two encounters... this is a bit more complicated. Because $$\phi$$ is just the probability of *any* successful encounter, there are a number of things that can happen:
-1. A success then a success with probability $$s \cdot s$$
-2. A success then failure with probability $$s(1-s)$$
-3. A failure then a success with probability $$(1-s)s$$
-4. A failure then a failure $$(1-s)(1-s)$$
+1. A first success and then a second success with probability $$s \cdot s = s^2$$
+2. A success and then failure with probability $$s(1-s)$$
+3. A failure and then a success with probability $$(1-s)s$$
+4. A first failure and then a second failure $$(1-s)(1-s)$$
 
 > ### Discussion
 > 1. Why do the above events have the probabilities given? Convince yourself that you understand *why*.
 > 2. If we consider the probabilities of *all* things that can potentially occur, they have to add up to one. Do the above events add up to one?
 
-As we see from above, a single encounter is simple and there are two things that can occur... succeed with probability $$s$$ or fail with probability $$(1-s)$$. Two events are more complicated, as more sequences of events can occur. And as you might expect this gets worse with more and more encounters. However, there is a nice little trick we can employ. All we really care about is whether or not *at least* one encounter is successful. With regard to the two encounters described above, we care about whether possibilities 1-3 occur. In other words, we just want to know when the predator *does not fail*. This makes the problem easier, because the probability that the predator *does not fail* is just $$1 - (1-s)(1-s) = 1 - (1-s)^2$$. In fact, this gives us a general formula for the probability of a least one success, which is
+As we see from above, a single encounter is simple and there are two things that can occur... succeed with probability $$s$$ or fail with probability $$(1-s)$$. Two events are more complicated, as more sequences of events can occur. And as you might expect this gets worse with more and more encounters. **However, there is a nice little trick we can employ.** All we really care about is whether or not *at least* one encounter is successful. With regard to the two encounters described above, we care about whether possibilities 1-3 occur. In other words, we just want to know when the predator *does not fail*. This makes the problem easier, because the probability that the predator *does not fail* is just $$1 - (1-s)(1-s) = 1 - (1-s)^2$$. In fact, this gives us a general formula for the probability of a least one success, which is
 
 $$
 \begin{equation}
@@ -107,23 +107,25 @@ Let's examine how profitability increases as a function of the number of encount
 
 > ### Discussion
 > 1. Describe the relationship that you observe in words. How does profitability depend on the number of encounters?
-> 2. This is of course 'average profitability' given that we are dealing with probabilities. On average, how many encounters does the predator need to have in order to break even?
-> 3. What attributes of prey and predator would be expected to impact the number of encounters per day?
+> 2. This is of course 'average profitability' given that we are dealing with probabilities. On average, how many encounters does the predator need to have in order to **break even**? By break even we mean that there is no gain and no loss in terms of profitability.
+> 3. What attributes of prey and predator would be expected to impact the number of encounters per day? Recall from lecture notes.
 > 4. Experiment with different values of the parameters, and in particular the 'break-even number of encounters' vs. $$s$$.
 
-One last interesting point... the break-even point as defined above is when profitability is zero... this means that the amount gained is equal to the amount lost (given that we are accounting for both energetic gains and losses through a day). We can solve for this point explicitly in terms of the break-even value of $$s^*$$, which we denote as being 'special' with the asterisk ($$*$$).
+One last interesting point... the break-even point as defined above is when profitability is zero $$P=0$$... this means that the amount gained is equal to the amount lost (given that we are accounting for both energetic gains and losses through a day). We can solve for this point explicitly in terms of the break-even value of $$s^*$$, which we denote as being 'special' with the asterisk ($$*$$).
 
 $$
 \begin{align}
+P &= (1 - (1-s^*)^n)(E_{\rm gain} - E_{\rm cost}) + (1-s^*)^n(-E_{\rm cost}) \\ \\
 0 &= (1 - (1-s^*)^n)(E_{\rm gain} - E_{\rm cost}) + (1-s^*)^n(-E_{\rm cost}) \\ \\
 s^* &= 1 - \left(\frac{E_{\rm gain} - E_{\rm cost}}{E_{\rm gain}}\right)^{\frac{1}{n}}
 \end{align}
 $$
 
 > ### Discussion
-> 1. By setting the profitability equation to zero, try to solve for $$s^*$$
+> 1. By setting the profitability equation to zero, try to solve for $$s^*$$ and derive the solution shown above on your own.
 > 2. What do you think this will show? Will $$s^*$$ increase or decrease with the number of encounters $$n$$?
 > 3. Examine the relationship below, and then try to justify the relationship with an ecological argument...
+> 4. Which is the more successful predator? To be an incredibly skilled hunter, or to increase your encounter rate with prey?
 
 
 ```R
