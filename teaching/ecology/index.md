@@ -40,6 +40,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 * [Section 5: Competition]({{ site.url }}/teaching/ecology/summersections/section_5_comp/){:target="_blank"}  
 * [Demo 4: Simulating Competition]({{ site.url }}/teaching/ecology/summersections/demo_4_comp/){:target="_blank"}  
 * [Demo 5: Simulating Predation]({{ site.url }}/teaching/ecology/summersections/demo_5_pred/){:target="_blank"}  
+* [Section 6: Predation]({{ site.url }}/teaching/ecology/summersections/section_6_pred/){:target="_blank"}  
 
 
 ---

@@ -14,7 +14,7 @@ comments: true
 Below is a code block where the Lotka Volterra predatpr-prey system is simulated.
 The main plot will show the predator $$P$$ (red) and prey $$N$$ (blue) isoclines, as well as the starting point and trajectory of the $$P$$ and $$N$$ populations over time (green circle and line, respectively). On the top right inset is a plot of the two $$P$$ and $$N$$ population sizes plotted over time. Make sure that you understand how the isoclines determine the flow and direct how the combined trajectories of $$P$$ and $$N$$ (green) change over time, and how this corresponds to the population sizes shown in the inset.
 
-Try changing the values of the parameters. Based on your derived equations for the $$P$$ and $$N$$ isoclines, try to anticipate what the changes you make will do to the predator/prey dynamics.
+Try changing the values of the parameters. Based on your derived equations for the $$P$$ and $$N$$ isoclines, try to anticipate what the changes you make will do to the predator/prey dynamics. One interesting thing to do: what happens when you leave all of the parameters set, but change the starting conditions?
 
 
 ```R
