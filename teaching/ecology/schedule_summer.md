@@ -78,7 +78,7 @@ tr:nth-child(odd) {background: #FFF}
 |  |  | Food webs | Ecological networks | Bowman Chap. 16 |    |
 | **8/5** | **(R-L14)** | Metapopulations | Metapopulation intro | Bowman Chap. XX |    |
 |  |  |  | Metapopulation dynamics |  |    |
-|         | **(D7)** | Disc 14 | Species interaction networks  | | Hmwk 6 due |
+|         | **(D7)** | Disc 14 | [Disease Dynamics]({{ site.url }}/teaching/ecology/summersections/section_7_disease/){:target="_blank"}  | | Hmwk 6 due |
 | **8/10** | **(T-L14)** |  | Metapopulations cont. | Bowman Chap. XX |    |
 |  |  |  | Review |  |    |
 | **8/12** | **(R-L15)** | ***FINAL EXAM*** |   |  |  |
