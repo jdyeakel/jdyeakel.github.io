@@ -80,6 +80,7 @@ $$
 \begin{align}
 \frac{\rm d}{\rm dt}P &= baNP - mP \\ 
 \frac{\rm d}{\rm dt}N &= rN \left( 1-\frac{N}{K} \right) - aNP
+\end{align}
 $$
 
 Try solving for the isoclines yourself, and confirm that you get functions that result in what is shown in the code block below. The orientation of the isoclines also suggest that flow is asymmetric from one isocline-derived quadrant to another. What is the effect of this asymmetry on the resulting dynamics? Explore similar parameter combinations as those above... how are the dynamics similar and different?
