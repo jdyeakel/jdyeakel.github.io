@@ -59,7 +59,8 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 * [Lecture 10 :: 7/22](https://ucmerced.box.com/s/ltjuz6sa9efld5fvobv6cwjlaulrhe0c){:target="_blank"}  
 * [Lecture 11 :: 7/27](https://ucmerced.box.com/s/lf15tuo996wpmyr4sxc4oi6pmusltesb){:target="_blank"}  
 * [Lecture 12 :: 7/29](https://ucmerced.box.com/s/7eh4j2nbsftaugawx770ew14olsrez0v){:target="_blank"}   
-  [Lecture 13 :: 8/3](https://ucmerced.box.com/s/0mapcull8nrunc5h4qb330cjuuxtmigi){:target="_blank"}   
+* [Lecture 13 :: 8/3](https://ucmerced.box.com/s/0mapcull8nrunc5h4qb330cjuuxtmigi){:target="_blank"}   
+* [Lecture 14 :: 8/5](https://ucmerced.box.com/s/rc9wsa17ct51y6mg6b742igm5d5o5r6n){:target="_blank"}   
 
 
 
@@ -77,6 +78,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 * [Lecture 11 :: 7/27](https://ucmerced.box.com/s/1ju74uor35y7grz8uwqg9lfomb6uhisz){:target="_blank"}  
 * [Lecture 12 :: 7/29](https://ucmerced.box.com/s/hxfy8k4f4ms5nshxt6noomczfxgs5nt9){:target="_blank"}  
 * [Lecture 13 :: 8/3](https://ucmerced.box.com/s/tyisqfwjultrvx9blu1jaxvr17x18uef){:target="_blank"}  
+* [Lecture 14 :: 8/5](https://ucmerced.box.com/s/hqe9wlc6n1wqhyhg4qrvlwa2pe99ws3z){:target="_blank"}  
 
 
 
