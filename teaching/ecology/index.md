@@ -42,6 +42,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 * [Demo 5: Simulating Predation]({{ site.url }}/teaching/ecology/summersections/demo_5_pred/){:target="_blank"}  
 * [Section 6: Predation]({{ site.url }}/teaching/ecology/summersections/section_6_pred/){:target="_blank"}  
 * [Section 7: Disease Dynamics]({{ site.url }}/teaching/ecology/summersections/section_7_disease/){:target="_blank"}  
+* [Demo 6: Food webs]({{ site.url }}/teaching/ecology/summersections/demo_6_foodwebs/){:target="_blank"}  
 
 ---
 
@@ -58,6 +59,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 * [Lecture 10 :: 7/22](https://ucmerced.box.com/s/ltjuz6sa9efld5fvobv6cwjlaulrhe0c){:target="_blank"}  
 * [Lecture 11 :: 7/27](https://ucmerced.box.com/s/lf15tuo996wpmyr4sxc4oi6pmusltesb){:target="_blank"}  
 * [Lecture 12 :: 7/29](https://ucmerced.box.com/s/7eh4j2nbsftaugawx770ew14olsrez0v){:target="_blank"}   
+  [Lecture 13 :: 8/3](https://ucmerced.box.com/s/0mapcull8nrunc5h4qb330cjuuxtmigi){:target="_blank"}   
 
 
 
@@ -74,6 +76,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 * [Lecture 10 :: 7/22](https://ucmerced.box.com/s/k5gp736lk8jla12qwlxuako2jxrh2l5d){:target="_blank"}  
 * [Lecture 11 :: 7/27](https://ucmerced.box.com/s/1ju74uor35y7grz8uwqg9lfomb6uhisz){:target="_blank"}  
 * [Lecture 12 :: 7/29](https://ucmerced.box.com/s/hxfy8k4f4ms5nshxt6noomczfxgs5nt9){:target="_blank"}  
+* [Lecture 13 :: 8/3](https://ucmerced.box.com/s/tyisqfwjultrvx9blu1jaxvr17x18uef){:target="_blank"}  
 
 
 

@@ -74,12 +74,12 @@ tr:nth-child(odd) {background: #FFF}
 | **7/29** | **(R-L12)** | Parasitism | Parasites and Parasitoids | Bowman Chap. 13 |    |
 |  |  | Disease | The dynamics of disease | Bowman 13.4-end, [Blackwood to 2.2.2]({{ site.url }}/teaching/ecology/papers/Blackwood_SIR.pdf); [R0 is just an average](https://www.santafe.edu/news-center/news/transmission-t-024-cristopher-moore-on-the-heavy-tail-of-outbreaks) |    |
 |         | **(D6)** | Disc 6 |  [Predation]({{ site.url }}/teaching/ecology/summersections/section_6_pred/){:target="_blank"}    |  |  Hmwk 5 due |
-| **8/3** | **(T-L13)** | Interactions | Mutualisms & commensalisms | Bowman Chap. 15 |    |
-|  |  | Food webs | Ecological networks | Bowman Chap. 16 |    |
-| **8/5** | **(R-L14)** | Metapopulations | Metapopulation intro | Bowman Chap. XX |    |
-|  |  |  | Metapopulation dynamics |  |    |
+| **8/3** | **(T-L13)** | Disease cont. |  |  |    |
+|  |  | Disease cont. |  |  |    |
+| **8/5** | **(R-L14)** | Interactions | Mutualisms  | Bowman Chap. 15 |    |
+|  |  |  | Food webs | Bowman Chap. 21 |    |
 |         | **(D7)** | Disc 14 | [Disease Dynamics]({{ site.url }}/teaching/ecology/summersections/section_7_disease/){:target="_blank"}  | | Hmwk 6 due |
-| **8/10** | **(T-L14)** |  | Metapopulations cont. | Bowman Chap. XX |    |
+| **8/10** | **(T-L14)** |  | Island Biogeography | Bowman Chap. 18.3 |    |
 |  |  |  | Review |  |    |
 | **8/12** | **(R-L15)** | ***FINAL EXAM*** |   |  |  |
 
