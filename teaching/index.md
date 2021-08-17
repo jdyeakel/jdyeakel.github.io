@@ -9,6 +9,11 @@ image:
   credit: jdyeakel
 ---
 
+> ### [Advanced Topics in Ecology and Evolutionary Biology (Fall, 2021)]({{ site.url }}/teaching/advtopicsecoevo/)  
+> Quantitative and Systems Biology 248  
+
+<br>
+
 > ### [Natural History of Dinosaurs (Spring, 2021)]({{ site.url }}/teaching/dinos/)   
 > 65 million quarters of a second in the making
 
