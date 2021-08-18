@@ -23,7 +23,7 @@ Welcome to the course website for ***Advanced Topics in Ecology and Evolutionary
   * Explanation of key figures
   * Connection of the topic to Systems themes:
     * Whether the (and which) conclusions depend on the empirical/ experimental/ observational/ computational investigation of biological systems across multiple scales of organization.  
-    * The ways in which data related to the topic capture emergent properties of populations and networks. 
+    * The ways in which data related to the topic capture emergent properties of populations and networks.  
 + Is there a Synthesis due? If so, submit it via Canvas before the class meeting on the due date. [What is a Synthesis?]({{ site.url }}/teaching/advtopicsecoevo/syntheses)  
 
 ---
