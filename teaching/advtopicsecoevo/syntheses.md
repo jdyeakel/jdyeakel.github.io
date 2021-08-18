@@ -13,13 +13,13 @@ comments: true
 
 During this course, each student is expected to turn in 7 syntheses, covering the range of topics that we explore (see schedule).  
 
-Structure:  
+**Structure:**  
 1. A summary sentence that summarizes a *key concept* from a particular Topic.
 2. One example *per peer-reviewed paper* that we read in class that supports the summary sentence. If there are no peer-reviewed papers assigned to a particular topic, replace with an external peer-reviewed paper (that you find yourself).  
 3. One example from an external peer-reviewed paper (that you find yourself) that supports the summary sentence.
 4. Two sentences that detail the implications of these observations/statements.  
 
-Rules:  
+**Rules:**  
 1. Strict adherence to the structure defined above is mandatory.  
 2. Sentences should be grammatically correct, clear, and concise. Because there are so few sentences for each topic, each one has to be well-constructed and focused.  
 3. You must include a **Literature Cited** section at the bottom of each Synthesis. Use the format detailed by the journal [Evolution](https://onlinelibrary.wiley.com/page/journal/15585646/homepage/forauthors.html#4)  
