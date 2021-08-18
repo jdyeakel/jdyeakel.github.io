@@ -10,7 +10,7 @@ image:
 ---
 
 ## Welcome!
-Welcome to the course website for ***Advanced Topics in Ecology and Evolutionary Biology***. Of course, this semester we will be running this course entirely remotely, with both lecture and discussion section occurring on ZOOM (links below). This course will be conducted ***synchronously***, meaning that it is mandatory that you attend lectures and discussions *at the times they occur*.
+Welcome to the course website for ***Advanced Topics in Ecology and Evolutionary Biology***. If all goes to plan, we will be meeting in person this year, though the first class will be via ZOOM (link below). On this site, you will find all materials and links for the course. See Syllabus an Schedule for details (link below). Assignments will be turned in via *Canvas*.
 
 ---
 
@@ -18,9 +18,9 @@ Welcome to the course website for ***Advanced Topics in Ecology and Evolutionary
 *	[Syllabus]({{ site.url }}/teaching/advtopicsecoevo/syllabus/)  
 * [Schedule]({{ site.url }}/teaching/advtopicsecoevo/schedule/)  
 
-*	**Class Meeting time**: TR 9:00-10:15 in CLSSRM 266 or on [ZOOM]()  
+*	**Class Meeting time**: TR 9:00-10:15 in CLSSRM 266 or on [Zoom](https://ucmerced.zoom.us/j/89408420143)  
 
-*	Justin Yeakel Office Hours: In person, or by [Zoom]()  
+*	Justin Yeakel Office Hours: [TBD]()  
 
 ## Contact
 jyeakel_at_ucmerced_dot_edu
