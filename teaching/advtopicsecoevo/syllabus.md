@@ -14,10 +14,8 @@ comments: true
 + **Lecture Location**: CLSSRM 266 and [Zoom]()
 + **Instructor**: Justin D. Yeakel; Office Hours: []()   
 + **Course Websites**  
-    Everything that we do this this course will revolve around this website, where you will find: *Basic course information, schedule, links to readings*
-+ **Course Schedule**: 
-
-    [Course Schedule]({{ site.url }}/teaching/advtopicsecoevo/schedule)  
+    Everything that we do this this course will revolve around this website, where you will find: *Basic course information, schedule, links to readings*. Assignments will be turned in via *Canvas*. All written assignments must be in PDF format.
++ **Course Schedule**: [Course Schedule]({{ site.url }}/teaching/advtopicsecoevo/schedule)  
 + **Course Description**  
     * This course utilizes directed readings and discussion of classical and current literature in ecology and evolutionary biology, focusing on literature that emphasizes systems concepts of population variation and linkages across scales from genes to ecosystems. Students are expected to have completed college-level, introductory courses in ecology and/or evolution before taking this course. In Fall 2019, the class will rely on a combination of a chapters from the book ***Evolutionary Ecology: concepts and case studies*** by Fox, Roff, and Fairbairn, and the primary literature. The field of Evolutionary Ecology provides an organizing way to introduce key concepts in both Ecology and Evolution, integrating topics from evolution and ecology and spanning scales from genes to ecosystems. We will, for all topics, emphasize concepts from a systems perspective. This means that we will explicitly discuss, for each topic:
         * Whether the (and which) conclusions depend on the empirical/ experimental/ observational/ computational investigation of biological systems across multiple scales of organization.  
