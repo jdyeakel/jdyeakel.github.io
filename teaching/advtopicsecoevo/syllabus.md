@@ -10,61 +10,82 @@ comments: true
 [> To Course Schedule]({{ site.url }}/teaching/advtopicsecoevo/schedule)
 
 
-+ **Lecture Time**: Monday and Wednesday, 10:30 - 11:45AM  
-+ **Lecture Location**: [Zoom Link](https://ucmerced.zoom.us/j/89025936181?pwd=bU9YSmNjT0xmR1dFVmUvanJ1aXRwQT09)
-+ **Discussion section times**  
-    * BIO/ESS-065-11D or 02D **M** 12:30-1:20 [Zoom Link](https://ucmerced.zoom.us/j/89530180696?pwd=TWxtMXhTTHJSR2VGKzB6Yy96SzZzZz09)  
-    * BIO/ESS-065-13D or 04D **M** 1:30-2:20 [Zoom Link](https://ucmerced.zoom.us/j/88311377473?pwd=cFo3OUdUZmg0dzEwanlWckdiMEt5Zz09)  
-    * BIO/ESS-065-12D or 03D **W** 12:30-1:20 [Zoom Link](https://ucmerced.zoom.us/j/84452104725?pwd=dFFuUFRjN2RmWWI2Vy92Yzl5YmdtZz09)  
-+ **Instructor**: Justin D. Yeakel; Office Hours: [MF 3-4pm or by appointment](https://ucmerced.zoom.us/j/89025936181?pwd=bU9YSmNjT0xmR1dFVmUvanJ1aXRwQT09)   
-+ **Teaching Assistant**: Irina Barros; Office Hours: M 2:30-3:30; W 1:30-2:30  
++ **Lecture Time**: Tuesday and Thursday, 9:00 - 10:15AM  
++ **Lecture Location**: CLSSRM 266 and [Zoom]()
++ **Instructor**: Justin D. Yeakel; Office Hours: []()   
 + **Course Websites**  
-    Everything that we do this this course will revolve around two principle websites. In some cases, information will be duplicated on both sites (link to readings), and I will attempt to cross-link as necessary.
-    > The [***CatCourse Website (Canvas)***](https://catcourses.ucmerced.edu/): Turning in assignments, grades, lectures, links to readings  
-    > The [***Dinosaurs Course Website***]({{ site.url }}/teaching/dinos): Basic course information, discussion section activities, links to readings  
+    Everything that we do this this course will revolve around this website, where you will find: *Basic course information, discussion section activities, links to readings*
 + **Course Schedule**: 
 
-    [Course Schedule]({{ site.url }}/teaching/dinos/schedule)  
+    [Course Schedule]({{ site.url }}/teaching/advtopicsecoevo/schedule)  
 + **Course Description**  
 
-    This course fulfills general education requirement, a lower division requirement for the Ecology and Evolutionary Biology (EEB) emphasis track of the Biological Sciences Major, as well a lower division requirement for the Earth Systems Science Major. This course provides an introduction to the history of life, with an emphasis on the evolutionary ecology of dinosaurs during the Mesozoic Era. Prerequisite: none.
+    This course utilizes directed readings and discussion of classical and current literature in ecology and evolutionary biology, focusing on literature that emphasizes systems concepts of population variation and linkages across scales from genes to ecosystems. Students are expected to have completed college-level, introductory courses in ecology and/or evolution before taking this course. In Fall 2019, the class will rely on a combination of a chapters from the book ***Evolutionary Ecology: concepts and case studies*** by Fox, Roff, and Fairbairn, and the primary literature. The field of Evolutionary Ecology provides an organizing way to introduce key concepts in both Ecology and Evolution, integrating topics from evolution and ecology and spanning scales from genes to ecosystems. We will, for all topics, emphasize concepts from a systems perspective. This means that we will explicitly discuss, for each topic:
+        * Whether the (and which) conclusions depend on the empirical/ experimental/ observational/ computational investigation of biological systems across multiple scales of organization.  
+        * The ways in which data related to the topic capture emergent properties of populations and networks.  
 <br>  
-+ **Course Goals & Outcomes**  
-
-    Become familiar with Earth history and the history of life through the lens of the origin and dominance of Dinosauria during the Mesozoic Era (252-66 million years ago). This will include a detailed understanding of the relationships between dinosaur taxa, their known ecological niches, and the clues by which paleontologists reconstruct these animals and their environment.
 
 + **Format & Procedures**  
-    * This course is structured as follows: 2 75-minute lectures and one 50 minute discussion/practical section with the TA per week.
-    * Discussion sections will provide students an opportunity to discuss in more detail concepts introduced in class, practical sessions on graphing, reading scientific papers, data collection, and review for exams. Your participation in discussion section is required and is part of your grade (see Grading below).
 
-<!--     
-    This course is structured as follows: two 75-minute lecture sessions and one 50-minute discussion section per week. Discussion sections will provide students an opportunity to discuss in more detail scientific findings from peer-reviewed publications and practice using the R programming langauge to confront ecological problems. Your participation in discussion section is mandatory.   -->
-<!-- 
-    We will also spend a Saturday morning in March exploring the Vernal Pools ecosystem just off campus to apply some of our newly gained ecological knowledge to the field. All students are required to attend and participate. Field observations from the Vernal Pools will be used to write a Field Report towards the end of the semester. -->
+    Each class period, we will discuss either a book chapter or a peer-reviewed paper. Students should have read the papers thoroughly before each class. One student will be in charge of leading the discussion of the papers for each class period, and that individual will need to have a strong enough understanding of the paper(s) to facilitate a lively discussion among the class participants. Discussion leads are encouraged to meet with the instructor to discuss the readings prior to their assigned day. Each student will be required to facilitate three or more class periods, depending on course enrollment. There will be additional out-of-class work focused on writing three papers over the course of the semester.
 
+
++ **Elements of the Course**  
+    * ***Engagement:*** There are 29 class discussion periods, excluding the ‘Week 1’ organizational class. You can miss three class periods without penalty (i.e., your three lowest grades will be dropped). Please see the associated rubric to understand the specific assessment for this element.
+    * ***Question Submission:*** To help facilitate discussions, everyone will be required to submit 3 potential questions/topics for discussion. 
+        * The standards for the number of times per semester you need to submit discussion questions to achieve different grades in this category are the same as for the Engagement category (i.e., you need to submit questions 26 times over the course of the semester. Your three lowest scores (out of 29 discussion periods) will be dropped. 
+        * Note that Engagement and Question submission are decoupled. In other words, simply submitting questions does not constitute engagement and, conversely, you can demonstrate in-person engagement in a topic without having submitted questions.
+    * ***Discussion Lead:*** Each person will be expected to lead discussion four times per semester. To demonstrate your understanding of and preparation for discussion, please submit an outline that summarizes your preparation (i.e., addresses the first three bullet points below), prior to the start of the class. You will be evaluated based on the following attributes.
+        * Necessary background context and definitions
+        * Explanation of key figures
+        * Connection of the topic to Systems themes (see Course description) for the specific themes
+        * Incorporation of student-submitted discussion questions
+        * In-person discussion leadership
+    * Syntheses
 
 + **Course Requirements & Grading Procedures**  
     * ***Class Attendance and Participation Policy***  
         * This course is delivered ***synchronously over ZOOM***, meaning that lecture & discussion attendance *at the time of the lecture & discussion* is required.
         * Attendance and participation in the discussion section is required and will be a component of the student’s course grade.  
         * The 5 lowest lecture attendance scores will be dropped  
-    
-<div>
-<p style="float: right;padding-right:1px"><img src="/images/dinos/book.jpg" width="200"></p>    
-</div>     
-+ 
     * ***Required and Supplemental Readings***  
         * **Required Textbook**: Fastovsky & Weishampel. Dinosaurs: A Concise Natural History, 3rd edition.  
         * Readings will also be assigned for the Discussion section and instead of the book for some lectures. These are required and will be provided on the course website.  
         * Note: earlier editions (1st, 2nd) of this textbook may be used but however the student will be responsible for differences.  
-    * ***Course Assignments and Projects***  
-        * Late assignments (e.g., homework) will not be accepted.  
-        * **Homework**: Throughout the semester,  homework assignments will be assigned, consisting of exercises provided by the Teaching Assistant/Instructor. ***Homework assignments will be delivered via Canvas***  
-        <!-- * **Quizzes**: Quizzes will be given periodically during the lecture period. They will not necessarily be announced. -->  
-        * **Discussion Activities**: All students are required to go to their respective Discussion Sections and participate/engage in the discussions and activities conducted in the section. Your discussion grade will take into account both participation and responses to Discussion assignments. ***Only otherwise notified, Discussion Activity scores will be delivered via CatCourses***   
-        * **Exams**: There will be 3 “midterm” exams during the semester and 1 comprehensive final. There will be no make-up exams or early exams. If you are sick during an exam, you must supply a note from your doctor verifying your illness. Your grade for the missed exam will be based on your average score from the other exams. You cannot miss more than one exam for an excused illness and taking the final is mandatory in order to pass the course. ***<span style="color:#ff0000;">Exams will be open-book + open-note and delivered via Canvas</span>***
-        * ***Grading***: Your final grade will be based on the following: lecture attendance: 5%; discussion section participation & activities: 15%; homework: 15%; midterms: 45% (three, 15% each); and comprehensive final exam: 20%.  
-        * Grades will be given using the approximate framework: A: 90 - 100%, B: 80 - 90%, C: 70 - 80%, D: 60 - 70%, F: < 60%. This framework is subject to change given the distribution of the final grades.
+    * ***Course Policies***  
+        * All assignments must be submitted by the posted date and time for full credit. For every day late that an assignment is submitted, the final grade is reduced by 10% of the original points. Assignments turned in up to 1⁄2 a day late (including all submissions received after the deadline in CatCourses, even a few minutes after the CatCourses deadline) will be marked down by 5%. Note that excuses such as “CatCourses was lagging so it was marked late” are not valid (unless there is a major, system-wide outage).  
+        * In general,there is built-in flexibility for most elements of the course such that students can drop their lowest grade(s) (eg for engagement and discussion questions). For all other components of the grade, late assignments will be accepted, subject to the point reductions outlines above. Thus, generally no extra-credit or make-up assignments will be given.  
+        * If you anticipate missing class due to prior obligations (i.e. conference travel, unusual TA obligations, etc) that may mean the build-in flexibility outlined above is not sufficient, please discuss early in the semester with Prof. Yeakel. If you experience any health or other emergency circumstances, please talk with Prof. Yeakel as soon as possible.  
+        * University’s policies concerning academic honesty will be strictly enforced.
+
++ **Grading**
+    * Engagement: 10% total  
+    * Question submission: 20% total  
+    * Discussion leads: 3x @ 7% each; 21% total  
+    * Syntheses: 7x @ 7% each; 49% total  
+
++ **Course Goals & Outcomes**  
+
+    * Course Goals:
+        * Critically read and discuss both classical ecological and evolutionary studies and contemporary hot topics in ecology and evolution  
+        * Develop an appreciation of how classical ecological and evolutionary studies have influenced
+        current thinking in ecology and evolutionary biology, and how much of ecological and evolutionary research exemplifies systems perspectives.  
+        * Comprehend how paradigm shifts in ecology and evolution occur, and whether there are common features that can be applied to the design and analysis of future studies.  
+        * Develop the skills for writing a publication-quality review on an ecological or evolutionary topic in need of synthesis.  
+        * Improve oral communication skills when discussing scientific concepts.  
+    * Course Learning Outcomes: The Course Learning Outcomes (CLOs) support student development of the Graduate Group Program Learning Outcomes (PLOs). The connections between the CLOs are made explicit through the indication of which PLOs are connected to each CLO below. By the end of the course, students will be able to:  
+        * Name the researcher(s), cite the publication, and explain the general objectives/hypotheses and conclusions in several classical and contemporary papers in ecology and evolution. Clearly articulate the contributions of these studies to the advancement of the fields of ecology and/or evolution. (ES PLOs 1; QSB PLOs 1,3)  
+        * Discuss in depth how aspects of both ecology and evolution exemplify systems thinking, including principles of population variation and interactions within and among levels of the biological hierarchy. (ES PLOs 1; QSB PLOs 1)  
+        * Identify a topic in need of synthesis in ecology and/or evolution, conduct a thorough literature search, synthesize the information, and write a publication-quality manuscript on a topic of interest. (ES PLOs 1,2; QSB PLOs 1,4,5)  
+        * Communicate orally about complex ecological and evolutionary information with clarity of thought, and be able to support and defend positions on concepts, methods, interpretations, and inferences made in ecological and evolutionary studies. (ES PLOs 2; QSB PLOs 3,4)  
+    * Program Learning Outcomes. This course connects to the ES learning outcomes by:  
+        * PLO 1: Core Knowledge - Graduates will be knowledgeable, skillful and self-directed in the observation and analysis of environmental systems in terms of their capacity to independently identify important research questions, develop experimental plans, analyze data, and formulate conclusions in the context of a doctoral dissertation.  
+        * PLO 2: Communication Skills - Graduates will be conversant in at least two areas of environmental systems, and be adept at oral, written and visual communication of research results to peers and non-technical decision makers  
+    * Program Learning Outcomes. This course connects to the QSB learning outcomes by:  
+        * PLO 1, Demonstrate quantitative and systems biology skills (CLOs 1,2,3)  
+        * PLO 3, Demonstrate effective classroom teaching and communication of scientific concepts (CLOs 1,4)  
+        * PLO 4, Demonstrate ability to perform original scholarship in specialized areas of biology (CLOs 3,4)  
+        * PLO 5, Ability to perform original research that advances scientific knowledge (CLOs 3)  
 
 --------------------------------
 
