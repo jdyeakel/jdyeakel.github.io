@@ -12,7 +12,13 @@ image:
 ## Welcome!
 Welcome to the course website for ***Advanced Topics in Ecology and Evolutionary Biology***. If all goes to plan, we will be meeting in person this year, though the first class will be via ZOOM (link below). On this site, you will find all materials and links for the course. See Syllabus an Schedule for details (link below). Assignments will be turned in via *Canvas*.
 
-> Submit Questions before each Lecture! Make sure you are logged into Box to edit.
+> ### Prior to our class meetings:
+> 1. Critically read the reading assignment!
+> 2. Contribute 3 questions to the [Box form](). Make sure you are logged into Box to edit.  
+> 3. Are you the Discussion lead? If so, make and submit via Canvas an outline describing:
+>   1. Necessary background context and definitions
+>   2. Explanation of key figures
+>   3. Connection of the topic to Systems themes (see Course description) for the specific themes
 
 ---
 
