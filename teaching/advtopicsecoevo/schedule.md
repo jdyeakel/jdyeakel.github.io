@@ -11,7 +11,7 @@ comments: true
 <br>
 
 > E.E. = Evolutionary Ecology: concepts and case studies by Fox, Roff, and Fairbairn  
-> ***Please note that the schedule is subject to change at any time. Check back frequently for updates!***  
+> ***Please note that the schedule is subject to change at any time. Check back frequently for updates!***    
 
 <br>
 

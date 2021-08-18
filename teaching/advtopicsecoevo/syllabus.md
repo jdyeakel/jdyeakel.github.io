@@ -28,7 +28,7 @@ comments: true
 
 + **Elements of the Course**  
     * ***Engagement:*** There are 29 class discussion periods, excluding the ‘Week 1’ organizational class. You can miss three class periods without penalty (i.e., your three lowest grades will be dropped).
-    * ***Question Submission:*** To help facilitate discussions, everyone will be required to submit 3 potential questions/topics for discussion. Questions will be entered on [this form on Box]().
+    * ***Question Submission:*** To help facilitate discussions, everyone will be required to submit 3 potential questions/topics for discussion. Questions will be entered on an associated docx file on [Box](). Make sure you are signed onto Box.com to edit.
         * The standards for the number of times per semester you need to submit discussion questions to achieve different grades in this category are the same as for the Engagement category (i.e., you need to submit questions 26 times over the course of the semester. Your three lowest scores (out of 29 discussion periods) will be dropped. 
         * Note that Engagement and Question submission are decoupled. In other words, simply submitting questions does not constitute engagement and, conversely, you can demonstrate in-person engagement in a topic without having submitted questions.
     * ***Discussion Lead:*** Each person will be expected to lead discussion **two times** throughout the semester. To demonstrate your understanding of and preparation for discussion, **you will submit an outline that summarizes your preparation (i.e., addresses the first three bullet points below) prior to the start of the class**. Submission will be via *Canvas* You will be evaluated based on the following attributes.
