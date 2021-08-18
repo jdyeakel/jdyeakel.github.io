@@ -29,22 +29,22 @@ comments: true
 
 + **Elements of the Course**  
     * ***Engagement:*** There are 29 class discussion periods, excluding the ‘Week 1’ organizational class. You can miss three class periods without penalty (i.e., your three lowest grades will be dropped). Please see the associated rubric to understand the specific assessment for this element.
-    * ***Question Submission:*** To help facilitate discussions, everyone will be required to submit 3 potential questions/topics for discussion. 
+    * ***Question Submission:*** To help facilitate discussions, everyone will be required to submit 3 potential questions/topics for discussion. Questions will be entered on this form.
         * The standards for the number of times per semester you need to submit discussion questions to achieve different grades in this category are the same as for the Engagement category (i.e., you need to submit questions 26 times over the course of the semester. Your three lowest scores (out of 29 discussion periods) will be dropped. 
         * Note that Engagement and Question submission are decoupled. In other words, simply submitting questions does not constitute engagement and, conversely, you can demonstrate in-person engagement in a topic without having submitted questions.
-    * ***Discussion Lead:*** Each person will be expected to lead discussion four times per semester. To demonstrate your understanding of and preparation for discussion, please submit an outline that summarizes your preparation (i.e., addresses the first three bullet points below), prior to the start of the class. You will be evaluated based on the following attributes.
+    * ***Discussion Lead:*** Each person will be expected to lead discussion **two times** throughout the semester. To demonstrate your understanding of and preparation for discussion, **you will submit an outline that summarizes your preparation (i.e., addresses the first three bullet points below) prior to the start of the class**. Submission will be via *Canvas* You will be evaluated based on the following attributes.
         * Necessary background context and definitions
         * Explanation of key figures
         * Connection of the topic to Systems themes (see Course description) for the specific themes
         * Incorporation of student-submitted discussion questions
         * In-person discussion leadership
-    * ***Syntheses:*** Everyone will submit **7 Syntheses** over the course of the semester (see schedule). Syntheses will cover a particular topic of set of topics, and will consist of a series of carefully worded statements that articulate your understanding of concepts from course readings and papers that you must find yourself. See here for an explanation and set of examples of syntheses. 
+    * ***Syntheses:*** Everyone will submit **7 Syntheses** over the course of the semester (see schedule). Syntheses will cover a particular topic of set of topics, and will consist of a series of carefully worded statements that articulate your understanding of concepts from course readings and papers that you must find yourself. See [here]({{ site.url }}/teaching/advtopicsecoevo/syntheses) for an explanation and set of examples of syntheses. Syntheses will be submitted via *Canvas*. 
 
 + **Grading**
     * Engagement: 10% total  
     * Question submission: 20% total  
-    * Discussion leads: 3x @ 7% each; 21% total  
-    * Syntheses: 7x @ 7% each; 49% total  
+    * Discussion leads: 2x @ 7% each; 14% total  
+    * Syntheses: 7x @ 8% each; 56% total  
 
 + ***Course Policies***  
     * All assignments must be submitted by the posted date and time for full credit. For every day late that an assignment is submitted, the final grade is reduced by 10% of the original points. Assignments turned in up to 1⁄2 a day late (including all submissions received after the deadline in CatCourses, even a few minutes after the CatCourses deadline) will be marked down by 5%. Note that excuses such as “CatCourses was lagging so it was marked late” are not valid (unless there is a major, system-wide outage).  
