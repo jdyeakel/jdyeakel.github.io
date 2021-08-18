@@ -17,7 +17,7 @@ Welcome to the course website for ***Advanced Topics in Ecology and Evolutionary
 
 ### Prior to our class meetings:
 + Critically read the reading assignment!
-+ Contribute 3 questions to the relevant [docx file on Box](https://ucmerced.box.com/s/wom05a4433kmb3k3dhj5uvr2ubat0ukh). Make sure you are logged into Box to edit.  
++ Contribute 3 questions to the relevant [docx file on Box](https://ucmerced.box.com/s/wom05a4433kmb3k3dhj5uvr2ubat0ukh){:target="_blank"}. Make sure you are logged into Box to edit.  
 + Are you the Discussion lead? If so, **write and submit via Canvas** an outline describing:
   * Necessary background context and definitions
   * Explanation of key figures
@@ -29,10 +29,10 @@ Welcome to the course website for ***Advanced Topics in Ecology and Evolutionary
 ---
 
 ### Info
-*	**Class Meeting time**: TR 9:00-10:15 in CLSSRM 266 or on [Zoom](https://ucmerced.zoom.us/j/89408420143)  
+*	**Class Meeting time**: TR 9:00-10:15 in CLSSRM 266 or on [Zoom](https://ucmerced.zoom.us/j/89408420143){:target="_blank"}  
 *	Justin Yeakel Office Hours: [TBD]()  
 
 ### Contact
-jyeakel_at_ucmerced_dot_edu
+jyeakel_at_ucmerced_dot_edu  
 
 ---

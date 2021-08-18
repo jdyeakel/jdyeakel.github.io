@@ -37,7 +37,7 @@ comments: true
         * Connection of the topic to Systems themes (see Course description) for the specific themes
         * Incorporation of student-submitted discussion questions
         * In-person discussion leadership
-    * ***Syntheses:*** Everyone will submit **7 Syntheses** over the course of the semester (see schedule). Syntheses will cover a particular topic of set of topics, and will consist of a series of carefully worded statements that articulate your understanding of concepts from course readings and papers that you must find yourself. See [here]({{ site.url }}/teaching/advtopicsecoevo/syntheses) for an explanation and set of examples of syntheses. Syntheses will be submitted via *Canvas*. 
+    * ***Syntheses:*** Everyone will submit **7 Syntheses** over the course of the semester (see schedule). Syntheses will cover a particular topic of set of topics, and will consist of a series of carefully worded statements that articulate your understanding of concepts from course readings and papers that you must find yourself. See [here]({{ site.url }}/teaching/advtopicsecoevo/syntheses){:target="_blank"} for an explanation and set of examples of syntheses. Syntheses will be submitted via *Canvas*. 
 
 + **Grading**
     * Engagement: 10% total  
