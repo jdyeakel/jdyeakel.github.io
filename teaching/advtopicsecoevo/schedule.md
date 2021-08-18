@@ -33,7 +33,7 @@ tr:nth-child(even) {background: #B2DFEE}
 tr:nth-child(odd) {background: #FFF}
 </style>
 
-| Wk | Date | Lect_# | Lecture_Topic  | Required Readings | Assign. |
+| Wk | Date | Lect_# | Lecture_Topic  | Required Readings | Assignments |
 | ---------- | ---------- | ----------- | --------------- | ------------- | ------------ |
 | 1  | **08/26** | **R-L1**  | Introduction |  |     |
 | 2  | **08/31** | **T-L2**  | Topic 1: Causes & Consequences of Variation | E.E. 1,2 |     |

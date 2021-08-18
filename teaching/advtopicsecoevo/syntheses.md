@@ -23,6 +23,8 @@ Rules:
 1. Strict adherence to the structure defined above is mandatory.  
 2. Sentences should be grammatically correct, clear, and concise. Because there are so few sentences for each topic, each one has to be well-constructed and focused.  
 3. You must include a **Literature Cited** section at the bottom of each Synthesis. Use the format detailed by the journal [Evolution](https://onlinelibrary.wiley.com/page/journal/15585646/homepage/forauthors.html#4)  
+4. Turn in Syntheses ***in PDF form*** in Canvas ***before class on the due date***   
+
 
 ## What is the point of Syntheses?
 
