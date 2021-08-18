@@ -14,13 +14,12 @@ comments: true
 + **Lecture Location**: CLSSRM 266 and [Zoom]()
 + **Instructor**: Justin D. Yeakel; Office Hours: []()   
 + **Course Websites**  
-    Everything that we do this this course will revolve around this website, where you will find: *Basic course information, discussion section activities, links to readings*
+    Everything that we do this this course will revolve around this website, where you will find: *Basic course information, schedule, links to readings*
 + **Course Schedule**: 
 
     [Course Schedule]({{ site.url }}/teaching/advtopicsecoevo/schedule)  
 + **Course Description**  
-
-    This course utilizes directed readings and discussion of classical and current literature in ecology and evolutionary biology, focusing on literature that emphasizes systems concepts of population variation and linkages across scales from genes to ecosystems. Students are expected to have completed college-level, introductory courses in ecology and/or evolution before taking this course. In Fall 2019, the class will rely on a combination of a chapters from the book ***Evolutionary Ecology: concepts and case studies*** by Fox, Roff, and Fairbairn, and the primary literature. The field of Evolutionary Ecology provides an organizing way to introduce key concepts in both Ecology and Evolution, integrating topics from evolution and ecology and spanning scales from genes to ecosystems. We will, for all topics, emphasize concepts from a systems perspective. This means that we will explicitly discuss, for each topic:
+    * This course utilizes directed readings and discussion of classical and current literature in ecology and evolutionary biology, focusing on literature that emphasizes systems concepts of population variation and linkages across scales from genes to ecosystems. Students are expected to have completed college-level, introductory courses in ecology and/or evolution before taking this course. In Fall 2019, the class will rely on a combination of a chapters from the book ***Evolutionary Ecology: concepts and case studies*** by Fox, Roff, and Fairbairn, and the primary literature. The field of Evolutionary Ecology provides an organizing way to introduce key concepts in both Ecology and Evolution, integrating topics from evolution and ecology and spanning scales from genes to ecosystems. We will, for all topics, emphasize concepts from a systems perspective. This means that we will explicitly discuss, for each topic:
         * Whether the (and which) conclusions depend on the empirical/ experimental/ observational/ computational investigation of biological systems across multiple scales of organization.  
         * The ways in which data related to the topic capture emergent properties of populations and networks.  
 <br>  
@@ -41,28 +40,19 @@ comments: true
         * Connection of the topic to Systems themes (see Course description) for the specific themes
         * Incorporation of student-submitted discussion questions
         * In-person discussion leadership
-    * Syntheses
-
-+ **Course Requirements & Grading Procedures**  
-    * ***Class Attendance and Participation Policy***  
-        * This course is delivered ***synchronously over ZOOM***, meaning that lecture & discussion attendance *at the time of the lecture & discussion* is required.
-        * Attendance and participation in the discussion section is required and will be a component of the student’s course grade.  
-        * The 5 lowest lecture attendance scores will be dropped  
-    * ***Required and Supplemental Readings***  
-        * **Required Textbook**: Fastovsky & Weishampel. Dinosaurs: A Concise Natural History, 3rd edition.  
-        * Readings will also be assigned for the Discussion section and instead of the book for some lectures. These are required and will be provided on the course website.  
-        * Note: earlier editions (1st, 2nd) of this textbook may be used but however the student will be responsible for differences.  
-    * ***Course Policies***  
-        * All assignments must be submitted by the posted date and time for full credit. For every day late that an assignment is submitted, the final grade is reduced by 10% of the original points. Assignments turned in up to 1⁄2 a day late (including all submissions received after the deadline in CatCourses, even a few minutes after the CatCourses deadline) will be marked down by 5%. Note that excuses such as “CatCourses was lagging so it was marked late” are not valid (unless there is a major, system-wide outage).  
-        * In general,there is built-in flexibility for most elements of the course such that students can drop their lowest grade(s) (eg for engagement and discussion questions). For all other components of the grade, late assignments will be accepted, subject to the point reductions outlines above. Thus, generally no extra-credit or make-up assignments will be given.  
-        * If you anticipate missing class due to prior obligations (i.e. conference travel, unusual TA obligations, etc) that may mean the build-in flexibility outlined above is not sufficient, please discuss early in the semester with Prof. Yeakel. If you experience any health or other emergency circumstances, please talk with Prof. Yeakel as soon as possible.  
-        * University’s policies concerning academic honesty will be strictly enforced.
+    * ***Syntheses:*** Everyone will submit **7 Syntheses** over the course of the semester (see schedule). Syntheses will cover a particular topic of set of topics, and will consist of a series of carefully worded statements that articulate your understanding of concepts from course readings and papers that you must find yourself. See here for an explanation and set of examples of syntheses. 
 
 + **Grading**
     * Engagement: 10% total  
     * Question submission: 20% total  
     * Discussion leads: 3x @ 7% each; 21% total  
     * Syntheses: 7x @ 7% each; 49% total  
+
++ ***Course Policies***  
+    * All assignments must be submitted by the posted date and time for full credit. For every day late that an assignment is submitted, the final grade is reduced by 10% of the original points. Assignments turned in up to 1⁄2 a day late (including all submissions received after the deadline in CatCourses, even a few minutes after the CatCourses deadline) will be marked down by 5%. Note that excuses such as “CatCourses was lagging so it was marked late” are not valid (unless there is a major, system-wide outage).  
+    * In general,there is built-in flexibility for most elements of the course such that students can drop their lowest grade(s) (eg for engagement and discussion questions). For all other components of the grade, late assignments will be accepted, subject to the point reductions outlines above. Thus, generally no extra-credit or make-up assignments will be given.  
+    * If you anticipate missing class due to prior obligations (i.e. conference travel, unusual TA obligations, etc) that may mean the build-in flexibility outlined above is not sufficient, please discuss early in the semester with Prof. Yeakel. If you experience any health or other emergency circumstances, please talk with Prof. Yeakel as soon as possible.  
+    * University’s policies concerning academic honesty will be strictly enforced.
 
 + **Course Goals & Outcomes**  
 

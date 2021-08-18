@@ -9,7 +9,10 @@ comments: true
 [< Back to Course Page]({{ site.url }}/teaching/advtopicsecoevo)  
 [< Back to Syllabus]({{ site.url }}/teaching/advtopicsecoevo/syllabus)  
 <br>
-***Please note that the schedule is subject to change at any time. Check back frequently for updates!***  
+
+> E.E. = Evolutionary Ecology: concepts and case studies by Fox, Roff, and Fairbairn  
+> ***Please note that the schedule is subject to change at any time. Check back frequently for updates!***  
+
 <br>
 
 <style>
@@ -48,7 +51,7 @@ tr:nth-child(odd) {background: #FFF}
 | 8  | **10/12** | **T-L14** | Topic 6: Age and size | E.E. 8 |  Syntheses 3: Topics 4,5  |
 |    | **10/14** | **R-L15** | Topic 7: Offspring size & number | E.E. 9 |    |
 | 9  | **10/19** | **T-L16** |  | Bhat et al. 2020 |  |
-|    | **10/21** | **R-L18** |  | Okie et al. XXXX |  |
+|    | **10/21** | **R-L18** |  | Okie et al. 2013 |  |
 | 10 | **10/26** | **T-L19** | Topic 8: Life Cycles | E.E. 11 |  Syntheses 4: Topics 6,7  |
 |    | **10/28** | **R-L20** |  | van Gestel 2019; Libby 2019 |    |
 | 11 | **11/02** | **T-L21** | Topic 9: Specialization/Generalization | E.E. 14 |    |
