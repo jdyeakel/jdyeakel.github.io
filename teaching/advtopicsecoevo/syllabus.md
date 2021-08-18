@@ -1,5 +1,5 @@
 ---
-layout: pagetrimdino
+layout: pagetrimecoevo
 title: "Advanced Topics in Ecology and Evolutionary Biology :: Syllabus, Fall 2021"
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
