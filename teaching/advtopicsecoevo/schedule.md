@@ -53,7 +53,7 @@ tr:nth-child(odd) {background: #FFF}
 | 9  | **10/19** | **T-L16** |  | [Bhat et al. 2020]({{ site.url }}/teaching/advtopicsecoevo/papers/Bhat_PNAS_2020.pdf){:target="_blank"} |  | Jonathan |
 |    | **10/21** | **R-L18** |  | [Okie et al. 2013]({{ site.url }}/teaching/advtopicsecoevo/papers/Okie_2013.pdf){:target="_blank"} |  |  Zeyi | 
 | 10 | **10/26** | **T-L19** | Topic 8: Life Cycles | E.E. 11 |  Syntheses 4: Topics 6,7  |  |
-|    | **10/28** | **R-L20** |  | [van Gestel 2019({{ site.url }}/teaching/advtopicsecoevo/papers/vanGestel_NatureEcoEvo_2019.pdf.pdf){:target="_blank"}]; [Libby 2019]({{ site.url }}/teaching/advtopicsecoevo/papers/Libby_NatureEcoEvo_2019.pdf){:target="_blank"} |    | Cody |
+|    | **10/28** | **R-L20** |  | [van Gestel 2019]({{ site.url }}/teaching/advtopicsecoevo/papers/vanGestel_NatureEcoEvo_2019.pdf.pdf){:target="_blank"}; [Libby 2019]({{ site.url }}/teaching/advtopicsecoevo/papers/Libby_NatureEcoEvo_2019.pdf){:target="_blank"} |    | Cody |
 | 11 | **11/02** | **T-L21** | Topic 9: Specialization/Generalization | E.E. 14 |    | Alejandro |
 |    | **11/04** | **R-L22** |  | [Gaiarsa et al. 2021]({{ site.url }}/teaching/advtopicsecoevo/papers/Gaiarsa_NatureEcoEvo_2021.pdf){:target="_blank"} |    | Bianca |
 | 12 | **11/09** | **T-L23** |  | [Sinclair et al. 2003]({{ site.url }}/teaching/advtopicsecoevo/papers/Sinclair_Nature_2003.pdf){:target="_blank"} |  Syntheses 5: Topics 8,9  | Cameron |
