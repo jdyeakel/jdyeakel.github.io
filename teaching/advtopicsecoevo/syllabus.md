@@ -23,7 +23,7 @@ comments: true
 <br>  
 
 + **Format & Procedures**  
-    * Each class period, we will discuss either a book chapter or a peer-reviewed paper. Students should have read the papers thoroughly before each class. One student will be in charge of leading the discussion of the papers for each class period, and that individual will need to have a strong enough understanding of the paper(s) to facilitate a lively discussion among the class participants. Discussion leads are encouraged to meet with the instructor to discuss the readings prior to their assigned day. Each student will be required to facilitate three or more class periods, depending on course enrollment. There will be additional out-of-class work focused on writing three papers over the course of the semester.
+    * Each class period, we will discuss either a book chapter or a peer-reviewed paper. Students should have read the papers thoroughly before each class. One student will be in charge of leading the discussion of the papers for each class period, and that individual will need to have a strong enough understanding of the paper(s) to facilitate a lively discussion among the class participants. Discussion leads are encouraged to meet with the instructor to discuss the readings prior to their assigned day. Each student will be required to facilitate two class periods, depending on course enrollment. There will be additional out-of-class work focused on writing syntheses over the course of the semester.  
 
 
 + **Elements of the Course**  
