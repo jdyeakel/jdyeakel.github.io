@@ -42,8 +42,8 @@ comments: true
 + **Grading**
     * Engagement: 10% total  
     * Question submission: 20% total  
-    * Discussion leads: 2x @ 7% each; 14% total  
-    * Syntheses: 7x @ 8% each; 56% total  
+    * Discussion leads: 3x @ 7% each; 21% total  
+    * Syntheses: 7x @ 7% each; 49% total  
 
 + ***Course Policies***  
     * All assignments must be submitted by the posted date and time for full credit. For every day late that an assignment is submitted, the final grade is reduced by 10% of the original points. Assignments turned in up to 1⁄2 a day late (including all submissions received after the deadline in CatCourses, even a few minutes after the CatCourses deadline) will be marked down by 5%. Note that excuses such as “CatCourses was lagging so it was marked late” are not valid (unless there is a major, system-wide outage).  
