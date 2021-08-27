@@ -39,7 +39,7 @@ tr:nth-child(odd) {background: #FFF}
 | 2  | **08/31** | **T-L2**  | Topic 1: Causes & Consequences of Variation | E.E. 1,2 |     | Justin |
 |    | **09/02** | **R-L3**  |  | [Barret et al. 2019]({{ site.url }}/teaching/advtopicsecoevo/papers/Barrett_2019.pdf){:target="_blank"} |     |  Chanuwas  |
 | 3  | **09/07** | **T-L4**  | Topic 2: Natural Selection | E.E. 3 |     | Lucia  |
-|    | **09/09** | **R-L5**  |  | [McPeek 2017 pgs 76-85]({{ site.url }}/teaching/advtopicsecoevo/papers/McPeek_2017.pdf){:target="_blank"} |   Justin  |
+|    | **09/09** | **R-L5**  |  | [McPeek 2017 pgs 76-85]({{ site.url }}/teaching/advtopicsecoevo/papers/McPeek_2017.pdf){:target="_blank"} |   | Justin  |
 | 4  | **09/14** | **T-L6**  | Topic 3: Adaptation | E.E. 4 |  Syntheses 1: Topics 1  |  Daravuth  |
 |    | **09/16** | **R-L7**  |  | [Gould & Lewonton 1979]({{ site.url }}/teaching/advtopicsecoevo/papers/Gould_1979.pdf){:target="_blank"} |    |  Jonathan  |
 | 5  | **09/21** | **T-L8**  |  | [Perry et al. 2007]({{ site.url }}/teaching/advtopicsecoevo/papers/Perry_NatGen_2007.pdf){:target="_blank"} |    |  Zeyi |
