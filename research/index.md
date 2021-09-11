@@ -10,67 +10,26 @@ image:
   credit: jdyeakel
 ---
 
+## Who are we and what do we do?
 
-Generally we are interested in diet and its impact on population and community dynamics over different timescales.
-How do organisms choose their food in a variable environment?
-How do these behaviors impact the functioning of larger ecological communities?
-What are the evolutionary consequences of these dynamics?
-Below are some more detailed descriptions of our interests parsed across different topics, though most of these concepts and questions are part of a continuum and difficult to separate.
+We are theoretical (paleo)ecologists motivated by the search for generalities shaping and constraining the root ecological mechanisms from which macroevolutionary patterns emerge.
+To gain a mechanistic understanding into ecological process, we primarily employ theoretical and computational toolkits that allow us to construct a series of hypothetical relationships into a model (the simplicity) from which the dynamical fallout (the complexity) can be compared against nature.
+While the complexity of such a model can never replicate the complexity of nature, it may cast a silhouette that relates to the natural world.
+By deploying models that capture these silhouettes from multiple angles, we seek to understand how the constraints operating on individuals within populations, and populations within communities, contribute to the long-term ecological and evolutionary dynamics shaping ecosystems past, present, and future.
 
-### Variability of trophic interactions
-
-Communities are comprised of species, species are comprised of populations, populations are comprised of individuals, and all of these hierarchical layers incorporate different sources of variability.
-This variability can originate from environmental changes over space and time, landscape complexity and heterogeneity, and behavioral individuality.
-How this variability influences the structure of interactions among species, and what this structure means for the dynamics of the system, is an open question and an active area of research.  
-<br>
-Much of our research has focused on [measuring this variability (via ratios of stable isotopes)](http://rsif.royalsocietypublishing.org/content/9/77/3219.short), as well as trying to understand how such variability changes over large temporal and spatial scales, and how this affects the dynamic stability of larger systems.
-We are currently using approaches rooted in biological fitness to explore the mechanisms that give rise to dietary variability at the level of the individual, and how this trickles up to impact the wiring of larger ecological networks.
-We are particularly interested in integrating stochastic dynamic programming (SDP) techniques to establish fitness-based models of trophic interactions among species, and exploring how these dynamics affect the temporal evolution of food webs over both ecological and evolutionary time. 
-
-### Historical/Paleo-Ecology
-
-A major interest of ours is to understand modern ecosystems relative to their functioning in the past.
-Communities exist as a continuum, and what species do today should not be viewed apart from what they might have been doing historically.
-In many cases, the environment within which contemporary species operate has been drastically changed from the environmental niches that they may have evolved to fill.
-Accordingly, there has been a large push in the last decade or so to build historical baselines by which modern ecosystems can be better understood and evaluated.
-Moreover, a major question in ecology concerns the effects of large perturbations on biological systems.
-It is often not ethical or feasible to perform large perturbation experiments on ecosystems, but we can 'observe' the effects of large perturbations on past communities.
-We have recently published on [slices of food webs in Europe and Beringia](/posts/dietary-flexibility-food-webs-and-the-last-glacial-maximum/) spanning the Last Glacial Maximum (about 18 Kyrs BP), as well as [a highly resolved mammalian community in Egypt](/posts/collapse-of-an-ancient-egyptian-food-web-in-pnas/) spanning the last 6000 years to try to understand how communities change in the wake of climatic and human-induced distrubances.   
-<br>
-Another facet of our paleo-focused work is to try to understand how dietary adaptations in evolutionary history impact resource acquisition, and how resource acquisition impacts the evolution of dietary adaptations.
-Past work has included using stable isotopes to elucidate elements of feeding behavior among our own (hominin) ancestors ([here](http://rspb.royalsocietypublishing.org/content/274/1619/1723.short) and [here](http://link.springer.com/article/10.1007/s11692-008-9026-7#page-1)), as well as to [quantify the fitness advantages of certain dietary adaptations](http://onlinelibrary.wiley.com/doi/10.1111/evo.12240/full) such as megadont dentition -- the reinforcement of the jaws and teeth with added attachment for musculature as well as hyperthick enameled dentition -- and how this likely influenced diet.
-Current work is focused on trying to understand the principle mechanisms involved in the evolution of grassland-adapted phenotypes in Plio-Pleistocene Africa, and what may have contributed to the extinction of many species that appear to be grassland specialists, including species of the genus *Theropithecus*, and hominins in the genus *Paranthropus*.
-Most of this work has been done in collaboration with [Paul Koch](http://www.es.ucsc.edu/~pkoch/), [Marc Mangel](http://users.soe.ucsc.edu/~msmangel/) (my advisors at UC-Santa Cruz), and [Nate Dominy](https://biology.dartmouth.edu/people/nathaniel-j-dominy), at Dartmouth College.
-
-### Spatial Heterogeneity
-
-Animals and plants interact over both time and space.
-There are many aspects of space that have strong influences on the dynamics of populations and communities: for example, the dendritic structure of river networks places hard geographic barriers on the movement of populations constrained to river watersheds, and this limits how populations can interact as a metapopulation (an interacting  collection of populations).
-Moreover, the spatial distribution of resources introduces uncertainties regarding finding and successfully consuming them, and this is expected to influence behavior.
-Such spatial constraints are also expected to strongly influence how populations of organisms change through time, which can impact the persistence of those species.  
-<br>
-Current and recent work involves examining [how branching structures characteristic of river watersheds impact the potential for populations to become synchronized](/posts/synchronisation-and-stability-in-river-metapopulation-networks-in-ecology-letters/) (which limits to what extent populations can rescue each other from extinction), as well as how -- in a more general sense -- different interaction structures and biases in movement affect persistence.
-Much of this work is being done in collaboration with [Jon Moore](http://moorelab.wix.com/moorelab), at Simon Fraser University, in Vancouver, Canada.
-We are also interested in ephemeral metapopulations such as those that might be found in hydrothermal vent communities at the bottom of the ocean, or in vernal spring communities found within in terrestrial grassland or woodland habitats.
-
-
-
-### Ecological and Evolutionary Niche Dynamics
-
-As organisms evolve with their environment, their interactions change, altering the structure of the community.
-We are generally interested in how the processes of diversification and extinction modify the environment as well as the corresponding niche space available to organisms within the environment, and how this feeds back to impact evolutionary dynamics.
-These ideas are currently being approached theoretically with [Thilo Gross and Lars Rudolf](http://biond.org) at the University of Bristol, while we are also exploring how to quantify different aspects of dynamic niche use via stable isotopes ratios with [Seth Newsome at the Univeristy of New Mexico](http://sethnewsome.org/sethnewsome/Home.html).
-We have a review of some common methods of exploring niche use with stable isotopes [here](http://asmjournals.org/doi/abs/10.1644/11-MAMM-S-187.1), and are currently investigating some new appoaches.
+Our specific research interests can be categorized into four primary themes that operate on different scales.
+Threading through each is our interest in understanding how consumer foraging behaviors drive the large-scale dynamics of populations and communities over both ecological and evolutionary time.
+Because of my focus in theory, we work on a wide variety of systems.
 
 ---
 
-<div>
-<p style="float: left;padding-right:25px"><img src="/images/group2.jpg" width="800"></p>    
-</div>       
+* **Theme I**: What are the ecological constraints that shape individual foraging behaviors?  
+* **Theme II**: Can ecological processes be used to understand and predict macroevolutionary dynamics?  
+* **Theme III**: How do individual behaviors influence population dynamics over eco--evolutionary timescales?  
+* **Theme IV**: How does the reticulate nature of species interactions influence the ecological and evolutionary dynamics of communities?  
 
-<BR CLEAR="...">   
 
----
+
 
 <!---
 > **If any of these topics are of interest to you...**
