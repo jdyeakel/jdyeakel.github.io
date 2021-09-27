@@ -30,7 +30,7 @@ Welcome to the course website for ***Advanced Topics in Ecology and Evolutionary
 
 ### Info
 *	**Class Meeting time**: TR 9:00-10:15 in CLSSRM 266 or on [Zoom](https://ucmerced.zoom.us/j/89408420143){:target="_blank"}  
-*	Justin Yeakel Office Hours: [TBD]()  
+*	Justin Yeakel Office Hours: [Zoom](https://ucmerced.zoom.us/j/89408420143){:target="_blank"}  MW 10-11AM
 
 ### Contact
 jyeakel_at_ucmerced_dot_edu  

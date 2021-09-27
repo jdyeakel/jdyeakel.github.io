@@ -19,14 +19,14 @@ By deploying models that capture these silhouettes from multiple angles, we seek
 
 Our specific research interests can be categorized into four primary themes that operate on different scales.
 Threading through each is our interest in understanding how consumer foraging behaviors drive the large-scale dynamics of populations and communities over both ecological and evolutionary time.
-Because of my focus in theory, we work on a wide variety of systems.
+Because of our focus in theory, we work on a wide variety of systems.
 
 ---
 
-* **Theme I**: What are the ecological constraints that shape individual foraging behaviors?  
-* **Theme II**: Can ecological processes be used to understand and predict macroevolutionary dynamics?  
-* **Theme III**: How do individual behaviors influence population dynamics over eco--evolutionary timescales?  
-* **Theme IV**: How does the reticulate nature of species interactions influence the ecological and evolutionary dynamics of communities?  
+* What are the ecological constraints that shape individual foraging behaviors?  
+* Can ecological processes be used to understand and predict macroevolutionary dynamics?  
+* How do individual behaviors influence population dynamics over eco--evolutionary timescales?  
+* How does the reticulate nature of species interactions influence the ecological and evolutionary dynamics of communities?  
 
 
 
