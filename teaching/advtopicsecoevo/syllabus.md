@@ -12,7 +12,7 @@ comments: true
 
 + **Lecture Time**: Tuesday and Thursday, 9:00 - 10:15AM  
 + **Lecture Location**: CLSSRM 266 and [Zoom](https://ucmerced.zoom.us/j/89408420143)
-+ **Instructor**: Justin D. Yeakel; Office Hours: [TBD]()   
++ **Instructor**: Justin D. Yeakel; Office Hours: [Zoom](https://ucmerced.zoom.us/j/89408420143){:target="_blank"}  MW 10-11AM   
 + **Course Websites**  
     Everything that we do this this course will revolve around this website, where you will find: *Basic course information, schedule, links to readings*. Assignments will be turned in via *Canvas*. All written assignments must be in PDF format.
 + **Course Schedule**: [Course Schedule]({{ site.url }}/teaching/advtopicsecoevo/schedule)  
