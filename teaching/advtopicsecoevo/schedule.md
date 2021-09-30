@@ -48,10 +48,10 @@ tr:nth-child(odd) {background: #FFF}
 |    | **09/30** | **R-L11** | Topic 5: Population Structure | E.E. 6 |    | Bianca |
 | 7  | **10/05** | **T-L12** |  | [Chang et al. 2017]({{ site.url }}/teaching/advtopicsecoevo/papers/Chang_2017.pdf){:target="_blank"} |    | Cameron |
 |    | **10/07** | **R-L13** |  | [Polz et al. 2012]({{ site.url }}/teaching/advtopicsecoevo/papers/Polz_TREE_2012.pdf){:target="_blank"} |    | Chanuwas |
-| 8  | **10/12** | **T-L14** | Topic 6: Age and size | E.E. 8 |  Syntheses 3: Topics 4,5  | Lucia |
-|    | **10/14** | **R-L15** | Topic 7: Offspring size & number | E.E. 9 |    | Daravuth |
-| 9  | **10/19** | **T-L16** |  | [Bhat et al. 2020]({{ site.url }}/teaching/advtopicsecoevo/papers/Bhat_PNAS_2020.pdf){:target="_blank"} |  | Jonathan |
-|    | **10/21** | **R-L18** |  | [Okie et al. 2013]({{ site.url }}/teaching/advtopicsecoevo/papers/Okie_2013.pdf){:target="_blank"} |  |  Zeyi | 
+| 8  | **10/12** | **T-L14** |  | [Wilson et al. 2011]({{ site.url }}/teaching/advtopicsecoevo/papers/Wilson_2011.pdf){:target="_blank"}; [Rebuttals]({{ site.url }}/teaching/advtopicsecoevo/papers/Wilson_2011_rebuttals.pdf){:target="_blank"} |  Syntheses 3: Topics 4,5  | Lucia |
+|    | **10/14** | **R-L15** | Topic 6: Age and size | E.E. 8 |    | Daravuth |
+| 9  | **10/19** | **T-L16** | Topic 7: Offspring size & number | E.E. 9 |  | Jonathan |
+|    | **10/21** | **R-L18** |  | [Bhat et al. 2020]({{ site.url }}/teaching/advtopicsecoevo/papers/Bhat_PNAS_2020.pdf){:target="_blank"} |  |  Zeyi | 
 | 10 | **10/26** | **T-L19** | Topic 8: Life Cycles | E.E. 11 |  Syntheses 4: Topics 6,7  |  |
 |    | **10/28** | **R-L20** |  | [van Gestel 2019]({{ site.url }}/teaching/advtopicsecoevo/papers/vanGestel_NatureEcoEvo_2019.pdf.pdf){:target="_blank"}; [Libby 2019]({{ site.url }}/teaching/advtopicsecoevo/papers/Libby_NatureEcoEvo_2019.pdf){:target="_blank"} |    | Cody |
 | 11 | **11/02** | **T-L21** | Topic 9: Specialization/Generalization | E.E. 14 |    | Alejandro |
