@@ -12,12 +12,11 @@ image:
 ##  Service work
 
 ### Academic Year 2021-22 (current)
-*   Div-Co *At large member*
+*   Divisional Council *At large member*
 *   Merced Representative for Assembly of the Academic Senate
 *   Faculty Advisory Committee on Sustainability (FACS) *ex officio member*
 *   Life Science Curriculum Committee *member*
 *   Bio 1-2 subcommittee *member*
-*   LES Curriculum Committee *LSCC rep*
 *   Committee on Research Computing *member*
 
 ---

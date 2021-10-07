@@ -52,18 +52,18 @@ tr:nth-child(odd) {background: #FFF}
 |    | **10/14** | **R-L15** | Topic 6: Age and size | E.E. 8 |    | Daravuth |
 | 9  | **10/19** | **T-L16** | Topic 7: Offspring size & number | E.E. 9 |  | Jonathan |
 |    | **10/21** | **R-L18** |  | [Bhat et al. 2020]({{ site.url }}/teaching/advtopicsecoevo/papers/Bhat_PNAS_2020.pdf){:target="_blank"} |  |  Zeyi | 
-| 10 | **10/26** | **T-L19** | Topic 8: Life Cycles | E.E. 11 |  Syntheses 4: Topics 6,7  |  |
-|    | **10/28** | **R-L20** |  | [van Gestel 2019]({{ site.url }}/teaching/advtopicsecoevo/papers/vanGestel_NatureEcoEvo_2019.pdf){:target="_blank"}; [Libby 2019]({{ site.url }}/teaching/advtopicsecoevo/papers/Libby_NatureEcoEvo_2019.pdf){:target="_blank"} |    | Cody |
-| 11 | **11/02** | **T-L21** | Topic 9: Specialization/Generalization | E.E. 14 |    | Alejandro |
-|    | **11/04** | **R-L22** |  | [Gaiarsa et al. 2021]({{ site.url }}/teaching/advtopicsecoevo/papers/Gaiarsa_NatureEcoEvo_2021.pdf){:target="_blank"} |    | Bianca |
-| 12 | **11/09** | **T-L23** |  | [Sinclair et al. 2003]({{ site.url }}/teaching/advtopicsecoevo/papers/Sinclair_Nature_2003.pdf){:target="_blank"} |  Syntheses 5: Topics 8,9  | Cameron |
+| 10 | **10/26** | **T-L19** | Topic 8: Life Cycles | E.E. 11 |  Syntheses 4: Topics 6,7  | Cody |
+|    | **10/28** | **R-L20** |  | [van Gestel 2019]({{ site.url }}/teaching/advtopicsecoevo/papers/vanGestel_NatureEcoEvo_2019.pdf){:target="_blank"}; [Libby 2019]({{ site.url }}/teaching/advtopicsecoevo/papers/Libby_NatureEcoEvo_2019.pdf){:target="_blank"} |    | Alejandro |
+| 11 | **11/02** | **T-L21** | Topic 9: Specialization/Generalization | E.E. 14 |    | Bianca |
+|    | **11/04** | **R-L22** |  | [Gaiarsa et al. 2021]({{ site.url }}/teaching/advtopicsecoevo/papers/Gaiarsa_NatureEcoEvo_2021.pdf){:target="_blank"} |    | Cameron |
+| 12 | **11/09** | **T-L23** |  | [Sinclair et al. 2003]({{ site.url }}/teaching/advtopicsecoevo/papers/Sinclair_Nature_2003.pdf){:target="_blank"} |  Syntheses 5: Topics 8,9  | Chanuwas & Lucia |
 |    | **11/11** | **R** | No Class |    |    |
-| 13 | **11/16** | **T-L24** | Topic 10: Mating Systems | E.E. 15 | |  |
+| 13 | **11/16** | **T-L24** | Topic 10: Mating Systems | E.E. 15 | | Daravuth & Jonathan |
 |    | **11/18** | **R-L25** |  | [Sinervo et al. 2020]({{ site.url }}/teaching/advtopicsecoevo/papers/Sinervo_AmNat_2020.pdf){:target="_blank"} |    | Justin |
-| 14 | **11/23** | **T-L26** | Topic 11: Foraging behavior | E.E. 18 |  Syntheses 6: Topics 10  | Chanuwas & Lucia |
+| 14 | **11/23** | **T-L26** | Topic 11: Foraging behavior | E.E. 18 |  Syntheses 6: Topics 10  | Zeyi & Cody |
 |    | **11/25** | **R** | No Class |    |    |
-| 15 | **11/30** | **T-L27** | Topic 12: Parasite-host interactions | E.E. 22 |    |  Daravuth & Jonathan  |
-|    | **12/02** | **R-L28** |  | [Lloyd-Smith et al. 2005]({{ site.url }}/teaching/advtopicsecoevo/papers/LloydSmith_2005.pdf){:target="_blank"} |    |  Zeyi & Cody  |
-| 16 | **12/07** | **T-L29** | Topic 13: Coevolution | E.E. 25 |  Syntheses 7: Topics 11,12  | Alejandro & Bianca  |
-|    | **12/09** | **R-L30** |  | [Guimaraes et al. 2017]({{ site.url }}/teaching/advtopicsecoevo/papers/Guimarães_Jr_Nature_2017.pdf){:target="_blank"} |    |  Cameron & Justin  |
+| 15 | **11/30** | **T-L27** | Topic 12: Parasite-host interactions | E.E. 22 |    |  Alejandro & Bianca  |
+|    | **12/02** | **R-L28** |  | [Lloyd-Smith et al. 2005]({{ site.url }}/teaching/advtopicsecoevo/papers/LloydSmith_2005.pdf){:target="_blank"} |    |  Cameron  |
+| 16 | **12/07** | **T-L29** | Topic 13: Coevolution | E.E. 25 |  Syntheses 7: Topics 11,12  |   |
+|    | **12/09** | **R-L30** |  | [Guimaraes et al. 2017]({{ site.url }}/teaching/advtopicsecoevo/papers/Guimarães_Jr_Nature_2017.pdf){:target="_blank"} |    |    |
 
