@@ -59,7 +59,7 @@ tr:nth-child(odd) {background: #FFF}
 | 12 | **11/09** | **T-L23** |  | [Sinclair et al. 2003]({{ site.url }}/teaching/advtopicsecoevo/papers/Sinclair_Nature_2003.pdf){:target="_blank"} |  Syntheses 5: Topics 8,9  | Chanuwas & Lucia |
 |    | **11/11** | **R** | No Class |    |    |
 | 13 | **11/16** | **T-L24** | Topic 10: Mating Systems | E.E. 15 | | Daravuth & Jon |
-|    | **11/18** | **R-L25** |  | [Sinervo et al. 2020]({{ site.url }}/teaching/advtopicsecoevo/papers/Sinervo_AmNat_2020.pdf){:target="_blank"} |    | Justin |
+|    | **11/18** | **R-L25** | Open Discussion (optional) |  |    |  |
 | 14 | **11/23** | **T-L26** | Topic 11: Foraging behavior | E.E. 18 |  Syntheses 6: Topics 10  | Zeyi & Cody |
 |    | **11/25** | **R** | No Class |    |    |
 | 15 | **11/30** | **T-L27** | Topic 12: Parasite-host interactions | E.E. 22 |    |  Alejandro & Bianca  |
@@ -67,3 +67,8 @@ tr:nth-child(odd) {background: #FFF}
 | 16 | **12/07** | **T-L29** | Topic 13: Coevolution | E.E. 25 |  Syntheses 7: Topics 11,12  |   |
 |    | **12/09** | **R-L30** |  | [Guimaraes et al. 2017]({{ site.url }}/teaching/advtopicsecoevo/papers/Guimarães_Jr_Nature_2017.pdf){:target="_blank"} |    |    |
 
+---
+
+>   A paper that we skipped that might be of interest to folks
+>   ***Social Games and Genic Selection Drive Mammalian Mating System Evolution and Speciation***
+>   [Sinervo et al. 2020]({{ site.url }}/teaching/advtopicsecoevo/papers/Sinervo_AmNat_2020.pdf){:target="_blank"}
