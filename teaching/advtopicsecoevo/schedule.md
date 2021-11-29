@@ -64,8 +64,8 @@ tr:nth-child(odd) {background: #FFF}
 |    | **11/25** | **R** | No Class |    |    |
 | 15 | **11/30** | **T-L27** | Topic 12: Parasite-host interactions | E.E. 22 |    |  Alejandro & Bianca  |
 |    | **12/02** | **R-L28** |  | [Lloyd-Smith et al. 2005]({{ site.url }}/teaching/advtopicsecoevo/papers/LloydSmith_2005.pdf){:target="_blank"} |    |  Cameron  |
-| 16 | **12/07** | **T-L29** | Topic 13: Coevolution | E.E. 25 |  Syntheses 7: Topics 11,12  |   |
-|    | **12/09** | **R-L30** |  | [Guimaraes et al. 2017]({{ site.url }}/teaching/advtopicsecoevo/papers/Guimarães_Jr_Nature_2017.pdf){:target="_blank"} |    |    |
+| 16 | **12/07** | **T-L29** | Topic 13: Coevolution | E.E. 25 |  Syntheses 7: Topics 11,12  |  Group  |
+|    | **12/09** | **R-L30** |  | [Guimaraes et al. 2017]({{ site.url }}/teaching/advtopicsecoevo/papers/Guimarães_Jr_Nature_2017.pdf){:target="_blank"} |    |  Group  |
 
 ---
 
