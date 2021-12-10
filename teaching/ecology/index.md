@@ -28,7 +28,7 @@ Welcome to the course website for ***Fundamentals of Ecology***. Of course, this
 Please use the Inbox application in the CatCourses (Canvas) website to contact either of us. *There is no guarantee of response if personal emails are used.*
 
 ---
-
+<!-- 
 ## Discussion Sections and Demonstrations
 * [Demo 1: Intro to R]({{ site.url }}/teaching/ecology/summersections/demo_1_introtoR/){:target="_blank"}  
 * [Section 1: Temperature as a constraint]({{ site.url }}/teaching/ecology/summersections/section_1_temperature/){:target="_blank"}  
@@ -92,4 +92,4 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 * [Homework 4](https://ucmerced.box.com/s/qtnxf1i0qt3fzr9jajqeiccucp76dzxd){:target="_blank"}  
 * [Midterm 2](https://ucmerced.box.com/s/1tmki4pkbl8xv0itwluc4xx9vk67xicr){:target="_blank"}  
 * [Homework 5](https://ucmerced.box.com/s/a4maswughn4q4c1apftdfcthzzjm9xws){:target="_blank"}    
-* [Homework 6](https://ucmerced.box.com/s/x0lblf0pk41aoeg2yfzjeccytjps2dpf){:target="_blank"}    
+* [Homework 6](https://ucmerced.box.com/s/x0lblf0pk41aoeg2yfzjeccytjps2dpf){:target="_blank"}     -->
