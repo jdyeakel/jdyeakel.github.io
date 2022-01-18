@@ -10,7 +10,7 @@ image:
 ---
 
 ## Welcome!
-Welcome to the course website for ***Fundamentals of Ecology***. Of course, this semester we will be running both in person and remote when the situation requires. When we are remote, we will be having lecture and/or discussion sections synchronously on ZOOM (links below). This will be the primary site that will host course information and changes to the schedule, as well as your Discussion Section activities. The Catcourses, or Canvas, site for this course will be used for assessments (e.g. homeworks and possibly exams) and of course grades. See the [syllabus]({{ site.url }}/teaching/ecology/syllabus/) for details and the [schedule]({{ site.url }}/teaching/ecology/schedule/) for information regarding important dates and content.
+Welcome to the course website for ***Fundamentals of Ecology***. This semester we will be running both in person and remote when the situation requires. When we are remote, we will be having lecture and/or discussion sections synchronously on ZOOM (links below). This will be the primary site that will host course information and changes to the schedule, as well as your Discussion Section activities. The Catcourses, or Canvas, site for this course will be used for assessments (e.g. homeworks and possibly exams), course grades, and announcements. See the [syllabus]({{ site.url }}/teaching/ecology/syllabus/) for details and the [schedule]({{ site.url }}/teaching/ecology/schedule/) for information regarding important dates and content.
 
 ---
 
