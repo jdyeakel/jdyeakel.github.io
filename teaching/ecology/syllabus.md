@@ -1,28 +1,30 @@
 ---
 layout: pagetrimnobio
-title: "Fundamentals of Ecology (BIO/ESS 148) :: Syllabus, Summer 2021"
+title: "Fundamentals of Ecology (BIO/ESS 148) :: Syllabus, Spring 2022"
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 ---
 
 [< Back to Course Page]({{ site.url }}/teaching/ecology)  
-[> To Course Schedule]({{ site.url }}/teaching/ecology/schedule_summer/)
+[> To Course Schedule]({{ site.url }}/teaching/ecology/schedule/)
 
 
-+ **Lecture Time**: Tuesdays and Thursday, 08:30 - 11:15AM  
-+ **Lecture Location**: [Zoom Link](https://ucmerced.zoom.us/j/88378477222)
++ **Lecture Time**: Mondays and Wednesdays, 1:30-2:45pm  
++ **Lecture Location**: SSB 130 when in person and [Zoom](https://ucmerced.zoom.us/j/87957489369) when remote  
 + **Discussion section time**  
-    * Thursday 11:30-1:20 [Zoom Link](https://ucmerced.zoom.us/j/89614080974)  
-+ **Instructor**: Justin D. Yeakel; office hours [Mondays 10-11 or by appointment](https://ucmerced.zoom.us/j/87600225759)  
-+ **Teaching Assistant**: Taran Rallings; office hours [Tuesdays 1-2](https://ucmerced.zoom.us/j/88401001197)    
+    * 03D - Monday 4:30-5:20pm; COB2 266 when in person and [Zoom]() when remote  
+    * 04D - Wednesday 4:30-5:20pm; COB2 266 when in person and [Zoom]() when remote  
+    * 02D - Thursday 5:30-6:20pm; COB2 264 when in person and [Zoom]() when remote   
++ **Instructor**: Justin D. Yeakel; office hours [TBD or by appointment](https://ucmerced.zoom.us/j/87957489369)  
++ **Teaching Assistant**: Irina Birskis Barros; office hours [TBD]()    
 + **Course Websites**  
     Everything that we do this this course will revolve around two principle websites. In some cases, information will be duplicated on both sites (link to readings), and I will attempt to cross-link as necessary.
     > The [***CatCourse Website (Canvas)***](https://catcourses.ucmerced.edu/): Turning in assignments, grades, lectures, links to readings  
     > The [***Ecology Course Website***]({{ site.url }}/teaching/ecology): Basic course information, discussion section activities, links to readings  
 + **Course Schedule**: 
 
-    [Course Schedule]({{ site.url }}/teaching/ecology/schedule_summer)  
+    [Course Schedule]({{ site.url }}/teaching/ecology/schedule)  
 + **Course Description**  
 
     This course fulfills an upper division requirement for the Ecology and Evolutionary Biology (EEB) emphasis track of the Biological Sciences Major, as well an upper division requirement for the Earth Systems Science Major. This course provides an introduction to ecology - the scientific study of how organisms interact with each other and their physical environment. Prerequisite: BIO 001 or BIO 005 or ESS 001 or ESS 005 or consent of instructor. Normal Letter Grade only.
@@ -50,19 +52,21 @@ comments: true
 
 + **Course Requirements & Grading Procedures**  
     * ***Class Attendance and Participation Policy***  
-        * This course is delivered ***synchronously over ZOOM***, meaning that lecture & discussion attendance *at the time of the lecture & discussion* is required.
+        * This course is delivered in person and at times ***synchronously over ZOOM*** when remote. In both cases, the lecture & discussion attendance *at the time of the lecture & discussion* is required.
         * Attendance and participation in the discussion section is required and will be a component of the student’s course grade.  
         * The **3** lowest lecture attendance scores will be dropped  
     * ***Required and Supplemental Readings***  
         * **Required Textbook**: W.D. Bowman, S.D. Hacker, and Cain, M.L. 2017. Ecology, 4th or 5th Edition. Sinauer Associates, Inc., Publishers. Sunderland, MA.  
-        * The ebook is a good option, as it is a bit cheaper (visit school bookstore for more info)  
+        * Everyone is given ebook access (and charged) at the beginning of the course (see announcement on CatCourses for more info). If you do not wish to maintain your access to the ebook, follow the instructions on the CatCourses announcement to decline access and recoup the ebook charge.    
         * Readings will also be assigned for the Discussion section and instead of the book for some lectures. These are required and will be provided on the course website.  
         * Note: earlier editions (1st, 2nd, 3rd) of this textbook may be used but are not recommended.  
+    * ***In-class laptops or tablets***
+        * Each student will be expected to have access to a laptop or tablet during lectures and discussion sections to explore ecological models. Any operating system will suffice, as will iPads or similar tablet-like devices. Smartphones are ***not*** recommended.  
     * ***Course Assignments and Projects***  
-        * Late assignments (e.g., homework) will not be accepted.  
         * **Homework**: Throughout the semester,  homework assignments will be assigned, consisting of exercises provided by the Teaching Assistant/Instructor. ***Homework assignments will be delivered via Canvas***  
         <!-- * **Quizzes**: Quizzes will be given periodically during the lecture period. They will not necessarily be announced. -->  
         * **Discussion Activities**: All students are required to go to their respective Discussion Sections and participate/engage in the discussions and activities conducted in the section. Your discussion grade will take into account both participation and responses to Discussion assignments. ***Only otherwise notified, Discussion Activity scores will be delivered via CatCourses***   
-        * **Exams**: There will be **2** “midterm” exams during the semester and **1** comprehensive final. There will be no make-up exams or early exams. If you are sick during an exam, you must supply a note from your doctor verifying your illness. Your grade for the missed exam will be based on your average score from the other exams. You cannot miss more than one exam for an excused illness and taking the final is mandatory in order to pass the course. ***Exams will be open-book + open-note and delivered via Canvas***
-        * ***Grading***: Your final grade will be based on the following: lecture attendance: 5%; discussion section participation & activities: 15%; homework: 15%; midterms: 40% (two, 20% each); and comprehensive final exam: 25%.  
-        * Grades will be given using the approximate framework: A: 90 - 100%, B: 80 - 90%, C: 70 - 80%, D: 60 - 70%, F: < 60%. This framework is subject to change given the distribution of the final grades.
+        * **Exams**: There will be **3** “midterm” exams during the semester and **1** comprehensive final. There will be no make-up exams or early exams. If you are sick during an exam, you must supply a note from your doctor verifying your illness. Your grade for the missed exam will be based on your average score from the other exams. You cannot miss more than one exam for an excused illness and taking the final is mandatory in order to pass the course. ***Exams may either be in person or delivered remotely via Canvas, as the situation requires***
+        * ***Grading***: Your final grade will be based on the following: lecture attendance: 5%; discussion section participation & activities: 15%; homework: 15%; midterms: 45% (three, 15% each); and comprehensive final exam: 20%.  
+        * Grades will be given using the approximate framework: A: 90 - 100%, B: 80 - 90%, C: 70 - 80%, D: 60 - 70%, F: < 60%. This framework is subject to change given the distribution of the final grades.   
+        * Late assignments (e.g., homework) will not be accepted.  
