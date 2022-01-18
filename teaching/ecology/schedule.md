@@ -64,6 +64,8 @@ tr:nth-child(odd) {background: #FFF}
 | **3/14** | **M-L14** | Competition | Intro to competition | Bowman Ch. 14 |    |
 | **3/16** | **W** | ***Exam II*** |  |  |    |
 |         | **D7** | Disc 7 | Exponential and logistic growth 2    |  |    |
+|   |   |   |   |   |   |
+|   |   |   |   |   |   |
 | **3/21** | **M** |  |  ***Spring Break -- No Class*** |   |    |
 | **3/23** | **W** |  | ***Spring Break -- No Class*** |  |    |
 | **3/28** | **M-L15** | Competition 2 | Competition dynamics 1 |  |    |
