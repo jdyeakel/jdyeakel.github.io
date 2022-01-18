@@ -1,6 +1,6 @@
 ---
 layout: pagetrimnobio
-title: "Fundamentals of Ecology :: Summer, 2021"
+title: "Fundamentals of Ecology :: Spring, 2022"
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
@@ -10,19 +10,22 @@ image:
 ---
 
 ## Welcome!
-Welcome to the course website for ***Fundamentals of Ecology***. Of course, this semester we will be running this course entirely remotely, with both lecture and discussion section occurring on ZOOM (links below). This course will be conducted ***synchronously***, meaning that it is mandatory that you attend lectures and discussions *at the times they occur*. This will be the primary site that will host course information and changes to the schedule, as well as your Discussion Section activities. The Catcourses, or Canvas, site for this course will be used for assessments (homework and exams) and of course grades. See the [syllabus]({{ site.url }}/teaching/ecology/syllabus/) for details and the [schedule]({{ site.url }}/teaching/ecology/schedule/) for information regarding important dates and content.
+Welcome to the course website for ***Fundamentals of Ecology***. Of course, this semester we will be running both in person and remote when the situation requires. When we are remote, we will be having lecture and/or discussion sections synchronously on ZOOM (links below). This will be the primary site that will host course information and changes to the schedule, as well as your Discussion Section activities. The Catcourses, or Canvas, site for this course will be used for assessments (e.g. homeworks and possibly exams) and of course grades. See the [syllabus]({{ site.url }}/teaching/ecology/syllabus/) for details and the [schedule]({{ site.url }}/teaching/ecology/schedule/) for information regarding important dates and content.
 
 ---
 
 ## Info
 *	[Syllabus]({{ site.url }}/teaching/ecology/syllabus/)  
-* [Schedule]({{ site.url }}/teaching/ecology/schedule_summer/)  
+* [Schedule]({{ site.url }}/teaching/ecology/schedule/)  
 
-*	**Lecture**: TR 8:30-11:15 on [ZOOM](https://ucmerced.zoom.us/j/88378477222)  
-*	**Discussion Section**: R 11:30-1:20 on [ZOOM](https://ucmerced.zoom.us/j/89614080974)
+*	**Lecture**: Mondays and Wednesdays, 1:30-2:45pm SSB 130 when in person and [Zoom](https://ucmerced.zoom.us/j/87957489369) when remote  
+* **Discussion section time**  
+    * 03D - Monday 4:30-5:20pm; COB2 266 when in person and [Zoom]() when remote  
+    * 04D - Wednesday 4:30-5:20pm; COB2 266 when in person and [Zoom]() when remote  
+    * 02D - Thursday 5:30-6:20pm; COB2 264 when in person and [Zoom]() when remote   
 
-*	Prof. Yeakel Office Hours: [Mondays 10-11 or by appointment](https://ucmerced.zoom.us/j/87600225759)  
-*	TA Taran Rallings Office Hours: [Tuesdays 1-2 or by appointment](https://ucmerced.zoom.us/j/88401001197)  
+*	Prof. Yeakel Office Hours: [TBD or by appointment](https://ucmerced.zoom.us/j/87957489369)  
+*	TA Irina Birskis Barros Office Hours: [](https://ucmerced.zoom.us/j/88401001197)  
 
 ## Contact
 Please use the Inbox application in the CatCourses (Canvas) website to contact either of us. *There is no guarantee of response if personal emails are used.*
@@ -80,16 +83,4 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 * [Lecture 12 :: 7/29](https://ucmerced.box.com/s/hxfy8k4f4ms5nshxt6noomczfxgs5nt9){:target="_blank"}  
 * [Lecture 13 :: 8/3](https://ucmerced.box.com/s/tyisqfwjultrvx9blu1jaxvr17x18uef){:target="_blank"}  
 * [Lecture 14 :: 8/5](https://ucmerced.box.com/s/hqe9wlc6n1wqhyhg4qrvlwa2pe99ws3z){:target="_blank"}  
-* [Lecture 15 :: 8/10](https://ucmerced.box.com/s/l0aw8t84qw8ixdr4q9g38n5nldtt2dgw){:target="_blank"}  
-
-
-
-## Keys
-* [Homework 1](https://ucmerced.box.com/s/t8x44jw6z51yy2xyxwodmuawpwe0k4jd){:target="_blank"}  
-* [Midterm 1](https://ucmerced.box.com/s/foghxfb9xq9c0ihak98je0memwzoyqby){:target="_blank"}  
-* [Homework 2](https://ucmerced.box.com/s/bphi7mr0fsdw93cz8y145vcqw3v6wfvh){:target="_blank"}  
-* [Homework 3](https://ucmerced.box.com/s/l98qpym1ld03ac1nfzso8hwon0yrc8gt){:target="_blank"}  
-* [Homework 4](https://ucmerced.box.com/s/qtnxf1i0qt3fzr9jajqeiccucp76dzxd){:target="_blank"}  
-* [Midterm 2](https://ucmerced.box.com/s/1tmki4pkbl8xv0itwluc4xx9vk67xicr){:target="_blank"}  
-* [Homework 5](https://ucmerced.box.com/s/a4maswughn4q4c1apftdfcthzzjm9xws){:target="_blank"}    
-* [Homework 6](https://ucmerced.box.com/s/x0lblf0pk41aoeg2yfzjeccytjps2dpf){:target="_blank"}     -->
+* [Lecture 15 :: 8/10](https://ucmerced.box.com/s/l0aw8t84qw8ixdr4q9g38n5nldtt2dgw){:target="_blank"} -->
