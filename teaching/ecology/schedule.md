@@ -38,9 +38,9 @@ tr:nth-child(odd) {background: #FFF}
 | ---------- | ----------- | --------------- | ------------- | ------------ |
 | **1/19**       | **W-L1** |  Introduction | Levels of organization | Bowman Ch. 1 |     |
 |         |  | Disc -- | ***No Discussion Section*** |  |     |
-| **1/24**  | **M-L2** | Scales |  Scales, models, and R; [Intro to R]({{ site.url }}/teaching/ecology/summersections/demo_1_introtoR/){:target="_blank"} | [Leopold; excerpts]({{ site.url }}/teaching/ecology/papers/Leopold_Excerpts.pdf){:target="_blank"}  |     |
+| **1/24**  | **M-L2** | Scales |  Scales, models, and R; [Intro to R]({{ site.url }}/teaching/ecology/sections2022/1_introtoR/){:target="_blank"} | [Leopold; excerpts]({{ site.url }}/teaching/ecology/papers/Leopold_Excerpts.pdf){:target="_blank"}  |     |
 |  **1/26**  | **W-L3** |  Biomes | Distinguishing among Earth's biomes | Bowman Ch. 3 |     |
-|         | **D1** | Disc 1 | [Investigating ecological problems with R](http://jdyeakel.github.io/teaching/ecology/section1) | [What does ecology have to do with me?](https://www.esa.org/about/what-does-ecology-have-to-do-with-me/){:target="_blank"} |     |
+|         | **D1** | Disc 1 | [Investigating ecological problems with R]({{ site.url }}/teaching/ecology/sections2022/1_introtoR/){:target="_blank"} | [What does ecology have to do with me?](https://www.esa.org/about/what-does-ecology-have-to-do-with-me/){:target="_blank"} |     |
 | **1/31**       | **M-L4** | Energy 1 | Variation in temperature and water | Bowman Ch. 4 |     |
 |  **2/2**   | **W-L5** | Energy 2 | Energetic pathways in ecology | Bowman Ch. 5 |     |
 |         | **D2** | Disc 2 |  Temperature as an ecological constraint   | [Gunderson & Leal 2015]({{ site.url }}/teaching/ecology/papers/Gunderson.pdf){:target="_blank"} |  H1 (Fri)   |
@@ -78,7 +78,7 @@ tr:nth-child(odd) {background: #FFF}
 | **4/13** | **W-L20** | Disease 1 | The dynamics of disease 1 | Bowman 13.4-end, [Blackwood to 2.2.2]({{ site.url }}/teaching/ecology/papers/Blackwood_SIR.pdf) |    |
 |         | **D10** | Disc 10 | Disease dynamics |  | H9 (Fri) |
 | **4/18** | **M-L21** |Disease 2 | The dynamics of disease 2 |  [R0 is just an average](https://www.santafe.edu/news-center/news/transmission-t-024-cristopher-moore-on-the-heavy-tail-of-outbreaks) |    |
-| **4/20** |  | **W** | ***Exam III*** |  |    |
+| **4/20** | **W** | ***Exam III*** |  |  |    |
 |         | **D11** | Disc 11 | TBD  |  |  |
 |   |   |   |   |   |   |
 |   |   |   |   |   |   |
