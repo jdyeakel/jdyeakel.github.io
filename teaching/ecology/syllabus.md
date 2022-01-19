@@ -54,7 +54,7 @@ comments: true
     * ***Class Attendance and Participation Policy***  
         * This course is delivered in person and at times ***synchronously over ZOOM*** when remote. In both cases, the lecture & discussion attendance *at the time of the lecture & discussion* is required.
         * Attendance and participation in the discussion section is required and will be a component of the student’s course grade.  
-        * The **3** lowest lecture attendance scores will be dropped  
+        * The **5** lowest lecture attendance scores will be dropped  
     * ***Required and Supplemental Readings***  
         * **Required Textbook**: W.D. Bowman, S.D. Hacker, and Cain, M.L. 2017. Ecology, 4th or 5th Edition. Sinauer Associates, Inc., Publishers. Sunderland, MA.  
         * Everyone is given ebook access (and charged) at the beginning of the course (see announcement on CatCourses for more info). If you do not wish to maintain your access to the ebook, follow the instructions on the CatCourses announcement to decline access and recoup the ebook charge.    
