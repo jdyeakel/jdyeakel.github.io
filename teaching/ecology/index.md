@@ -20,9 +20,9 @@ Welcome to the course website for ***Fundamentals of Ecology***. This semester w
 
 *	**Lecture**: Mondays and Wednesdays, 1:30-2:45pm SSB 130 when in person and [Zoom](https://ucmerced.zoom.us/j/87957489369) when remote  
 * **Discussion section time**  
-    * 03D - Monday 4:30-5:20pm; COB2 266 when in person and [Zoom]() when remote  
-    * 04D - Wednesday 4:30-5:20pm; COB2 266 when in person and [Zoom]() when remote  
-    * 02D - Thursday 5:30-6:20pm; COB2 264 when in person and [Zoom]() when remote   
+    * 03D - Monday 4:30-5:20pm; COB2 266 when in person and [Zoom](https://ucmerced.zoom.us/j/87184971115) when remote  
+    * 04D - Wednesday 4:30-5:20pm; COB2 266 when in person and [Zoom](https://ucmerced.zoom.us/j/84625324440) when remote  
+    * 02D - Wednesday 5:30-6:20pm; COB2 264 when in person and [Zoom](https://ucmerced.zoom.us/j/89615858000) when remote   
 
 *	Prof. Yeakel Office Hours: [TBD or by appointment](https://ucmerced.zoom.us/j/87957489369)  
 *	TA Irina Birskis Barros Office Hours: [](https://ucmerced.zoom.us/j/88401001197)  
