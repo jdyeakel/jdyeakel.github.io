@@ -31,6 +31,11 @@ Welcome to the course website for ***Fundamentals of Ecology***. This semester w
 Please use the Inbox application in the CatCourses (Canvas) website to contact either of us. *There is no guarantee of response if personal emails are used.*
 
 ---
+
+## Lecture Recordings (remote classes only)
+* [Lecture 1](https://ucmerced.box.com/s/gyv9cfl0evn04mxstosgz9xp368u2dzo){:target="_blank"}  
+* [Lecture 2](https://ucmerced.box.com/s/t5fdocjyxkw4cv6jmqhtgtlmoabfrh8k){:target="_blank"}  
+
 <!-- 
 ## Discussion Sections and Demonstrations
 * [Demo 1: Intro to R]({{ site.url }}/teaching/ecology/summersections/demo_1_introtoR/){:target="_blank"}  
