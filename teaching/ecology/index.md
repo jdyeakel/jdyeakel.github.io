@@ -35,6 +35,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 ## Lecture Recordings (remote classes only)
 * [Lecture 1](https://ucmerced.box.com/s/gyv9cfl0evn04mxstosgz9xp368u2dzo){:target="_blank"}  
 * [Lecture 2](https://ucmerced.box.com/s/t5fdocjyxkw4cv6jmqhtgtlmoabfrh8k){:target="_blank"}  
+* [Lecture 3](https://ucmerced.box.com/s/tpshv110jg0xjtv6vxdn9x3dijxr0667){:target="_blank"}  
 
 <!-- 
 ## Discussion Sections and Demonstrations
