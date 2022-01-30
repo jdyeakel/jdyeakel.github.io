@@ -24,8 +24,8 @@ Welcome to the course website for ***Fundamentals of Ecology***. This semester w
     * 04D - Wednesday 4:30-5:20pm; COB2 266 when in person and [Zoom](https://ucmerced.zoom.us/j/84625324440) when remote  
     * 02D - Wednesday 5:30-6:20pm; COB2 264 when in person and [Zoom](https://ucmerced.zoom.us/j/89615858000) when remote   
 
-*	Prof. Yeakel Office Hours: [TBD or by appointment](https://ucmerced.zoom.us/j/87957489369)  
-*	TA Irina Birskis Barros Office Hours: [](https://ucmerced.zoom.us/j/88401001197)  
+*	Prof. Yeakel Office Hours: [Tuesdays, Thursdays 10-11 on Zoom](https://ucmerced.zoom.us/j/86299475624) or by appt  
+*	TA Irina Birskis Barros Office Hours:   
 
 ## Contact
 Please use the Inbox application in the CatCourses (Canvas) website to contact either of us. *There is no guarantee of response if personal emails are used.*
