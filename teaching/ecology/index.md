@@ -32,6 +32,11 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 
 ---
 
+## Discussion Sections and Demonstrations
+* [Section 1: Investigating ecological problems with R]({{ site.url }}/teaching/ecology/sections2022/1_introtoR/){:target="_blank"}  
+* [Section 2: Temperature as an ecological constraint]({{ site.url }}/teaching/ecology/sections2022/2_temperature/){:target="_blank"}  
+
+
 ## Lecture Recordings (remote classes only)
 * [Lecture 1](https://ucmerced.box.com/s/gyv9cfl0evn04mxstosgz9xp368u2dzo){:target="_blank"}  
 * [Lecture 2](https://ucmerced.box.com/s/t5fdocjyxkw4cv6jmqhtgtlmoabfrh8k){:target="_blank"}  
