@@ -43,7 +43,7 @@ tr:nth-child(odd) {background: #FFF}
 |         | **D1** | Disc 1 | [Investigating ecological problems with R]({{ site.url }}/teaching/ecology/sections2022/1_introtoR/){:target="_blank"} | [What does ecology have to do with me?](https://www.esa.org/about/what-does-ecology-have-to-do-with-me/){:target="_blank"} |     |
 | **1/31**       | **M-L4** | Energy 1 | Variation in temperature and water | Bowman Ch. 4 |     |
 |  **2/2**   | **W-L5** | Energy 2 | Energetic pathways in ecology | Bowman Ch. 5 |     |
-|         | **D2** | Disc 2 |  Temperature as an ecological constraint   | [Gunderson & Leal 2015]({{ site.url }}/teaching/ecology/papers/Gunderson.pdf){:target="_blank"} |  H1 (Fri)   |
+|         | **D2** | Disc 2 |  [Temperature as an ecological constraint]({{ site.url }}/teaching/ecology/sections2022/2_temperature/){:target="_blank"}   | [Gunderson & Leal 2015]({{ site.url }}/teaching/ecology/papers/Gunderson.pdf){:target="_blank"} |  H1 (Fri)   |
 | **2/7** | **M-L6** |  Allometry 1 | Allometry & Macroecology 1 | [West & Brown]({{ site.url }}/teaching/ecology/papers/West_Brown_2004.pdf){:target="_blank"} |    |
 | **2/9** | **W-L7** |  Allometry 2 | Allometry & Macroecology 2 |  |    |
 |         | **D3** | Disc 3 |  Macroecology |    |  H2 (Fri)   |
