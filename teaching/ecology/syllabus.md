@@ -16,8 +16,8 @@ comments: true
     * 03D - Monday 4:30-5:20pm; COB2 266 when in person and [Zoom](https://ucmerced.zoom.us/j/87184971115) when remote  
     * 04D - Wednesday 4:30-5:20pm; COB2 266 when in person and [Zoom](https://ucmerced.zoom.us/j/84625324440) when remote  
     * 02D - Wednesday 5:30-6:20pm; COB2 264 when in person and [Zoom](https://ucmerced.zoom.us/j/89615858000) when remote   
-+ **Instructor**: Justin D. Yeakel; office hours [TBD or by appointment](https://ucmerced.zoom.us/j/87957489369)  
-+ **Teaching Assistant**: Irina Birskis Barros; office hours [TBD]()    
++ **Instructor**: Justin D. Yeakel; Office Hours: [Tuesdays, Thursdays 10-11 on Zoom](https://ucmerced.zoom.us/j/86299475624) or by appt  
++ **Teaching Assistant**: Irina Birskis Barros; Office Hours:  *in person* Monday 3-4pm SE1 258 and 5:30-6:30pm SE1 278    
 + **Course Websites**  
     Everything that we do this this course will revolve around two principle websites. In some cases, information will be duplicated on both sites (link to readings), and I will attempt to cross-link as necessary.
     > The [***CatCourse Website (Canvas)***](https://catcourses.ucmerced.edu/): Turning in assignments, grades, lectures, links to readings  
