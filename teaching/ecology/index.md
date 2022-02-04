@@ -35,6 +35,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 ## Discussion Sections and Demonstrations
 * [Section 1: Investigating ecological problems with R]({{ site.url }}/teaching/ecology/sections2022/1_introtoR/){:target="_blank"}  
 * [Section 2: Temperature as an ecological constraint]({{ site.url }}/teaching/ecology/sections2022/2_temperature/){:target="_blank"}  
+* [Section 3: Allometry and metabolic scaling]({{ site.url }}/teaching/ecology/sections2022/2_temperature/){:target="_blank"}  
 
 ---
 
