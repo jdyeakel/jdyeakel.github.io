@@ -46,7 +46,7 @@ tr:nth-child(odd) {background: #FFF}
 |         | **D2** | Disc 2 |  [Temperature as an ecological constraint]({{ site.url }}/teaching/ecology/sections2022/2_temperature/){:target="_blank"}   | [Gunderson & Leal 2015]({{ site.url }}/teaching/ecology/papers/Gunderson.pdf){:target="_blank"} |  H1 (Fri)   |
 | **2/7** | **M-L6** |  Allometry 1 | Allometry & Macroecology 1 | [West & Brown]({{ site.url }}/teaching/ecology/papers/West_Brown_2004.pdf){:target="_blank"} |    |
 | **2/9** | **W-L7** |  Allometry 2 | Allometry & Macroecology 2 |  |    |
-|         | **D3** | Disc 3 |  [Allometry and metabolic scaling]({{ site.url }}/teaching/ecology/sections2022/2_temperature/){:target="_blank"}   |    |  H2 (Fri)   |
+|         | **D3** | Disc 3 |  [Allometry and metabolic scaling]({{ site.url }}/teaching/ecology/sections2022/3_metabolism/){:target="_blank"}   |    |  H2 (Fri)   |
 | **2/14** | **M-L8** | Evolution 1 | Ecology as the driver of natural selection | Bowman Ch. 6 |    |
 | **2/16** | **W** | ***Exam I*** |  |  |    |
 |         | **D4** | Disc 4 |   Evolution by natural selection  |  |  H3 (Fri)  |
