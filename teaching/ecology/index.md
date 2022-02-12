@@ -36,6 +36,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 * [Section 1: Investigating ecological problems with R]({{ site.url }}/teaching/ecology/sections2022/1_introtoR/){:target="_blank"}  
 * [Section 2: Temperature as an ecological constraint]({{ site.url }}/teaching/ecology/sections2022/2_temperature/){:target="_blank"}  
 * [Section 3: Allometry and metabolic scaling]({{ site.url }}/teaching/ecology/sections2022/3_metabolism/){:target="_blank"}  
+* [Section 4: Evolution by Natural Selection]({{ site.url }}/teaching/ecology/sections2022/4_evolution/){:target="_blank"}  
 
 ---
 
@@ -44,6 +45,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 * [Lecture 2](https://ucmerced.box.com/s/t5fdocjyxkw4cv6jmqhtgtlmoabfrh8k){:target="_blank"}  
 * [Lecture 3](https://ucmerced.box.com/s/tpshv110jg0xjtv6vxdn9x3dijxr0667){:target="_blank"}  
 * [Lecture 6](https://ucmerced.box.com/s/npjt0dc46moo5iuzpyj4o3q9cb4t0x2c){:target="_blank"}  
+* [Lecture 7](https://ucmerced.box.com/s/akdgjwdogwud0icpi98tlvnobcbpoy5m){:target="_blank"}  
 
 <!-- 
 ## Discussion Sections and Demonstrations

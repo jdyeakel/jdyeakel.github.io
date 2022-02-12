@@ -49,7 +49,7 @@ tr:nth-child(odd) {background: #FFF}
 |         | **D3** | Disc 3 |  [Allometry and metabolic scaling]({{ site.url }}/teaching/ecology/sections2022/3_metabolism/){:target="_blank"}   |    |  H2 (Fri)   |
 | **2/14** | **M-L8** | Evolution 1 | Ecology as the driver of natural selection | Bowman Ch. 6 |    |
 | **2/16** | **W** | ***Exam I*** |  |  |    |
-|         | **D4** | Disc 4 |   Evolution by natural selection  |  |  H3 (Fri)  |
+|         | **D4** | Disc 4 |   [Evolution by Natural Selection]({{ site.url }}/teaching/ecology/sections2022/4_evolution/){:target="_blank"}  |  |  H3 (Fri)  |
 |   |   |   |   |   |   |
 |   |   |   |   |   |   |
 | **2/21** | **M** |  | ***President's Day -- No Class*** |  |    |
