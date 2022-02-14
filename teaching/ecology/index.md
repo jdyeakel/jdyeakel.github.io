@@ -47,6 +47,9 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 * [Lecture 6](https://ucmerced.box.com/s/npjt0dc46moo5iuzpyj4o3q9cb4t0x2c){:target="_blank"}  
 * [Lecture 7](https://ucmerced.box.com/s/akdgjwdogwud0icpi98tlvnobcbpoy5m){:target="_blank"}  
 
+## Lecture Slides  
+* [Lectures 1-7 slides](https://ucmerced.box.com/s/7z2x0f06pf8zx5mpyksraqrcxa7czqj3){:target="_blank"}  
+
 <!-- 
 ## Discussion Sections and Demonstrations
 * [Demo 1: Intro to R]({{ site.url }}/teaching/ecology/summersections/demo_1_introtoR/){:target="_blank"}  
