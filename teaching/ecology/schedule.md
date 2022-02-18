@@ -49,18 +49,18 @@ tr:nth-child(odd) {background: #FFF}
 |         | **D3** | Disc 3 |  [Allometry and metabolic scaling]({{ site.url }}/teaching/ecology/sections2022/3_metabolism/){:target="_blank"}   |    |  H2 (Fri)   |
 | **2/14** | **M-L8** | Evolution 1 | Ecology as the driver of natural selection | Bowman Ch. 6 |    |
 | **2/16** | **W** | ***Exam I*** |  |  |    |
-|         | **D4** | Disc 4 |   [Evolution by Natural Selection]({{ site.url }}/teaching/ecology/sections2022/4_evolution/){:target="_blank"}  |  |  H3 (Fri)  |
+|         | **D4** | Disc 4 |   [Evolution by Natural Selection]({{ site.url }}/teaching/ecology/sections2022/4_evolution/){:target="_blank"}  |  |    |
 |   |   |   |   |   |   |
 |   |   |   |   |   |   |
 | **2/21** | **M** |  | ***President's Day -- No Class*** |  |    |
 | **2/23** | **W-L9** | Evolution 2 | Evolutionary change |  Bowman Ch. 6  |
-|         |  | Disc -- |  ***No Discussion Section***  |   |   H4 (Fri)  |
+|         |  | Disc -- |  ***No Discussion Section***  |   |   H3 (Fri)  |
 | **2/28** | **M-L10** | Life History | Life history diversity & tradeoffs |  |    |
 | **3/2** | **W-L11** | Behavior | Behavioral ecology | Bowman Ch. 8, [Sinervo]({{ site.url }}/teaching/ecology/papers/optimalforaging.pdf){:target="_blank"} |    |
-|         | **D5** | Disc 5 |  Life histories    |  |  H5 (Fri)  |
+|         | **D5** | Disc 5 |  Life histories    |  |  H4 (Fri)  |
 | **3/7** | **M-L12** | Populations 1 | Density dependence and population dynamics | Bowman Ch. 10 |    |
 | **3/9** | **W-L13** | Populations 2 | Logistic Growth & Discrete dynamics  |    |    |
-|         | **D6** | Disc 6 |  Exponential and Logistic Growth |  |  H6 (Fri)  |
+|         | **D6** | Disc 6 |  Exponential and Logistic Growth |  |  H5 (Fri)  |
 | **3/14** | **M-L14** | Competition | Intro to competition | Bowman Ch. 14 |    |
 | **3/16** | **W** | ***Exam II*** |  |  |    |
 |         | **D7** | Disc 7 | Exponential and logistic growth 2    |  |    |
@@ -70,13 +70,13 @@ tr:nth-child(odd) {background: #FFF}
 | **3/23** | **W** |  | ***Spring Break -- No Class*** |  |    |
 | **3/28** | **M-L15** | Competition 2 | Competition dynamics 1 |  |    |
 | **3/30** | **W-L16** | Competition 3 | Competition dynamics 2 |  |    |
-|         | **D8** | Disc 8 |  Lotka-Volterra competition dynamics  |  |  H7 (Fri) |
+|         | **D8** | Disc 8 |  Lotka-Volterra competition dynamics  |  |  H6 (Fri) |
 | **4/4** | **M-L17** | Predation 1 | Herbivory and Predation | Bowman Ch. 12 |    |
 | **4/6** | **W-L18** | Predation 2 | Predation dynamics |  |    |
-|         | **D9** | Disc 9 |  Lotka-Volterra predation dynamics |  | H8 (Fri) |
+|         | **D9** | Disc 9 |  Lotka-Volterra predation dynamics |  | H7 (Fri) |
 | **4/11** | **M-L19** | Parasitism | Parasites and parasitoids | Bowman Chap. 13 | |
 | **4/13** | **W-L20** | Disease 1 | The dynamics of disease 1 | Bowman 13.4-end, [Blackwood to 2.2.2]({{ site.url }}/teaching/ecology/papers/Blackwood_SIR.pdf) |    |
-|         | **D10** | Disc 10 | Disease dynamics |  | H9 (Fri) |
+|         | **D10** | Disc 10 | Disease dynamics |  | H8 (Fri) |
 | **4/18** | **M-L21** |Disease 2 | The dynamics of disease 2 |  [R0 is just an average](https://www.santafe.edu/news-center/news/transmission-t-024-cristopher-moore-on-the-heavy-tail-of-outbreaks) |    |
 | **4/20** | **W** | ***Exam III*** |  |  |    |
 |         | **D11** | Disc 11 | TBD  |  |  |
@@ -84,7 +84,7 @@ tr:nth-child(odd) {background: #FFF}
 |   |   |   |   |   |   |
 | **4/25** | **M-L22** | Interactions 1 | Mutualisms  | Bowman Chap. 15 |    |
 | **4/27** | **W-L23** | Interactions 2 | Food webs | Bowman Chap. 21 |    |
-|         | **D12** | Disc 12 | Species interaction networks  | | H10 (Fri) |
+|         | **D12** | Disc 12 | Species interaction networks  | | H9 (Fri) |
 | **5/2** | **M-L24** |  Communities 1 | Ecological communities | TBD |    |
 | **5/4** | **W-L25** | Communities 2 | Island biogeography | Bowman Chap. 18.3 |    |
 |         | **D13** | Disc 13 | Island biogeography  | |  |
