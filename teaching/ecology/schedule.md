@@ -57,7 +57,7 @@ tr:nth-child(odd) {background: #FFF}
 |         |  | Disc -- |  ***No Discussion Section***  |   |   H3 (Fri)  |
 | **2/28** | **M-L10** | Life History | Life history diversity & tradeoffs |  |    |
 | **3/2** | **W-L11** | Behavior | Behavioral ecology | Bowman Ch. 8, [Sinervo]({{ site.url }}/teaching/ecology/papers/optimalforaging.pdf){:target="_blank"} |    |
-|         | **D5** | Disc 5 |  Life histories    |  |  H4 (Fri)  |
+|         | **D5** | Disc 5 |  [Life Histories]({{ site.url }}/teaching/ecology/sections2022/5_lifehistory/){:target="_blank"}  |  |  H4 (Fri)  |
 | **3/7** | **M-L12** | Populations 1 | Density dependence and population dynamics | Bowman Ch. 10 |    |
 | **3/9** | **W-L13** | Populations 2 | Logistic Growth & Discrete dynamics  |    |    |
 |         | **D6** | Disc 6 |  Exponential and Logistic Growth |  |  H5 (Fri)  |
