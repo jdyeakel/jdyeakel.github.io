@@ -100,5 +100,6 @@ Observe that the plot shows two lines that reveal the relationship between lifet
 > ### Discussion
 > 1. Compare contrast what these relationships tell you about the relative fitness of mosquitoes vs. chimpanzees when $$ \mu_o $$ is small vs. large.
 > 2. How do you interpret the y-axis?
-> 3. The values for $$ \mu_o $$ provided above point to a particular coordinate on the $$ \Phi_{\rm mosquito} $$ and $$ \Phi_{\rm chimp} $$ lines on the plot. Interpret what this tells us about the mosquito and chimp life history strategies.
+> 3. The values for $$ \mu_o $$ provided above point to a particular coordinate on the $$ \Phi_{\rm mosquito} $$ and $$ \Phi_{\rm chimp} $$ lines on the plot. Interpret what this tells us about the mosquito and chimp life history strategies.  
+> 4. Edit the various parameters to explore how different assumptions of offspring number and survival impact the observed relationships.   
 
