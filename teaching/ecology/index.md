@@ -38,6 +38,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 * [Section 3: Allometry and metabolic scaling]({{ site.url }}/teaching/ecology/sections2022/3_metabolism/){:target="_blank"}  
 * [Section 4: Evolution by Natural Selection]({{ site.url }}/teaching/ecology/sections2022/4_evolution/){:target="_blank"}  
 * [Section 5: Life Histories]({{ site.url }}/teaching/ecology/sections2022/5_lifehistory/){:target="_blank"}  
+* [Section 6: Exponential and Logistic Growth]({{ site.url }}/teaching/ecology/sections2022/6_popgrowth/){:target="_blank"}
 
 ---
 
@@ -49,6 +50,8 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 * [Lecture 7](https://ucmerced.box.com/s/akdgjwdogwud0icpi98tlvnobcbpoy5m){:target="_blank"}  
 * [Lecture 8](https://ucmerced.box.com/s/4kdzn45yq2595wjv1vtlec7674hx65eo){:target="_blank"}  
 * [Lecture 9](https://ucmerced.box.com/s/mqinlz2o7w2p8upveqypbruxcd3njjcb){:target="_blank"}  
+* [Lecture 10](https://ucmerced.box.com/s/uqadojywmwq2pndw49vhc9g02dgkn4a9){:target="_blank"}  
+
 
 ## Lecture Slides  
 * [Lectures 1-7 slides](https://ucmerced.box.com/s/7z2x0f06pf8zx5mpyksraqrcxa7czqj3){:target="_blank"}  
