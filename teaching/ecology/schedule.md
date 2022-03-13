@@ -63,7 +63,7 @@ tr:nth-child(odd) {background: #FFF}
 |         | **D6** | Disc 6 |  [Exponential and Logistic Growth]({{ site.url }}/teaching/ecology/sections2022/6_popgrowth/){:target="_blank"} |  |  H5 (Fri)  |
 | **3/14** | **M-L14** | Competition | Intro to competition | Bowman Ch. 14 |    |
 | **3/16** | **W** | ***Exam II*** |  |  |    |
-|         | **D7** | Disc 7 | Exponential and logistic growth 2    |  |    |
+|         | **D7** | Disc 7 | [Exponential and Logistic Growth 2]({{ site.url }}/teaching/ecology/sections2022/6_popgrowth/){:target="_blank"}    |  |    |
 |   |   |   |   |   |   |
 |   |   |   |   |   |   |
 | **3/21** | **M** |  |  ***Spring Break -- No Class*** |   |    |
