@@ -14,7 +14,7 @@ Welcome to the course website for ***Fundamentals of Ecology***. This semester w
 
 ---
 > ## Announcement: adjusted office hours 3/15-3/16
-> * Yeakel Office hours ZOOM: 9:15-10AM on Tuesday 3/15 and Wednesday 3/16  
+> * Yeakel office hours [ZOOM](https://ucmerced.zoom.us/j/87957489369): 9:15-10AM on Tuesday 3/15 and Wednesday 3/16  
 
 ---
 
