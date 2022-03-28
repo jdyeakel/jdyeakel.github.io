@@ -43,7 +43,8 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 * [Section 4: Evolution by Natural Selection]({{ site.url }}/teaching/ecology/sections2022/4_evolution/){:target="_blank"}  
 * [Section 5: Life Histories]({{ site.url }}/teaching/ecology/sections2022/5_lifehistory/){:target="_blank"}  
 * [Section 6: Exponential and Logistic Growth]({{ site.url }}/teaching/ecology/sections2022/6_popgrowth/){:target="_blank"}  
-* [Section 7: Exponential and Logistic Growth 2]({{ site.url }}/teaching/ecology/sections2022/6_popgrowth/){:target="_blank"}
+* [Section 7: Exponential and Logistic Growth 2]({{ site.url }}/teaching/ecology/sections2022/6_popgrowth/){:target="_blank"}  
+* [Section 8: Lotka-Volterra competition dynamics]({{ site.url }}/teaching/ecology/sections2022/8_comp/){:target="_blank"}  
 
 ---
 

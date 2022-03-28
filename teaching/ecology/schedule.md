@@ -70,7 +70,7 @@ tr:nth-child(odd) {background: #FFF}
 | **3/23** | **W** |  | ***Spring Break -- No Class*** |  |    |
 | **3/28** | **M-L15** | Competition 2 | Competition dynamics 1 |  |    |
 | **3/30** | **W-L16** | Competition 3 | Competition dynamics 2 |  |    |
-|         | **D8** | Disc 8 |  Lotka-Volterra competition dynamics  |  |  H6 (Fri) |
+|         | **D8** | Disc 8 |  [Lotka-Volterra competition dynamics]({{ site.url }}/teaching/ecology/sections2022/8_comp/){:target="_blank"}  |  |  H6 (Fri) |
 | **4/4** | **M-L17** | Predation 1 | Herbivory and Predation | Bowman Ch. 12 |    |
 | **4/6** | **W-L18** | Predation 2 | Predation dynamics |  |    |
 |         | **D9** | Disc 9 |  Lotka-Volterra predation dynamics |  | H7 (Fri) |
