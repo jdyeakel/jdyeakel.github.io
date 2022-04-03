@@ -45,6 +45,8 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 * [Section 6: Exponential and Logistic Growth]({{ site.url }}/teaching/ecology/sections2022/6_popgrowth/){:target="_blank"}  
 * [Section 7: Exponential and Logistic Growth 2]({{ site.url }}/teaching/ecology/sections2022/6_popgrowth/){:target="_blank"}  
 * [Section 8: Lotka-Volterra competition dynamics]({{ site.url }}/teaching/ecology/sections2022/8_comp/){:target="_blank"}  
+* [Section 9: Lotka-Volterra predation dynamics]({{ site.url }}/teaching/ecology/sections2022/9_pred/){:target="_blank"}  
+
 
 ---
 
