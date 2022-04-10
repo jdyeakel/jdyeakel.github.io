@@ -46,7 +46,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 * [Section 7: Exponential and Logistic Growth 2]({{ site.url }}/teaching/ecology/sections2022/6_popgrowth/){:target="_blank"}  
 * [Section 8: Lotka-Volterra competition dynamics]({{ site.url }}/teaching/ecology/sections2022/8_comp/){:target="_blank"}  
 * [Section 9: Lotka-Volterra predation dynamics]({{ site.url }}/teaching/ecology/sections2022/9_pred/){:target="_blank"}  
-
+* [Section 10: The dynamics of disease]({{ site.url }}/teaching/ecology/sections2022/10_disease/){:target="_blank"}  
 
 ---
 
@@ -66,7 +66,10 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 * [Lecture 15](https://ucmerced.box.com/s/1x2dncxvg82fs11j2ffgcxylisfmz4vb){:target="_blank"}  
 * [Lecture 16](https://ucmerced.box.com/s/brnfvx83i8pkkckqzjs1a07772l5yv2j){:target="_blank"}  
 * [Lecture 17](https://ucmerced.box.com/s/3ulhgy76uvr3lzjx0ppngsjseonkokwu){:target="_blank"}  
-
+* [Lecture 18](https://ucmerced.box.com/s/anp4gv6jachcwok53ej5yflzttrbivqc){:target="_blank"}  
+* [Lecture 19](https://ucmerced.box.com/s/y8x5cms5o8uzygdxfvcoddo95lms7xa6){:target="_blank"}  
+* [Lecture 20a](https://ucmerced.box.com/s/u10pjcnsjzlhaq7xcp1kk1bcobi54iom){:target="_blank"}  
+* [Lecture 20b](https://ucmerced.box.com/s/l3irtyd0aog4dk9pjg7i4vamch5cz9cv){:target="_blank"}  
 
 
 ## Lecture Slides  

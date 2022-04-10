@@ -76,7 +76,7 @@ tr:nth-child(odd) {background: #FFF}
 |         | **D9** | Disc 9 |  [Lotka-Volterra predation dynamics]({{ site.url }}/teaching/ecology/sections2022/9_pred/){:target="_blank"} |  | H7 (Wed) |
 | **4/11** | **M-L19** | Disease | The dynamics of disease | Bowman 13.4-end, [Blackwood to 2.2.2]({{ site.url }}/teaching/ecology/papers/Blackwood_SIR.pdf),[R0 is just an average](https://www.santafe.edu/news-center/news/transmission-t-024-cristopher-moore-on-the-heavy-tail-of-outbreaks) | |
 | **4/13** | **W-L20** | No class |  |  |    |
-|         | **D10** | Disc 10 | Disease dynamics |  | H8 (Fri) |
+|         | **D10** | Disc 10 | [Dynamics of disease]({{ site.url }}/teaching/ecology/sections2022/10_disease/){:target="_blank"} |  | H8 (Wed) |
 | **4/18** | **M-L21** | Parasitism | Parasites and parasitoids |  Bowman Chap. 13 |    |
 | **4/20** | **W** | ***Exam III*** |  |  |    |
 |         | **D11** | Disc 11 | TBD  |  |  |
