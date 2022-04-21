@@ -13,8 +13,11 @@ image:
 Welcome to the course website for ***Fundamentals of Ecology***. This semester we will be running both in person and remote when the situation requires. When we are remote, we will be having lecture and/or discussion sections synchronously on ZOOM (links below). This will be the primary site that will host course information and changes to the schedule, as well as your Discussion Section activities. The Catcourses, or Canvas, site for this course will be used for assessments (e.g. homeworks and possibly exams), course grades, and announcements. See the [syllabus]({{ site.url }}/teaching/ecology/syllabus/) for details and the [schedule]({{ site.url }}/teaching/ecology/schedule/) for information regarding important dates and content.
 
 ---
-> ## Announcement: adjusted office hours 3/15-3/16
-> * Yeakel office hours [ZOOM](https://ucmerced.zoom.us/j/87957489369): 9:15-10AM on Tuesday 3/15 and Wednesday 3/16  
+> ## Announcement: Final Exam coming up!!!! 
+> * Saturday May 7: 11:30-2:30pm
+> * The Final Exam will be taken remotely on CatCourses
+> * Same structure as midterms, but a bit longer
+> * Exam will be comprehensive, but focusing on topics that have been important themes throughout the course  
 
 ---
 
@@ -47,6 +50,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 * [Section 8: Lotka-Volterra competition dynamics]({{ site.url }}/teaching/ecology/sections2022/8_comp/){:target="_blank"}  
 * [Section 9: Lotka-Volterra predation dynamics]({{ site.url }}/teaching/ecology/sections2022/9_pred/){:target="_blank"}  
 * [Section 10: The dynamics of disease]({{ site.url }}/teaching/ecology/sections2022/10_disease/){:target="_blank"}  
+* [Section 11: Species interaction networks]({{ site.url }}/teaching/ecology/sections2022/11_foodwebs/){:target="_blank"} 
 
 ---
 
@@ -77,6 +81,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 ## Lecture Slides  
 * [Lectures 1-7 slides](https://ucmerced.box.com/s/7z2x0f06pf8zx5mpyksraqrcxa7czqj3){:target="_blank"}  
 * [Lecture 8-9 slides](https://ucmerced.box.com/s/w1zjmetgdjvsrn0w2dwlhjqx4sgrd5qh){:target="_blank"}  
+
 
 <!-- 
 ## Discussion Sections and Demonstrations

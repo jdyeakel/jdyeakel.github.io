@@ -70,24 +70,24 @@ tr:nth-child(odd) {background: #FFF}
 | **3/23** | **W** |  | ***Spring Break -- No Class*** |  |    |
 | **3/28** | **M-L15** | Competition 2 | Competition dynamics 1 |  |    |
 | **3/30** | **W-L16** | Competition 3 | Competition dynamics 2 |  |    |
-|         | **D8** | Disc 8 |  [Lotka-Volterra competition dynamics]({{ site.url }}/teaching/ecology/sections2022/8_comp/){:target="_blank"}  |  |  H6 (Fri) |
+|         | **D8** | Disc 8 |  [Lotka-Volterra competition dynamics]({{ site.url }}/teaching/ecology/sections2022/8_comp/){:target="_blank"}  |  |   |
 | **4/4** | **M-L17** | Predation 1 | Herbivory and Predation | Bowman Ch. 12 |    |
 | **4/6** | **W-L18** | Predation 2 | Predation dynamics |  |    |
-|         | **D9** | Disc 9 |  [Lotka-Volterra predation dynamics]({{ site.url }}/teaching/ecology/sections2022/9_pred/){:target="_blank"} |  | H7 (Wed) |
+|         | **D9** | Disc 9 |  [Lotka-Volterra predation dynamics]({{ site.url }}/teaching/ecology/sections2022/9_pred/){:target="_blank"} |  | H6 (Wed) |
 | **4/11** | **M-L19** | Disease | The dynamics of disease | Bowman 13.4-end, [Blackwood to 2.2.2]({{ site.url }}/teaching/ecology/papers/Blackwood_SIR.pdf),[R0 is just an average](https://www.santafe.edu/news-center/news/transmission-t-024-cristopher-moore-on-the-heavy-tail-of-outbreaks) | |
 | **4/13** | **W-L20** | No class |  |  |    |
-|         | **D10** | Disc 10 | [Dynamics of disease]({{ site.url }}/teaching/ecology/sections2022/10_disease/){:target="_blank"} |  | H8 (Wed) |
+|         | **D10** | Disc 10 | [Dynamics of disease]({{ site.url }}/teaching/ecology/sections2022/10_disease/){:target="_blank"} |  | H7 (Wed) |
 | **4/18** | **M-L21** | Parasitism | Parasites and parasitoids |  Bowman Chap. 13 |    |
 | **4/20** | **W** | ***Exam III*** |  |  |    |
-|         | **D11** | Disc 11 | TBD  |  |  |
+|         | **D11** | Disc -- | None  |  |  |
 |   |   |   |   |   |   |
 |   |   |   |   |   |   |
 | **4/25** | **M-L22** | Interactions 1 | Mutualisms  | Bowman Chap. 15 |    |
 | **4/27** | **W-L23** | Interactions 2 | Food webs | Bowman Chap. 21 |    |
-|         | **D12** | Disc 12 | Species interaction networks  | | H9 (Fri) |
+|         | **D12** | Disc 11 | [Species interaction networks]({{ site.url }}/teaching/ecology/sections2022/11_foodwebs/){:target="_blank"}  | | H8 (Wed) |
 | **5/2** | **M-L24** |  Communities 1 | Ecological communities | TBD |    |
 | **5/4** | **W-L25** | Communities 2 | Island biogeography | Bowman Chap. 18.3 |    |
-|         | **D13** | Disc 13 | Island biogeography  | |  |
+|         | **D13** | Disc 12 | Island biogeography  | |  |
 | **5/7** | **Sat** | ***FINAL EXAM*** | Comprehensive (11:30-2:30 PM)  |  |  |
 
 
