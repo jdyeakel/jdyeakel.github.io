@@ -82,45 +82,8 @@ $$
 > 6. How does increasing/decreasing $$E$$ and $$I$$ change your expectations? How does changing $$P$$ alter your expectations?  
 > 7. Consider how these ideas are similar or dissimilar from predicting population dynamics by way of understanding birth and death rates as a function of population size.  
 
-```R
-    library(RColorBrewer)
-    library(deSolve)
-    pal = brewer.pal(3,'Set1')
-    # Define the Rates function
-    islandbiogeo = function(P,I,E,Sstart,tmax) {
-        # LV.comp = function(r1,r2,alpha,beta,K1,K2,N1start,N2start,tmax) {
-        yini = c(S = Sstart)
-        
-        fmap = function (t, y, parms) {
-        with(as.list(y), {
-            dS <- I - (I/P)*y[1] - (E/P)*y[1]
-            list(c(dS))
-        })
-        }
-        
-        times <- seq(from = 0, to = tmax, by = 0.1) 
-        out   <- ode(y = yini, times = times, func = fmap, parms = NULL)
 
-        Straj = out[,2];
-        timeline = out[,1];
-
-        Send = tail(Straj,n=1)
-
-        maxtraj = max(c(Straj));
-
-        Ssize = maxtraj*1.2;
-
-        par(fig = c(0,1,0,1))
-        plot(timeline,Straj,type='l',col=pal[1],xlab='Time',ylab='Species Richness',lwd=2,ylim = c(0,maxtraj))
-
-    }
-    # Plug in parameter values and run
-    islandbiogeo(P = 200, I = 1, E = 0.5, Sstart = 0, tmax = 100)
-```
-
-
-<iframe width='100%' height='500' src='https://rdrr.io/snippets/embed/?code=%23Paste%20code%20here' frameborder='0'></iframe>
-
+<iframe src="https://www.wolframcloud.com/obj/33fb2c27-a04a-47fb-9f5b-47a2b6062acc?_embed=iframe" width="600" height="800"></iframe>
 
 
 
@@ -272,4 +235,43 @@ Do we see these relationships with Simberloff's data? Let's explore below.
 
 
 
+<!-- 
 
+```R
+    library(RColorBrewer)
+    library(deSolve)
+    pal = brewer.pal(3,'Set1')
+    # Define the Rates function
+    islandbiogeo = function(P,I,E,Sstart,tmax) {
+        # LV.comp = function(r1,r2,alpha,beta,K1,K2,N1start,N2start,tmax) {
+        yini = c(S = Sstart)
+        
+        fmap = function (t, y, parms) {
+        with(as.list(y), {
+            dS <- I - (I/P)*y[1] - (E/P)*y[1]
+            list(c(dS))
+        })
+        }
+        
+        times <- seq(from = 0, to = tmax, by = 0.1) 
+        out   <- ode(y = yini, times = times, func = fmap, parms = NULL)
+
+        Straj = out[,2];
+        timeline = out[,1];
+
+        Send = tail(Straj,n=1)
+
+        maxtraj = max(c(Straj));
+
+        Ssize = maxtraj*1.2;
+
+        par(fig = c(0,1,0,1))
+        plot(timeline,Straj,type='l',col=pal[1],xlab='Time',ylab='Species Richness',lwd=2,ylim = c(0,maxtraj))
+
+    }
+    # Plug in parameter values and run
+    islandbiogeo(P = 200, I = 1, E = 0.5, Sstart = 0, tmax = 100)
+```
+
+
+<iframe width='100%' height='500' src='https://rdrr.io/snippets/embed/?code=%23Paste%20code%20here' frameborder='0'></iframe> -->
