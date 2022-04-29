@@ -51,7 +51,7 @@ Now let's think about what these immigration and extinction rates should look li
 * 2) When the island is empty, the immigration rate should be maximized (lots of open niches), and as it fills the immigration rate should decline (niches fill up). Let's call the maximum immigration rate $$I$$.   
 * 3) An extrapolation: to make this model as simple as possible, let's imagine that the immigration rate linearly decreases from some maximum rate $$\lambda_S=I$$ when $$S=0$$ to $$\lambda_S = 0$$ when $$S=P$$.   
 
-These relationships give us a linear equation for $$\lamdba_S(S)$$ over $$S$$, in other words
+These relationships give us a linear equation for $$\lambda_S(S)$$ over $$S$$, in other words
 
 $$
 \begin{equation}
