@@ -83,7 +83,8 @@ $$
 > 7. Consider how these ideas are similar or dissimilar from predicting population dynamics by way of understanding birth and death rates as a function of population size.  
 
 
-<iframe src="https://www.wolframcloud.com/obj/06b67bbf-6e26-438c-b0ff-7835aabc6143?_embed=iframe" width="600" height="800"></iframe>
+<iframe src="https://www.wolframcloud.com/obj/4cd5d43d-5a8f-4ec1-9a5e-d920b0bed91e?_embed=iframe" width="600" height="600"></iframe>
+
 
 ## Island Biogeography in the real world
 
