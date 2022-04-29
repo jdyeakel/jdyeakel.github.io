@@ -26,8 +26,9 @@ This story has repeated itself in different ways, with different species, in dif
 The central processes unifying the *Theory of Island Biogeography* include *colonization* and *extinction* dynamics. Colonization details the rate at which species immigrate to an island, and extinction details the rate at which species go extinct. Keep in mind that for this exercise we are not specifying one species from another... so our collection of species, while they involve weedy perennials, shrubs, insects, birds, reptiles and perhaps a few mammals thrown in for good measure, will remain to us just a collection of species with no discernable identifications. However, keep in the back of your mind the story that initiated this activity... the order in which species arrive *should* matter, even though we will not be considering these important details here.
 
 On the mainland we have a community of $$P$$ species (for the species 'Pool'). We want to build an expectation for how the number of species on the nearby island $$S$$ will assemble from this mainland species pool. We can establish a few rules straight away.  
-    * 1) Immigration of species from the pool $$P$$ to the island will increase island species richness $$S$$.  
-    * 2) Extinction of species on the island will decrease island species richness $$S$$  
+
+* 1) Immigration of species from the pool $$P$$ to the island will increase island species richness $$S$$.  
+* 2) Extinction of species on the island will decrease island species richness $$S$$  
 
 With this as a starting point, we can build an equation for $${\rm d}S/{\rm d}t$$:
 
