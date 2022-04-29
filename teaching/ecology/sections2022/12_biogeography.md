@@ -38,7 +38,7 @@ $$
 \end{equation}
 $$
 
-Let's now specify a few variables. Let's let $$\lambda_S$$ be the number of species immigrating per unit time, and $$\mu_S$$ be the number of species going extinct per unit time, so we will rewrite the above equation as
+Let's now specify a few parameters. Let's let $$\lambda_S$$ be the number of species immigrating per unit time, and $$\mu_S$$ be the number of species going extinct per unit time, so we will rewrite the above equation as
 
 $$
 \begin{equation}
