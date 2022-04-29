@@ -137,6 +137,13 @@ $$
 > 2. How should the extinction rate change with island size or distance?  
 
 
+<figure>
+<img src="{{ site.url }}/images/ecology/simberloff2.png" width="700">
+<figcaption> The mangrove island experiment (Simberloff & Wilson, 1969).
+</figcaption>
+</figure>
+
+
 The experiment Simberloff devised is both simple and a bit nutty. He selected a number of mangrove islands off the coast of Florida of varying sizes and distances from the mainland, which hosted diverse arthopod communities. He surrounded each mangrove island with a metal frame, covered it with fumigation tarps, and gassed the arthropods into oblivion. Following these localized 'mass extinction' events, Simberloff and colleagues observed the recolonization of the mangrove islands, documenting which species arrived and when. We will now examine these data below.  
 
 ```R
@@ -209,11 +216,6 @@ The experiment Simberloff devised is both simple and a bit nutty. He selected a 
 > 3. What do you think about the ethics of fumigating mangrove islands full of arthropods to examine foundational concepts in ecology? Is there a less impactful way to go about investigating these questions?  
 
 
-<figure>
-<img src="{{ site.url }}/images/ecology/simberloff2.png" width="700">
-<figcaption> The mangrove island experiment (Simberloff & Wilson, 1969).
-</figcaption>
-</figure>
 
 
 ---
