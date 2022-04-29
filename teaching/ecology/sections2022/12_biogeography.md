@@ -210,7 +210,7 @@ The experiment Simberloff devised is both simple and a bit nutty. He selected a 
 
 
 <figure>
-<img src="{{ site.url }}/images/ecology/simberloff2.jpg" width="700">
+<img src="{{ site.url }}/images/ecology/simberloff2.png" width="700">
 <figcaption> The mangrove island experiment (Simberloff & Wilson, 1969).
 </figcaption>
 </figure>
