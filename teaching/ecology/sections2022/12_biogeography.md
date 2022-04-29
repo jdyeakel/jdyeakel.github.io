@@ -206,7 +206,15 @@ The experiment Simberloff devised is both simple and a bit nutty. He selected a 
 > ### Discussion  
 > 1. What happens to the island communities following Simberloff's fumigation treatment (the datapoint at time `t=0` is species richness *before* fumigation)  
 > 2. What type of variation is observed between and among island communities?  
-> 3. What do you think about the ethics of fumigating mangrove islands full of arthropods to examine foundational concepts in ecology? Is there a less impactful way to go about investigating these questions?
+> 3. What do you think about the ethics of fumigating mangrove islands full of arthropods to examine foundational concepts in ecology? Is there a less impactful way to go about investigating these questions?  
+
+
+<figure>
+<img src="{{ site.url }}/images/ecology/simberloff2.jpg" width="700">
+<figcaption> The mangrove island experiment (Simberloff & Wilson, 1969).
+</figcaption>
+</figure>
+
 
 ---
 
