@@ -50,7 +50,8 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 * [Section 8: Lotka-Volterra competition dynamics]({{ site.url }}/teaching/ecology/sections2022/8_comp/){:target="_blank"}  
 * [Section 9: Lotka-Volterra predation dynamics]({{ site.url }}/teaching/ecology/sections2022/9_pred/){:target="_blank"}  
 * [Section 10: The dynamics of disease]({{ site.url }}/teaching/ecology/sections2022/10_disease/){:target="_blank"}  
-* [Section 11: Species interaction networks]({{ site.url }}/teaching/ecology/sections2022/11_foodwebs/){:target="_blank"} 
+* [Section 11: Species interaction networks]({{ site.url }}/teaching/ecology/sections2022/11_foodwebs/){:target="_blank"}  
+* [Section 12: Island biogeography]({{ site.url }}/teaching/ecology/sections2022/12_biogeography/){:target="_blank"} 
 
 ---
 
