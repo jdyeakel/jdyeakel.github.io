@@ -85,8 +85,8 @@ tr:nth-child(odd) {background: #FFF}
 | **4/25** | **M-L22** | Interactions 1 | Mutualisms  | Bowman Chap. 15 |    |
 | **4/27** | **W-L23** | Interactions 2 | Food webs | Bowman Chap. 21 |    |
 |         | **D12** | Disc 11 | [Species interaction networks]({{ site.url }}/teaching/ecology/sections2022/11_foodwebs/){:target="_blank"}  | | H8 (Wed) |
-| **5/2** | **M-L24** |  Communities 1 | Ecological communities | TBD |    |
-| **5/4** | **W-L25** | Communities 2 | Island biogeography | Bowman Chap. 18.3 |    |
+| **5/2** | **M-L24** |  Communities 1 | Island biogeography | Bowman Chap. 18.3 |    |
+| **5/4** | **W-L25** | Communities 2 | Ecological communities | Bowman Chap. 16.2-16.3 |    |
 |         | **D13** | Disc 12 | [Island biogeography]({{ site.url }}/teaching/ecology/sections2022/12_biogeography/){:target="_blank"}  | |  |
 | **5/7** | **Sat** | ***FINAL EXAM*** | Comprehensive (11:30-2:30 PM)  |  |  |
 
