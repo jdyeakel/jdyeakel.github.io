@@ -78,6 +78,12 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
     * [Wasp Parasitoid video](https://ucmerced.box.com/s/9gvw9lve320w7vlta12jes1y5um3qgi2){:target="_blank"}  
     * [Malaria video part 1](https://ucmerced.box.com/s/p7afzdp319asy0vowy5rwud6kz6r9suj){:target="_blank"}  
     * [Malaria video part 2](https://ucmerced.box.com/s/e6pl4gq680zxdc18p24fd7tt4n4tuje2){:target="_blank"}  
+* [Lecture 21](https://ucmerced.box.com/s/q61m8kg90sm0x3mq8iigbbcym8591re1){:target="_blank"}  
+* [Lecture 22](https://ucmerced.box.com/s/odl7vara6kug3bndsaje61w6ant0sev1){:target="_blank"}  
+* [Lecture 23](https://ucmerced.box.com/s/3tv2y76oh07z4rbj9m7qjl8e9d7758js){:target="_blank"}  
+* [Lecture 24](https://ucmerced.box.com/s/t7w4zl6gk9sd80ygbbqxs0f921182amm){:target="_blank"}  
+* [Lecture 25](https://ucmerced.box.com/s/q0qknd4f2zs75gtcecjtwifobtc17ixw){:target="_blank"}  
+
 
 ## Lecture Slides  
 * [Lectures 1-7 slides](https://ucmerced.box.com/s/7z2x0f06pf8zx5mpyksraqrcxa7czqj3){:target="_blank"}  
