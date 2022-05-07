@@ -15,6 +15,7 @@ Welcome to the course website for ***Fundamentals of Ecology***. This semester w
 ---
 > ## Announcement: Final Exam coming up!!!! 
 > * Saturday May 7: 11:30-2:30pm
+> * [ZOOM ROOM LINK](https://ucmerced.zoom.us/j/82966775875){:target="_blank"} (see canvas announcement for password)
 > * The Final Exam will be taken remotely on CatCourses
 > * Same structure as midterms, but a bit longer
 > * Exam will be comprehensive, but focusing on topics that have been important themes throughout the course  
