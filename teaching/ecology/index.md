@@ -13,6 +13,8 @@ image:
 Welcome to the course website for ***Fundamentals of Ecology***. This semester we will be running both in person and remote when the situation requires. When we are remote, we will be having lecture and/or discussion sections synchronously on ZOOM (links below). This will be the primary site that will host course information and changes to the schedule, as well as your Discussion Section activities. The Catcourses, or Canvas, site for this course will be used for assessments (e.g. homeworks and possibly exams), course grades, and announcements. See the [syllabus]({{ site.url }}/teaching/ecology/syllabus/) for details and the [schedule]({{ site.url }}/teaching/ecology/schedule/) for information regarding important dates and content.
 
 ---
+
+<!-- 
 > ## Announcement: Final Exam is TODAY!!!! 
 > * Saturday May 7: 11:30-2:30pm
 > * [ZOOM ROOM LINK](https://ucmerced.zoom.us/j/82966775875){:target="_blank"} (see canvas announcement for password)
@@ -91,7 +93,6 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 * [Lecture 8-9 slides](https://ucmerced.box.com/s/w1zjmetgdjvsrn0w2dwlhjqx4sgrd5qh){:target="_blank"}  
 
 
-<!-- 
 ## Discussion Sections and Demonstrations
 * [Demo 1: Intro to R]({{ site.url }}/teaching/ecology/summersections/demo_1_introtoR/){:target="_blank"}  
 * [Section 1: Temperature as a constraint]({{ site.url }}/teaching/ecology/summersections/section_1_temperature/){:target="_blank"}  
