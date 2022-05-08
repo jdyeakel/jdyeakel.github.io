@@ -9,9 +9,18 @@ image:
 
 <!-- <span style="font-size:1em;">School of Natural Sciences @ UC-Merced</span> --> 
 
-### Life & Environmental Sciences @ UC-Merced
+## Eco-evolutionary theory | Life & Environmental Sciences 
 
-> ## ~News~  
+<p>
+  <span class="firstcharacter">W</span>
+  e are a diverse group of ecologists and evolutionary biologists who investigate how nature works using a combination of theory, statistical approaches, and sometimes even data. The questions that we investigate range from understanding what rodents eat and why, to uncovering energetic thresholds constraining mammalian body size evolution, to predicting when crickets should lose their chirp, to exploring the effects of assembly and engineers on ecological communities, to predicting behavioral transitions among mammalian carnivores. While our interests are varied, we aim to apply simple models in mature ways to uncover the fundamental processes governing the dynamics of ecological and evolutionary systems in both the past and present.
+</p>
+
+---
+
+### News & Updates  
+> *08/15/21*: Congratulations to Ritwika VPS for successfully defending her Ph.D. thesis!
+> <br>  
 > *07/03/20*: New paper on the role of ecosystem engineers in ecological networks, published in *Nature Communications*: [Diverse interactions and ecosystem engineering can stabilize community assembly](https://www.nature.com/articles/s41467-020-17164-x){:target="_blank"}
 > <br>  
 > *06/18/20*: New paper on the caching strategies of rodent foragers in the American Southwest, published in *American Naturalist*: [Caching in or falling back at the sevilleta: The effects of body size and seasonal uncertainty on desert rodent foraging](https://www.journals.uchicago.edu/doi/10.1086/709019){:target="_blank"}
