@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-<title type="text">Yeakel Lab @ UC-Merced</title>
+<title type="text">Yeakel Group</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="//jdyeakel.github.io/feed.xml" />
 <link rel="alternate" type="text/html" href="//jdyeakel.github.io" />
-<updated>2022-04-28T17:38:03-07:00</updated>
+<updated>2022-05-08T13:17:36-07:00</updated>
 <id>//jdyeakel.github.io/</id>
 <author>
-  <name>Justin D. Yeakel</name>
+  <name>J. D. Yeakel</name>
   <uri>//jdyeakel.github.io/</uri>
   <email>jdyeakel@gmail.com</email>
 </author>
@@ -20,7 +20,7 @@
   <published>2015-02-09T09:40:26-08:00</published>
   <updated>2015-02-09T09:40:26-08:00</updated>
   <author>
-    <name>Justin D. Yeakel</name>
+    <name>J. D. Yeakel</name>
     <uri>//jdyeakel.github.io</uri>
     <email>jdyeakel@gmail.com</email>
   </author>
@@ -49,7 +49,7 @@ Importantly, this added uncertainty did not have a significant influence on our 
 
 &lt;p&gt;Read the letter by Evans &lt;a href=&quot;http://www.pnas.org/content/112/3/E239.extract.html?etoc&quot;&gt;here&lt;/a&gt;, the letter by Bar-Oz &lt;a href=&quot;http://www.pnas.org/content/112/3/E238.extract.html?etoc&quot;&gt;here&lt;/a&gt;, and our response to both &lt;a href=&quot;http://www.pnas.org/content/112/3/E240.extract.html?etoc&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;//jdyeakel.github.io/posts/rebuttal-in-pnas/&quot;&gt;Rebuttal in PNAS&lt;/a&gt; was originally published by Justin D. Yeakel at &lt;a href=&quot;//jdyeakel.github.io&quot;&gt;Yeakel Lab @ UC-Merced&lt;/a&gt; on February 09, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;//jdyeakel.github.io/posts/rebuttal-in-pnas/&quot;&gt;Rebuttal in PNAS&lt;/a&gt; was originally published by J. D. Yeakel at &lt;a href=&quot;//jdyeakel.github.io&quot;&gt;Yeakel Group&lt;/a&gt; on February 09, 2015.&lt;/p&gt;</content>
 </entry>
 
 
@@ -60,7 +60,7 @@ Importantly, this added uncertainty did not have a significant influence on our 
   <published>2014-11-04T17:26:47-08:00</published>
   <updated>2014-11-04T17:26:47-08:00</updated>
   <author>
-    <name>Justin D. Yeakel</name>
+    <name>J. D. Yeakel</name>
     <uri>//jdyeakel.github.io</uri>
     <email>jdyeakel@gmail.com</email>
   </author>
@@ -74,7 +74,7 @@ So I flew out to Vancouver, managed to get downtown by 3:00pm to meet with Jon M
 &lt;br /&gt;
 In case you’re interested, my talk was on our recent Egyptian ecology research, which you can read about &lt;a href=&quot;/posts/collapse-of-an-ancient-egyptian-food-web-in-pnas&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;//jdyeakel.github.io/posts/gsa-travel-fail/&quot;&gt;GSA Travel Fail&lt;/a&gt; was originally published by Justin D. Yeakel at &lt;a href=&quot;//jdyeakel.github.io&quot;&gt;Yeakel Lab @ UC-Merced&lt;/a&gt; on November 04, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;//jdyeakel.github.io/posts/gsa-travel-fail/&quot;&gt;GSA Travel Fail&lt;/a&gt; was originally published by J. D. Yeakel at &lt;a href=&quot;//jdyeakel.github.io&quot;&gt;Yeakel Group&lt;/a&gt; on November 04, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -85,13 +85,13 @@ In case you’re interested, my talk was on our recent Egyptian ecology research
   <published>2014-10-10T09:56:01-07:00</published>
   <updated>2014-10-10T09:56:01-07:00</updated>
   <author>
-    <name>Justin D. Yeakel</name>
+    <name>J. D. Yeakel</name>
     <uri>//jdyeakel.github.io</uri>
     <email>jdyeakel@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;This is my first post to my GitHub website powered by Jekyll. I have a lot to learn.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;//jdyeakel.github.io/posts/first-post/&quot;&gt;New Website&lt;/a&gt; was originally published by Justin D. Yeakel at &lt;a href=&quot;//jdyeakel.github.io&quot;&gt;Yeakel Lab @ UC-Merced&lt;/a&gt; on October 10, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;//jdyeakel.github.io/posts/first-post/&quot;&gt;New Website&lt;/a&gt; was originally published by J. D. Yeakel at &lt;a href=&quot;//jdyeakel.github.io&quot;&gt;Yeakel Group&lt;/a&gt; on October 10, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -102,7 +102,7 @@ In case you’re interested, my talk was on our recent Egyptian ecology research
   <published>2014-09-07T23:00:00-07:00</published>
   <updated>2014-09-07T23:00:00-07:00</updated>
   <author>
-    <name>Justin D. Yeakel</name>
+    <name>J. D. Yeakel</name>
     <uri>//jdyeakel.github.io</uri>
     <email>jdyeakel@gmail.com</email>
   </author>
@@ -148,7 +148,7 @@ In case you’re interested, my talk was on our recent Egyptian ecology research
 
 &lt;p&gt;The importance of studying ancient ecosystems is vital for modern conservation efforts. This seems to be a strange declaration at face value – ancient ecosystems have long passed and don’t often seem immediately relevant. However, the world that we live in has been significantly altered in the past 5000 years by both climatic and human-induced impacts. The latter has played a particularly important role in the past few hundred years. Gaining insight in how such impacts have altered the functioning of ecological communities is important because is provides a baseline by which modern and future impacts can be measured. Furthermore, for animals that are long-lived, such as mammals, looking into the past is one of the only ways that we can observe long-term trends, as well as the potential impacts of large perturbations that can’t be recreated in laboratory settings. We hope that our analysis of the community in Ancient Egypt stimulates some thoughtful discussions on the role paleoecological inference with respect to modern conservation efforts.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;//jdyeakel.github.io/posts/collapse-of-an-ancient-egyptian-food-web-in-pnas/&quot;&gt;Collapse of an Ancient Egyptian Food Web in PNAS&lt;/a&gt; was originally published by Justin D. Yeakel at &lt;a href=&quot;//jdyeakel.github.io&quot;&gt;Yeakel Lab @ UC-Merced&lt;/a&gt; on September 07, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;//jdyeakel.github.io/posts/collapse-of-an-ancient-egyptian-food-web-in-pnas/&quot;&gt;Collapse of an Ancient Egyptian Food Web in PNAS&lt;/a&gt; was originally published by J. D. Yeakel at &lt;a href=&quot;//jdyeakel.github.io&quot;&gt;Yeakel Group&lt;/a&gt; on September 07, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -159,7 +159,7 @@ In case you’re interested, my talk was on our recent Egyptian ecology research
   <published>2014-08-24T23:00:00-07:00</published>
   <updated>2014-08-24T23:00:00-07:00</updated>
   <author>
-    <name>Justin D. Yeakel</name>
+    <name>J. D. Yeakel</name>
     <uri>//jdyeakel.github.io</uri>
     <email>jdyeakel@gmail.com</email>
   </author>
@@ -173,7 +173,7 @@ In case you’re interested, my talk was on our recent Egyptian ecology research
 
 &lt;p&gt;We hope that this method illustrates a different way of looking at an old problem, and think that it has particular relevance to relatively new fisheries where long-term time-series data do not exist. It offers a way to explore different aspects of fish reproduction, while remaining in a modeling framework rooted in biological mechanisms. I think the most interesting parts of these ideas are illustrated with respect to age-structured models, where the dynamics become complex.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;//jdyeakel.github.io/posts/a-perturbation-approach-to-explore-stock-recruitment-relationships/&quot;&gt;A Perturbation Approach to Explore Stock Recruitment Relationships&lt;/a&gt; was originally published by Justin D. Yeakel at &lt;a href=&quot;//jdyeakel.github.io&quot;&gt;Yeakel Lab @ UC-Merced&lt;/a&gt; on August 24, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;//jdyeakel.github.io/posts/a-perturbation-approach-to-explore-stock-recruitment-relationships/&quot;&gt;A Perturbation Approach to Explore Stock Recruitment Relationships&lt;/a&gt; was originally published by J. D. Yeakel at &lt;a href=&quot;//jdyeakel.github.io&quot;&gt;Yeakel Group&lt;/a&gt; on August 24, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -184,7 +184,7 @@ In case you’re interested, my talk was on our recent Egyptian ecology research
   <published>2014-02-27T23:00:00-08:00</published>
   <updated>2014-02-27T23:00:00-08:00</updated>
   <author>
-    <name>Justin D. Yeakel</name>
+    <name>J. D. Yeakel</name>
     <uri>//jdyeakel.github.io</uri>
     <email>jdyeakel@gmail.com</email>
   </author>
@@ -207,7 +207,7 @@ In case you’re interested, my talk was on our recent Egyptian ecology research
 &lt;p&gt;Moore JW, Yeakel JD, Peard D, Lough J, Beere M. Life-history diversity and its importance to population stability and persistence of a migratory fish: steelhead in two large North American watersheds. Journal of Animal Ecology. DOI: 10.1111/1365-2656.12212 [link]&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;//jdyeakel.github.io/posts/exploring-the-life-history-diversity-of-steelhead-salmon/&quot;&gt;Exploring the Life History Diversity of Steelhead Salmon&lt;/a&gt; was originally published by Justin D. Yeakel at &lt;a href=&quot;//jdyeakel.github.io&quot;&gt;Yeakel Lab @ UC-Merced&lt;/a&gt; on February 27, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;//jdyeakel.github.io/posts/exploring-the-life-history-diversity-of-steelhead-salmon/&quot;&gt;Exploring the Life History Diversity of Steelhead Salmon&lt;/a&gt; was originally published by J. D. Yeakel at &lt;a href=&quot;//jdyeakel.github.io&quot;&gt;Yeakel Group&lt;/a&gt; on February 27, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -218,7 +218,7 @@ In case you’re interested, my talk was on our recent Egyptian ecology research
   <published>2013-12-08T23:00:00-08:00</published>
   <updated>2013-12-08T23:00:00-08:00</updated>
   <author>
-    <name>Justin D. Yeakel</name>
+    <name>J. D. Yeakel</name>
     <uri>//jdyeakel.github.io</uri>
     <email>jdyeakel@gmail.com</email>
   </author>
@@ -234,7 +234,7 @@ In case you’re interested, my talk was on our recent Egyptian ecology research
 
 &lt;p&gt;[1] Yeakel, J. D., Moore, J. W., Guimarães, P. R., Jr, &amp;amp; de Aguiar, M. A. M. (2013). Synchronisation and stability in river metapopulation networks. Ecology Letters. doi:10.1111/ele.12228 Link&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;//jdyeakel.github.io/posts/synchronisation-and-stability-in-river-metapopulation-networks-in-ecology-letters/&quot;&gt;Synchronisation and Stability in River Metapopulation Networks in Ecology Letters&lt;/a&gt; was originally published by Justin D. Yeakel at &lt;a href=&quot;//jdyeakel.github.io&quot;&gt;Yeakel Lab @ UC-Merced&lt;/a&gt; on December 08, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;//jdyeakel.github.io/posts/synchronisation-and-stability-in-river-metapopulation-networks-in-ecology-letters/&quot;&gt;Synchronisation and Stability in River Metapopulation Networks in Ecology Letters&lt;/a&gt; was originally published by J. D. Yeakel at &lt;a href=&quot;//jdyeakel.github.io&quot;&gt;Yeakel Group&lt;/a&gt; on December 08, 2013.&lt;/p&gt;</content>
 </entry>
 
 
@@ -245,7 +245,7 @@ In case you’re interested, my talk was on our recent Egyptian ecology research
   <published>2013-09-09T23:00:00-07:00</published>
   <updated>2013-09-09T23:00:00-07:00</updated>
   <author>
-    <name>Justin D. Yeakel</name>
+    <name>J. D. Yeakel</name>
     <uri>//jdyeakel.github.io</uri>
     <email>jdyeakel@gmail.com</email>
   </author>
@@ -279,7 +279,7 @@ In case you’re interested, my talk was on our recent Egyptian ecology research
   &lt;/li&gt;
 &lt;/ol&gt;
 
-  &lt;p&gt;&lt;a href=&quot;//jdyeakel.github.io/posts/exploring-the-constraints-of-hominin-foraging-behaviors/&quot;&gt;Exploring the Constraints of Hominin Foraging Behaviors&lt;/a&gt; was originally published by Justin D. Yeakel at &lt;a href=&quot;//jdyeakel.github.io&quot;&gt;Yeakel Lab @ UC-Merced&lt;/a&gt; on September 09, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;//jdyeakel.github.io/posts/exploring-the-constraints-of-hominin-foraging-behaviors/&quot;&gt;Exploring the Constraints of Hominin Foraging Behaviors&lt;/a&gt; was originally published by J. D. Yeakel at &lt;a href=&quot;//jdyeakel.github.io&quot;&gt;Yeakel Group&lt;/a&gt; on September 09, 2013.&lt;/p&gt;</content>
 </entry>
 
 
@@ -290,7 +290,7 @@ In case you’re interested, my talk was on our recent Egyptian ecology research
   <published>2013-05-13T23:00:00-07:00</published>
   <updated>2013-05-13T23:00:00-07:00</updated>
   <author>
-    <name>Justin D. Yeakel</name>
+    <name>J. D. Yeakel</name>
     <uri>//jdyeakel.github.io</uri>
     <email>jdyeakel@gmail.com</email>
   </author>
@@ -303,7 +303,7 @@ In case you’re interested, my talk was on our recent Egyptian ecology research
 	&lt;figcaption&gt;&lt;a href=&quot;/images/mammoth.jpg&quot; title=&quot;Mammoth tusks are still found in the arctic landscape, remnants of the mammoth steppe ecosystem that supported a diverse assemblage of large-bodied mammals.&quot;&gt;Mammoth tusks are still found in the arctic landscape, remnants of the mammoth steppe ecosystem that supported a diverse assemblage of large-bodied mammals.&lt;/a&gt;.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-  &lt;p&gt;&lt;a href=&quot;//jdyeakel.github.io/posts/dietary-flexibility-food-webs-and-the-last-glacial-maximum/&quot;&gt;Dietary Flexibility, Food Webs, and the Last Glacial Maximum&lt;/a&gt; was originally published by Justin D. Yeakel at &lt;a href=&quot;//jdyeakel.github.io&quot;&gt;Yeakel Lab @ UC-Merced&lt;/a&gt; on May 13, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;//jdyeakel.github.io/posts/dietary-flexibility-food-webs-and-the-last-glacial-maximum/&quot;&gt;Dietary Flexibility, Food Webs, and the Last Glacial Maximum&lt;/a&gt; was originally published by J. D. Yeakel at &lt;a href=&quot;//jdyeakel.github.io&quot;&gt;Yeakel Group&lt;/a&gt; on May 13, 2013.&lt;/p&gt;</content>
 </entry>
 
 </feed>

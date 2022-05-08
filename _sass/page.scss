@@ -2,6 +2,9 @@ body {
 	background-color: $bodycolor;
 	font-family: $base-font;
 	color: $text-color;
+	font-weight: 600;
+	font-size: 1.2em;
+	text-align: justify;
 }
 .navigation-wrapper {
 	@include container;
@@ -310,10 +313,12 @@ $button-size: 1.5rem;
 .article-author-bottom {
 	h3 {
 		margin-bottom: 0;
+		text-align: left;
 	}
 	p {
 		font-size: 80%;
 		font-style: italic;
+		text-align: left;
 	}
 	a, a:hover {
 		border-bottom: 0 solid transparent;

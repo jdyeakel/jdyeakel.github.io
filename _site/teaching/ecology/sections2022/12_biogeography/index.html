@@ -5,7 +5,7 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
 <meta charset="utf-8">
-<title>Section 12 :: Island Biogeography &#8211; Yeakel Lab @ UC-Merced</title>
+<title>Section 12 :: Island Biogeography &#8211; Yeakel Group</title>
 
 <meta name="keywords" content="about, Jekyll, theme, responsive">
 
@@ -25,14 +25,14 @@
 <meta property="og:title" content="Section 12 :: Island Biogeography">
 
 <meta property="og:url" content="//jdyeakel.github.io/teaching/ecology/sections2022/12_biogeography/">
-<meta property="og:site_name" content="Yeakel Lab @ UC-Merced">
+<meta property="og:site_name" content="Yeakel Group">
 
 
 
 
 
 <link rel="canonical" href="//jdyeakel.github.io/teaching/ecology/sections2022/12_biogeography/">
-<link href="//jdyeakel.github.io/feed.xml" type="application/atom+xml" rel="alternate" title="Yeakel Lab @ UC-Merced Feed">
+<link href="//jdyeakel.github.io/feed.xml" type="application/atom+xml" rel="alternate" title="Yeakel Group Feed">
 
 
 <!-- http://t.co/dKP3o1e -->
@@ -70,6 +70,10 @@
 <!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
 <link rel="apple-touch-icon-precomposed" sizes="144x144" href="//jdyeakel.github.io/images/apple-touch-icon-144x144-precomposed.png">
 
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;600&display=swap" rel="stylesheet">
+
 <!-- Mathjax Support -->
 <script type="text/javascript" async
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
@@ -84,7 +88,7 @@
 
 <div class="navigation-wrapper">
 	<div class="site-name">
-		<a href="//jdyeakel.github.io">Yeakel Lab @ UC-Merced</a>
+		<a href="//jdyeakel.github.io">Yeakel Group</a>
 	</div><!-- /.site-name -->
 	<div class="top-navigation">
 		<nav role="navigation" id="site-nav" class="nav">
@@ -123,7 +127,7 @@
 	  
 
 
-	<img src="//jdyeakel.github.io/images/ecology/elephants_small.jpg" class="bio-photo" alt="Justin D. Yeakel bio photo"></a>
+	<img src="//jdyeakel.github.io/images/ecology/elephants_small.jpg" class="bio-photo" alt="J. D. Yeakel bio photo"></a>
 
 <h3>Fundamentals of Ecology</h3>
 <p>"The Earth is what we all have in common"<br> -Wendell Barry</p>
@@ -163,9 +167,12 @@
 
 <p>The central processes unifying the <em>Theory of Island Biogeography</em> include <em>colonization</em> and <em>extinction</em> dynamics. Colonization details the rate at which species immigrate to an island, and extinction details the rate at which species go extinct. Keep in mind that for this exercise we are not specifying one species from another… so our collection of species, while they involve weedy perennials, shrubs, insects, birds, reptiles and perhaps a few mammals thrown in for good measure, will remain to us just a collection of species with no discernable identifications. However, keep in the back of your mind the story that initiated this activity… the order in which species arrive <em>should</em> matter, even though we will not be considering these important details here.</p>
 
-<p>On the mainland we have a community of \(P\) species (for the species ‘Pool’). We want to build an expectation for how the number of species on the nearby island \(S\) will assemble from this mainland species pool. We can establish a few rules straight away.<br />
-    * 1) Immigration of species from the pool \(P\) to the island will increase island species richness \(S\).<br />
-    * 2) Extinction of species on the island will decrease island species richness \(S\)</p>
+<p>On the mainland we have a community of \(P\) species (for the species ‘Pool’). We want to build an expectation for how the number of species on the nearby island \(S\) will assemble from this mainland species pool. We can establish a few rules straight away.</p>
+
+<ul>
+  <li>1) Immigration of species from the pool \(P\) to the island will increase island species richness \(S\).</li>
+  <li>2) Extinction of species on the island will decrease island species richness \(S\)</li>
+</ul>
 
 <p>With this as a starting point, we can build an equation for \({\rm d}S/{\rm d}t\):</p>
 
@@ -173,7 +180,7 @@
 \frac{\rm d}{\rm dt}S = \frac{\rm Number~immigrations}{\rm time} - \frac{\rm Number~extinctions}{\rm time}
 \end{equation}\]
 
-<p>Let’s now specify a few variables. Let’s let \(\lambda_S\) be the number of species immigrating per unit time, and \(\mu_S\) be the number of species going extinct per unit time, so we will rewrite the above equation as</p>
+<p>Let’s now specify a few parameters. Let’s let \(\lambda_S\) be the number of species immigrating per unit time, and \(\mu_S\) be the number of species going extinct per unit time, so we will rewrite the above equation as</p>
 
 \[\begin{equation}
 \frac{\rm d}{\rm dt}S = \lambda_S - \mu_S.
@@ -187,7 +194,7 @@
   <li>3) An extrapolation: to make this model as simple as possible, let’s imagine that the immigration rate linearly decreases from some maximum rate \(\lambda_S=I\) when \(S=0\) to \(\lambda_S = 0\) when \(S=P\).</li>
 </ul>
 
-<p>These relationships give us a linear equation for \(\lamdba_S(S)\) over \(S\), in other words</p>
+<p>These relationships give us a linear equation for \(\lambda_S(S)\) over \(S\), in other words</p>
 
 \[\begin{equation}
 \frac{\rm d}{\rm dt}S = (I - \frac{I}{P}S) - \mu_S(S).
@@ -220,42 +227,7 @@
   </ol>
 </blockquote>
 
-<div class="language-R highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="w">    </span><span class="n">library</span><span class="p">(</span><span class="n">RColorBrewer</span><span class="p">)</span><span class="w">
-    </span><span class="n">library</span><span class="p">(</span><span class="n">deSolve</span><span class="p">)</span><span class="w">
-    </span><span class="n">pal</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">brewer.pal</span><span class="p">(</span><span class="m">3</span><span class="p">,</span><span class="s1">'Set1'</span><span class="p">)</span><span class="w">
-    </span><span class="c1"># Define the Rates function</span><span class="w">
-    </span><span class="n">islandbiogeo</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">function</span><span class="p">(</span><span class="n">P</span><span class="p">,</span><span class="n">I</span><span class="p">,</span><span class="n">E</span><span class="p">,</span><span class="n">Sstart</span><span class="p">,</span><span class="n">tmax</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w">
-        </span><span class="c1"># LV.comp = function(r1,r2,alpha,beta,K1,K2,N1start,N2start,tmax) {</span><span class="w">
-        </span><span class="n">yini</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="n">S</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">Sstart</span><span class="p">)</span><span class="w">
-        
-        </span><span class="n">fmap</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">function</span><span class="w"> </span><span class="p">(</span><span class="n">t</span><span class="p">,</span><span class="w"> </span><span class="n">y</span><span class="p">,</span><span class="w"> </span><span class="n">parms</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w">
-        </span><span class="n">with</span><span class="p">(</span><span class="n">as.list</span><span class="p">(</span><span class="n">y</span><span class="p">),</span><span class="w"> </span><span class="p">{</span><span class="w">
-            </span><span class="n">dS</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">I</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="p">(</span><span class="n">I</span><span class="o">/</span><span class="n">P</span><span class="p">)</span><span class="o">*</span><span class="n">y</span><span class="p">[</span><span class="m">1</span><span class="p">]</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="p">(</span><span class="n">E</span><span class="o">/</span><span class="n">P</span><span class="p">)</span><span class="o">*</span><span class="n">y</span><span class="p">[</span><span class="m">1</span><span class="p">]</span><span class="w">
-            </span><span class="nf">list</span><span class="p">(</span><span class="nf">c</span><span class="p">(</span><span class="n">dS</span><span class="p">))</span><span class="w">
-        </span><span class="p">})</span><span class="w">
-        </span><span class="p">}</span><span class="w">
-        
-        </span><span class="n">times</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">seq</span><span class="p">(</span><span class="n">from</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0</span><span class="p">,</span><span class="w"> </span><span class="n">to</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">tmax</span><span class="p">,</span><span class="w"> </span><span class="n">by</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.1</span><span class="p">)</span><span class="w"> 
-        </span><span class="n">out</span><span class="w">   </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ode</span><span class="p">(</span><span class="n">y</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">yini</span><span class="p">,</span><span class="w"> </span><span class="n">times</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">times</span><span class="p">,</span><span class="w"> </span><span class="n">func</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">fmap</span><span class="p">,</span><span class="w"> </span><span class="n">parms</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">NULL</span><span class="p">)</span><span class="w">
-
-        </span><span class="n">Straj</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">out</span><span class="p">[,</span><span class="m">2</span><span class="p">];</span><span class="w">
-        </span><span class="n">timeline</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">out</span><span class="p">[,</span><span class="m">1</span><span class="p">];</span><span class="w">
-
-        </span><span class="n">Send</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">tail</span><span class="p">(</span><span class="n">Straj</span><span class="p">,</span><span class="n">n</span><span class="o">=</span><span class="m">1</span><span class="p">)</span><span class="w">
-
-        </span><span class="n">maxtraj</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">max</span><span class="p">(</span><span class="nf">c</span><span class="p">(</span><span class="n">Straj</span><span class="p">));</span><span class="w">
-
-        </span><span class="n">Ssize</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">maxtraj</span><span class="o">*</span><span class="m">1.2</span><span class="p">;</span><span class="w">
-
-        </span><span class="n">par</span><span class="p">(</span><span class="n">fig</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="m">0</span><span class="p">,</span><span class="m">1</span><span class="p">,</span><span class="m">0</span><span class="p">,</span><span class="m">1</span><span class="p">))</span><span class="w">
-        </span><span class="n">plot</span><span class="p">(</span><span class="n">timeline</span><span class="p">,</span><span class="n">Straj</span><span class="p">,</span><span class="n">type</span><span class="o">=</span><span class="s1">'l'</span><span class="p">,</span><span class="n">col</span><span class="o">=</span><span class="n">pal</span><span class="p">[</span><span class="m">1</span><span class="p">],</span><span class="n">xlab</span><span class="o">=</span><span class="s1">'Time'</span><span class="p">,</span><span class="n">ylab</span><span class="o">=</span><span class="s1">'Species Richness'</span><span class="p">,</span><span class="n">lwd</span><span class="o">=</span><span class="m">2</span><span class="p">,</span><span class="n">ylim</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="m">0</span><span class="p">,</span><span class="n">maxtraj</span><span class="p">))</span><span class="w">
-
-    </span><span class="p">}</span><span class="w">
-    </span><span class="c1"># Plug in parameter values and run</span><span class="w">
-    </span><span class="n">islandbiogeo</span><span class="p">(</span><span class="n">P</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">200</span><span class="p">,</span><span class="w"> </span><span class="n">I</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">1</span><span class="p">,</span><span class="w"> </span><span class="n">E</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.5</span><span class="p">,</span><span class="w"> </span><span class="n">Sstart</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0</span><span class="p">,</span><span class="w"> </span><span class="n">tmax</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">100</span><span class="p">)</span><span class="w">
-</span></code></pre></div></div>
-
-<iframe width="100%" height="500" src="https://rdrr.io/snippets/embed/?code=%23Paste%20code%20here" frameborder="0"></iframe>
+<iframe src="https://www.wolframcloud.com/obj/4cd5d43d-5a8f-4ec1-9a5e-d920b0bed91e?_embed=iframe" width="600" height="600"></iframe>
 
 <h2 id="island-biogeography-in-the-real-world">Island Biogeography in the real world</h2>
 
@@ -274,6 +246,12 @@
     <li>How should the extinction rate change with island size or distance?</li>
   </ol>
 </blockquote>
+
+<figure>
+<img src="//jdyeakel.github.io/images/ecology/simberloff2.png" width="700" />
+<figcaption> The mangrove island experiment (Simberloff &amp; Wilson, 1969).
+</figcaption>
+</figure>
 
 <p>The experiment Simberloff devised is both simple and a bit nutty. He selected a number of mangrove islands off the coast of Florida of varying sizes and distances from the mainland, which hosted diverse arthopod communities. He surrounded each mangrove island with a metal frame, covered it with fumigation tarps, and gassed the arthropods into oblivion. Following these localized ‘mass extinction’ events, Simberloff and colleagues observed the recolonization of the mangrove islands, documenting which species arrived and when. We will now examine these data below.</p>
 
@@ -403,6 +381,46 @@
   </ol>
 </blockquote>
 
+<!-- 
+
+```R
+    library(RColorBrewer)
+    library(deSolve)
+    pal = brewer.pal(3,'Set1')
+    # Define the Rates function
+    islandbiogeo = function(P,I,E,Sstart,tmax) {
+        # LV.comp = function(r1,r2,alpha,beta,K1,K2,N1start,N2start,tmax) {
+        yini = c(S = Sstart)
+        
+        fmap = function (t, y, parms) {
+        with(as.list(y), {
+            dS <- I - (I/P)*y[1] - (E/P)*y[1]
+            list(c(dS))
+        })
+        }
+        
+        times <- seq(from = 0, to = tmax, by = 0.1) 
+        out   <- ode(y = yini, times = times, func = fmap, parms = NULL)
+
+        Straj = out[,2];
+        timeline = out[,1];
+
+        Send = tail(Straj,n=1)
+
+        maxtraj = max(c(Straj));
+
+        Ssize = maxtraj*1.2;
+
+        par(fig = c(0,1,0,1))
+        plot(timeline,Straj,type='l',col=pal[1],xlab='Time',ylab='Species Richness',lwd=2,ylim = c(0,maxtraj))
+
+    }
+    # Plug in parameter values and run
+    islandbiogeo(P = 200, I = 1, E = 0.5, Sstart = 0, tmax = 100)
+```
+
+
+<iframe width='100%' height='500' src='https://rdrr.io/snippets/embed/?code=%23Paste%20code%20here' frameborder='0'></iframe> -->
 
     </div><!-- /.article-wrap -->
     
@@ -423,7 +441,7 @@
   </script>
 </div><!-- /.google-ads -->
 
-<span>&copy; 2022 Justin D. Yeakel. Powered by <a href="http://jekyllrb.com">Jekyll</a> using the <a href="http://mademistakes.com/minimal-mistakes/">Minimal Mistakes</a> theme.</span>
+<span>&copy; 2022 J. D. Yeakel. Powered by <a href="http://jekyllrb.com">Jekyll</a> using the <a href="http://mademistakes.com/minimal-mistakes/">Minimal Mistakes</a> theme.</span>
 
   </footer>
 </div><!-- /.footer-wrap -->

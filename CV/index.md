@@ -7,7 +7,7 @@ comments: true
 ---
 
 Justin Douglas Yeakel  
-Assistant Professor  
+Associate Professor  
 School of Natural Sciences  
 University of California, Merced  
 Email: jdyeakel at gmail.com  

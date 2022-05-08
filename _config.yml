@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Yeakel Lab @ UC-Merced
+title:            Yeakel Group
 locale:           en_US
 url:              //jdyeakel.github.io
 # url:              http://localhost:4000
@@ -27,9 +27,9 @@ kramdown:
 
 # Site owner
 owner:
-  name: Justin D. Yeakel
+  name: J. D. Yeakel
   avatar: justin-web.jpg
-  bio: "Associate professor at UC-Merced; 
+  bio: "Associate professor at UC-Merced; <br>
 Former Omidyar Fellow at the Santa Fe Institute"
   email: jdyeakel@gmail.com 
   disqus-shortname: 
