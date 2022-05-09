@@ -32,7 +32,10 @@ I generally use network-theoretic approaches – combined with empirical measure
 -->
 
 
-## Who we are
+## The Ka-Tet
+
+> $$\mathbf K \[a\] - T \epsilon t$$: a group of people drawn together by ka for a purpose.
+
 
 <span style="text-align=left;font-size:1.5em;color:#4292E5;">Principal Investigator</span>   
 <div>
