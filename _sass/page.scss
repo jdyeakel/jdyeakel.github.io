@@ -2,8 +2,8 @@ body {
 	background-color: $bodycolor;
 	font-family: $base-font;
 	color: $text-color;
-	font-weight: 600;
-	font-size: 1.2em;
+	font-weight: 500;
+	font-size: 1.4em;
 	text-align: justify;
 }
 .navigation-wrapper {
@@ -643,8 +643,8 @@ $button-size: 1.5rem;
 .firstcharacter {
 	color:  #555555;;
 	float: left;
-	font-family: Georgia;
-	font-size: 75px;
+	font-family: $base-font;
+	font-size: 80px;
 	line-height: 60px;
 	padding-top: 4px;
 	padding-right: 8px;

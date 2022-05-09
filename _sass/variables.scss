@@ -15,7 +15,7 @@ $body-color     : $bodycolor;
 $textcolor      : #333332;
 $text-color     : $textcolor;
 $border-color   : $text-color;
-$basecolor 		  : #4292E5;	  
+$basecolor 		  : #207de1;	  
 $compcolor 		  : spin($basecolor, 180); 
 $bordercolor    : $basecolor;
 $white          : #fff;
@@ -30,7 +30,7 @@ $danger				: #C64537;
 $info				  : #308cbc;
 
 // Links #343434
-$linkcolor 		    : #4292E5;
+$linkcolor 		    : #207de1;
 $link-color       : $linkcolor;
 $linkcolorhover 	: darken($linkcolor, 10);
 $linkcolorvisited : lighten($linkcolorhover, 0);
