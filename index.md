@@ -3,7 +3,7 @@ layout: page
 excerpt: "Quantitative ecology, population dynamics, ecological networks"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: aspens4.jpg
+  feature: aspens4high.jpg
   credit: jdyeakel
 ---
 
