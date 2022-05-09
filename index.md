@@ -9,7 +9,7 @@ image:
 
 <!-- <span style="font-size:1em;">School of Natural Sciences @ UC-Merced</span> --> 
 
-## Eco-evolutionary theory | Life & Environmental Sciences 
+## Eco-evolutionary theory $$\beacuse$$ Life & Environmental Sciences 
 
 <p>
   <span class="firstcharacter">W</span>
