@@ -1,6 +1,6 @@
 ---
 layout: pagetrimnobio
-title: "Fundamentals of Ecology :: Spring, 2022"
+title: "Fundamentals of Ecology :: Summer, 2022"
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
@@ -10,7 +10,7 @@ image:
 ---
 
 ## Welcome!
-Welcome to the course website for ***Fundamentals of Ecology***. This semester we will be running both in person and remote when the situation requires. When we are remote, we will be having lecture and/or discussion sections synchronously on ZOOM (links below). This will be the primary site that will host course information and changes to the schedule, as well as your Discussion Section activities. The Catcourses, or Canvas, site for this course will be used for assessments (e.g. homeworks and possibly exams), course grades, and announcements. See the **syllabus** for details and the **schedule** for information regarding important dates and content.
+Welcome to the course website for ***Fundamentals of Ecology***. This summer course taught remotely. We will be having lecture and discussion sections synchronously on ZOOM (links below). This will be the primary site that will host course information and changes to the schedule, as well as your Discussion Section activities. The Catcourses, or Canvas, site for this course will be used for assessments (e.g. homeworks and exams), course grades, and announcements. See the **syllabus** for details and the **schedule** for information regarding important dates and content.
 
 ---
 
