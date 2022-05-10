@@ -32,9 +32,9 @@ I generally use network-theoretic approaches – combined with empirical measure
 -->
 
 
-## The Ka-Tet
+## The QED Ka-Tet
 
-> $$\mathbf K \[a\] - T \epsilon t$$: a group of people drawn together by ka for a purpose.
+> $$K [a] - T \epsilon t$$: a group of people drawn together by ka for a purpose.
 
 
 <span style="text-align=left;font-size:1.5em;color:#4292E5;">Principal Investigator</span>   
@@ -43,13 +43,16 @@ I generally use network-theoretic approaches – combined with empirical measure
 <b>Justin D. Yeakel:</b> "In a nutshell, I am fascinated by the ecological and physiological constraints that drive trophic interactions between species, and how such interactions trickle up to impact populations and communities over large spatial and temporal scales." <BR> <BR> <BR>
 </div>       
 
-<BR CLEAR="...">   
+<BR CLEAR="...">
 
-<!-- --- 
+---
 
-<span style="text-align=left;font-size:1.5em;color:#4292E5;">Postdoctoral Researchers</span>   
+<span style="text-align=left;font-size:1.5em;color:#4292E5;">Postdoctoral Researchers</span> 
+<div>
+Check back soon...
+</div>     
 
-<BR CLEAR="..."> -->
+<BR CLEAR="...">
 
 ---
 
@@ -63,7 +66,7 @@ I generally use network-theoretic approaches – combined with empirical measure
 
 <div>
 <p style="float: left;padding-right:25px"><img src="/images/Irina-web.jpg" width="125"></p>
- <b><a href="https://birskisbarros.weebly.com/" target="_blank">Irina Birskis Barros</a></b>"I will join UC Merced as a PhD student in Fall 2018. I am interested in how species assemble into communities, especially how diversity shapes and is shaped by species interactions. I aim to use empirical data, mathematical modeling and network theory to investigate how ecological networks assemble and what factors might influence their stability and structure over evolutionary time."  <BR> <BR> <BR> <BR>     
+ <b><a href="https://birskisbarros.weebly.com/" target="_blank">Irina Birskis Barros</a></b> "I am interested in how species assemble into communities, especially how diversity shapes and is shaped by species interactions. I aim to use empirical data, mathematical modeling and network theory to investigate how ecological networks assemble and what factors might influence their stability and structure over evolutionary time."  <BR> <BR> <BR> <BR>     
 </div>     
 
 <BR CLEAR="...">
