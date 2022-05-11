@@ -34,14 +34,12 @@ Publications $${}^\dagger$$contributed equally
 *In prep**)
 -->
 
-<!---
+
 In review
-:	* Gross T., Allhoff K.T., Blasius B., Brose U., Drossel B., Fahimipour A.K., Guill C., <span style="color:#4292E5;">Yeakel J.D.</span>, Zeng F. Modern models of trophic meta-communities. In revision @ *Philosophical Transactions of the Royal Society B*.
+:	* Kim S.L., $${}^\dagger$$<span style="color:#4292E5;">Yeakel J.D.</span>, Balk M.A., Eberle J.J., Zeichner S., Fieman D., Kriwet J. Decoding the dynamics of dental distributions: insights from shark demography and dispersal. In revision @ *Proceedings of the Royal Society B: Biological Sciences*.
 
-	* Pires M.M., O'Donnell J.L., Burkle L.A., Diaz-Castelazo C., Hembry D.H., <span style="color:#4292E5;">Yeakel J.D.</span>, Newman E.A., Medeiros L.P., de Aguiar M.A.M., Guimarães Jr. P.R. The indirect paths to cascading effects of extinctions in mutualistic networks. In revision @ *Ecology*.
+<!-- Preprint -->
 
-Preprint
--->
 
 2021
 :	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1016/j.palaeo.2021.110393"></div> Fannin, L. <span style="color:#4292E5;">Yeakel J.D.</span>,Venkataraman V.V., Seyoum C., Geraads D., Fashing P., Nguyen N., Fox-Dobbs K., Dominy N.J. [Carbon and strontium isotope ratios shed new light on the paleobiology and collapse of *Theropithecus*, a primate experiment in graminivory](https://www.sciencedirect.com/science/article/abs/pii/S0031018221001784){:target="_blank"} *Palaeogeography, Palaeoclimatology, Palaeoecology*.  
