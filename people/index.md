@@ -34,7 +34,7 @@ I generally use network-theoretic approaches – combined with empirical measure
 
 ## The QED Group
 
-> Interested in joining? Read about our research focus [here]({{ site.url }}/research) and explore the science we do by checking out our [publications]({{ site.url }}/CV). If you find this interesting and would like to get in touch, drop me a line at jyeakel🤖ucmerced🤖edu   
+> Interested in joining? Read about our research focus [here]({{ site.url }}/research) and explore the science we do by checking out our [publications]({{ site.url }}/CV). If you find this interesting and would like to get in touch, drop me a line at: ***jyeakel🤖ucmerced🤖edu***   
 
 
 <span style="text-align=left;font-size:1.5em;color:#4292E5;">Principal Investigator</span>   
