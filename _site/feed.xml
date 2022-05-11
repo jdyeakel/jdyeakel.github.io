@@ -2,26 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">Yeakel Group</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="//jdyeakel.github.io/feed.xml" />
-<link rel="alternate" type="text/html" href="//jdyeakel.github.io" />
-<updated>2022-05-09T20:10:52-07:00</updated>
-<id>//jdyeakel.github.io/</id>
+<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
+<link rel="alternate" type="text/html" href="http://localhost:4000" />
+<updated>2022-05-10T20:02:47-07:00</updated>
+<id>http://localhost:4000/</id>
 <author>
   <name>J. D. Yeakel</name>
-  <uri>//jdyeakel.github.io/</uri>
+  <uri>http://localhost:4000/</uri>
   <email>jdyeakel@gmail.com</email>
 </author>
 
 
 <entry>
   <title type="html"><![CDATA[Rebuttal in PNAS]]></title>
-  <link rel="alternate" type="text/html" href="//jdyeakel.github.io/posts/rebuttal-in-pnas/" />
-  <id>//jdyeakel.github.io/posts/rebuttal-in-pnas</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/posts/rebuttal-in-pnas/" />
+  <id>http://localhost:4000/posts/rebuttal-in-pnas</id>
   <published>2015-02-09T09:40:26-08:00</published>
   <updated>2015-02-09T09:40:26-08:00</updated>
   <author>
     <name>J. D. Yeakel</name>
-    <uri>//jdyeakel.github.io</uri>
+    <uri>http://localhost:4000</uri>
     <email>jdyeakel@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;Recently, our paper on reconstructing and analyzing the structure and function of ecological networks in Ancient Egypt (published in PNAS this past September), recieved two letters to the editor.
@@ -49,19 +49,19 @@ Importantly, this added uncertainty did not have a significant influence on our 
 
 &lt;p&gt;Read the letter by Evans &lt;a href=&quot;http://www.pnas.org/content/112/3/E239.extract.html?etoc&quot;&gt;here&lt;/a&gt;, the letter by Bar-Oz &lt;a href=&quot;http://www.pnas.org/content/112/3/E238.extract.html?etoc&quot;&gt;here&lt;/a&gt;, and our response to both &lt;a href=&quot;http://www.pnas.org/content/112/3/E240.extract.html?etoc&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;//jdyeakel.github.io/posts/rebuttal-in-pnas/&quot;&gt;Rebuttal in PNAS&lt;/a&gt; was originally published by J. D. Yeakel at &lt;a href=&quot;//jdyeakel.github.io&quot;&gt;Yeakel Group&lt;/a&gt; on February 09, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/posts/rebuttal-in-pnas/&quot;&gt;Rebuttal in PNAS&lt;/a&gt; was originally published by J. D. Yeakel at &lt;a href=&quot;http://localhost:4000&quot;&gt;Yeakel Group&lt;/a&gt; on February 09, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[GSA Travel Fail]]></title>
-  <link rel="alternate" type="text/html" href="//jdyeakel.github.io/posts/gsa-travel-fail/" />
-  <id>//jdyeakel.github.io/posts/gsa-travel-fail</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/posts/gsa-travel-fail/" />
+  <id>http://localhost:4000/posts/gsa-travel-fail</id>
   <published>2014-11-04T17:26:47-08:00</published>
   <updated>2014-11-04T17:26:47-08:00</updated>
   <author>
     <name>J. D. Yeakel</name>
-    <uri>//jdyeakel.github.io</uri>
+    <uri>http://localhost:4000</uri>
     <email>jdyeakel@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;I’ve always wanted to go to the Geological Society of America conference – I have a lot of friends who are geologists/geophysicists and go every year, and always enjoy it. I finally got a chance to go when I was invited to give a talk on techniques in reconstructing paleo ecosystems at the meeting in Vancouver, so I jumped at the chance. It looked like a great symposium and a fun opportunity to meet some people whose work that I admired.   &lt;br /&gt;
@@ -74,36 +74,36 @@ So I flew out to Vancouver, managed to get downtown by 3:00pm to meet with Jon M
 &lt;br /&gt;
 In case you’re interested, my talk was on our recent Egyptian ecology research, which you can read about &lt;a href=&quot;/posts/collapse-of-an-ancient-egyptian-food-web-in-pnas&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;//jdyeakel.github.io/posts/gsa-travel-fail/&quot;&gt;GSA Travel Fail&lt;/a&gt; was originally published by J. D. Yeakel at &lt;a href=&quot;//jdyeakel.github.io&quot;&gt;Yeakel Group&lt;/a&gt; on November 04, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/posts/gsa-travel-fail/&quot;&gt;GSA Travel Fail&lt;/a&gt; was originally published by J. D. Yeakel at &lt;a href=&quot;http://localhost:4000&quot;&gt;Yeakel Group&lt;/a&gt; on November 04, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[New Website]]></title>
-  <link rel="alternate" type="text/html" href="//jdyeakel.github.io/posts/first-post/" />
-  <id>//jdyeakel.github.io/posts/first-post</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/posts/first-post/" />
+  <id>http://localhost:4000/posts/first-post</id>
   <published>2014-10-10T09:56:01-07:00</published>
   <updated>2014-10-10T09:56:01-07:00</updated>
   <author>
     <name>J. D. Yeakel</name>
-    <uri>//jdyeakel.github.io</uri>
+    <uri>http://localhost:4000</uri>
     <email>jdyeakel@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;This is my first post to my GitHub website powered by Jekyll. I have a lot to learn.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;//jdyeakel.github.io/posts/first-post/&quot;&gt;New Website&lt;/a&gt; was originally published by J. D. Yeakel at &lt;a href=&quot;//jdyeakel.github.io&quot;&gt;Yeakel Group&lt;/a&gt; on October 10, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/posts/first-post/&quot;&gt;New Website&lt;/a&gt; was originally published by J. D. Yeakel at &lt;a href=&quot;http://localhost:4000&quot;&gt;Yeakel Group&lt;/a&gt; on October 10, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Collapse of an Ancient Egyptian Food Web in PNAS]]></title>
-  <link rel="alternate" type="text/html" href="//jdyeakel.github.io/posts/collapse-of-an-ancient-egyptian-food-web-in-pnas/" />
-  <id>//jdyeakel.github.io/posts/collapse-of-an-ancient-egyptian-food-web-in-pnas</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/posts/collapse-of-an-ancient-egyptian-food-web-in-pnas/" />
+  <id>http://localhost:4000/posts/collapse-of-an-ancient-egyptian-food-web-in-pnas</id>
   <published>2014-09-07T23:00:00-07:00</published>
   <updated>2014-09-07T23:00:00-07:00</updated>
   <author>
     <name>J. D. Yeakel</name>
-    <uri>//jdyeakel.github.io</uri>
+    <uri>http://localhost:4000</uri>
     <email>jdyeakel@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;We recently published a &lt;a href=&quot;http://www.pnas.org/content/111/40/14472.abstract&quot;&gt;paper in the Proceedings of the National Academy of Sciences&lt;/a&gt; detailing the collapse of the Egyptian mammalian community across the second half of the Holocene (see this link for the UCSC press release). The project was a collaboration between myself, Mathias Pires, and Lars Rudolf along with coauthors Paulo Guimarães Jr., Nathaniel Dominy, Paul Koch, and Thilo Gross. We used paleontological, archeological, and historical information – including records of artistic works – of species occurrences in Ancient Egypt to reconstruct the pattern of extinctions over ca. 6000 years. Remarkably, some of the largest changes in the community coincided with previously recorded aridification pulses in Egypt that have been associated with cultural collapse and socio-political turnover. We then used mathematical modeling to determine the consequences of the extinctions in Egypt, and found that the loss of species richness had large impacts on the stability of the community as well as the roles of individual species within the ecosystem.&lt;/p&gt;
@@ -148,19 +148,19 @@ In case you’re interested, my talk was on our recent Egyptian ecology research
 
 &lt;p&gt;The importance of studying ancient ecosystems is vital for modern conservation efforts. This seems to be a strange declaration at face value – ancient ecosystems have long passed and don’t often seem immediately relevant. However, the world that we live in has been significantly altered in the past 5000 years by both climatic and human-induced impacts. The latter has played a particularly important role in the past few hundred years. Gaining insight in how such impacts have altered the functioning of ecological communities is important because is provides a baseline by which modern and future impacts can be measured. Furthermore, for animals that are long-lived, such as mammals, looking into the past is one of the only ways that we can observe long-term trends, as well as the potential impacts of large perturbations that can’t be recreated in laboratory settings. We hope that our analysis of the community in Ancient Egypt stimulates some thoughtful discussions on the role paleoecological inference with respect to modern conservation efforts.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;//jdyeakel.github.io/posts/collapse-of-an-ancient-egyptian-food-web-in-pnas/&quot;&gt;Collapse of an Ancient Egyptian Food Web in PNAS&lt;/a&gt; was originally published by J. D. Yeakel at &lt;a href=&quot;//jdyeakel.github.io&quot;&gt;Yeakel Group&lt;/a&gt; on September 07, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/posts/collapse-of-an-ancient-egyptian-food-web-in-pnas/&quot;&gt;Collapse of an Ancient Egyptian Food Web in PNAS&lt;/a&gt; was originally published by J. D. Yeakel at &lt;a href=&quot;http://localhost:4000&quot;&gt;Yeakel Group&lt;/a&gt; on September 07, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[A Perturbation Approach to Explore Stock Recruitment Relationships]]></title>
-  <link rel="alternate" type="text/html" href="//jdyeakel.github.io/posts/a-perturbation-approach-to-explore-stock-recruitment-relationships/" />
-  <id>//jdyeakel.github.io/posts/a-perturbation-approach-to-explore-stock-recruitment-relationships</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/posts/a-perturbation-approach-to-explore-stock-recruitment-relationships/" />
+  <id>http://localhost:4000/posts/a-perturbation-approach-to-explore-stock-recruitment-relationships</id>
   <published>2014-08-24T23:00:00-07:00</published>
   <updated>2014-08-24T23:00:00-07:00</updated>
   <author>
     <name>J. D. Yeakel</name>
-    <uri>//jdyeakel.github.io</uri>
+    <uri>http://localhost:4000</uri>
     <email>jdyeakel@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;We recently published a paper in &lt;a href=&quot;http://link.springer.com/article/10.1007/s12080-014-0230-z&quot;&gt;Theoretical Ecology&lt;/a&gt; where we use Generalized Modeling to explore stock recruitment relationships in fisheries. Models of stock recruitment are fundamental to fish population dynamics, describing how reproduction (in terms of the biomass of new recruits) changes as a function of the density of the current stock. In many resource-limited populations, recruitment increases for lower levels of stock biomass until it levels off at higher levels of stock biomass (described by the Beverton-Holt functional response). In others, particularly when there is cannibalism or nest predation, recruitment increases, reaches a peak, and then decreases for higher levels of stock biomass (described by the Ricker functional response). In open populations, where resources are not necessarily limiting, recruitment may continue to increase with stock biomass (the Cushing functional response).&lt;/p&gt;
@@ -173,19 +173,19 @@ In case you’re interested, my talk was on our recent Egyptian ecology research
 
 &lt;p&gt;We hope that this method illustrates a different way of looking at an old problem, and think that it has particular relevance to relatively new fisheries where long-term time-series data do not exist. It offers a way to explore different aspects of fish reproduction, while remaining in a modeling framework rooted in biological mechanisms. I think the most interesting parts of these ideas are illustrated with respect to age-structured models, where the dynamics become complex.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;//jdyeakel.github.io/posts/a-perturbation-approach-to-explore-stock-recruitment-relationships/&quot;&gt;A Perturbation Approach to Explore Stock Recruitment Relationships&lt;/a&gt; was originally published by J. D. Yeakel at &lt;a href=&quot;//jdyeakel.github.io&quot;&gt;Yeakel Group&lt;/a&gt; on August 24, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/posts/a-perturbation-approach-to-explore-stock-recruitment-relationships/&quot;&gt;A Perturbation Approach to Explore Stock Recruitment Relationships&lt;/a&gt; was originally published by J. D. Yeakel at &lt;a href=&quot;http://localhost:4000&quot;&gt;Yeakel Group&lt;/a&gt; on August 24, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Exploring the Life History Diversity of Steelhead Salmon]]></title>
-  <link rel="alternate" type="text/html" href="//jdyeakel.github.io/posts/exploring-the-life-history-diversity-of-steelhead-salmon/" />
-  <id>//jdyeakel.github.io/posts/exploring-the-life-history-diversity-of-steelhead-salmon</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/posts/exploring-the-life-history-diversity-of-steelhead-salmon/" />
+  <id>http://localhost:4000/posts/exploring-the-life-history-diversity-of-steelhead-salmon</id>
   <published>2014-02-27T23:00:00-08:00</published>
   <updated>2014-02-27T23:00:00-08:00</updated>
   <author>
     <name>J. D. Yeakel</name>
-    <uri>//jdyeakel.github.io</uri>
+    <uri>http://localhost:4000</uri>
     <email>jdyeakel@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;Populations of animals can be quite complex… they can be composed of many different age classes with individuals seeking out different strategies with the common goal of maximizing reproductive fitness over a variable environment. An excellent example of an organism with such complex age-structured populations are Steelhead salmon.&lt;/p&gt;
@@ -207,19 +207,19 @@ In case you’re interested, my talk was on our recent Egyptian ecology research
 &lt;p&gt;Moore JW, Yeakel JD, Peard D, Lough J, Beere M. Life-history diversity and its importance to population stability and persistence of a migratory fish: steelhead in two large North American watersheds. Journal of Animal Ecology. DOI: 10.1111/1365-2656.12212 [link]&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;//jdyeakel.github.io/posts/exploring-the-life-history-diversity-of-steelhead-salmon/&quot;&gt;Exploring the Life History Diversity of Steelhead Salmon&lt;/a&gt; was originally published by J. D. Yeakel at &lt;a href=&quot;//jdyeakel.github.io&quot;&gt;Yeakel Group&lt;/a&gt; on February 27, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/posts/exploring-the-life-history-diversity-of-steelhead-salmon/&quot;&gt;Exploring the Life History Diversity of Steelhead Salmon&lt;/a&gt; was originally published by J. D. Yeakel at &lt;a href=&quot;http://localhost:4000&quot;&gt;Yeakel Group&lt;/a&gt; on February 27, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Synchronisation and Stability in River Metapopulation Networks in Ecology Letters]]></title>
-  <link rel="alternate" type="text/html" href="//jdyeakel.github.io/posts/synchronisation-and-stability-in-river-metapopulation-networks-in-ecology-letters/" />
-  <id>//jdyeakel.github.io/posts/synchronisation-and-stability-in-river-metapopulation-networks-in-ecology-letters</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/posts/synchronisation-and-stability-in-river-metapopulation-networks-in-ecology-letters/" />
+  <id>http://localhost:4000/posts/synchronisation-and-stability-in-river-metapopulation-networks-in-ecology-letters</id>
   <published>2013-12-08T23:00:00-08:00</published>
   <updated>2013-12-08T23:00:00-08:00</updated>
   <author>
     <name>J. D. Yeakel</name>
-    <uri>//jdyeakel.github.io</uri>
+    <uri>http://localhost:4000</uri>
     <email>jdyeakel@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;The immigration and emigration of individuals to and from populations within a metapopulation allows abundant populations to rescue those nearing extinction. This is an important trait of metapopulation dynamics, however this ‘rescue effect’ is destroyed if the populations are synchronized: if all populations are at low abundance at the same time, they cannot rescue each other. Moreover, the structure of interactions within a metapopulation (which controls how individuals can flow from one population to another) has a large impact on the dynamics of the whole system. The structure of a metapopulation may be influenced by any feature on the landscape that influences how an animal moves, including geological features such as mountains, the occurrence of water sources, or the distribution of forests, grasslands, or deserts. In aquatic populations that inhabit rivers, the geological constraints of watersheds dictate which populations interact.&lt;/p&gt;
@@ -234,19 +234,19 @@ In case you’re interested, my talk was on our recent Egyptian ecology research
 
 &lt;p&gt;[1] Yeakel, J. D., Moore, J. W., Guimarães, P. R., Jr, &amp;amp; de Aguiar, M. A. M. (2013). Synchronisation and stability in river metapopulation networks. Ecology Letters. doi:10.1111/ele.12228 Link&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;//jdyeakel.github.io/posts/synchronisation-and-stability-in-river-metapopulation-networks-in-ecology-letters/&quot;&gt;Synchronisation and Stability in River Metapopulation Networks in Ecology Letters&lt;/a&gt; was originally published by J. D. Yeakel at &lt;a href=&quot;//jdyeakel.github.io&quot;&gt;Yeakel Group&lt;/a&gt; on December 08, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/posts/synchronisation-and-stability-in-river-metapopulation-networks-in-ecology-letters/&quot;&gt;Synchronisation and Stability in River Metapopulation Networks in Ecology Letters&lt;/a&gt; was originally published by J. D. Yeakel at &lt;a href=&quot;http://localhost:4000&quot;&gt;Yeakel Group&lt;/a&gt; on December 08, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Exploring the Constraints of Hominin Foraging Behaviors]]></title>
-  <link rel="alternate" type="text/html" href="//jdyeakel.github.io/posts/exploring-the-constraints-of-hominin-foraging-behaviors/" />
-  <id>//jdyeakel.github.io/posts/exploring-the-constraints-of-hominin-foraging-behaviors</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/posts/exploring-the-constraints-of-hominin-foraging-behaviors/" />
+  <id>http://localhost:4000/posts/exploring-the-constraints-of-hominin-foraging-behaviors</id>
   <published>2013-09-09T23:00:00-07:00</published>
   <updated>2013-09-09T23:00:00-07:00</updated>
   <author>
     <name>J. D. Yeakel</name>
-    <uri>//jdyeakel.github.io</uri>
+    <uri>http://localhost:4000</uri>
     <email>jdyeakel@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;Many hominin species are distinguished by their large teeth. Notably, the genus Paranthropus had enormous bunodont molars covered in thick enamel. The evolution of the suite of traits collectively referred to as ‘megadontia’ was doubtless in response to the foods that these animals were consuming. We have just published a paper in the journal Evolution [1, link] where we explore how such traits may have influenced the foraging behaviors of human ancestors using a process-based state-dependent foraging model. The primary assumption in our model is that foraging decisions depend on both the energetic state of the organism (is the organism hungry or not), as well as its enamel volume (what is the state of the organism’s teeth). The attached figure shows a cartoon depiction of the enamel layer on a hominin molar tooth, as well as the simple method we use to approximate enamel volume (which, in terms of total volume across all molar teeth is quite an accurate approximation!).  As we consume foods over our lives, our enamel slowly erodes away. Generally this enamel loss is unnoticeable, and sometimes it is disastrous (for example, if you chip or lose a tooth). If you are a hunter or gatherer living in the wild, such enamel loss will have an impact on what foods you can eat – particularly if the foods that are being sought after have different mechanical properties with different demands on enamel.&lt;/p&gt;
@@ -279,19 +279,19 @@ In case you’re interested, my talk was on our recent Egyptian ecology research
   &lt;/li&gt;
 &lt;/ol&gt;
 
-  &lt;p&gt;&lt;a href=&quot;//jdyeakel.github.io/posts/exploring-the-constraints-of-hominin-foraging-behaviors/&quot;&gt;Exploring the Constraints of Hominin Foraging Behaviors&lt;/a&gt; was originally published by J. D. Yeakel at &lt;a href=&quot;//jdyeakel.github.io&quot;&gt;Yeakel Group&lt;/a&gt; on September 09, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/posts/exploring-the-constraints-of-hominin-foraging-behaviors/&quot;&gt;Exploring the Constraints of Hominin Foraging Behaviors&lt;/a&gt; was originally published by J. D. Yeakel at &lt;a href=&quot;http://localhost:4000&quot;&gt;Yeakel Group&lt;/a&gt; on September 09, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Dietary Flexibility, Food Webs, and the Last Glacial Maximum]]></title>
-  <link rel="alternate" type="text/html" href="//jdyeakel.github.io/posts/dietary-flexibility-food-webs-and-the-last-glacial-maximum/" />
-  <id>//jdyeakel.github.io/posts/dietary-flexibility-food-webs-and-the-last-glacial-maximum</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/posts/dietary-flexibility-food-webs-and-the-last-glacial-maximum/" />
+  <id>http://localhost:4000/posts/dietary-flexibility-food-webs-and-the-last-glacial-maximum</id>
   <published>2013-05-13T23:00:00-07:00</published>
   <updated>2013-05-13T23:00:00-07:00</updated>
   <author>
     <name>J. D. Yeakel</name>
-    <uri>//jdyeakel.github.io</uri>
+    <uri>http://localhost:4000</uri>
     <email>jdyeakel@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;We just had a paper published in the &lt;a href=&quot;http://rspb.royalsocietypublishing.org/content/280/1762/20130239.short?rss=1&quot;&gt;Proceedings of the Royal Society B: Biological Sciences&lt;/a&gt;.&lt;/p&gt;
@@ -303,7 +303,7 @@ In case you’re interested, my talk was on our recent Egyptian ecology research
 	&lt;figcaption&gt;&lt;a href=&quot;/images/mammoth.jpg&quot; title=&quot;Mammoth tusks are still found in the arctic landscape, remnants of the mammoth steppe ecosystem that supported a diverse assemblage of large-bodied mammals.&quot;&gt;Mammoth tusks are still found in the arctic landscape, remnants of the mammoth steppe ecosystem that supported a diverse assemblage of large-bodied mammals.&lt;/a&gt;.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-  &lt;p&gt;&lt;a href=&quot;//jdyeakel.github.io/posts/dietary-flexibility-food-webs-and-the-last-glacial-maximum/&quot;&gt;Dietary Flexibility, Food Webs, and the Last Glacial Maximum&lt;/a&gt; was originally published by J. D. Yeakel at &lt;a href=&quot;//jdyeakel.github.io&quot;&gt;Yeakel Group&lt;/a&gt; on May 13, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/posts/dietary-flexibility-food-webs-and-the-last-glacial-maximum/&quot;&gt;Dietary Flexibility, Food Webs, and the Last Glacial Maximum&lt;/a&gt; was originally published by J. D. Yeakel at &lt;a href=&quot;http://localhost:4000&quot;&gt;Yeakel Group&lt;/a&gt; on May 13, 2013.&lt;/p&gt;</content>
 </entry>
 
 </feed>

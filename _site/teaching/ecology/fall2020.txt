@@ -17,22 +17,22 @@
 <meta name="twitter:creator" content="@jdyeakel">
 
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="//jdyeakel.github.io/images/monterey.jpg">
+<meta name="twitter:image" content="http://localhost:4000/images/monterey.jpg">
 
 <!-- Open Graph -->
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Fundamentals of Ecology :: Fall, 2020">
 
-<meta property="og:url" content="//jdyeakel.github.io/teaching/ecology/fall2020.txt">
+<meta property="og:url" content="http://localhost:4000/teaching/ecology/fall2020.txt">
 <meta property="og:site_name" content="Yeakel Group">
 
 
 
 
 
-<link rel="canonical" href="//jdyeakel.github.io/teaching/ecology/fall2020.txt">
-<link href="//jdyeakel.github.io/feed.xml" type="application/atom+xml" rel="alternate" title="Yeakel Group Feed">
+<link rel="canonical" href="http://localhost:4000/teaching/ecology/fall2020.txt">
+<link href="http://localhost:4000/feed.xml" type="application/atom+xml" rel="alternate" title="Yeakel Group Feed">
 
 
 <!-- http://t.co/dKP3o1e -->
@@ -41,34 +41,34 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <!-- For all browsers -->
-<link rel="stylesheet" href="//jdyeakel.github.io/assets/css/main.css">
+<link rel="stylesheet" href="http://localhost:4000/assets/css/main.css">
 
 <meta http-equiv="cleartype" content="on">
 
 <!-- HTML5 Shiv and Media Query Support -->
 <!--[if lt IE 9]>
-	<script src="//jdyeakel.github.io/assets/js/vendor/html5shiv.min.js"></script>
-	<script src="//jdyeakel.github.io/assets/js/vendor/respond.min.js"></script>
+	<script src="http://localhost:4000/assets/js/vendor/html5shiv.min.js"></script>
+	<script src="http://localhost:4000/assets/js/vendor/respond.min.js"></script>
 <![endif]-->
 
 <!-- Modernizr -->
-<script src="//jdyeakel.github.io/assets/js/vendor/modernizr-2.7.1.custom.min.js"></script>
+<script src="http://localhost:4000/assets/js/vendor/modernizr-2.7.1.custom.min.js"></script>
 
 <link href='//fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700|PT+Serif:400,700,400italic' rel='stylesheet' type='text/css'>
 
 <!-- Icons -->
 <!-- 16x16 -->
-<link rel="shortcut icon" href="//jdyeakel.github.io/favicon.ico">
+<link rel="shortcut icon" href="http://localhost:4000/favicon.ico">
 <!-- 32x32 -->
-<link rel="shortcut icon" href="//jdyeakel.github.io/favicon.png">
+<link rel="shortcut icon" href="http://localhost:4000/favicon.png">
 <!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
-<link rel="apple-touch-icon-precomposed" href="//jdyeakel.github.io/images/apple-touch-icon-precomposed.png">
+<link rel="apple-touch-icon-precomposed" href="http://localhost:4000/images/apple-touch-icon-precomposed.png">
 <!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
-<link rel="apple-touch-icon-precomposed" sizes="72x72" href="//jdyeakel.github.io/images/apple-touch-icon-72x72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://localhost:4000/images/apple-touch-icon-72x72-precomposed.png">
 <!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
-<link rel="apple-touch-icon-precomposed" sizes="114x114" href="//jdyeakel.github.io/images/apple-touch-icon-114x114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://localhost:4000/images/apple-touch-icon-114x114-precomposed.png">
 <!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
-<link rel="apple-touch-icon-precomposed" sizes="144x144" href="//jdyeakel.github.io/images/apple-touch-icon-144x144-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/images/apple-touch-icon-144x144-precomposed.png">
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -88,32 +88,32 @@
 
 <div class="navigation-wrapper">
 	<div class="site-name">
-		<a href="//jdyeakel.github.io">Yeakel Group</a>
+		<a href="http://localhost:4000">Yeakel Group</a>
 	</div><!-- /.site-name -->
 	<div class="top-navigation">
 		<nav role="navigation" id="site-nav" class="nav">
 		    <ul>
 		        
 					    
-					    <li><a href="//jdyeakel.github.io/people/" >People</a></li>
+					    <li><a href="http://localhost:4000/people/" >People</a></li>
 					  
 					    
-					    <li><a href="//jdyeakel.github.io/diversity/" >Diversity</a></li>
+					    <li><a href="http://localhost:4000/diversity/" >Diversity</a></li>
 					  
 					    
-					    <li><a href="//jdyeakel.github.io/research/" >Research</a></li>
+					    <li><a href="http://localhost:4000/research/" >Research</a></li>
 					  
 					    
-					    <li><a href="//jdyeakel.github.io/teaching/" >Teaching</a></li>
+					    <li><a href="http://localhost:4000/teaching/" >Teaching</a></li>
 					  
 					    
-					    <li><a href="//jdyeakel.github.io/collab/" >Collaborators</a></li>
+					    <li><a href="http://localhost:4000/collab/" >Collaborators</a></li>
 					  
 					    
-					    <li><a href="//jdyeakel.github.io/CV/" >Publications</a></li>
+					    <li><a href="http://localhost:4000/CV/" >Publications</a></li>
 					  
 					    
-					    <li><a href="//jdyeakel.github.io/posts/" >Posts</a></li>
+					    <li><a href="http://localhost:4000/posts/" >Posts</a></li>
 					  
 		    </ul>
 		</nav>
@@ -124,7 +124,7 @@
   <div class="image-wrap">
   <img src=
     
-      "//jdyeakel.github.io/images/monterey.jpg"
+      "http://localhost:4000/images/monterey.jpg"
     
   alt="Fundamentals of Ecology :: Fall, 2020 feature image">
   
@@ -136,7 +136,7 @@
 	  
 
 
-	<img src="//jdyeakel.github.io/images/ecology/elephants_small.jpg" class="bio-photo" alt="J. D. Yeakel bio photo"></a>
+	<img src="http://localhost:4000/images/ecology/elephants_small.jpg" class="bio-photo" alt="J. D. Yeakel bio photo"></a>
 
 <h3>Fundamentals of Ecology</h3>
 <p>"The Earth is what we all have in common"<br> -Wendell Barry</p>
@@ -160,13 +160,13 @@
     <h1>Fundamentals of Ecology :: Fall, 2020</h1>
     <div class="article-wrap">
       ## Welcome!
-Welcome to the course website for ***Fundamentals of Ecology***. Of course, this semester we will be running this course entirely remotely, with both lecture and discussion section occurring on ZOOM (links below). This course will be conducted ***synchronously***, meaning that it is mandatory that you attend lectures and discussions *at the times they occur*. This will be the primary site that will host course information and changes to the schedule, as well as your Discussion Section activities. The Catcourses, or Canvas, site for this course will be used for assessments (homework and exams) and of course grades. See the [syllabus](//jdyeakel.github.io/teaching/ecology/syllabus/) for details and the [schedule](//jdyeakel.github.io/teaching/ecology/schedule/) for information regarding important dates and content.
+Welcome to the course website for ***Fundamentals of Ecology***. Of course, this semester we will be running this course entirely remotely, with both lecture and discussion section occurring on ZOOM (links below). This course will be conducted ***synchronously***, meaning that it is mandatory that you attend lectures and discussions *at the times they occur*. This will be the primary site that will host course information and changes to the schedule, as well as your Discussion Section activities. The Catcourses, or Canvas, site for this course will be used for assessments (homework and exams) and of course grades. See the [syllabus](http://localhost:4000/teaching/ecology/syllabus/) for details and the [schedule](http://localhost:4000/teaching/ecology/schedule/) for information regarding important dates and content.
 
 ---
 
 ## Info
-*	[Syllabus](//jdyeakel.github.io/teaching/ecology/syllabus/)  
-* [Schedule](//jdyeakel.github.io/teaching/ecology/schedule/)  
+*	[Syllabus](http://localhost:4000/teaching/ecology/syllabus/)  
+* [Schedule](http://localhost:4000/teaching/ecology/schedule/)  
 
 *	**Lecture**: TR 9:00-10:15 on [ZOOM](https://ucmerced.zoom.us/j/93141102627?pwd=ajgrVjYrZzJQcUhrV05kalJ1WFRVQT09)  
 *	**Section BIO/ESS-148-02D**: F 1:30-2:20 on [ZOOM](https://ucmerced.zoom.us/j/96261126746?pwd=ZmxqZW1EdktNSGZhYXhkSmdONnZOZz09)  
@@ -181,50 +181,50 @@ Welcome to the course website for ***Fundamentals of Ecology***. Of course, this
 Please use the Inbox application in the CatCourses (Canvas) website to contact either of us. *There is no guarantee of response if personal emails are used.*
 
 <!--- ## Discussion Sections
-1. [Section 1 (Friday, September 4)](//jdyeakel.github.io/teaching/ecology/section1/)  
-2. [Section 2 (Friday, September 11)](//jdyeakel.github.io/teaching/ecology/section2/)  
-3. [Section 3 (Friday, September 18)](//jdyeakel.github.io/teaching/ecology/section3/)  
-4. [Section 4 (Friday, September 25)](//jdyeakel.github.io/teaching/ecology/section4/)  
-5. [Section 5 (Friday, October 2)](//jdyeakel.github.io/teaching/ecology/section5/)  
-6. [Section 6 (Friday, October 9)](//jdyeakel.github.io/teaching/ecology/section6/)  
-7. [Section 7 (Friday, October 16)](//jdyeakel.github.io/teaching/ecology/section7/)  
-8. [Section 8 (Friday, October 22)](//jdyeakel.github.io/teaching/ecology/section8/)  
-9. [Section 9 (Friday, October 30)](//jdyeakel.github.io/teaching/ecology/section9/)  
-10. [Section 10 (Friday, November 6)](//jdyeakel.github.io/teaching/ecology/section10/)  
-11. [Section 11 (Friday, November 13)](//jdyeakel.github.io/teaching/ecology/section11/)
-12. [Section 12 (Friday, November 20)](//jdyeakel.github.io/teaching/ecology/section12/)
-13. [Section 13 (Friday, December 4)](//jdyeakel.github.io/teaching/ecology/section13/)
-14. [Section 14 (Friday, December 11)](//jdyeakel.github.io/teaching/ecology/section14/)
+1. [Section 1 (Friday, September 4)](http://localhost:4000/teaching/ecology/section1/)  
+2. [Section 2 (Friday, September 11)](http://localhost:4000/teaching/ecology/section2/)  
+3. [Section 3 (Friday, September 18)](http://localhost:4000/teaching/ecology/section3/)  
+4. [Section 4 (Friday, September 25)](http://localhost:4000/teaching/ecology/section4/)  
+5. [Section 5 (Friday, October 2)](http://localhost:4000/teaching/ecology/section5/)  
+6. [Section 6 (Friday, October 9)](http://localhost:4000/teaching/ecology/section6/)  
+7. [Section 7 (Friday, October 16)](http://localhost:4000/teaching/ecology/section7/)  
+8. [Section 8 (Friday, October 22)](http://localhost:4000/teaching/ecology/section8/)  
+9. [Section 9 (Friday, October 30)](http://localhost:4000/teaching/ecology/section9/)  
+10. [Section 10 (Friday, November 6)](http://localhost:4000/teaching/ecology/section10/)  
+11. [Section 11 (Friday, November 13)](http://localhost:4000/teaching/ecology/section11/)
+12. [Section 12 (Friday, November 20)](http://localhost:4000/teaching/ecology/section12/)
+13. [Section 13 (Friday, December 4)](http://localhost:4000/teaching/ecology/section13/)
+14. [Section 14 (Friday, December 11)](http://localhost:4000/teaching/ecology/section14/)
 
 
 
 
 ## Lecture Slides
-1. [Lecture 1 & 2](//jdyeakel.github.io/teaching/ecology/Lect1_2_BIO148.pdf)  
-2. [Lecture 3](//jdyeakel.github.io/teaching/ecology/Lect3_BIO148.pdf)
-3. [Lecture 4](//jdyeakel.github.io/teaching/ecology/Lect_4_BIO148.pdf)
-4. [Lecture 5](//jdyeakel.github.io/teaching/ecology/Lect_5_BIO148.pdf)
-5. [Lecture 6](//jdyeakel.github.io/teaching/ecology/Lect_6_BIO148.pdf)
-6. [Lecture 7](//jdyeakel.github.io/teaching/ecology/Lect_7_BIO148.pdf)
-7. [Lecture 8](//jdyeakel.github.io/teaching/ecology/Lect_8_BIO148.pdf)
-8. [Lecture 9](//jdyeakel.github.io/teaching/ecology/Lect_9_BIO148.pdf)
-9. [Lecture 10](//jdyeakel.github.io/teaching/ecology/Lect_10_BIO148.pdf)
-10. [Lecture 11](//jdyeakel.github.io/teaching/ecology/Lect_11_BIO148.pdf)
-11. [Lecture 12](//jdyeakel.github.io/teaching/ecology/Lecture_12_BIO148.pdf)
-12. [Lecture 13](//jdyeakel.github.io/teaching/ecology/Lecture_13_BIO148.pdf)
-13. [Lecture 14](//jdyeakel.github.io/teaching/ecology/Lecture_14_BIO148.pdf)
-14. [Lecture 15](//jdyeakel.github.io/teaching/ecology/Lecture_15_BIO148.pdf)
-15. [Lecture 16](//jdyeakel.github.io/teaching/ecology/Lecture_16_BIO148.pdf)
-16. [Lecture 17](//jdyeakel.github.io/teaching/ecology/Lecture_17_BIO148.pdf)
-17. [Lecture 18](//jdyeakel.github.io/teaching/ecology/Lecture_18_BIO148.pdf)
-18. [Lecture 19](//jdyeakel.github.io/teaching/ecology/Lecture_19_BIO148.pdf)
-19. [Lecture 20](//jdyeakel.github.io/teaching/ecology/Lecture_20_BIO148.pdf)
-20. [Lecture 21](//jdyeakel.github.io/teaching/ecology/Lecture_21_BIO148.pdf)
-21. [Lecture 22](//jdyeakel.github.io/teaching/ecology/Lecture_22_BIO148.pdf)
-22. [Lecture 23](//jdyeakel.github.io/teaching/ecology/Lecture_23_BIO148.pdf)
-23. [Lecture 24](//jdyeakel.github.io/teaching/ecology/Lecture_24_BIO148.pdf)
-24. [Lecture 25](//jdyeakel.github.io/teaching/ecology/Lecture_25_BIO148.pdf)
-25. [Lecture 26](//jdyeakel.github.io/teaching/ecology/Lecture_26_BIO148.pdf)
+1. [Lecture 1 & 2](http://localhost:4000/teaching/ecology/Lect1_2_BIO148.pdf)  
+2. [Lecture 3](http://localhost:4000/teaching/ecology/Lect3_BIO148.pdf)
+3. [Lecture 4](http://localhost:4000/teaching/ecology/Lect_4_BIO148.pdf)
+4. [Lecture 5](http://localhost:4000/teaching/ecology/Lect_5_BIO148.pdf)
+5. [Lecture 6](http://localhost:4000/teaching/ecology/Lect_6_BIO148.pdf)
+6. [Lecture 7](http://localhost:4000/teaching/ecology/Lect_7_BIO148.pdf)
+7. [Lecture 8](http://localhost:4000/teaching/ecology/Lect_8_BIO148.pdf)
+8. [Lecture 9](http://localhost:4000/teaching/ecology/Lect_9_BIO148.pdf)
+9. [Lecture 10](http://localhost:4000/teaching/ecology/Lect_10_BIO148.pdf)
+10. [Lecture 11](http://localhost:4000/teaching/ecology/Lect_11_BIO148.pdf)
+11. [Lecture 12](http://localhost:4000/teaching/ecology/Lecture_12_BIO148.pdf)
+12. [Lecture 13](http://localhost:4000/teaching/ecology/Lecture_13_BIO148.pdf)
+13. [Lecture 14](http://localhost:4000/teaching/ecology/Lecture_14_BIO148.pdf)
+14. [Lecture 15](http://localhost:4000/teaching/ecology/Lecture_15_BIO148.pdf)
+15. [Lecture 16](http://localhost:4000/teaching/ecology/Lecture_16_BIO148.pdf)
+16. [Lecture 17](http://localhost:4000/teaching/ecology/Lecture_17_BIO148.pdf)
+17. [Lecture 18](http://localhost:4000/teaching/ecology/Lecture_18_BIO148.pdf)
+18. [Lecture 19](http://localhost:4000/teaching/ecology/Lecture_19_BIO148.pdf)
+19. [Lecture 20](http://localhost:4000/teaching/ecology/Lecture_20_BIO148.pdf)
+20. [Lecture 21](http://localhost:4000/teaching/ecology/Lecture_21_BIO148.pdf)
+21. [Lecture 22](http://localhost:4000/teaching/ecology/Lecture_22_BIO148.pdf)
+22. [Lecture 23](http://localhost:4000/teaching/ecology/Lecture_23_BIO148.pdf)
+23. [Lecture 24](http://localhost:4000/teaching/ecology/Lecture_24_BIO148.pdf)
+24. [Lecture 25](http://localhost:4000/teaching/ecology/Lecture_25_BIO148.pdf)
+25. [Lecture 26](http://localhost:4000/teaching/ecology/Lecture_26_BIO148.pdf)
 
 
 ## Lecture Recordings
@@ -368,20 +368,20 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 | 2 | **1/25**  | **(M-L2)** | Evolution 1 | Natural selection | Fast. Chp. 3 |     |
 |  |  **1/27**  | **(W-L3)** | Evolution 2 | Cladistics |  |     |
 |  | **1/29**  | **F-H1** | Homework |  |  |  Hmwk 1 due   |
-|  |        | **D1** | Disc 1 | Paleontology and Sedimentology | [Sed. worksheet](//jdyeakel.github.io/teaching/dinos/Section_1_Strat_Section.pdf){:target="_blank"} |     |
+|  |        | **D1** | Disc 1 | Paleontology and Sedimentology | [Sed. worksheet](http://localhost:4000/teaching/dinos/Section_1_Strat_Section.pdf){:target="_blank"} |     |
 | 3 | **2/1**       | **(M-L4)** | Early life | Cambrian through Devonian | Fast. Chp. 4 |     |
 |  |  **2/3**   | **(W-L5)** | Early life | Devonian through Permian |  |     |
-|  |        | **D2** | Disc 2 |  Cladistics    | [Cladistics worksheet](//jdyeakel.github.io/teaching/dinos/Section_2_Cladistics.pdf){:target="_blank"} |     |
+|  |        | **D2** | Disc 2 |  Cladistics    | [Cladistics worksheet](http://localhost:4000/teaching/dinos/Section_2_Cladistics.pdf){:target="_blank"} |     |
 | 4 | **2/8** | **(M-L6)** | Dinosaurs | Basal dinosaurs | Fast. Part II, Chp. 5 |    |
 |  | **2/10** | **(W-L7)** | Thyreophorans | Stegosaurs | Fast. Chp. 10 |    |
 |  | **2/12**  | **F-H2** | Homework |  |  |  Hmwk 2 due   |
-|  |         | **D3** | Disc 3 |  Anatomy  |  [Anatomy worksheet](//jdyeakel.github.io/teaching/dinos/Section_3_Anatomy.pdf){:target="_blank"}  |     |
+|  |         | **D3** | Disc 3 |  Anatomy  |  [Anatomy worksheet](http://localhost:4000/teaching/dinos/Section_3_Anatomy.pdf){:target="_blank"}  |     |
 | 5 | **2/15** | **M** | **No Class** |  |  |    |
 |  |  | **2/17** | **W** | ***Exam I***   |  |  |    |
 |  |         |  | **No Disc** |   |  |    |
 | 6 | **2/22** | **(M-L8)** | Thyreophorans | Ankylos | Fast. Chp. 10 |    |
 |  | **2/24** | **(M-L9)** | Marginocephalians | Pachys | Fast. Chp. 11 |    |
-|  |         | **D4** | Disc 4 |  Cladistics 2  | [Cladistics 2 worksheet](//jdyeakel.github.io/teaching/dinos/Section_4_Cladistics2.pdf){:target="_blank"}  |     |
+|  |         | **D4** | Disc 4 |  Cladistics 2  | [Cladistics 2 worksheet](http://localhost:4000/teaching/dinos/Section_4_Cladistics2.pdf){:target="_blank"}  |     |
 | 7 | **3/1** | **(M-L10)** | Marginocephalians | Ceratops | Fast. Chp. 11 |    |
 |  | **3/3** | **(W-L11)** | Ornithopods |  | Fast. Chp. 12 |    |
 |  |  **3/5** | **F-H3** | Homework |  |  |  Hmwk 3 due   |
@@ -444,8 +444,8 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 </div><!-- /.footer-wrap -->
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="//jdyeakel.github.io/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
-<script src="//jdyeakel.github.io/assets/js/scripts.min.js"></script>
+<script>window.jQuery || document.write('<script src="http://localhost:4000/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="http://localhost:4000/assets/js/scripts.min.js"></script>
 
 
   
