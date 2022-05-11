@@ -28,7 +28,7 @@ Past Positions
 **2000--04**: Bachelors of Science, Kent State University
 
 
-Publications
+Publications $${}^\dagger$$contributed equally 
 =========
 <!---
 *In prep**)
