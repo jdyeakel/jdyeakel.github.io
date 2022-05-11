@@ -28,15 +28,16 @@ Past Positions
 **2000--04**: Bachelors of Science, Kent State University
 
 
-Publications $${}^\dagger$$contributed equally 
+Publications  
 =========
+$${}^*$$contributed equally; $${}^\dagger$$from the Yeakel QED group  
 <!---
 *In prep**)
 -->
 
 
 In review
-:	* Kim S.L., $${}^\dagger$$<span style="color:#4292E5;">Yeakel J.D.</span>, Balk M.A., Eberle J.J., Zeichner S., Fieman D., Kriwet J. Decoding the dynamics of dental distributions: insights from shark demography and dispersal. In revision @ *Proceedings of the Royal Society B: Biological Sciences*.
+:	* $${}^*$$Kim S.L., $${}^*$$<span style="color:#4292E5;">Yeakel J.D.</span>, Balk M.A., Eberle J.J., Zeichner S., Fieman D., Kriwet J. Decoding the dynamics of dental distributions: insights from shark demography and dispersal. In revision @ *Proceedings of the Royal Society B: Biological Sciences*.
 
 <!-- Preprint -->
 
@@ -51,9 +52,9 @@ In review
 	
 	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1098/rstb.2019.0455"></div> Gross T., Allhoff K.T., Blasius B., Brose U., Drossel B., Fahimipour A.K., Guill C., <span style="color:#4292E5;">Yeakel J.D.</span>, Zeng F. [Modern models of trophic meta-communities.](https://royalsocietypublishing.org/doi/10.1098/rstb.2019.0455){:target="_blank"} *Philosophical Transactions of the Royal Society B*. 
 	
-	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1073/pnas.1907998117"></div> Bhat U., Kempes C.P., <span style="color:#4292E5;">Yeakel J.D.</span> [Scaling of the risk landscape drives optimal life history strategies and the evolution of grazing.](https://www.pnas.org/content/early/2019/12/16/1907998117){:target="_blank"} *Proceedings of the National Academy of Sciences* 117 (3) 1580-1586.
+	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1073/pnas.1907998117"></div> $${}^\dagger$$Bhat U., Kempes C.P., <span style="color:#4292E5;">Yeakel J.D.</span> [Scaling of the risk landscape drives optimal life history strategies and the evolution of grazing.](https://www.pnas.org/content/early/2019/12/16/1907998117){:target="_blank"} *Proceedings of the National Academy of Sciences* 117 (3) 1580-1586.
 	
-	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1086/709019"></div> <span style="color:#4292E5;">Yeakel, J.D.</span>, Bhat U., Newsome S.D. [Caching in or falling back at the Sevilleta: the effects of body size and seasonal uncertainty on desert rodent foraging.](https://www.journals.uchicago.edu/doi/10.1086/709019){:target="_blank"} *American Naturalist*.
+	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1086/709019"></div> $${}^\dagger$$<span style="color:#4292E5;">Yeakel, J.D.</span>, Bhat U., Newsome S.D. [Caching in or falling back at the Sevilleta: the effects of body size and seasonal uncertainty on desert rodent foraging.](https://www.journals.uchicago.edu/doi/10.1086/709019){:target="_blank"} *American Naturalist*.
 
 	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1002/ecy.3080"></div> Pires M.M., O'Donnell J.L., Burkle L.A., Diaz-Castelazo C., Hembry D.H., <span style="color:#4292E5;">Yeakel J.D.</span>, Newman E.A., Medeiros L.P., de Aguiar M.A.M., Guimarães Jr. P.R. [The indirect paths to cascading effects of extinctions in mutualistic networks.](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.3080){:target="_blank"} *Ecology*.
 
@@ -62,14 +63,14 @@ In review
 
 	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1111/geb.12925"></div> Baiser B., Gravel D., Cirtwill A., Dunne J.A., Fahimpour A.K., Gilarranz L.J., Grochow J.A., Li D., Martinez N.D., McGrew A., Poisot T., Romnuk T.N., Stouffer D.B., Trotta1 L.B.,Valdovinos F.S., Williams R.J., Wood S.A., <span style="color:#4292E5;">Yeakel J.D.</span> [Ecogeographical Rules and the Macroecology of Food Webs.](https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.12925){:target="_blank"} *Global Ecology and Biogeography* doi.10.1111/geb.12925.
 
-	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.3389/fevo.2019.00015"></div> Gibert J.P., <span style="color:#4292E5;">Yeakel, J. D.</span> [Eco-evolutionary origins of diverse abundance, biomass, and trophic structures in food webs.](https://doi.org/10.3389/fevo.2019.00015){:target="_blank"} *Frontiers in Ecology and Evolution* 7, 1-15. doi.org/10.3389/fevo.2019.00015. 
+	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.3389/fevo.2019.00015"></div> $${}^\dagger$$Gibert J.P., <span style="color:#4292E5;">Yeakel, J. D.</span> [Eco-evolutionary origins of diverse abundance, biomass, and trophic structures in food webs.](https://doi.org/10.3389/fevo.2019.00015){:target="_blank"} *Frontiers in Ecology and Evolution* 7, 1-15. doi.org/10.3389/fevo.2019.00015. 
 
-	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1007/s12080-018-0403-2"></div> Gibert, J. P., & <span style="color:#4292E5;">Yeakel, J. D.</span> [Laplacian matrices and Turing bifurcations: revisiting Levin 1974 and the consequences of spatial structure and movement for ecological dynamics.](http://jdyeakel.github.io/publications/Gibert_Theor._Ecol._2019.pdf){:target="_blank"} *Theoretical Ecology*. 169(2), 1–17. doi.org/10.1007/s12080-018-0403-2
+	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1007/s12080-018-0403-2"></div> $${}^\dagger$$Gibert, J. P., & <span style="color:#4292E5;">Yeakel, J. D.</span> [Laplacian matrices and Turing bifurcations: revisiting Levin 1974 and the consequences of spatial structure and movement for ecological dynamics.](http://jdyeakel.github.io/publications/Gibert_Theor._Ecol._2019.pdf){:target="_blank"} *Theoretical Ecology*. 169(2), 1–17. doi.org/10.1007/s12080-018-0403-2
 
 2018
-:	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1038/s41467-018-02822-y"></div> <span style="color:#4292E5;">Yeakel J.D.</span>, Kempes C.P., Redner S. [Dynamics of starvation and recovery predict extinction risk and both Damuth’s law and Cope's rule](https://www.nature.com/articles/s41467-018-02822-y){:target="_blank"}. *Nature Communications*. doi:0.1038/s41467-018-02822-y
+:	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1038/s41467-018-02822-y"></div> $${}^\dagger$$<span style="color:#4292E5;">Yeakel J.D.</span>, Kempes C.P., Redner S. [Dynamics of starvation and recovery predict extinction risk and both Damuth’s law and Cope's rule](https://www.nature.com/articles/s41467-018-02822-y){:target="_blank"}. *Nature Communications*. doi:0.1038/s41467-018-02822-y
 
-	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1098/rstb.2017.0018"></div> <span style="color:#4292E5;">Yeakel J.D.</span>, Gibert J.P., Gross T., Westley P.A.H., Moore J.W. [Eco-evolutionary dynamics and collective dispersal: implications for salmon metapopulation robustness](http://rstb.royalsocietypublishing.org/content/373/1746/20170018){:target="_blank"}. *Philosophical Transactions of the Royal Society B: Biological Sciences*. doi:10.1098/rstb.2017.0018
+	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1098/rstb.2017.0018"></div> $${}^\dagger$$<span style="color:#4292E5;">Yeakel J.D.</span>, Gibert J.P., Gross T., Westley P.A.H., Moore J.W. [Eco-evolutionary dynamics and collective dispersal: implications for salmon metapopulation robustness](http://rstb.royalsocietypublishing.org/content/373/1746/20170018){:target="_blank"}. *Philosophical Transactions of the Royal Society B: Biological Sciences*. doi:10.1098/rstb.2017.0018
 
 	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1111/brv.12433"></div>Delmas E., Besson M., Brice M.-H., Burkle L., Dalla Riva G. V., Fortin M.-J., Gravel D., Guimarães P.R., Hembry D., Newman E., Olesen J.M., Pires M., <span style="color:#4292E5;">Yeakel J.D.</span>, Poisot T. [Analyzing ecological networks of species interactions](https://onlinelibrary.wiley.com/doi/full/10.1111/brv.12433){:target="_blank"}. *Biological Reviews*, 94, 16-36.
 
