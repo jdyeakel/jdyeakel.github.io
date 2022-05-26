@@ -18,7 +18,8 @@ image:
 
 ---
 
-### $$\oint$$ News & Updates 📰  
+### $$\oint$$ News & Updates   
+* *05/26/22*: New paper exploring an interesting way to investigate distributions of fossil shark teeth in *Proceedings of the Royal Society B: Biological Sciences:* ***Decoding the dynamics of dental distributions: insights from shark demography and dispersal*** (Available soon!)    
 * *08/15/21*: Congratulations to Ritwika VPS for successfully defending her Ph.D. thesis!  
 * *07/03/20*: New paper on the role of ecosystem engineers in ecological networks, published in *Nature Communications*: [Diverse interactions and ecosystem engineering can stabilize community assembly](https://www.nature.com/articles/s41467-020-17164-x){:target="_blank"}  
 * *06/18/20*: New paper on the caching strategies of rodent foragers in the American Southwest, published in *American Naturalist*: [Caching in or falling back at the sevilleta: The effects of body size and seasonal uncertainty on desert rodent foraging](https://www.journals.uchicago.edu/doi/10.1086/709019){:target="_blank"}  
