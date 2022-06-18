@@ -22,6 +22,9 @@ table{
     border-spacing: 0;
     /* border:1px solid #808080; */
 }
+td{
+    text-align: left;
+}
 
 /* th{
     border:1px solid #808080;
@@ -47,18 +50,18 @@ tr:nth-child(odd) {background: #FFF}
 |       |  |  | Scales, models, and R; [Intro to R]({{ site.url }}/teaching/ecology/summersections/demo_1_introtoR/){:target="_blank"} | [Leopold; excerpts]({{ site.url }}/teaching/ecology/papers/Leopold_Excerpts.pdf){:target="_blank"} |      |
 | **6/23**  | **(R-L2)** | Biomes | Distinguishing among Earth's biomes | Bowman Ch. 3 |     |
 |    |   | Energy 1 | Variation in temperature and water | Bowman Ch. 4 |     |
-|        | **(D1)** | Disc 1 |  [Temperature as an ecological constraint]({{ site.url }}/teaching/ecology/summersections/section_1_temperature/){:target="_blank"}    | [Gunderson & Leal 2015]({{ site.url }}/teaching/ecology/papers/Gunderson.pdf){:target="_blank"} |     |
+|        | **(D1)** | Disc 1 |  [Temperature as an ecological constraint]({{ site.url }}/teaching/ecology/summersections/section_1_temperature){:target="_blank"}    | [Gunderson & Leal 2015]({{ site.url }}/teaching/ecology/papers/Gunderson.pdf){:target="_blank"} |     |
 | **6/28** | **(T-L3)** | Energy 2 | Energetic pathways in ecology | Bowman Ch. 5 |    |
 |   |   | Allometry | Allometry & Macroecology 1 | [West & Brown]({{ site.url }}/teaching/ecology/papers/West_Brown_2004.pdf){:target="_blank"} |    |
 | **6/30** | **(R-L4)** | Allometry | Allometry & Macroecology 2 | |    |
 |  |  | Evolution | Evolution 1 | Bowman Ch. 6 |    |
-|         | **(D2)** | Disc 2 |  [Macroecology]({{ site.url }}/teaching/ecology/summersections/section_2_metabolism/){:target="_blank"}  |    |  Hmwk 1 due   |
+|         | **(D2)** | Disc 2 |  Macroecology  |    |  Hmwk 1 due   |
 | **7/05** | **(T-L5)** | ***Exam I*** |  |  |    |
 |  |  | Evolution | Evolution 2 |  |    |
-| **7/07** | **(R-L6)** | Life history  | Life history diversity & tradeoffs w/ [Demo]({{ site.url }}/teaching/ecology/summersections/demo_2_lifehistory/){:target="_blank"} | Bowman Ch. 7 |    |
+| **7/07** | **(R-L6)** | Life history  | Life history diversity & tradeoffs w/ Demo | Bowman Ch. 7 |    |
 |  |  | Behavior | Behavioral ecology | Bowman Ch. 8, [Sinervo]({{ site.url }}/teaching/ecology/papers/optimalforaging.pdf){:target="_blank"} |    |
-|         | **(D3)** | Disc 3 |   [Evolution by natural selection]({{ site.url }}/teaching/ecology/summersections/section_3_evolution/){:target="_blank"}  |  |  Hmwk 2 due  |
-| **7/12** | **(T-L7)** | Games | Evolutionary Game Theory w/ [Demo]({{ site.url }}/teaching/ecology/summersections/demo_3_gametheory/){:target="_blank"}   | [Easley & Kleinberg]({{ site.url }}/teaching/ecology/papers/EvolGameTheory.pdf){:target="_blank"} |    |
+|         | **(D3)** | Disc 3 |   Evolution by natural selection  |  |  Hmwk 2 due  |
+| **7/12** | **(T-L7)** | Games | Evolutionary Game Theory w/ Demo   | [Easley & Kleinberg]({{ site.url }}/teaching/ecology/papers/EvolGameTheory.pdf){:target="_blank"} |    |
 |  |  | Populations 1 | Density dependence and population dynamics | Bowman Ch. 10 |    |
 | **7/14** | **(R-L8)** | Populations 2 | Logistic Growth   |    |    |
 |  |  |  | Discrete dynamics & Cobweb diagrams  |    |    |
@@ -68,7 +71,7 @@ tr:nth-child(odd) {background: #FFF}
 | **7/21** | **(R-L10)** | ***Exam II*** |  |  |    |
 |  |  | Competition | Competition dynamics 2 |  |    |
 |         | **(D5)** | Disc 5 |  Lotka Volterra Competition dynamics    |  |  Hmwk 4 due |
-| **7/26** | **(T-L11)** | Predation 1 | [Demo 4: Competition sims]({{ site.url }}/teaching/ecology/summersections/demo_4_comp/){:target="_blank"} & Herbivory/Predation | Bowman Ch. 12 |    |
+| **7/26** | **(T-L11)** | Predation 1 | Herbivory/Predation | Bowman Ch. 12 |    |
 |  |  | Predation dynamics |  |  |    |
 | **7/28** | **(R-L12)** | Parasitism | Parasites and Parasitoids | Bowman Chap. 13 |    |
 |  |  | Disease | The dynamics of disease | Bowman 13.4-end, [Blackwood to 2.2.2]({{ site.url }}/teaching/ecology/papers/Blackwood_SIR.pdf); [R0 is just an average](https://www.santafe.edu/news-center/news/transmission-t-024-cristopher-moore-on-the-heavy-tail-of-outbreaks) |    |
@@ -78,8 +81,8 @@ tr:nth-child(odd) {background: #FFF}
 | **8/4** | **(R-L14)** | Interactions | Mutualisms  | Bowman Chap. 15 |    |
 |  |  |  | Food webs | Bowman Chap. 21 |    |
 |         | **(D7)** | Disc 7 | Disease Dynamics  | | Hmwk 6 due |
-| **8/09** | **(T-L14)** |  | Island Biogeography | Bowman Chap. 18.3 |    |
-|  |  |  | Review |  |    |
+| **8/09** | **(T-L14)** | Communities | Island Biogeography | Bowman Chap. 18.3 |    |
+|  |  |  | Ecological communities | Bowman Chap. 16.2-16.3 |    |
 | **8/11** | **(R-L15)** | ***FINAL EXAM*** |   |  |  |
 
 

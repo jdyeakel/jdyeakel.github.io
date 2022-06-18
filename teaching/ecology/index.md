@@ -12,9 +12,30 @@ image:
 ## Welcome!
 Welcome to the course website for ***Fundamentals of Ecology***. This summer course taught remotely. We will be having lecture and discussion sections synchronously on ZOOM (links below). This will be the primary site that will host course information and changes to the schedule, as well as your Discussion Section activities. The Catcourses, or Canvas, site for this course will be used for assessments (e.g. homeworks and exams), course grades, and announcements. See the **syllabus** for details and the **schedule** for information regarding important dates and content.
 
+
+
+---
+
+## Info
+*	[Syllabus]({{ site.url }}/teaching/ecology/syllabus/)  
+* [Schedule]({{ site.url }}/teaching/ecology/schedule_summer/)  
+*	**Lecture**:Tuesday and Thursdays, 8:30-11:15pm on [Zoom](https://ucmerced.zoom.us/j/89134742405) (remote, synchronous)  
+* **Discussion section time**  
+    * 03D - Tuesday 11:30-1:20pm on [Zoom](https://ucmerced.zoom.us/j/82706992699) (remote, synchronous)  
+    * 02D - Thursday 11:30-1:20pm on [Zoom](https://ucmerced.zoom.us/j/89125656499) (remote, synchronous)  
+
+*	Prof. Yeakel Office Hours: TBD  
+*	TA Megha Suswaram Office Hours: TBD  
+
+## Contact
+Please use the Inbox application in the CatCourses (Canvas) website to contact either of us. *There is no guarantee of response if personal emails are used.*
+
 ---
 
 <!-- 
+---
+
+
 > ## Announcement: Final Exam is TODAY!!!! 
 > * Saturday May 7: 11:30-2:30pm
 > * [ZOOM ROOM LINK](https://ucmerced.zoom.us/j/82966775875){:target="_blank"} (see canvas announcement for password)
@@ -22,25 +43,6 @@ Welcome to the course website for ***Fundamentals of Ecology***. This summer cou
 > * Same structure as midterms, but a bit longer
 > * Exam will be comprehensive, but focusing on topics that have been important themes throughout the course  
 
----
-
-## Info
-*	[Syllabus]({{ site.url }}/teaching/ecology/syllabus/)  
-* [Schedule]({{ site.url }}/teaching/ecology/schedule/)  
-
-*	**Lecture**: Mondays and Wednesdays, 1:30-2:45pm SSB 130 when in person and [Zoom](https://ucmerced.zoom.us/j/87957489369) when remote  
-* **Discussion section time**  
-    * 03D - Monday 4:30-5:20pm; COB2 266 when in person and [Zoom](https://ucmerced.zoom.us/j/87184971115) when remote  
-    * 04D - Wednesday 4:30-5:20pm; COB2 266 when in person and [Zoom](https://ucmerced.zoom.us/j/84625324440) when remote  
-    * 02D - Wednesday 5:30-6:20pm; COB2 264 when in person and [Zoom](https://ucmerced.zoom.us/j/89615858000) when remote   
-
-*	Prof. Yeakel Office Hours: [Tuesdays, Thursdays 10-11 on Zoom](https://ucmerced.zoom.us/j/86299475624) or by appt  
-*	TA Irina Birskis Barros Office Hours: *in person* Monday 3-4pm SE1 258 and 5:30-6:30pm SE1 278  
-
-## Contact
-Please use the Inbox application in the CatCourses (Canvas) website to contact either of us. *There is no guarantee of response if personal emails are used.*
-
----
 
 ## Discussion Sections and Demonstrations
 * [Section 1: Investigating ecological problems with R]({{ site.url }}/teaching/ecology/sections2022/1_introtoR/){:target="_blank"}  
