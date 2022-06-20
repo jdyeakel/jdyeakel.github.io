@@ -56,9 +56,9 @@ tr:nth-child(odd) {background: #FFF}
 | **6/30** | **(R-L4)** | Allometry | Allometry & Macroecology 2 | |    |
 |  |  | Evolution | Evolution 1 | Bowman Ch. 6 |    |
 |         | **(D2)** | Disc 2 |  Macroecology  |    |  Hmwk 1 due   |
-| **7/05** | **(T-L5)** | ***Exam I*** |  |  |    |
-|  |  | Evolution | Evolution 2 |  |    |
-| **7/07** | **(R-L6)** | Life history  | Life history diversity & tradeoffs w/ Demo | Bowman Ch. 7 |    |
+| **7/05** | **(T-L5)** | Evolution | Evolution 2 |  |    |
+|  |  | Life history | Life history diversity & tradeoffs w/ Demo | Bowman Ch. 7 |    |
+| **7/07** | **(R-L6)** | ***Exam I***  |  |  |    |
 |  |  | Behavior | Behavioral ecology | Bowman Ch. 8, [Sinervo]({{ site.url }}/teaching/ecology/papers/optimalforaging.pdf){:target="_blank"} |    |
 |         | **(D3)** | Disc 3 |   Evolution by natural selection  |  |  Hmwk 2 due  |
 | **7/12** | **(T-L7)** | Games | Evolutionary Game Theory w/ Demo   | [Easley & Kleinberg]({{ site.url }}/teaching/ecology/papers/EvolGameTheory.pdf){:target="_blank"} |    |
