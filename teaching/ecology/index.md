@@ -32,6 +32,12 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 
 ---
 
+## Discussion Sections and Demonstrations
+* [Demo 1: Using R]({{ site.url }}/teaching/ecology/summersections/demo_1_introtoR/){:target="_blank"})  
+* [Section 1: Temperature as an ecological constraint]({{ site.url }}/teaching/ecology/summersections/section_1_temperature){:target="_blank"}  
+
+
+
 <!-- 
 ---
 
