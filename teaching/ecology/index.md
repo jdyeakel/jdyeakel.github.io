@@ -25,7 +25,7 @@ Welcome to the course website for ***Fundamentals of Ecology***. This summer cou
     * 02D - Thursday 11:30-1:20pm on [Zoom](https://ucmerced.zoom.us/j/89125656499) (remote, synchronous)  
 
 *	Prof. Yeakel Office Hours: TBD  
-*	TA Megha Suswaram Office Hours: TBD  
+*	TA Megha Suswaram Office Hours: Mondays 12-2pm  
 
 ## Contact
 Please use the Inbox application in the CatCourses (Canvas) website to contact either of us. *There is no guarantee of response if personal emails are used.*
@@ -35,6 +35,12 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 ## Discussion Sections and Demonstrations
 * [Demo 1: Using R]({{ site.url }}/teaching/ecology/summersections/demo_1_introtoR/){:target="_blank"}  
 * [Section 1: Temperature as an ecological constraint]({{ site.url }}/teaching/ecology/summersections/section_1_temperature){:target="_blank"}  
+* [Section 2: Allometry & Macroecology]({{ site.url }}/teaching/ecology/summersections/section_2_metabolism){:target="_blank"}  
+
+## Lecture Recordings
+* Lecture 1: Forgot to record! Please get notes from a classmate  
+* [Lecture 2: Biomes and Temperature](https://ucmerced.box.com/s/vh6g6tw9u3ey7o0gsangs8yly2b2o6j2){:target="_blank"}  
+
 
 
 
