@@ -53,8 +53,8 @@ tr:nth-child(odd) {background: #FFF}
 |        | **(D1)** | Disc 1 |  [Temperature as an ecological constraint]({{ site.url }}/teaching/ecology/summersections/section_1_temperature){:target="_blank"}    | [Gunderson & Leal 2015]({{ site.url }}/teaching/ecology/papers/Gunderson.pdf){:target="_blank"} |     |
 | **6/28** | **(T-L3)** | Energy 2 | Energetic pathways in ecology | Bowman Ch. 5 |    |
 |   |   | Allometry | Allometry & Macroecology 1 | [West & Brown]({{ site.url }}/teaching/ecology/papers/West_Brown_2004.pdf){:target="_blank"} |    |
-| **6/30** | **(R-L4)** | Allometry | Allometry & Macroecology 2 | |    |
-|  |  | Evolution | Evolution 1 | Bowman Ch. 6 |    |
+| **6/30** | **(R-L4)** | Allometry | Allometry & Macroecology 2 (recorded) | |    |
+|  |  | Evolution | Evolution 1 (recorded) | Bowman Ch. 6 |   |
 |         | **(D2)** | Disc 2 |  [Allometry & Macroecology]({{ site.url }}/teaching/ecology/summersections/section_2_metabolism){:target="_blank"}  |    |  Hmwk 1 due   |
 | **7/05** | **(T-L5)** | Evolution | Evolution 2 |  |    |
 |  |  | Life history | Life history diversity & tradeoffs w/ Demo | Bowman Ch. 7 |    |
