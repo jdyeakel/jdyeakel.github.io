@@ -36,10 +36,17 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 * [Demo 1: Using R]({{ site.url }}/teaching/ecology/summersections/demo_1_introtoR/){:target="_blank"}  
 * [Section 1: Temperature as an ecological constraint]({{ site.url }}/teaching/ecology/summersections/section_1_temperature){:target="_blank"}  
 * [Section 2: Allometry & Macroecology]({{ site.url }}/teaching/ecology/summersections/section_2_metabolism){:target="_blank"}  
+* [Section 3: Evolution by natural selection]({{ site.url }}/teaching/ecology/summersections/section_3_evolution){:target="_blank"}
 
 ## Lecture Recordings
 * Lecture 1: Forgot to record! Please get notes from a classmate  
 * [Lecture 2: Biomes and Temperature](https://ucmerced.box.com/s/vh6g6tw9u3ey7o0gsangs8yly2b2o6j2){:target="_blank"}  
+* [Lecture 3: Energy and Metabolism](https://ucmerced.box.com/s/d3q4x0gns9wvrck2kss176k3kq9wmq5v){:target="_blank"}  
+* [Lecture 4: Metabolism, allometry, and Evolution](https://ucmerced.box.com/s/24qx4ygj41bdew94l04igaoflorjgh5v){:target="_blank"} Note: Ignore the announcements at the beginning of the lecture, which was recorded last year.  
+
+
+
+
 
 
 
