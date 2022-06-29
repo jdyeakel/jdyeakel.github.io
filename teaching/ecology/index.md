@@ -24,8 +24,8 @@ Welcome to the course website for ***Fundamentals of Ecology***. This summer cou
     * 03D - Tuesday 11:30-1:20pm on [Zoom](https://ucmerced.zoom.us/j/82706992699) (remote, synchronous)  
     * 02D - Thursday 11:30-1:20pm on [Zoom](https://ucmerced.zoom.us/j/89125656499) (remote, synchronous)  
 
-*	Prof. Yeakel Office Hours: TBD  
-*	TA Megha Suswaram Office Hours: Mondays 12-2pm  
+*	Prof. Yeakel Office Hours: Monday 9-11am or by appointment on [Zoom](https://ucmerced.zoom.us/j/89878534043)  
+*	TA Megha Suswaram Office Hours: Mondays 12-2pm on [Zoom](https://ucmerced.zoom.us/j/82135505682) (same password as other zoom rooms)  
 
 ## Contact
 Please use the Inbox application in the CatCourses (Canvas) website to contact either of us. *There is no guarantee of response if personal emails are used.*

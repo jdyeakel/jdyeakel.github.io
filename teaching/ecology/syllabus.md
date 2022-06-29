@@ -15,8 +15,8 @@ comments: true
 + **Discussion section time**  
     * 03D - Tuesday 11:30-1:20pm on [Zoom](https://ucmerced.zoom.us/j/82706992699) (remote, synchronous)  
     * 02D - Thursday 11:30-1:20pm on [Zoom](https://ucmerced.zoom.us/j/89125656499) (remote, synchronous)  
-+ **Instructor**: Justin D. Yeakel; Office Hours: TBD  
-+ **Teaching Assistant**: Megha Suswaram; Office Hours: Mondays 12-2pm    
++ **Instructor**: Justin D. Yeakel; Office Hours: Mondays 9-11am or by appointment on [Zoom](https://ucmerced.zoom.us/j/89878534043)  
++ **Teaching Assistant**: Megha Suswaram; Office Hours: Mondays 12-2pm on [Zoom](https://ucmerced.zoom.us/j/82135505682)    
 + **Course Websites**  
     Everything that we do this this course will revolve around two principle websites. In some cases, information will be duplicated on both sites (link to readings), and I will attempt to cross-link as necessary.
     > The [***CatCourse Website (Canvas)***](https://catcourses.ucmerced.edu/): Turning in assignments, grades, lectures, links to readings  
