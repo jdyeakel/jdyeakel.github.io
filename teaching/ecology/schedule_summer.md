@@ -57,7 +57,7 @@ tr:nth-child(odd) {background: #FFF}
 |  |  | Evolution | Evolution 1 (recorded) | Bowman Ch. 6 |   |
 |         | **(D2)** | Disc 2 |  [Allometry & Macroecology]({{ site.url }}/teaching/ecology/summersections/section_2_metabolism){:target="_blank"}  |    |  Hmwk 1 due   |
 | **7/05** | **(T-L5)** | Evolution | Evolution 2 |  |    |
-|  |  | Life history | Life history diversity & tradeoffs w/ Demo | Bowman Ch. 7 |    |
+|  |  | Life history | Life history diversity & tradeoffs w/ [Demo]({{ site.url }}/teaching/ecology/summersections/demo_2_lifehistory){:target="_blank"} | Bowman Ch. 7 |    |
 | **7/07** | **(R-L6)** | ***Exam I***  |  |  |    |
 |  |  | Behavior | Behavioral ecology | Bowman Ch. 8, [Sinervo]({{ site.url }}/teaching/ecology/papers/optimalforaging.pdf){:target="_blank"} |    |
 |         | **(D3)** | Disc 3 |   [Evolution by natural selection]({{ site.url }}/teaching/ecology/summersections/section_3_evolution){:target="_blank"}  |  |  Hmwk 2 due  |

@@ -37,6 +37,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 * [Section 1: Temperature as an ecological constraint]({{ site.url }}/teaching/ecology/summersections/section_1_temperature){:target="_blank"}  
 * [Section 2: Allometry & Macroecology]({{ site.url }}/teaching/ecology/summersections/section_2_metabolism){:target="_blank"}  
 * [Section 3: Evolution by natural selection]({{ site.url }}/teaching/ecology/summersections/section_3_evolution){:target="_blank"}
+* [Demo 2: Life history strategies]({{ site.url }}/teaching/ecology/summersections/demo_2_lifehistory){:target="_blank"}
 
 ## Lecture Recordings
 * Lecture 1: Forgot to record! Please get notes from a classmate  
