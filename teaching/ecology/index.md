@@ -45,6 +45,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 * [Lecture 3: Energy and Metabolism](https://ucmerced.box.com/s/d3q4x0gns9wvrck2kss176k3kq9wmq5v){:target="_blank"}  
 * [Lecture 4: Metabolism, allometry, and Evolution](https://ucmerced.box.com/s/24qx4ygj41bdew94l04igaoflorjgh5v){:target="_blank"} Note: Ignore the announcements at the beginning/end of the lecture, which was recorded last year.  
 * [Lecture 5: Evolution continued and life history](https://ucmerced.box.com/s/brkg6yhficljoipu5oo525au2dzuw7dq){:target="_blank"}  
+* [Lecture 6: Life history continued](https://ucmerced.box.com/s/2916x6xrdlw99n2uo80310hcz1ossk77){:target="_blank"}  
 
 
 
