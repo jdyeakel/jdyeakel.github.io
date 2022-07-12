@@ -39,6 +39,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 * [Section 3: Evolution by natural selection]({{ site.url }}/teaching/ecology/summersections/section_3_evolution){:target="_blank"}  
 * [Demo 2: Life history strategies]({{ site.url }}/teaching/ecology/summersections/demo_2_lifehistory){:target="_blank"}  
 * [Section 4: Population growth]({{ site.url }}/teaching/ecology/summersections/section_4_pop1){:target="_blank"}  
+* [Demo 3: Game theory!]({{ site.url }}/teaching/ecology/summersections/demo_3_gametheory){:target="_blank"}  
 
 
 ## Lecture Recordings
