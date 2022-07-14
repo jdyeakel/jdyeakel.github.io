@@ -40,6 +40,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 * [Demo 2: Life history strategies]({{ site.url }}/teaching/ecology/summersections/demo_2_lifehistory){:target="_blank"}  
 * [Section 4: Population growth]({{ site.url }}/teaching/ecology/summersections/section_4_pop1){:target="_blank"}  
 * [Demo 3: Game theory!]({{ site.url }}/teaching/ecology/summersections/demo_3_gametheory){:target="_blank"}  
+* [Section 5: Competition]({{ site.url }}/teaching/ecology/summersections/section_5_comp){:target="_blank"}  
 
 
 ## Lecture Recordings
@@ -49,6 +50,8 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 * [Lecture 4: Metabolism, allometry, and Evolution](https://ucmerced.box.com/s/24qx4ygj41bdew94l04igaoflorjgh5v){:target="_blank"} Note: Ignore the announcements at the beginning/end of the lecture, which was recorded last year.  
 * [Lecture 5: Evolution continued and life history](https://ucmerced.box.com/s/brkg6yhficljoipu5oo525au2dzuw7dq){:target="_blank"}  
 * [Lecture 6: Life history continued](https://ucmerced.box.com/s/2916x6xrdlw99n2uo80310hcz1ossk77){:target="_blank"}  
+* [Lecture 7: Game Theory](https://ucmerced.box.com/s/91s3xjh9bt3py2tep16otyndsir4w8dt){:target="_blank"}  
+* [Lecture 8: Exponential and logistic population growth](https://ucmerced.box.com/s/gc0hzrxbyqj3ilt00dw3s8lc84xnpj17){:target="_blank"}  
 
 
 

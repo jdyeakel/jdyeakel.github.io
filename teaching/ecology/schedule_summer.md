@@ -70,7 +70,7 @@ tr:nth-child(odd) {background: #FFF}
 |  |  |  | Competition dynamics 1 |  |    |
 | **7/21** | **(R-L10)** | ***Exam II*** |  |  |    |
 |  |  | Competition | Competition dynamics 2 |  |    |
-|         | **(D5)** | Disc 5 |  Lotka Volterra Competition dynamics    |  |  Hmwk 4 due |
+|         | **(D5)** | Disc 5 |  [Competition Dynamics]({{ site.url }}/teaching/ecology/summersections/section_5_comp){:target="_blank"}    |  |  Hmwk 4 due |
 | **7/26** | **(T-L11)** | Predation 1 | Herbivory/Predation | Bowman Ch. 12 |    |
 |  |  | Predation dynamics |  |  |    |
 | **7/28** | **(R-L12)** | Parasitism | Parasites and Parasitoids | Bowman Chap. 13 |    |
