@@ -52,6 +52,8 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 * [Lecture 6: Life history continued](https://ucmerced.box.com/s/2916x6xrdlw99n2uo80310hcz1ossk77){:target="_blank"}  
 * [Lecture 7: Game Theory](https://ucmerced.box.com/s/91s3xjh9bt3py2tep16otyndsir4w8dt){:target="_blank"}  
 * [Lecture 8: Exponential and logistic population growth](https://ucmerced.box.com/s/gc0hzrxbyqj3ilt00dw3s8lc84xnpj17){:target="_blank"}  
+* [Lecture 9: Discrete growth and Competition](https://ucmerced.box.com/s/0oid1o9pntcrd21xxhq54xk2jh5upyhf){:target="_blank"}  
+
 
 
 
