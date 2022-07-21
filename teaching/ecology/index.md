@@ -41,6 +41,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 * [Section 4: Population growth]({{ site.url }}/teaching/ecology/summersections/section_4_pop1){:target="_blank"}  
 * [Demo 3: Game theory!]({{ site.url }}/teaching/ecology/summersections/demo_3_gametheory){:target="_blank"}  
 * [Section 5: Competition]({{ site.url }}/teaching/ecology/summersections/section_5_comp){:target="_blank"}  
+* [Section 6: Predation]({{ site.url }}/teaching/ecology/summersections/section_6_pred){:target="_blank"}  
 
 
 ## Lecture Recordings

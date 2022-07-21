@@ -75,7 +75,7 @@ tr:nth-child(odd) {background: #FFF}
 |  |  | Predation dynamics |  |  |    |
 | **7/28** | **(R-L12)** | Parasitism | Parasites and Parasitoids | Bowman Chap. 13 |    |
 |  |  | Disease | The dynamics of disease | Bowman 13.4-end, [Blackwood to 2.2.2]({{ site.url }}/teaching/ecology/papers/Blackwood_SIR.pdf); [R0 is just an average](https://www.santafe.edu/news-center/news/transmission-t-024-cristopher-moore-on-the-heavy-tail-of-outbreaks) |    |
-|         | **(D6)** | Disc 6 |  Predation    |  |  Hmwk 5 due |
+|         | **(D6)** | Disc 6 |  [Predation]({{ site.url }}/teaching/ecology/summersections/section_6_pred){:target="_blank"}    |  |  Hmwk 5 due |
 | **8/2** | **(T-L13)** | Disease cont. |  |  |    |
 |  |  | Disease cont. |  |  |    |
 | **8/4** | **(R-L14)** | Interactions | Mutualisms  | Bowman Chap. 15 |    |
