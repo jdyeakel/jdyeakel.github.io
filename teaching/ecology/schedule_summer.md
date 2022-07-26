@@ -69,7 +69,7 @@ tr:nth-child(odd) {background: #FFF}
 | **7/19** | **(T-L9)** | Competition | Intro to competition | Bowman Ch. 14 |    |
 |  |  |  | Competition dynamics 1 |  |    |
 | **7/21** | **(R-L10)** | ***Exam II*** |  |  |    |
-|  |  | Competition | Competition dynamics 2 |  |    |
+|  |  | Competition | Competition dynamics 2 and [demo]({{ site.url }}/teaching/ecology/summersections/demo_4_comp){:target="_blank"}   |  |    |
 |         | **(D5)** | Disc 5 |  [Competition Dynamics]({{ site.url }}/teaching/ecology/summersections/section_5_comp){:target="_blank"}    |  |  Hmwk 4 due |
 | **7/26** | **(T-L11)** | Predation 1 | Herbivory/Predation | Bowman Ch. 12 |    |
 |  |  | Predation dynamics |  |  |    |
