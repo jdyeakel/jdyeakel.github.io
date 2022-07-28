@@ -72,7 +72,7 @@ tr:nth-child(odd) {background: #FFF}
 |  |  | Competition | Competition dynamics 2 and [demo]({{ site.url }}/teaching/ecology/summersections/demo_4_comp){:target="_blank"}   |  |    |
 |         | **(D5)** | Disc 5 |  [Competition Dynamics]({{ site.url }}/teaching/ecology/summersections/section_5_comp){:target="_blank"}    |  |  Hmwk 4 due |
 | **7/26** | **(T-L11)** | Predation 1 | Herbivory/Predation | Bowman Ch. 12 |    |
-|  |  | Predation dynamics |  |  |    |
+|  |  | Predation 2 | Predation dynamics with [demo]({{ site.url }}/teaching/ecology/summersections/demo_5_pred){:target="_blank"} |  |    |
 | **7/28** | **(R-L12)** | Parasitism | Parasites and Parasitoids | Bowman Chap. 13 |    |
 |  |  | Disease | The dynamics of disease | Bowman 13.4-end, [Blackwood to 2.2.2]({{ site.url }}/teaching/ecology/papers/Blackwood_SIR.pdf); [R0 is just an average](https://www.santafe.edu/news-center/news/transmission-t-024-cristopher-moore-on-the-heavy-tail-of-outbreaks) |    |
 |         | **(D6)** | Disc 6 |  [Predation]({{ site.url }}/teaching/ecology/summersections/section_6_pred){:target="_blank"}    |  |  Hmwk 5 due |
