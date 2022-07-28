@@ -59,7 +59,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 * [Lecture 9: Discrete growth and Competition](https://ucmerced.box.com/s/0oid1o9pntcrd21xxhq54xk2jh5upyhf){:target="_blank"}  
 * Lecture 10: Competition dynamics: (will try to convert video this weekend)  
 * Lecture 11: Predation (will try to convert video this weekend)  
-* Lecture 12: Predation dynamics and parasitism (will try to convert video this weekend)  
+* Lecture 12: [Predation dynamics and parasitism](https://ucmerced.box.com/s/cpz51m7dj6tmmaxo3qez17d13f0ror1r){:target="_blank"}  
     * [Wasp Parasitoid video](https://ucmerced.box.com/s/9gvw9lve320w7vlta12jes1y5um3qgi2){:target="_blank"}  
     * [Malaria video part 1](https://ucmerced.box.com/s/p7afzdp319asy0vowy5rwud6kz6r9suj){:target="_blank"}  
     * [Malaria video part 2](https://ucmerced.box.com/s/e6pl4gq680zxdc18p24fd7tt4n4tuje2){:target="_blank"}  
