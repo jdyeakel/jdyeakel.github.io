@@ -57,7 +57,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 * [Lecture 7: Game Theory](https://ucmerced.box.com/s/91s3xjh9bt3py2tep16otyndsir4w8dt){:target="_blank"}  
 * [Lecture 8: Exponential and logistic population growth](https://ucmerced.box.com/s/gc0hzrxbyqj3ilt00dw3s8lc84xnpj17){:target="_blank"}  
 * [Lecture 9: Discrete growth and Competition](https://ucmerced.box.com/s/0oid1o9pntcrd21xxhq54xk2jh5upyhf){:target="_blank"}  
-* Lecture 10: Competition dynamics: (will try to convert video this weekend)  
+* [Lecture 10: Competition dynamics](https://ucmerced.box.com/s/p303v274bdmbds3z5bsvp8qg3yowcm9o){:target="_blank"}  
 * Lecture 11: Predation (will try to convert video this weekend)  
 * Lecture 12: [Predation dynamics and parasitism](https://ucmerced.box.com/s/cpz51m7dj6tmmaxo3qez17d13f0ror1r){:target="_blank"}  
     * [Wasp Parasitoid video](https://ucmerced.box.com/s/9gvw9lve320w7vlta12jes1y5um3qgi2){:target="_blank"}  
