@@ -19,6 +19,7 @@ image:
 ---
 
 ### $$\oint$$ News & Updates   
+* *09/06/22*: Two new preprints led by graduate student Megha Suswaram -- [one where we explore the evolution of signaling/silence among species using acoustic communication to find/assess potential mates](https://www.biorxiv.org/content/10.1101/2022.09.02.506422v1), and [one where we explore the effect of parasitism on the evolution of signaling/silence](https://www.biorxiv.org/content/10.1101/2022.08.12.503800v1)! 
 * *05/26/22*: New paper exploring an interesting way to investigate distributions of fossil shark teeth in *Proceedings of the Royal Society B: Biological Sciences:* ***Decoding the dynamics of dental distributions: insights from shark demography and dispersal*** (Available soon!)    
 * *08/15/21*: Congratulations to Ritwika VPS for successfully defending her Ph.D. thesis!  
 * *07/03/20*: New paper on the role of ecosystem engineers in ecological networks, published in *Nature Communications*: [Diverse interactions and ecosystem engineering can stabilize community assembly](https://www.nature.com/articles/s41467-020-17164-x){:target="_blank"}  

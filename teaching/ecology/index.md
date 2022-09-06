@@ -64,7 +64,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
     * [Malaria video part 1](https://ucmerced.box.com/s/p7afzdp319asy0vowy5rwud6kz6r9suj){:target="_blank"}  
     * [Malaria video part 2](https://ucmerced.box.com/s/e6pl4gq680zxdc18p24fd7tt4n4tuje2){:target="_blank"}  
 * [Lecture 13](https://ucmerced.box.com/s/w2agipd7jw56sdbsl5pm9ynuc4se585n){:target="_blank"}  
-
+* [Lecture 14](https://ucmerced.box.com/s/pp4k19fjog2ncsvachihkpim1kvvd9it){:target="_blank"}  
 
 
 
