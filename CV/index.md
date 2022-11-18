@@ -25,7 +25,7 @@ Publications
 Upcoming
 :	* ☕ Ritwika V.P.S., Gopinathan A.J., <span style="color:#4292E5;">Yeakel J.D.</span> The fitness tradeoffs of predation: When to scavenge and when to steal. In review @ *Proceedings of the National Academy of Sciences USA*.
 
-	* ☕ Suswaram M., Bhat U., <span style="color:#4292E5;">Yeakel J.D.</span> Rising above the noise: The influence of population dynamics on the evolution of acoustic signaling. In review @ *Ecology and Evolution*.
+	* ☕ Suswaram M., Bhat U., <span style="color:#4292E5;">Yeakel J.D.</span> Rising above the noise: the influence of population dynamics on the evolution of acoustic signaling. In review @ *Ecology and Evolution*.
 
 	* ☕ Suswaram M., <span style="color:#4292E5;">Yeakel J.D.</span>, Gokhale C.S. Parasitoid pressures and silence evolution. In review @ *Proceedings of the Royal Society B*.
 
