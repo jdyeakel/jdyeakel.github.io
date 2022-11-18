@@ -23,17 +23,19 @@ Publications
 -->
 
 Upcoming
-:	* ☕ Ritwika V.P.S., Gopinathan A.J., $${}^\dagger$$<span style="color:#4292E5;">Yeakel J.D.</span> The fitness tradeoffs of predation: When to scavenge and when to steal. In review @ *Proceedings of the National Academy of Sciences USA*.
+:	* ☕ Ritwika V.P.S., Gopinathan A.J., <span style="color:#4292E5;">Yeakel J.D.</span> The fitness tradeoffs of predation: When to scavenge and when to steal. In review @ *Proceedings of the National Academy of Sciences USA*.
 
-	* ☕ Suswaram M., Bhat U., $${}^\dagger$$<span style="color:#4292E5;">Yeakel J.D.</span> Rising above the noise: The influence of population dynamics on the evolution of acoustic signaling. In review @ *Ecology and Evolution*.
+	* ☕ Suswaram M., Bhat U., <span style="color:#4292E5;">Yeakel J.D.</span> Rising above the noise: The influence of population dynamics on the evolution of acoustic signaling. In review @ *Ecology and Evolution*.
 
-	* ☕ Suswaram M., $${}^\dagger$$<span style="color:#4292E5;">Yeakel J.D.</span>, Gokhale C.S. Parasitoid pressures and silence evolution. In review @ *Proceedings of the Royal Society B*.
+	* ☕ Suswaram M., <span style="color:#4292E5;">Yeakel J.D.</span>, Gokhale C.S. Parasitoid pressures and silence evolution. In review @ *Proceedings of the Royal Society B*.
 
-	* ☕ Rallings T., Kempes C.P., $${}^\dagger$$<span style="color:#4292E5;">Yeakel J.D.</span> On the dynamics of mortality and the ephemeral nature of mammalian megafauna.  
+	* ☕ Rallings T., Kempes C.P., <span style="color:#4292E5;">Yeakel J.D.</span> On the dynamics of mortality and the ephemeral nature of mammalian megafauna.  
 
 
 2022
-:	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1098/rspb.2022.0808"></div> $${}^\dagger$$Kim S.L., $${}^\dagger$$<span style="color:#4292E5;">Yeakel J.D.</span>, Balk M.A., Eberle J.J., Zeichner S., Fieman D., Kriwet J. [Decoding the dynamics of dental distributions: insights from shark demography and dispersal](https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2022.0808){:target="_blank"} *Proceedings of the Royal Society B: Biological Sciences*.
+:	* Valdovinos F.S., Hale K.R.S., Dritz S., Glaum P.R., Mccann K.S., Simon S.M., Thébault E., Wetzel W.C., Wootton K.L., <span style="color:#4292E5;">Yeakel J.D.</span> A bioenergetic framework for aboveground terrestrial food webs. *Trends in Ecology and Evolution*. [Preprint](https://d197for5662m48.cloudfront.net/documents/publicationstatus/91824/preprint_pdf/e102f7f70658452aaa4318b6d1bc21df.pdf){:target="_blank"}.
+
+	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1098/rspb.2022.0808"></div> $${}^\dagger$$Kim S.L., $${}^\dagger$$<span style="color:#4292E5;">Yeakel J.D.</span>, Balk M.A., Eberle J.J., Zeichner S., Fieman D., Kriwet J. [Decoding the dynamics of dental distributions: insights from shark demography and dispersal](https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2022.0808){:target="_blank"} *Proceedings of the Royal Society B: Biological Sciences*.
 
 <!-- Preprint -->
 
