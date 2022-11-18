@@ -10,22 +10,9 @@ Justin Douglas Yeakel
 Associate Professor  
 School of Natural Sciences  
 University of California, Merced  
-Email: jdyeakel at gmail.com  
+Email: jyeakel🤖ucmerced🤖edu  
 [Google Scholar](http://scholar.google.com/citations?user=nWHtsZYAAAAJ&hl=en&oi=sra)  
 [**CV (PDF)**](http://jdyeakel.github.io/pdfs/Yeakel_CV.pdf){:target="_blank"}  
-
-Past Positions
-=========
-**2014--17**: Omidyar Fellow, Santa Fe Institute
-	Santa Fe, New Mexico  
-**2012--14**: Post-Doctoral Fellow, Simon Fraser University
-	Advisor: [Jon Moore](http://moorelab.wix.com/moorelab){:target="_blank"}  
-**2006--12**: Ph.D. Dept. Ecology and Evol. Biology
-	University of California, Santa Cruz  
-	Thesis- [*The structure of mammalian food webs: Interpreting, predicting, and updating estimates of species interactions in paleontological and modern communities.*](http://escholarship.org/uc/item/7z7173b4){:target="_blank"}  
-	Advisor Troika: [Paul Koch](http://www.es.ucsc.edu/~pkoch/){:target="_blank"}, [Marc Mangel](http://users.soe.ucsc.edu/~msmangel/){:target="_blank"}, [Jim Estes](http://werc.ucsc.edu/Estes/Estes_dk.html){:target="_blank"}  
-	External Committee Member- [Paulo R. Guimaraes Jr.](http://www.guimaraes.bio.br/){:target="_blank"}  
-**2000--04**: Bachelors of Science, Kent State University
 
 
 Publications  
@@ -35,8 +22,15 @@ Publications
 *In prep**)
 -->
 
-In Review
-:	* ☕ Ritwika V.P.S., Gopinathan A.J. $${}^\dagger$$<span style="color:#4292E5;">Yeakel J.D.</span> The fitness tradeoffs of predation: When to scavenge and when to steal. In review @ *Proceedings of the National Academy of Sciences USA*.
+Upcoming
+:	* ☕ Ritwika V.P.S., Gopinathan A.J., $${}^\dagger$$<span style="color:#4292E5;">Yeakel J.D.</span> The fitness tradeoffs of predation: When to scavenge and when to steal. In review @ *Proceedings of the National Academy of Sciences USA*.
+
+	* ☕ Suswaram M., Bhat U., $${}^\dagger$$<span style="color:#4292E5;">Yeakel J.D.</span> Rising above the noise: The influence of population dynamics on the evolution of acoustic signaling. In review @ *Ecology and Evolution*.
+
+	* ☕ Suswaram M., $${}^\dagger$$<span style="color:#4292E5;">Yeakel J.D.</span>, Gokhale C.S. Parasitoid pressures and silence evolution. In review @ *Proceedings of the Royal Society B*.
+
+	* ☕ Rallings T., Kempes C.P., $${}^\dagger$$<span style="color:#4292E5;">Yeakel J.D.</span> On the dynamics of mortality and the ephemeral nature of mammalian megafauna.  
+
 
 2022
 :	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1098/rspb.2022.0808"></div> $${}^\dagger$$Kim S.L., $${}^\dagger$$<span style="color:#4292E5;">Yeakel J.D.</span>, Balk M.A., Eberle J.J., Zeichner S., Fieman D., Kriwet J. [Decoding the dynamics of dental distributions: insights from shark demography and dispersal](https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2022.0808){:target="_blank"} *Proceedings of the Royal Society B: Biological Sciences*.
@@ -135,6 +129,22 @@ pre-2011
 
 
 <!---
+
+Past Positions
+=========
+**2014--17**: Omidyar Fellow, Santa Fe Institute
+	Santa Fe, New Mexico  
+**2012--14**: Post-Doctoral Fellow, Simon Fraser University
+	Advisor: [Jon Moore](http://moorelab.wix.com/moorelab){:target="_blank"}  
+**2006--12**: Ph.D. Dept. Ecology and Evol. Biology
+	University of California, Santa Cruz  
+	Thesis- [*The structure of mammalian food webs: Interpreting, predicting, and updating estimates of species interactions in paleontological and modern communities.*](http://escholarship.org/uc/item/7z7173b4){:target="_blank"}  
+	Advisor Troika: [Paul Koch](http://www.es.ucsc.edu/~pkoch/){:target="_blank"}, [Marc Mangel](http://users.soe.ucsc.edu/~msmangel/){:target="_blank"}, [Jim Estes](http://werc.ucsc.edu/Estes/Estes_dk.html){:target="_blank"}  
+	External Committee Member- [Paulo R. Guimaraes Jr.](http://www.guimaraes.bio.br/){:target="_blank"}  
+**2000--04**: Bachelors of Science, Kent State University
+
+
+
 <br>
 
 Invited Seminars
