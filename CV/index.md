@@ -6,18 +6,10 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 ---
 
-Justin Douglas Yeakel  
-Associate Professor  
-School of Natural Sciences  
-University of California, Merced  
-Email: jyeakel🤖ucmerced🤖edu  
-[Google Scholar](http://scholar.google.com/citations?user=nWHtsZYAAAAJ&hl=en&oi=sra)  
-[**CV (PDF)**](http://jdyeakel.github.io/pdfs/Yeakel_CV.pdf){:target="_blank"}  
 
-
-Publications  
-=========
+---
 ☕ from the Yeakel QED group; $${}^\dagger$$contributed equally  
+---
 <!---
 *In prep**)
 -->
@@ -131,6 +123,17 @@ pre-2011
 
 
 <!---
+
+Justin Douglas Yeakel  
+Associate Professor  
+School of Natural Sciences  
+University of California, Merced  
+Email: jyeakel🤖ucmerced🤖edu  
+[Google Scholar](http://scholar.google.com/citations?user=nWHtsZYAAAAJ&hl=en&oi=sra)  
+[**CV (PDF)**](http://jdyeakel.github.io/pdfs/Yeakel_CV.pdf){:target="_blank"}  
+
+
+Publications  
 
 Past Positions
 =========

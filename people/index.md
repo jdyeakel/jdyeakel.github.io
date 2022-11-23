@@ -40,7 +40,7 @@ I generally use network-theoretic approaches – combined with empirical measure
 <span style="text-align=left;font-size:1.5em;color:#4292E5;">Principal Investigator</span>   
 <div>
 <p style="float: left;padding-right:25px"><img src="/images/justin-web.jpg" width="125"></p>    
-<b>Justin D. Yeakel:</b> "In a nutshell, I am fascinated by the ecological and physiological constraints that drive trophic interactions between species, and how such interactions trickle up to impact populations and communities over large spatial and temporal scales." <BR> <BR> <BR>
+<b>Justin D. Yeakel:</b> "In a nutshell, I am fascinated by the ecological and physiological constraints that drive trophic interactions between species, and how such interactions trickle up to impact populations and communities over large spatial and temporal scales." <a href="http://jdyeakel.github.io/pdfs/Yeakel_CV.pdf" target="_blank">CV (PDF)</a> | <a href="http://scholar.google.com/citations?user=nWHtsZYAAAAJ&hl=en&oi=sra" target="_blank">Google Scholar</a> <BR> <BR> <BR>
 </div>       
 
 <BR CLEAR="...">
