@@ -25,9 +25,9 @@ Upcoming
 
 
 2022
-:	* Valdovinos F.S., Hale K.R.S., Dritz S., Glaum P.R., Mccann K.S., Simon S.M., Thébault E., Wetzel W.C., Wootton K.L., <span style="color:#4292E5;">Yeakel J.D.</span> A bioenergetic framework for aboveground terrestrial food webs. *Trends in Ecology and Evolution*. [Preprint](https://d197for5662m48.cloudfront.net/documents/publicationstatus/91824/preprint_pdf/e102f7f70658452aaa4318b6d1bc21df.pdf){:target="_blank"}.
+:	* Valdovinos F.S., Hale K.R.S., Dritz S., Glaum P.R., Mccann K.S., Simon S.M., Thébault E., Wetzel W.C., Wootton K.L., <span style="color:#4292E5;">Yeakel J.D.</span> A bioenergetic framework for aboveground terrestrial food webs. [*Trends in Ecology and Evolution*](https://www.sciencedirect.com/science/article/pii/S0169534722002841){:target="_blank"}.
 
-	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1098/rspb.2022.0808"></div> ☕ $${}^\dagger$$Kim S.L., $${}^\dagger$$<span style="color:#4292E5;">Yeakel J.D.</span>, Balk M.A., Eberle J.J., Zeichner S., Fieman D., Kriwet J. [Decoding the dynamics of dental distributions: insights from shark demography and dispersal](https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2022.0808){:target="_blank"} *Proceedings of the Royal Society B: Biological Sciences*.
+	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1098/rspb.2022.0808"></div> $${}^\dagger$$Kim S.L., $${}^\dagger$$<span style="color:#4292E5;">Yeakel J.D.</span>, Balk M.A., Eberle J.J., Zeichner S., Fieman D., Kriwet J. [Decoding the dynamics of dental distributions: insights from shark demography and dispersal](https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2022.0808){:target="_blank"} *Proceedings of the Royal Society B: Biological Sciences*.
 
 <!-- Preprint -->
 
