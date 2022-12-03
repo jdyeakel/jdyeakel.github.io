@@ -19,6 +19,7 @@ image:
 ---
 
 ### $$\oint$$ News & Updates   
+* *12/02/22*: Our new preprint! [On the dynamics of mortality and the ephemeral nature of mammalian megafauna](https://doi.org/10.48550/arXiv.2211.16638)  
 * *11/28/22*: Check out this new review on [A Bioenergetic Framework for Aboveground Terrestrial Food Webs](https://authors.elsevier.com/sd/article/S0169-5347(22)00284-1){:target="_blank"} in *Trends in Ecology and Evolution* that emerged from a working group at UC Davis led by [Fernanda Valdovinos](https://www.fsvaldovinos.com){:target="_blank"} and [Kayla Sale-Hale](https://lsa.umich.edu/eeb/people/graduate-students/kayla-sale-hale.html){:target="_blank"}!  
 * *09/06/22*: Two new preprints led by graduate student Megha Suswaram -- [one where we explore the evolution of signaling/silence among species using acoustic communication to find/assess potential mates](https://www.biorxiv.org/content/10.1101/2022.09.02.506422v1){:target="_blank"}, and [one where we explore the effect of parasitism on the evolution of signaling/silence](https://www.biorxiv.org/content/10.1101/2022.08.12.503800v1){:target="_blank"}!  
 * *05/26/22*: New paper exploring an interesting way to investigate distributions of fossil shark teeth in *Proceedings of the Royal Society B: Biological Sciences:* [***Decoding the dynamics of dental distributions: insights from shark demography and dispersal***]((https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2022.0808){:target="_blank"})    

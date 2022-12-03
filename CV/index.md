@@ -15,13 +15,13 @@ comments: true
 -->
 
 Upcoming
-:	* ☕ Ritwika V.P.S., Gopinathan A.J., <span style="color:#4292E5;">Yeakel J.D.</span> The fitness tradeoffs of predation: When to scavenge and when to steal. In review @ *Proceedings of the National Academy of Sciences USA*.
+:	* ☕ Ritwika V.P.S., Gopinathan A.J., <span style="color:#4292E5;">Yeakel J.D.</span> The fitness tradeoffs of predation: When to scavenge and when to steal.
 
-	* ☕ Suswaram M., Bhat U., <span style="color:#4292E5;">Yeakel J.D.</span> Rising above the noise: the influence of population dynamics on the evolution of acoustic signaling. In review @ *Ecology and Evolution*.
+	* ☕ Suswaram M., Bhat U., <span style="color:#4292E5;">Yeakel J.D.</span> Rising above the noise: the influence of population dynamics on the evolution of acoustic signaling. In review @ *Ecology and Evolution*. [Prepreint](https://www.biorxiv.org/content/10.1101/2022.09.02.506422v1){:target="_blank"}.
 
-	* ☕ Suswaram M., <span style="color:#4292E5;">Yeakel J.D.</span>, Gokhale C.S. Parasitoid pressures and silence evolution. In review @ *Proceedings of the Royal Society B*.
+	* ☕ Suswaram M., <span style="color:#4292E5;">Yeakel J.D.</span>, Gokhale C.S. Parasitoid pressures and silence evolution. In review @ *Proceedings of the Royal Society B*. [Preprint](https://www.biorxiv.org/content/10.1101/2022.08.12.503800v1){:target="_blank"}.
 
-	* ☕ Rallings T., Kempes C.P., <span style="color:#4292E5;">Yeakel J.D.</span> On the dynamics of mortality and the ephemeral nature of mammalian megafauna.  
+	* ☕ Rallings T., Kempes C.P., <span style="color:#4292E5;">Yeakel J.D.</span> On the dynamics of mortality and the ephemeral nature of mammalian megafauna. In review @ *Proceedings of the Royal Society B: Biological Sciences*. [Preprint](https://doi.org/10.48550/arXiv.2211.16638){:target="_blank"}.
 
 
 2022
