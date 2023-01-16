@@ -1,6 +1,6 @@
 ---
 layout: pagetrim
-title: "Ecological Dynamics (Fall, 2019)"
+title: "Ecological Dynamics (Spring, 2023)"
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
@@ -10,14 +10,14 @@ image:
 ---
 
 ## Info
-*	Class time/location: MW 3:00-4:15 in CLSSRM 110  
+*	Class time/location: TR 12:00-1:15 in ADMIN 264  
 
 
 <hr>
 
-*	Office hours: SE1 288, MW 1-2 PM  
-*	[Syllabus](http://jdyeakel.github.io/teaching/ecodyn/syllabus.pdf)  
-*	[Topical schedule](http://jdyeakel.github.io/teaching/ecodyn/schedule.pdf)
+*	Office hours: SE1 288, TR 3-4 PM or by appointment    
+<!-- *	[Syllabus](http://jdyeakel.github.io/teaching/ecodyn/syllabus.pdf)  
+*	[Topical schedule](http://jdyeakel.github.io/teaching/ecodyn/schedule.pdf) -->
 
 Readings for the course will be provided below. However, if you are new to theoretical biology, the following resources may prove helpful. The following code identifies the level at which the book is aimed: (B: Beginner; I: Intermediate; A: Advanced). These are must-have resources if you plan to do a lot of theory!  
 
@@ -32,9 +32,9 @@ Readings for the course will be provided below. However, if you are new to theor
 
 <hr>
 
-> **About the final project**  
+<!-- > **About the final project**  
 > The final project will feature a problem that you investigate using tools from the course, but related to your own research. The gold standard would be something that can add to your thesis, or serve as a publishable side project down the road. The idea will be to articulate an interesting question in your domain of expertise, find a way to investigate that question using tools from the course, and exploring the implications, etc. At the end of the course, you will give a formal presentation to the class in the form of a professional meeting talk (15-20 min) that gives us background, explanation of methods, and results. I'm available during office hours if you want to chat about ideas, techniques, etc.  
-> **Due Wednesday, October 16: A paragraph describing what you want to do, and the possible methods that you might use to investigate the problem**
+> **Due Wednesday, October 16: A paragraph describing what you want to do, and the possible methods that you might use to investigate the problem** -->
 
 <!---
 <hr>
@@ -42,7 +42,7 @@ Readings for the course will be provided below. However, if you are new to theor
 <hr>
 -->
 
-## Readings
+<!-- ## Readings
 
 *	28/08/19: [Theoretical Biologist's Toolbox 1 (Mangel)](http://jdyeakel.github.io/teaching/ecodyn/Mangel_TBT1.pdf)  
 *	28/08/19: [Theoretical Biologist's Toolbox 2 (Mangel)](http://jdyeakel.github.io/teaching/ecodyn/Mangel_TBT2.pdf)  
@@ -52,7 +52,7 @@ Readings for the course will be provided below. However, if you are new to theor
 *	01/10/19: [R. May, Nature 1972](http://jdyeakel.github.io/teaching/ecodyn/May_1972.pdf); [R. Williams, Nature 2000](http://jdyeakel.github.io/teaching/ecodyn/Williams_Nature_2000.pdf); [S. Allesina, PopEcol 2015](http://jdyeakel.github.io/teaching/ecodyn/Allesina_2015.pdf)  
 *	07/10/19: [S. Allesina, Nature 2012](http://jdyeakel.github.io/teaching/ecodyn/Allesina_Nature_2012.pdf) 
 *	07/10/19: [S. Schreiber, Ecology 2011](http://jdyeakel.github.io/teaching/ecodyn/Schreiber_2011.pdf) 
-* 28/10/19: [Kondoh, Science 2003](http://jdyeakel.github.io/teaching/ecodyn/Kondoh_2003.pdf); [Valdovinos, EcolLett 2010](http://jdyeakel.github.io/teaching/ecodyn/Valdovinos_2010.pdf)  
+* 28/10/19: [Kondoh, Science 2003](http://jdyeakel.github.io/teaching/ecodyn/Kondoh_2003.pdf); [Valdovinos, EcolLett 2010](http://jdyeakel.github.io/teaching/ecodyn/Valdovinos_2010.pdf)   -->
 
 <!---
 *	17/09/22: [Generalized Modeling of Ecological Population Dynamics (pgs 1-6) ](http://jdyeakel.github.io/teaching/ecodyn/GenModeling.pdf)  
@@ -61,7 +61,7 @@ Readings for the course will be provided below. However, if you are new to theor
 * 17/10/30: [Kondoh, Science 2003](http://jdyeakel.github.io/teaching/ecodyn/Kondoh_2003.pdf); [Valdovinos, EcolLett 2010](http://jdyeakel.github.io/teaching/ecodyn/Valdovinos_2010.pdf)  
 -->
 
-<hr>
+<!-- <hr>
 
 ## Notes
 
@@ -72,7 +72,7 @@ Readings for the course will be provided below. However, if you are new to theor
 * [Pitchfork bifurcations, hysteresis, and spruce budworms](http://jdyeakel.github.io/teaching/ecodyn/notes/Ecodyn_notes5.pdf)  
 * [Analysis of 2-D systems](http://jdyeakel.github.io/teaching/ecodyn/notes/Ecodyn_notes9.pdf)  
 * [Eco-evolutionary dynamics](http://jdyeakel.github.io/teaching/ecodyn/notes/Ecodyn_notes10.pdf)
-* [Adaptive foraging](http://jdyeakel.github.io/teaching/ecodyn/notes/Ecodyn_notes11.pdf) 
+* [Adaptive foraging](http://jdyeakel.github.io/teaching/ecodyn/notes/Ecodyn_notes11.pdf)  -->
 
 
 <!---
@@ -84,7 +84,7 @@ Readings for the course will be provided below. However, if you are new to theor
 * [Canonical Equation for Allocation Processes](http://jdyeakel.github.io/teaching/ecodyn/notes/Ecodyn_notes16.pdf)
 -->
 
-<hr>
+<!-- <hr>
 
 ## Code
 * [Spatial and temporal variation (.nb)](http://jdyeakel.github.io/teaching/ecodyn/spatial_temp_var.nb)  
@@ -95,7 +95,7 @@ Readings for the course will be provided below. However, if you are new to theor
 * [Extinction experiments (.R)](http://jdyeakel.github.io/teaching/ecodyn/foodwebdynamics.R) 
 * [Eco-evolutionary dynamics](http://jdyeakel.github.io/teaching/ecodyn/ecoevo.R)
 * [Adapative foraging (.nb)](http://jdyeakel.github.io/teaching/ecodyn/adaptiveforaging.nb)  
-* [Canonical equation for activity choice (with forward sims)](http://jdyeakel.github.io/teaching/ecodyn/patch_choice2.R)  
+* [Canonical equation for activity choice (with forward sims)](http://jdyeakel.github.io/teaching/ecodyn/patch_choice2.R)   -->
 
 <!---
 * [Logistic map (.nb)](http://jdyeakel.github.io/teaching/ecodyn/logisticmap.nb)  
@@ -107,10 +107,10 @@ Readings for the course will be provided below. However, if you are new to theor
 * [Canonical equation for activity choice (with forward sims)](http://jdyeakel.github.io/teaching/ecodyn/patch_choice2.R)  
 -->
 
-<hr>
+<!-- <hr>
 
 ## Cool stuff to check out
-* [Beautiful patterns arise near bifurcations in a spatially explicit dynamic system (site)](http://www.reallygross.de/node/35)  
+* [Beautiful patterns arise near bifurcations in a spatially explicit dynamic system (site)](http://www.reallygross.de/node/35)   -->
 
 <hr>
 
