@@ -117,21 +117,21 @@ Readings for the course will be provided below. However, if you are new to theor
 
 ## Coding resources
 R
-: * [R without RStudio - a staple language for biologists](https://www.r-project.org/about.html)  
-  * [RStudio (should self-install R)](https://www.rstudio.com/products/rstudio/)  
-  * [RStudio webinars and tutorials](https://www.rstudio.com/resources/webinars/)  
-  * [Learn R through Swirl (requires R)](http://swirlstats.com/students.html)  
-  * [Greg Gilbert's transitioning to R course materials](https://greggilbertlab.sites.ucsc.edu/teaching/rtransition/)  
-  * [Try R Code School](http://tryr.codeschool.com/)
+: * [R without RStudio - a staple language for biologists](https://www.r-project.org/about.html){:target="_blank"}  
+  * [RStudio (should self-install R)](https://www.rstudio.com/products/rstudio/){:target="_blank"}  
+  * [RStudio webinars and tutorials](https://www.rstudio.com/resources/webinars/){:target="_blank"}  
+  * [Learn R through Swirl (requires R)](http://swirlstats.com/students.html){:target="_blank"}  
+  * [Greg Gilbert's transitioning to R course materials](https://greggilbertlab.sites.ucsc.edu/teaching/rtransition/){:target="_blank"}  
+  * [Try R Code School](http://tryr.codeschool.com/){:target="_blank"}
 
 Julia
-: * [Julia - new language but incredibly fast](https://julialang.org/)  
-  * [Learning Julia](https://people.eecs.berkeley.edu/~pcmoritz/julia.html)  
-  * [Jupyter notebook environment](http://jupyter.org/)
-  * [Julia Coursera](https://www.coursera.org/learn/julia-programming)
+: * [Julia - new language but incredibly fast](https://julialang.org/){:target="_blank"}  
+  * [Learning Julia](https://people.eecs.berkeley.edu/~pcmoritz/julia.html){:target="_blank"}  
+  * [Jupyter notebook environment](http://jupyter.org/){:target="_blank"}
+  * [Julia Coursera](https://www.coursera.org/learn/julia-programming){:target="_blank"}
 
 Other
-: * [Wolfram Alpha: Easy plotting and analysis of functions using natural language](http://www.wolframalpha.com)  
-  * [Mathematica, Matlab, and proprietary software supplied by UCMerced](http://it.ucmerced.edu/software-list/)  
-  * [Python - perhaps the most widely used language across sciences](https://www.python.org/)  
-  * [Atom text editor](https://atom.io/)
+: * [Wolfram Alpha: Easy plotting and analysis of functions using natural language](http://www.wolframalpha.com){:target="_blank"}  
+  * [Mathematica, Matlab, and proprietary software supplied by UCMerced](http://it.ucmerced.edu/software-list/){:target="_blank"}  
+  * [Python - perhaps the most widely used language across sciences](https://www.python.org/){:target="_blank"}  
+  * [Visual Studio text editor](https://visualstudio.microsoft.com){:target="_blank"}  
