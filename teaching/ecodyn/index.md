@@ -1,5 +1,5 @@
 ---
-layout: pagetrim
+layout: pagetrimecodyn
 title: "Ecological Dynamics (Spring, 2023)"
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
@@ -16,6 +16,7 @@ image:
 <hr>
 
 *	Office hours: SE1 288, TR 3-4 PM or by appointment    
+
 <!-- *	[Syllabus](http://jdyeakel.github.io/teaching/ecodyn/syllabus.pdf)  
 *	[Topical schedule](http://jdyeakel.github.io/teaching/ecodyn/schedule.pdf) -->
 
@@ -30,9 +31,9 @@ Readings for the course will be provided below. However, if you are new to theor
 * *The Art of Modeling Dynamic Systems*: F. Morrison (I)  
 
 
+<!-- > **About the final project**  
 <hr>
 
-<!-- > **About the final project**  
 > The final project will feature a problem that you investigate using tools from the course, but related to your own research. The gold standard would be something that can add to your thesis, or serve as a publishable side project down the road. The idea will be to articulate an interesting question in your domain of expertise, find a way to investigate that question using tools from the course, and exploring the implications, etc. At the end of the course, you will give a formal presentation to the class in the form of a professional meeting talk (15-20 min) that gives us background, explanation of methods, and results. I'm available during office hours if you want to chat about ideas, techniques, etc.  
 > **Due Wednesday, October 16: A paragraph describing what you want to do, and the possible methods that you might use to investigate the problem** -->
 
