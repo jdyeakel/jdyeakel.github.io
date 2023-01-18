@@ -9,6 +9,11 @@ image:
   credit: jdyeakel
 ---
 
+> ### [Ecological Dynamics (Spring, 2023)]({{ site.url }}/teaching/ecodyn/)   
+> Quantitative and Systems Biology 256  
+
+<br>
+
 > ### [Advanced Topics in Ecology and Evolutionary Biology (Fall, 2021)]({{ site.url }}/teaching/advtopicsecoevo/)  
 > Quantitative and Systems Biology 248  
 
@@ -22,7 +27,6 @@ image:
 > ### [Fundamentals of Ecology (Summer, 2022)]({{ site.url }}/teaching/ecology/)  
 > Putting the Lotka in your Volterra since 1926       
 
-<br>
 
-> ### [Ecological Dynamics (Fall, 2019)]({{ site.url }}/teaching/ecodyn/)   
+
   
