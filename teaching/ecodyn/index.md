@@ -11,7 +11,7 @@ image:
 
 ## Info
 *	Class time/location: TR 12:00-1:15 in ADMIN 264  
-
+* [**Class Schedule**]({{ site.url }}/teaching/schedule)
 
 <hr>
 
