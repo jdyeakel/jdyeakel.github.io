@@ -34,10 +34,10 @@ tr:nth-child(even) {background: #CCC}
 tr:nth-child(odd) {background: #FFF}
 </style>
 
-| Date | Lect/Disc_# | Lecture Topic | Readings | Materials |
+| Date | Lect | Topic | Readings | Materials |
 | ---------- | ----------- | ------------- | ------------ |
 | **1/17**  | **T-L1** |  Introduction | [Mangel Toolbox Chap2](http://jdyeakel.github.io/teaching/ecodyn/Mangel_TBT2.pdf){:target="_blank"} |     |
-| **1/19**  | **R-L2** |  Discrete/continuous population dynamics |     |     |
+| **1/19**  | **R-L2** |  Population dynamics |     |     |
 | **1/24**  | **T-L3** | Allometric reasoning 1 |     |     |
 | **1/26**  | **R-L4** |  Fixed points 1 |  |     |
 | **1/31**  | **T-L5** | Fixed points 2 |  |     |
