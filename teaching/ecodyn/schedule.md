@@ -34,7 +34,7 @@ tr:nth-child(even) {background: #CCC}
 tr:nth-child(odd) {background: #FFF}
 </style>
 
-| Date &emsp &emsp | Lect &emsp &emsp | Topic | Readings | Notes |
+| Date &emsp; &emsp; | Lect &emsp; &emsp; | Topic | Readings | Notes |
 | ---------- | ----------- | ------------- | ------------ |
 | **1/17**  | **T-L1** |  Introduction | [Mangel Toolbox Chap2](http://jdyeakel.github.io/teaching/ecodyn/Mangel_TBT2.pdf){:target="_blank"} |  pgs 31-34; 36-43   |
 | **1/19**  | **R-L2** |  Population dynamics |      |     |
