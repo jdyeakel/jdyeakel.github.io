@@ -12,8 +12,12 @@ comments: true
 
 <br>
 > ***Note 1) The schedule is subject to change at any time. Check back frequently for updates!***  
-> ***Note 2) There is flexibility built into the schedule towards the end... we may use this flexibility to a) spend more time on topics that are confusing, and/or b) add additional material to that already scheduled.   
+> ***Note 2) There is flexibility built into the schedule towards the end... we may use this flexibility to a) spend more time on topics that are confusing, and/or b) add additional material to that already scheduled.***   
+> Book Codes:
+> TBT: The Theoretical Biologist's Toolbox (Mangel)  
+> NDC: Nonlinear Dynamics and Chaos (Strogatz)  
 <br>
+
 
 
 <style>
@@ -34,12 +38,12 @@ tr:nth-child(even) {background: #CCC}
 tr:nth-child(odd) {background: #FFF}
 </style>
 
-| Date_____ | Lect_____ | Topic | Readings | Notes |
+| Date___ | Lect___ | Topic | Readings | Notes |
 | ---------- | ----------- | ------------- | ------------ |
-| **1/17**  | **T-L1** |  Introduction | [Mangel Toolbox Chap2](http://jdyeakel.github.io/teaching/ecodyn/Mangel_TBT2.pdf){:target="_blank"} |  pgs 31-34; 36-43   |
+| **1/17**  | **T-L1** |  Introduction | [TBT Chap2](http://jdyeakel.github.io/teaching/ecodyn/Mangel_TBT2.pdf){:target="_blank"} |  pgs 31-34; 36-43   |
 | **1/19**  | **R-L2** |  Population dynamics |      |     |
 | **1/24**  | **T-L3** | Allometric reasoning 1 |  [West et al. 2001](http://jdyeakel.github.io/teaching/ecodyn/West_Nature_2001.pdf){:target="_blank"}   |     |
-| **1/26**  | **R-L4** |  Fixed points 1 | [Nonlinear Dynamics and Chaos 1 (Strogatz)](http://jdyeakel.github.io/teaching/ecodyn/Strogatz_NDC1.pdf){:target="_blank"} |     |
+| **1/26**  | **R-L4** |  Fixed points 1 | [NDC 1 (Strogatz)](http://jdyeakel.github.io/teaching/ecodyn/Strogatz_NDC1.pdf){:target="_blank"} |     |
 | **1/31**  | **T-L5** | Fixed points 2 |  |     |
 | **2/2**  | **R-L6** | Bifurcations 1 |  |     |
 | **2/7** | **T-L7** |  Bifurcations 2 |     |    |
