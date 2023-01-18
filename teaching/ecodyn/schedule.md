@@ -13,7 +13,6 @@ comments: true
 <br>
 > ***Note 1) The schedule is subject to change at any time. Check back frequently for updates!***  
 > ***Note 2) There is flexibility built into the schedule towards the end... we may use this flexibility to a) spend more time on topics that are confusing, and/or b) add additional material to that already scheduled.***   
->     
 > Book Codes:  
 > TBT: The Theoretical Biologist's Toolbox (Mangel)  
 > NDC: Nonlinear Dynamics and Chaos (Strogatz)  
