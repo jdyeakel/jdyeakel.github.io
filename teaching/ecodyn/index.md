@@ -20,7 +20,7 @@ image:
 <!-- *	[Syllabus](http://jdyeakel.github.io/teaching/ecodyn/syllabus.pdf)  
 *	[Topical schedule](http://jdyeakel.github.io/teaching/ecodyn/schedule.pdf) -->
 
-Readings for the course will be provided below. However, if you are new to theoretical biology, the following resources may prove helpful. The following code identifies the level at which the book is aimed: (B: Beginner; I: Intermediate; A: Advanced). These are must-have resources if you plan to do a lot of theory!  
+Readings for the course will be provided on the schedule page. However, if you are new to theoretical biology, the following resources may prove helpful. The following code identifies the level at which the book is aimed: (B: Beginner; I: Intermediate; A: Advanced). These are must-have resources if you plan to do a lot of theory!  
 
 * *A Primer of Ecology*: Nicholas J. Gotelli (B)  
 * *Mathematical Biology I,II*: J.D. Murray (I/A)  

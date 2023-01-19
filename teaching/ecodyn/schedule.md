@@ -38,10 +38,10 @@ tr:nth-child(even) {background: #CCC}
 tr:nth-child(odd) {background: #FFF}
 </style>
 
-| Date___ | Lect___ | Topic | Readings | Notes |
+| Date___ | Lect___ | Topic | Readings | Examples |
 | ---------- | ----------- | ------------- | ------------ |
 | **1/17**  | **T-L1** |  Introduction | [TBT Chap2](http://jdyeakel.github.io/teaching/ecodyn/Mangel_TBT2.pdf){:target="_blank"} |  pgs 31-34; 36-43   |
-| **1/19**  | **R-L2** |  Population dynamics |      |     |
+| **1/19**  | **R-L2** |  Population dynamics |      |  [Logistic]({{ site.url }}/teaching/ecodyn/examples/example1_cobweb){:target="_blank"}   |
 | **1/24**  | **T-L3** | Allometric reasoning 1 |  [West et al. 2001](http://jdyeakel.github.io/teaching/ecodyn/West_Nature_2001.pdf){:target="_blank"}   |     |
 | **1/26**  | **R-L4** |  Fixed points 1 | [NDC 1 (Strogatz)](http://jdyeakel.github.io/teaching/ecodyn/Strogatz_NDC1.pdf){:target="_blank"} |     |
 | **1/31**  | **T-L5** | Fixed points 2 |  |     |
