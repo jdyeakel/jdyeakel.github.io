@@ -10,6 +10,11 @@ comments: true
 <br>  
 
 
+**This is an except from a Discussion Section for Foundations of Ecology, but it is useful, I think for getting re-acquainted with some basic population dynamics...**
+
+---
+
+
 Examine Logistic Population growth, where $$r$$ is the instantaneous rate of growth, $$K$$ is the carrying capacity, $$tmax$$ is the maximum number of timesteps, and $$N0$$ is the initial population size.
 
 
