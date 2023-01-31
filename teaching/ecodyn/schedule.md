@@ -45,7 +45,7 @@ tr:nth-child(odd) {background: #FFF}
 | **1/24**  | **T-L3** | Allometric reasoning 1 |  [West et al. 2001](http://jdyeakel.github.io/teaching/ecodyn/West_Nature_2001.pdf){:target="_blank"}   |     |
 | **1/26**  | **R-L4** |  Fixed points 1 | [NDC 1 (Strogatz)](http://jdyeakel.github.io/teaching/ecodyn/Strogatz_NDC1.pdf){:target="_blank"} |     |
 | **1/31**  | **T-L5** | Fixed points 2 |  |     |
-| **2/2**  | **R-L6** | Bifurcations 1 |  |     |
+| **2/2**  | **R-L6** | Bifurcations 1 | [NDC 2 (Strogatz)](http://jdyeakel.github.io/teaching/ecodyn/Strogatz_NDC2.pdf){:target="_blank"} |     |
 | **2/7** | **T-L7** |  Bifurcations 2 |     |    |
 | **2/9** | **R-L8** |  Generalized modeling |  |    |
 | **2/14** | **T-L9** | Interspecific interactions 1 |    |    |
