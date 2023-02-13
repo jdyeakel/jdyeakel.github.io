@@ -49,7 +49,7 @@ tr:nth-child(odd) {background: #FFF}
 | **2/2**  | **R-L6** | Bifurcations 1 | [NDC 2 (Strogatz)](http://jdyeakel.github.io/teaching/ecodyn/Strogatz_NDC2.pdf){:target="_blank"} |     |
 | **2/7** | **T-L7**   | Bifurcations 2 |     |                                   |
 | **2/9** | **R-L8**   | Bifurcations 3 |     |   [MNB1](http://jdyeakel.github.io/teaching/ecodyn/pitchfork.nb) [MNB2](http://jdyeakel.github.io/teaching/ecodyn/insectoutbreak2.nb)                       |
-| **2/14** | **T-L9**  | Generalized modeling |  |                                |
+| **2/14** | **T-L9**  | Generalized modeling |  |  [Yeakel2011](http://jdyeakel.github.io/teaching/ecodyn/pitchfork.nb) [MNB2](http://jdyeakel.github.io/teaching/ecodyn/Yeakel_Theor_Ecol_2011.pdf)                              |
 | **2/16** | **R-L10** | Interspecific interactions 1 |    |                      |
 | **2/21** | **T-L11** | Interspecific interactions 2 |  |                        |
 | **2/23** | **R-L12** | Allometric reasoning 2 |  |                              |
