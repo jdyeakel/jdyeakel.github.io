@@ -52,10 +52,10 @@ tr:nth-child(odd) {background: #FFF}
 | **2/14** | **T-L9**  | Generalized modeling | [Yeakel2011](http://jdyeakel.github.io/teaching/ecodyn/Yeakel_Theor_Ecol_2011.pdf) |                                |
 | **2/16** | **R-L10** | Interspecific interactions 1 |    |      [Pred/Prey]({{ site.url }}/teaching/ecodyn/examples/example2_predprey){:target="_blank"}               |
 | **2/21** | **T-L11** | Interspecific interactions 2 |  |                        |
-| **2/23** | **R-L12** | Allometric reasoning 2 |  |                              |
-| **2/28** | **T-L13** | Sources of mortality |     |                             |
-| **3/2** | **R-L14**  | Complexity-stability 1 |  |                              |
-| **3/7** | **T-L15**  | Complexity-stability 2 |  |                              |
+| **2/23** | **R-L12** | Complexity Stability 1 | [May 1972](http://jdyeakel.github.io/teaching/ecodyn/May_1972.pdf){:target="_blank"} |                              |
+| **2/28** | **T-L13** | Complexity Stability 2 |     |                             |
+| **3/2** | **R-L14**  | Allometric reasoning 2D 1|  |                              |
+| **3/7** | **T-L15**  | Allometric reasoning 2D 2 |  |                              |
 | **3/9** | **R-L16**  | Eco-evolutionary dynamics (general) |   |                |
 | **3/14** | **T-L17** | Eco-evolutionary dynamics (special)  |    |              |
 | **3/16** | **R-L18** | Adaptive foraging |  |                                   |
