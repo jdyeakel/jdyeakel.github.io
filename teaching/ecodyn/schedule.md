@@ -61,9 +61,9 @@ tr:nth-child(odd) {background: #FFF}
 | **3/16** | **R-L18** | Adaptive foraging 2 |  |                                   |
 | **3/21** | **T-L19** | Canonical Equations for Activity Choice (CEAC) 1 |  |    |
 | **3/23** | **R-L20** | CEAC 2 |   |                                             |
-| **3/28** | **T**     | CEAC 3 |  |                                              |
-| **3/30** | **R**     |  ***Spring Break -- No Class*** |    |                   |
-| **4/4** | **T-L21**  |  ***Spring Break -- No Class*** |    |                   |
+| **3/28** | **T**     | ***Spring Break -- No Class***     |  |                  |
+| **3/30** | **R**     |  ***Spring Break -- No Class***    |  |                  |
+| **4/4** | **T-L21**  |  CEAC 3                            |  |                  |
 | **4/6** | **R-L22**  | CEAC + Reproductive fitness gains |  |                   |
 | **4/11** | **T-L23** | CEAC + Allocation processes |  |                         |
 | **4/13** | **R-L24** | CEAC + population dynamics |  |                          |
