@@ -53,8 +53,8 @@ tr:nth-child(odd) {background: #FFF}
 | **2/16** | **R-L10** | Interspecific interactions 1 |    |      [Pred/Prey]({{ site.url }}/teaching/ecodyn/examples/example2_predprey){:target="_blank"}               |
 | **2/21** | **T-L11** | Interspecific interactions 2 |  |                        |
 | **2/23** | **R-L12** | Complexity Stability 1 | [May 1972](http://jdyeakel.github.io/teaching/ecodyn/May_1972.pdf){:target="_blank"} |    [foodweb.R](http://jdyeakel.github.io/teaching/ecodyn/complexfoodweb.R){:target="_blank"}  [nichemodel.R](http://jdyeakel.github.io/teaching/ecodyn/nichemodel_function.R){:target="_blank"}          |
-| **2/28** | **T-L13** | Allometric reasoning 2D   |  [Lande 76](http://jdyeakel.github.io/teaching/ecodyn/Lande_Evolution_1976.pdf)   |                             |
-| **3/2** | **R-L14**  | Eco-evolutionary dynamics 1|  |                              |
+| **2/28** | **T-L13** | Allometric reasoning 2D   |     |                             |
+| **3/2** | **R-L14**  | Eco-evolutionary dynamics 1| [Lande 76](http://jdyeakel.github.io/teaching/ecodyn/Lande_Evolution_1976.pdf) |                              |
 | **3/7** | **T-L15**  | Eco-evolutionary dynamics 2 |  |                              |
 | **3/9** | **R-L16**  | Eco-evolutionary dynamics 3 |   |                |
 | **3/14** | **T-L17** | Adaptive Foraging 1  |    |              |
