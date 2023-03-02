@@ -15,7 +15,7 @@ image:
 
 <hr>
 
-*	Office hours: SE1 288, TR 3-4 PM or by appointment    
+*	Office hours: SE1 288, T 3-4 PM or by appointment    
 
 <!-- *	[Syllabus](http://jdyeakel.github.io/teaching/ecodyn/syllabus.pdf)  
 *	[Topical schedule](http://jdyeakel.github.io/teaching/ecodyn/schedule.pdf) -->
