@@ -56,9 +56,9 @@ tr:nth-child(odd) {background: #FFF}
 | **2/28** | **T-L13** | Allometric reasoning 2D   |     |                             |
 | **3/2** | **R-L14**  | Eco-evolutionary dynamics 1| [Lande 76](http://jdyeakel.github.io/teaching/ecodyn/Lande_Evolution_1976.pdf) |                              |
 | **3/7** | **T-L15**  | Eco-evolutionary dynamics 2 |  |                              |
-| **3/9** | **R-L16**  | Eco-evolutionary dynamics 3 |   |                |
-| **3/14** | **T-L17** | Special Guest! Marc Mangel (via ZOOM)  | [Mangel 1981](http://jdyeakel.github.io/teaching/ecodyn/Mangel_1981.pdf), [1982](http://jdyeakel.github.io/teaching/ecodyn/Mangel_1982.pdf)   |              |
-| **3/16** | **R-L18** | Eco-evolutionary dynamics 4 | [Schreiber 2011](http://jdyeakel.github.io/teaching/ecodyn/Schreiber_2011.pdf) |                                   |
+| **3/9** | **R-L16**  | Eco-evolutionary dynamics 3 |  [Schreiber 2011](http://jdyeakel.github.io/teaching/ecodyn/Schreiber_2011.pdf) |                |
+| **3/14** | **T-L17** | Special Guest! [Marc Mangel](https://users.soe.ucsc.edu/~msmangel/) (via ZOOM)  | [Mangel 1981](http://jdyeakel.github.io/teaching/ecodyn/Mangel_1981.pdf), [1982](http://jdyeakel.github.io/teaching/ecodyn/Mangel_1982.pdf)   |              |
+| **3/16** | **R-L18** | Adaptive foraging | [Valdovinos 2010](http://jdyeakel.github.io/teaching/ecodyn/Valdovinos_2010.pdf) |                                   |
 | **3/21** | **T-L19** | Canonical Equations for Activity Choice (CEAC) 1 |  |    |
 | **3/23** | **R-L20** | CEAC 2 |   |                                             |
 | **3/28** | **T**     | ***Spring Break -- No Class***     |  |                  |
