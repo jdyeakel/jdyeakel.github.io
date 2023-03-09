@@ -58,7 +58,7 @@ tr:nth-child(odd) {background: #FFF}
 | **3/7** | **T-L15**  | Eco-evolutionary dynamics 2 |  |                              |
 | **3/9** | **R-L16**  | Eco-evolutionary dynamics 3 |   |                |
 | **3/14** | **T-L17** | Special Guest! Marc Mangel (via ZOOM)  | [Mangel 1981](http://jdyeakel.github.io/teaching/ecodyn/Mangel_1981.pdf), [1982](http://jdyeakel.github.io/teaching/ecodyn/Mangel_1982.pdf)   |              |
-| **3/16** | **R-L18** | Adaptive foraging 2 |  |                                   |
+| **3/16** | **R-L18** | Eco-evolutionary dynamics 4 | [Schreiber 2011](http://jdyeakel.github.io/teaching/ecodyn/Schreiber_2011.pdf) |                                   |
 | **3/21** | **T-L19** | Canonical Equations for Activity Choice (CEAC) 1 |  |    |
 | **3/23** | **R-L20** | CEAC 2 |   |                                             |
 | **3/28** | **T**     | ***Spring Break -- No Class***     |  |                  |
