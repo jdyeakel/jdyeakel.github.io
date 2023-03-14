@@ -35,9 +35,11 @@ Readings for the course will be provided on the schedule page. However, if you a
 <hr>
 
 > The final project will feature a problem that you investigate using tools from the course, but related to your own research. The gold standard would be something that can add to your thesis, or serve as a publishable side project down the road. The idea will be to articulate an interesting question in your domain of expertise, find a way to investigate that question using tools from the course, and exploring the implications, etc. At the end of the course, you will give a formal presentation to the class in the form of a professional meeting talk (15-20 min) that gives us background, explanation of methods, and results. I'm available during office hours if you want to chat about ideas, techniques, etc.  
-> **Due Thursday, March 2: A list of 2-3 ideas that you are considering for this project, with a very brief description of the question, and how you might tackle it for each.** Note that you aren't beholden to these ideas as they continue to grow and evolve. Be prepared to discuss these ideas in class on Thursday.
+> **Due Thursday, March 2: A list of 2-3 ideas that you are considering for this project, with a very brief description of the question, and how you might tackle it for each.** Note that you aren't beholden to these ideas as they continue to grow and evolve. Be prepared to discuss these ideas in class on Thursday.  
 
+<hr>
 
+> **Due Thursday, March 23: A paragraph describing your project idea and some expectations for how you will takle the problem.** Specifically, I would like you to 1) identify the primary question that you hope to answer, 2) outline potential methodological approaches, and 3) describe how different results that you may obtain would inform your understanding of the primary question.  
 
 
 
