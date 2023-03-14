@@ -39,7 +39,7 @@ Readings for the course will be provided on the schedule page. However, if you a
 
 <hr>
 
-> **Due Thursday, March 23: A paragraph describing your project idea and some expectations for how you will takle the problem.** Specifically, I would like you to 1) identify the primary question that you hope to answer, 2) outline potential methodological approaches, and 3) describe how different results that you may obtain would inform your understanding of the primary question.  
+> **Due Thursday, March 23: A paragraph describing your project idea and some expectations for how you will tackle the problem.** Specifically, I would like you to 1) identify the primary question that you hope to answer, 2) outline potential methodological approaches, and 3) describe how different results that you may obtain would inform your understanding of the primary question.  
 
 
 
