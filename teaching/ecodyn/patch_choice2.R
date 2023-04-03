@@ -1,8 +1,8 @@
 # Declare variables
-tmax <- 20;
+tmax <- 50;
 # Critical energetic reserves
-xmax <- 10;
-xc <- 3;
+xmax <- 100;
+xc <- 10;
 
 # Declare patch-specific values for patch/activity i = 1, 2, 3
 # Cost
@@ -23,13 +23,13 @@ D = matrix(0,xmax,tmax-1);
 
 # Define the Terminal Survival Function
 # S(x,t=tmax) = 0 for x<= xc and S(x,t=tmax) = 1 for x > xc
-xbar <- 4;
+# xbar <- 4;
 for (x in 1:xmax) {
   if (x <= xc) {
     S[x,tmax] <- 0;
   } else {
-    # S[x,tmax] <- 1;
-    S[x,tmax] <- (x - xc)/(x-xc+xbar);
+    S[x,tmax] <- 1;
+    # S[x,tmax] <- (x - xc)/(x-xc+xbar);
   }
 }
 
@@ -51,6 +51,7 @@ for (t in seq(tmax-1,1,-1)) {
   for (x in (xc+1):xmax) {
     
     value <- numeric(np);
+
     #Calculate the survival probability for each patch
     for (i in 1:np) {
       
@@ -89,10 +90,10 @@ for (t in seq(tmax-1,1,-1)) {
 
 n = 100;
 X = matrix(0,n,tmax);
-R = matrix(0,n,tmax);
+# R = matrix(0,n,tmax);
 #Initial state
 X[,1] = xmax;
-R[,1] = xmax;
+# R[,1] = xmax;
 
 
 for (t in 1:(tmax-1)) {
@@ -100,7 +101,7 @@ for (t in 1:(tmax-1)) {
     
     state = X[i,t];
     
-    rstate = R[i,t];
+    # rstate = R[i,t];
     
     #Only go through this if the individual is still alive
     if (state > xc) {
@@ -200,3 +201,10 @@ plot(R[1,],type='l',ylim=c(0,10))
 for (i in 2:n) {
   lines(R[i,])
 }
+
+boxplot(cbind(X[,tmax],R[,tmax]))
+
+#What is the probability of survival given fitness-maximizing vs. random choices?
+sum(X[,tmax]>xc)
+
+sum(R[,tmax]>xc)

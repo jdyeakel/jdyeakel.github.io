@@ -60,7 +60,7 @@ tr:nth-child(odd) {background: #FFF}
 | **3/14** | **T-L17** | Special Guest! [Marc Mangel](https://users.soe.ucsc.edu/~msmangel/) (via ZOOM)  | [Mangel 1981](http://jdyeakel.github.io/teaching/ecodyn/Mangel_1981.pdf), [1982](http://jdyeakel.github.io/teaching/ecodyn/Mangel_1982.pdf)   |              |
 | **3/16** | **R-L18** | Adaptive foraging | [Valdovinos 2010](http://jdyeakel.github.io/teaching/ecodyn/Valdovinos_2010.pdf) [Kondoh 2003](http://jdyeakel.github.io/teaching/ecodyn/Kondoh_2003.pdf) |    [Ad.Forag. Code](http://jdyeakel.github.io/teaching/ecodyn/adaptiveforaging.nb)                               |
 | **3/21** | **T-L19** | Canonical Equations for Activity Choice (CEAC) 1 |  |    |
-| **3/23** | **R-L20** | CEAC 2 |   |                                             |
+| **3/23** | **R-L20** | CEAC 2 |   | [SDP code](http://jdyeakel.github.io/teaching/ecodyn/patch_choiceex.R) |
 | **3/28** | **T**     | ***Spring Break -- No Class***     |  |                  |
 | **3/30** | **R**     |  ***Spring Break -- No Class***    |  |                  |
 | **4/4** | **T-L21**  |  CEAC 3                            |  |                  |
