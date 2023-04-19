@@ -1,7 +1,7 @@
 # Declare variables
-tmax <- 50;
+tmax <- 100;
 # Critical energetic reserves
-xmax <- 100;
+xmax <- 50;
 xc <- 10;
 
 # Declare patch-specific values for patch/activity i = 1, 2, 3
@@ -23,13 +23,13 @@ D = matrix(0,xmax,tmax-1);
 
 # Define the Terminal Survival Function
 # S(x,t=tmax) = 0 for x<= xc and S(x,t=tmax) = 1 for x > xc
-# xbar <- 4;
+xbar <- 4;
 for (x in 1:xmax) {
   if (x <= xc) {
     S[x,tmax] <- 0;
   } else {
-    S[x,tmax] <- 1;
-    # S[x,tmax] <- (x - xc)/(x-xc+xbar);
+    # S[x,tmax] <- 1;
+    S[x,tmax] <- (x - xc)/(x-xc+xbar);
   }
 }
 
@@ -197,7 +197,7 @@ for (t in 1:(tmax-1)) {
   }
 }
 
-plot(R[1,],type='l',ylim=c(0,10))
+plot(R[1,],type='l',ylim=c(0,xmax))
 for (i in 2:n) {
   lines(R[i,])
 }
@@ -208,3 +208,4 @@ boxplot(cbind(X[,tmax],R[,tmax]))
 sum(X[,tmax]>xc)
 
 sum(R[,tmax]>xc)
+

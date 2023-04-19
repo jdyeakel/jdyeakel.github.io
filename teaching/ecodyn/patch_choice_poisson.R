@@ -6,7 +6,7 @@ xc <- 3;
 
 # Declare patch-specific values for patch/activity i = 1, 2, 3
 # Cost
-c = c(1,1,1);
+c = c(1,2,1);
 # MEAN reward
 p = c(0,3,5);
 # Prob(death)
@@ -27,8 +27,8 @@ for (x in 1:xmax) {
   if (x <= xc) {
     S[x,tmax] <- 0;
   } else {
-    # S[x,tmax] <- 1;
-    S[x,tmax] <- (x - xc)/(x-xc+xbar);
+    S[x,tmax] <- 1;
+    # S[x,tmax] <- (x - xc)/(x-xc+xbar);
   }
 }
 
@@ -57,9 +57,9 @@ totals = apply(pmatrix,2,sum)
 for (i in 1:np) {
   pmatrix[,i] = pmatrix[,i]/totals[i]
 }
-plot(pmatrix[,1],xlim=c(0,15),type='l')
-lines(pmatrix[,2],col='blue')
-lines(pmatrix[,3],col='green')
+plot(seq(0,Mmax),pmatrix[,1],xlim=c(0,15),type='l')
+lines(seq(0,Mmax),pmatrix[,2],col='blue')
+lines(seq(0,Mmax),pmatrix[,3],col='darkgreen')
 
 # Begin backwards calculations Note that the t index is altered by -1
 for (t in seq(tmax-1,1,-1)) {

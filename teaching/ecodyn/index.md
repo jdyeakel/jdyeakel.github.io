@@ -39,6 +39,10 @@ Readings for the course will be provided on the schedule page. However, if you a
 
 <hr>
 
+> **Due Friday, April 28: Your Project Abstract** (Deposit on CatCourses). Please provide an abstract for the **Ecological Dynamics Seminar Proceedings**, with the following information: 1) The Background to the problem, 2) the main question you aim to address, 3) a general description of your approach and methods, and 4) a brief description of your primary results and the significance of these results so far. [Here](https://conbio.org/professional-development/advice-for-students/advice-for-abstracts) are some good general guidelines for writing an effective abstract.
+
+<hr>
+
 > **Due Thursday, March 23: A paragraph describing your project idea and some expectations for how you will tackle the problem.** Specifically, I would like you to 1) identify the primary question that you hope to answer, 2) outline potential methodological approaches, and 3) describe how different results that you may obtain would inform your understanding of the primary question.  
 
 

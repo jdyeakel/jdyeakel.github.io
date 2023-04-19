@@ -13,21 +13,28 @@ r = c(0.6, 0.6, 0.8);
 
 np = length(c);
 
+#Without per period fitness
 S = matrix(0,xmax,tmax);
 D = matrix(0,xmax,tmax);
 
+#Per period fitness
 W = matrix(0,xmax,tmax);
 D_r = matrix(0,xmax,tmax);
 
+#Maximizing reproduction alone
 Q = matrix(0,xmax,tmax);
 D_q = matrix(0,xmax,tmax);
 
+#Random choices
 R = matrix(0,xmax,tmax);
 
 xbar <- 6.5;
 for (x in 1:xmax) {
   if (x <= xc) {
     S[x,tmax] <- 0;
+    W[x,tmax] <- 0;
+    Q[x,tmax] <- 0;
+    R[x,tmax] <- 0;
   } else {
     # S[x,tmax] <- 1;
     S[x,tmax] <- (x - xc)/(x-xc+xbar);
@@ -79,12 +86,14 @@ for (t in seq(tmax-1,1,-1)) {
     
     maxvalue <- max(value);
     maxvalue_r <- max(value_r)
-    maxvalue_q <- value_q[3];
+   
     maxvalue_R <- mean(value_R);
     
     istar <- which(value == maxvalue);
     istar_r <- which(value_r == maxvalue_r);
-    istar_q <- 3
+    
+    istar_q <- which(r == max(r));
+    maxvalue_q <- value_q[istar_q];
     
     S[x,t] <- maxvalue;
     D[x,t] <- istar;
@@ -105,20 +114,28 @@ for (t in seq(tmax-1,1,-1)) {
 
 n = 100;
 X = matrix(0,n,tmax);
+X_r = matrix(0,n,tmax);
 R = matrix(0,n,tmax);
 #Initial state
 X[,1] = xmax;
+X_r[,1] = xmax;
+
 R[,1] = xmax;
 
 
 for (t in 1:(tmax-1)) {
   for (i in 1:n) {
     state = X[i,t];
+
+    state_r = X_r[i,t];
     
     #Only go through this if the individual is still alive
     if (state > xc) {
       #which activity do I choose?
       dec = D[state,t];
+      
+      
+
       #Do I die during this activity?
       d_draw = runif(1);
       
@@ -131,30 +148,78 @@ for (t in 1:(tmax-1)) {
         if (f_draw < f[dec]) {
           #Do find food
           newstate = state + p[dec] -c[dec];
+
         } else {
           #Don't find food
           newstate = state - c[dec];
           
         }
-        
         #Apply boundary conditions
         newstate = bc(newstate);
         
       } else {
         newstate = xc;
+
+      }
+    #update state for next time interval
+      
+
+    }
+X[i,t+1] = newstate;
+
+      if (state_r > xc) {
+        dec_r = D_r[state_r,t];
+      #Do I die during this activity?
+      d_draw = runif(1);
+
+        #IF you survive, look for food
+      if (d_draw > d[dec_r]) {
+        
+        #Do I find food during this activity?
+        f_draw = runif(1);
+        
+        if (f_draw < f[dec_r]) {
+          #Do find food
+          newstate_r = state_r + p[dec_r] - c[dec_r];
+
+        } else {
+          #Don't find food
+          newstate_r = state_r - c[dec_r];
+          
+        }
+        
+        #Apply boundary conditions
+        newstate_r = bc(newstate_r);
+        
+      } else {
+        newstate_r = xc;
       }
       
-      #update state for next time interval
-      X[i,t+1] = newstate;
+      
+      
     }
-  }
+
+    X_r[i,t+1] = newstate_r;
 }
+}
+
+
+
+
 
 
 plot(X[1,],type='l',ylim=c(0,xmax))
 for (i in 2:n) {
   lines(X[i,])
 }
+
+plot(X_r[1,],type='l',ylim=c(0,xmax))
+for (i in 2:n) {
+  lines(X_r[i,])
+}
+
+sum(X[,tmax]>xc)
+sum(X_r[,tmax]>xc)
 
 
 n = 100;
