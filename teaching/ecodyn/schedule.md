@@ -60,19 +60,19 @@ tr:nth-child(odd) {background: #FFF}
 | **3/14** | **T-L17** | Special Guest! [Marc Mangel](https://users.soe.ucsc.edu/~msmangel/) (via ZOOM)  | [Mangel 1981](http://jdyeakel.github.io/teaching/ecodyn/Mangel_1981.pdf), [1982](http://jdyeakel.github.io/teaching/ecodyn/Mangel_1982.pdf)   |              |
 | **3/16** | **R-L18** | Adaptive foraging | [Valdovinos 2010](http://jdyeakel.github.io/teaching/ecodyn/Valdovinos_2010.pdf) [Kondoh 2003](http://jdyeakel.github.io/teaching/ecodyn/Kondoh_2003.pdf) |    [Ad.Forag. Code](http://jdyeakel.github.io/teaching/ecodyn/adaptiveforaging.nb)                               |
 | **3/21** | **T-L19** | Canonical Equations for Activity Choice (CEAC) 1 |  |    |
-| **3/23** | **R-L20** | CEAC 2 |   | [SDP code](http://jdyeakel.github.io/teaching/ecodyn/patch_choiceex.R) |
-| **3/28** | **T**     | ***Spring Break -- No Class***     |  |                  |
-| **3/30** | **R**     |  ***Spring Break -- No Class***    |  |                  |
-| **4/4** | **T-L21**  |  CEAC 3                            |  |                  |
-| **4/6** | **R-L22**  | CEAC + Reproductive fitness gains |  |                   |
-| **4/11** | **T-L23** | CEAC + Allocation processes |  |                         |
-| **4/13** | **R-L24** | CEAC + population dynamics |  |                          |
-| **4/18** | **T-L25** | Project Discussions |  |                                 |
-| **4/20** | **R-L26** | TBD |   |                                                |
-| **4/25** | **T-L27** | TBD |  |                                                 |
-| **4/27** | **R-L28** | TBD  |  |                                                |
-| **5/2** | **T-L29**  | EcoDyn Seminar 1 |  |                                    |
-| **5/4** | **R-L30**  | EcoDyn Seminar 2 |  |                                    |
+| **3/23** | **R-L20** | CEAC 2 |   | [SDP code 1](http://jdyeakel.github.io/teaching/ecodyn/patch_choiceex.R) |
+| **3/28** | **T**     | ***Spring Break -- No Class***     |  |                         |
+| **3/30** | **R**     |  ***Spring Break -- No Class***    |  |                         |
+| **4/4** | **T-L21**  |  CEAC 3                            |  |                         |
+| **4/6** | **R-L22**  | CEAC + Reproductive gains 1 |  |                                |
+| **4/11** | **T-L23** | CEAC + Reproductive gains 2|  |                                 |
+| **4/13** | **R-L24** | Project discussions |  |                                        |
+| **4/18** | **T-L25** | CEAC + Reproductive gains 3 |  |    [SDP code 2](http://jdyeakel.github.io/teaching/ecodyn/patch_choice3_r.R)                            |
+| **4/20** | **R-L26** | Cancelled |   |                                                 |
+| **4/25** | **T-L27** | CEAC + Allocation processes |  |                                |
+| **4/27** | **R-L28** | CEAC + population dynamics  |  |                                |
+| **5/2** | **T-L29**  | EcoDyn Seminar 1 (Riley, Morgan, Josue) |  |                    |
+| **5/4** | **R-L30**  | EcoDyn Seminar 2 (Sonia, Hyejoo) |  |                           |
 
 
 
