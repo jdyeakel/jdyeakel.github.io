@@ -166,10 +166,10 @@ for (t in 1:(tmax-1)) {
         newstate = xc;
 
       }
-    
+      #update state for next time interval
+      X[i,t+1] = newstate;
     }
-    #update state for next time interval
-    X[i,t+1] = newstate;
+    
 
     state_r = X_r[i,t];
 
@@ -203,10 +203,10 @@ for (t in 1:(tmax-1)) {
       } else {
         newstate_r = xc;
       }
-      
+      X_r[i,t+1] = newstate_r;
     }
 
-    X_r[i,t+1] = newstate_r;
+   
 
   }
 }
