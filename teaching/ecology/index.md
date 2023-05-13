@@ -12,7 +12,7 @@ image:
 ## Welcome!
 Welcome to the course website for ***Fundamentals of Ecology***. This summer course taught remotely. We will be having lecture and discussion sections synchronously on ZOOM (links below). This will be the primary site that will host course information and changes to the schedule, as well as your Discussion Section activities. The Catcourses, or Canvas, site for this course will be used for assessments (e.g. homeworks and exams), course grades, and announcements. See the **syllabus** for details and the **schedule** for information regarding important dates and content.
 
-
+<!-- 
 
 ---
 
@@ -66,7 +66,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 * [Lecture 13](https://ucmerced.box.com/s/w2agipd7jw56sdbsl5pm9ynuc4se585n){:target="_blank"}  
 * [Lecture 14](https://ucmerced.box.com/s/pp4k19fjog2ncsvachihkpim1kvvd9it){:target="_blank"}  
 
-
+ -->
 
 
 

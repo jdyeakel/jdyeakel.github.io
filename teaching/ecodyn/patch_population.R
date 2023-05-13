@@ -9,7 +9,7 @@ nmax = K*2
 
 #cost
 c = c(1,1) 
-p = c(0,3)*K 
+p = c(0,2)*K 
 f = c(1,0.5) 
 d = c(0.01,0.02) 
 r = c(1,0) 
@@ -185,4 +185,26 @@ par(mfrow=c(1,2))
 plot(pop,type='l',xlab = 'Time',ylab='N(t)')
 plot(pop[1:(tmax-2)],pop[2:(tmax-1)],xlim=c(0,300),ylim=c(0,300),type='l',xlab='N(t)',ylab='N(t+1)')
 lines(seq(0,300),seq(0,300),type='l',lty=3)
+
+
+# If using Julia
+tmax = Int64(@rget tmax);
+D = @rget D;
+W = @rget W;
+pop = @rget pop;
+
+
+
+heatmap(D[3,:,:])
+
+heatmap(D[10,:,:])
+
+lineplot(pop)
+
+lineplot(pop[1:(tmax-2)],pop[2:(tmax-1)])
+
+
+
+
+
 
