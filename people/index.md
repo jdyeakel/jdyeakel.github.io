@@ -69,7 +69,7 @@ Check back soon...
 <span style="text-align=left;font-size:1.5em;color:#4292E5;">Undergraduate Researchers</span> 
 <div>
 <p style="float: left;padding-right:25px"><img src="/images/person.jpg" width="125"></p>
-<b>Andrea Diaz Cruz</b> "I am very passionate about the environment and I want to understand more of the inner workings of ecology. I am studying trophic systems and developing models which will reflect the human impact on ecosystems as I hope to predict what happens to an ecosystem when the trophic order is disrupted."  <BR> <BR> <BR> <BR>     
+<b>Your Name Here</b> "If you're an undergraduate student at UC Merced and would like to join our group, please get in touch!"  <BR> <BR> <BR> <BR>     
 </div>     
 
 <BR CLEAR="...">
@@ -79,14 +79,14 @@ Check back soon...
 <span style="text-align=left;font-size:1.5em;color:#4292E5;">Lab Alumni</span>
 <div>
 <p style="float: left;padding-right:25px"><img src="/images/Taran-web.jpg" width="125"></p>
-<b>Taran Rallings</b> "I am interested in how we set conservation baselines. I want to use modelling, food web theory, and paleocology to compare modern and historical communities with an eye to  conservation and restoration. This includes questions of how to best restore food webs to early baselines - the usefulness of ecological surrogates and de-extinction, stabilizing reintroduction orders, etc. This information may help us make better decisions about existing projects like Pleistocene Park and help structure future rewilding attempts."  <BR> <BR>     
+<b>Dr. Taran Rallings Ph.D. (Quant. Sys. Biology)</b> <b>Postdoctoral Researcher, Imperial College London (Silwood Park)</b>"I am interested in how we set conservation baselines. I want to use modelling, food web theory, and paleocology to compare modern and historical communities with an eye to  conservation and restoration. This includes questions of how to best restore food webs to early baselines - the usefulness of ecological surrogates and de-extinction, stabilizing reintroduction orders, etc. This information may help us make better decisions about existing projects like Pleistocene Park and help structure future rewilding attempts."  <BR> <BR>     
 </div>     
 
 <BR CLEAR="...">   
 
 <div>
 <p style="float: left;padding-right:25px"><img src="/images/Megha-web.jpg" width="125"></p>
-<b><a href="http://www.meghasuswaram.com" target="_blank">Megha Suswaram</a></b> "I am broadly interested in how phenotypic variation evolves with complex ecological interactions. I use modeling to understand trophic interactions, feedbacks and selection pressures in eco-evolutionary biology.  I am particularly interested in understanding the effect of antagonistic selection pressures on phenotypic trait evolution and how it changes predator – prey dynamics. I am also exploring conditions under which mutualisms may evolve between the different kind of predator-prey interactions."  <BR> <BR>     
+<b><a href="http://www.meghasuswaram.com" target="_blank">Dr. Megha Suswaram Ph.D. (Quant. Sys. Biology)</a></b> "I am broadly interested in how phenotypic variation evolves with complex ecological interactions. I use modeling to understand trophic interactions, feedbacks and selection pressures in eco-evolutionary biology.  I am particularly interested in understanding the effect of antagonistic selection pressures on phenotypic trait evolution and how it changes predator – prey dynamics. I am also exploring conditions under which mutualisms may evolve between the different kind of predator-prey interactions."  <BR> <BR>     
 </div>     
 
 <BR CLEAR="...">
@@ -94,7 +94,7 @@ Check back soon...
 
 <div>
 <p style="float: left;padding-right:25px"><img src="/images/Ritwika-web2.jpg" width="125"></p>
-<b>Dr. Ritwika VPS</b> <b>Graduated with a Ph.D. in Physics in 2021</b> "I joined UC Merced as a physics grad student in Fall 2015. I have long been interested in the scope of using physics to solve problems in ecology and evolutionary biology, hence my interest in the Yeakel lab. Currently, I work on an eclectic collection of problems which includes looking at vocalisation in human infants as an acoustic foraging process, studying the dynamics of a population of foragers given a choice of strategies, and looking at the collective motion of phototactic bacteria."  <BR> <BR>     
+<b>Dr. Ritwika VPS Ph.D. (Physics)</b> <b>Postdoctoral Researcher at UCLA</b> "I joined UC Merced as a physics grad student in Fall 2015. I have long been interested in the scope of using physics to solve problems in ecology and evolutionary biology, hence my interest in the Yeakel lab. Currently, I work on an eclectic collection of problems which includes looking at vocalisation in human infants as an acoustic foraging process, studying the dynamics of a population of foragers given a choice of strategies, and looking at the collective motion of phototactic bacteria."  <BR> <BR>     
 </div>     
 
 <BR CLEAR="...">
@@ -115,6 +115,13 @@ Check back soon...
 <div>
 <p style="float: left;padding-right:25px"><img src="/images/Jack-web.jpg" width="125"></p> <b><a href="http://jackhopkinswildlife.com" target="_blank">John (Jack) Hopkins III</a></b> <b>Assistant Professor, Unity College ME</b> "I primarily conduct empirical field-based research that uses a variety of sampling methods and quantitative approaches to investigate the effects of environmental change on species interactions, wildlife-habitat relationships, and the foraging behavior and nutrition of free-ranging mammals." <BR> <BR> <BR> <BR>
 </div>      
+
+<BR CLEAR="...">
+
+<div>
+<p style="float: left;padding-right:25px"><img src="/images/person.jpg" width="125"></p>
+<b>Andrea Diaz Cruz</b> "I am very passionate about the environment and I want to understand more of the inner workings of ecology. I am studying trophic systems and developing models which will reflect the human impact on ecosystems as I hope to predict what happens to an ecosystem when the trophic order is disrupted."  <BR> <BR> <BR> <BR>     
+</div>     
 
 <BR CLEAR="...">
 
