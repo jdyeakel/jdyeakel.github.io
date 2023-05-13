@@ -1,6 +1,5 @@
 ---
 layout: page
-title:
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
@@ -32,7 +31,7 @@ I generally use network-theoretic approaches – combined with empirical measure
 -->
 
 
-## The QED Group
+## $$\because$$ Quantitative Ecological Dynamics Group $$\because$$  
 
 > Interested in joining? Read about our research focus [here]({{ site.url }}/research) and explore the science we do by checking out our [publications]({{ site.url }}/CV). If you find this interesting and would like to get in touch, drop me a line at: ***jyeakel🤖ucmerced🤖edu***   
 
@@ -45,25 +44,18 @@ I generally use network-theoretic approaches – combined with empirical measure
 
 <BR CLEAR="...">
 
----
+<!-- ---
 
 <span style="text-align=left;font-size:1.5em;color:#4292E5;">Postdoctoral Researchers</span> 
 <div>
 Check back soon...
 </div>     
 
-<BR CLEAR="...">
+<BR CLEAR="..."> -->
 
 ---
 
 <span style="text-align=left;font-size:1.5em;color:#4292E5;">Graduate Researchers</span> 
-<div>
-<p style="float: left;padding-right:25px"><img src="/images/Taran-web.jpg" width="125"></p>
-<b>Taran Rallings</b> "I am interested in how we set conservation baselines. I want to use modelling, food web theory, and paleocology to compare modern and historical communities with an eye to  conservation and restoration. This includes questions of how to best restore food webs to early baselines - the usefulness of ecological surrogates and de-extinction, stabilizing reintroduction orders, etc. This information may help us make better decisions about existing projects like Pleistocene Park and help structure future rewilding attempts."  <BR> <BR>     
-</div>     
-
-<BR CLEAR="...">   
-
 <div>
 <p style="float: left;padding-right:25px"><img src="/images/Irina-web.jpg" width="125"></p>
  <b><a href="https://birskisbarros.weebly.com/" target="_blank">Irina Birskis Barros</a></b> "I am interested in how species assemble into communities, especially how diversity shapes and is shaped by species interactions. I aim to use empirical data, mathematical modeling and network theory to investigate how ecological networks assemble and what factors might influence their stability and structure over evolutionary time."  <BR> <BR> <BR> <BR>     
@@ -71,12 +63,6 @@ Check back soon...
 
 <BR CLEAR="...">
 
-<div>
-<p style="float: left;padding-right:25px"><img src="/images/Megha-web.jpg" width="125"></p>
-<b><a href="http://www.meghasuswaram.com" target="_blank">Megha Suswaram</a></b> "I am broadly interested in how phenotypic variation evolves with complex ecological interactions. I use modeling to understand trophic interactions, feedbacks and selection pressures in eco-evolutionary biology.  I am particularly interested in understanding the effect of antagonistic selection pressures on phenotypic trait evolution and how it changes predator – prey dynamics. I am also exploring conditions under which mutualisms may evolve between the different kind of predator-prey interactions."  <BR> <BR>     
-</div>     
-
-<BR CLEAR="...">
 
 ---    
 
@@ -91,6 +77,21 @@ Check back soon...
 ---
 
 <span style="text-align=left;font-size:1.5em;color:#4292E5;">Lab Alumni</span>
+<div>
+<p style="float: left;padding-right:25px"><img src="/images/Taran-web.jpg" width="125"></p>
+<b>Taran Rallings</b> "I am interested in how we set conservation baselines. I want to use modelling, food web theory, and paleocology to compare modern and historical communities with an eye to  conservation and restoration. This includes questions of how to best restore food webs to early baselines - the usefulness of ecological surrogates and de-extinction, stabilizing reintroduction orders, etc. This information may help us make better decisions about existing projects like Pleistocene Park and help structure future rewilding attempts."  <BR> <BR>     
+</div>     
+
+<BR CLEAR="...">   
+
+<div>
+<p style="float: left;padding-right:25px"><img src="/images/Megha-web.jpg" width="125"></p>
+<b><a href="http://www.meghasuswaram.com" target="_blank">Megha Suswaram</a></b> "I am broadly interested in how phenotypic variation evolves with complex ecological interactions. I use modeling to understand trophic interactions, feedbacks and selection pressures in eco-evolutionary biology.  I am particularly interested in understanding the effect of antagonistic selection pressures on phenotypic trait evolution and how it changes predator – prey dynamics. I am also exploring conditions under which mutualisms may evolve between the different kind of predator-prey interactions."  <BR> <BR>     
+</div>     
+
+<BR CLEAR="...">
+
+
 <div>
 <p style="float: left;padding-right:25px"><img src="/images/Ritwika-web2.jpg" width="125"></p>
 <b>Dr. Ritwika VPS</b> <b>Graduated with a Ph.D. in Physics in 2021</b> "I joined UC Merced as a physics grad student in Fall 2015. I have long been interested in the scope of using physics to solve problems in ecology and evolutionary biology, hence my interest in the Yeakel lab. Currently, I work on an eclectic collection of problems which includes looking at vocalisation in human infants as an acoustic foraging process, studying the dynamics of a population of foragers given a choice of strategies, and looking at the collective motion of phototactic bacteria."  <BR> <BR>     
