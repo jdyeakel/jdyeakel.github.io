@@ -9,6 +9,8 @@ image:
   credit: jdyeakel
 ---
 
+<!-- dontshow -->
+
 ## $$\because$$ Quantitative Ecological Dynamics Group $$\because$$  
 
 

@@ -39,7 +39,7 @@ I generally use network-theoretic approaches – combined with empirical measure
 <span style="text-align=left;font-size:1.5em;color:#4292E5;">Principal Investigator</span>   
 <div>
 <p style="float: left;padding-right:25px"><img src="/images/justin-web.jpg" width="125"></p>    
-<b>Justin D. Yeakel:</b> "In a nutshell, I am fascinated by the ecological and physiological constraints that drive trophic interactions between species, and how such interactions trickle up to impact populations and communities over large spatial and temporal scales." <a href="http://jdyeakel.github.io/pdfs/Yeakel_CV.pdf" target="_blank">CV (PDF)</a> | <a href="http://scholar.google.com/citations?user=nWHtsZYAAAAJ&hl=en&oi=sra" target="_blank">Google Scholar</a> <BR> <BR> <BR>
+<b>Justin D. Yeakel:</b> "In a nutshell, I am fascinated by the ecological and physiological constraints that drive trophic interactions between species, and how such interactions trickle up to impact populations and communities over large spatial and temporal scales." <a href="http://jdyeakel.github.io/pdfs/Yeakel_CV.pdf" target="_blank">CV (PDF)</a> | <a href="http://scholar.google.com/citations?user=nWHtsZYAAAAJ&hl=en&oi=sra" target="_blank">Google Scholar</a> <BR> <BR>
 </div>       
 
 <BR CLEAR="...">
@@ -58,7 +58,7 @@ Check back soon...
 <span style="text-align=left;font-size:1.5em;color:#4292E5;">Graduate Researchers</span> 
 <div>
 <p style="float: left;padding-right:25px"><img src="/images/Irina-web.jpg" width="125"></p>
- <b><a href="https://birskisbarros.weebly.com/" target="_blank">Irina Birskis Barros</a></b> "I am interested in how species assemble into communities, especially how diversity shapes and is shaped by species interactions. I aim to use empirical data, mathematical modeling and network theory to investigate how ecological networks assemble and what factors might influence their stability and structure over evolutionary time."  <BR> <BR> <BR> <BR>     
+ <b><a href="https://birskisbarros.weebly.com/" target="_blank">Irina Birskis Barros</a></b> "I am interested in how species assemble into communities, especially how diversity shapes and is shaped by species interactions. I aim to use empirical data, mathematical modeling and network theory to investigate how ecological networks assemble and what factors might influence their stability and structure over evolutionary time."  <BR> <BR>     
 </div>     
 
 <BR CLEAR="...">
@@ -101,26 +101,26 @@ Check back soon...
 
 
 <div>
-<p style="float: left;padding-right:25px"><img src="/images/Uttam-web.jpg" width="125"></p> <b><a href="https://scholar.google.com/citations?user=8AVQ7NgAAAAJ&hl=en" target="_blank">Uttam Bhat</a></b>  "I study problems in ecology using tools from physics. In particular, currently I'm studying how different foraging behaviors affect the depletion pattern in the environment, and in turn how the depletion affects the forager's lifetime. For this, I use tools from random walks, first-passage processes and asymptotic analysis."  <BR> <BR>     
+<p style="float: left;padding-right:25px"><img src="/images/Uttam-web.jpg" width="125"></p> <b><a href="https://scholar.google.com/citations?user=8AVQ7NgAAAAJ&hl=en" target="_blank">Dr. Uttam Bhat, Ph.D.</a></b> <b>Former Postdoctoral Fellow; Data Scientist, Climate LLC</b> "I study problems in ecology using tools from physics. In particular, currently I'm studying how different foraging behaviors affect the depletion pattern in the environment, and in turn how the depletion affects the forager's lifetime. For this, I use tools from random walks, first-passage processes and asymptotic analysis."  <BR> <BR>     
 </div>     
 
 <BR CLEAR="...">
 
 <div>
-<p style="float: left;padding-right:25px"><img src="/images/JP-web.jpg" width="125"></p> <b><a href="http://jeanpgibert.weebly.com" target="_blank">Jean-Philippe Gibert</a></b> <b>Former McDonnell Fellow; Assistant Professor, Duke University NC</b> "I study how phenotypic variation affects the structure and dynamics of complex food webs and how this effect is mediated by environmental factors such as temperature. To do so, I integrate information across systems and taxa and often combine mathematical, computational and empirical tools." <BR> <BR> <BR> <BR> 
+<p style="float: left;padding-right:25px"><img src="/images/JP-web.jpg" width="125"></p> <b><a href="http://jeanpgibert.weebly.com" target="_blank">Jean-Philippe Gibert</a></b> <b>Former McDonnell Fellow; Assistant Professor, Duke University NC</b> "I study how phenotypic variation affects the structure and dynamics of complex food webs and how this effect is mediated by environmental factors such as temperature. To do so, I integrate information across systems and taxa and often combine mathematical, computational and empirical tools." <BR> <BR> 
 </div>      
 
 <BR CLEAR="...">
 
 <div>
-<p style="float: left;padding-right:25px"><img src="/images/Jack-web.jpg" width="125"></p> <b><a href="http://jackhopkinswildlife.com" target="_blank">John (Jack) Hopkins III</a></b> <b>Assistant Professor, Unity College ME</b> "I primarily conduct empirical field-based research that uses a variety of sampling methods and quantitative approaches to investigate the effects of environmental change on species interactions, wildlife-habitat relationships, and the foraging behavior and nutrition of free-ranging mammals." <BR> <BR> <BR> <BR>
+<p style="float: left;padding-right:25px"><img src="/images/Jack-web.jpg" width="125"></p> <b><a href="http://jackhopkinswildlife.com" target="_blank">Dr. John (Jack) Hopkins III, Ph.D.</a></b> <b>President, Center for Wildlife Studies</b> "I primarily conduct empirical field-based research that uses a variety of sampling methods and quantitative approaches to investigate the effects of environmental change on species interactions, wildlife-habitat relationships, and the foraging behavior and nutrition of free-ranging mammals." <BR> <BR> 
 </div>      
 
 <BR CLEAR="...">
 
 <div>
 <p style="float: left;padding-right:25px"><img src="/images/person.jpg" width="125"></p>
-<b>Andrea Diaz Cruz</b> "I am very passionate about the environment and I want to understand more of the inner workings of ecology. I am studying trophic systems and developing models which will reflect the human impact on ecosystems as I hope to predict what happens to an ecosystem when the trophic order is disrupted."  <BR> <BR> <BR> <BR>     
+<b>Andrea Diaz Cruz</b> "I am very passionate about the environment and I want to understand more of the inner workings of ecology. I am studying trophic systems and developing models which will reflect the human impact on ecosystems as I hope to predict what happens to an ecosystem when the trophic order is disrupted."  <BR> <BR> 
 </div>     
 
 <BR CLEAR="...">

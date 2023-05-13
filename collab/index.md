@@ -1,6 +1,5 @@
 ---
 layout: page
-title: 
 tags:
 modified:
 comments: true
@@ -9,7 +8,9 @@ image:
   credit: Chris Darimont
 ---
 
-Frequent Collaborators
+<!-- dontshow -->
+
+## $$\because$$ Frequent Collaborators $$\because$$
 ---
 
 [**Nathaniel J. Dominy**](https://biology.dartmouth.edu/people/nathaniel-j-dominy)  
