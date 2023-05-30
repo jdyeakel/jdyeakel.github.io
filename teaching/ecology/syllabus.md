@@ -6,8 +6,8 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 ---
 
-<!-- [< Back to Course Page]({{ site.url }}/teaching/ecology)  
-[> To Course Schedule]({{ site.url }}/teaching/ecology/schedule_summer/) -->
+[< Back to Course Page]({{ site.url }}/teaching/ecology)  
+[> To Course Schedule]({{ site.url }}/teaching/ecology/schedule_summer/)
 
 
 + **Lecture Time**: Tuesday and Thursdays, 8:30-11:15pm  
