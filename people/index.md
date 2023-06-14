@@ -61,8 +61,14 @@ Check back soon...
  <b><a href="https://birskisbarros.weebly.com/" target="_blank">Irina Birskis Barros</a></b> "I am interested in how species assemble into communities, especially how diversity shapes and is shaped by species interactions. I aim to use empirical data, mathematical modeling and network theory to investigate how ecological networks assemble and what factors might influence their stability and structure over evolutionary time."  <BR> <BR>     
 </div>     
 
-<BR CLEAR="...">
+<BR CLEAR="...">   
 
+<div>
+<p style="float: left;padding-right:25px"><img src="/images/anna-web.jpg" width="125"></p>
+ <b>Anna Carolina Dias de Almeida</b> "I am broadly interested in eco-evolutionary dynamics and the gap in knowledge between micro and macroevolution. More specifically, I'm interested in how complex ecological interactions can affect the evolution of species. I aim to use mathematical modeling and empirical data to explore how predator-prey, competition and mutualistic interactions can act on a macroevolutionary scale, and analyze evolutionary events, such as speciation, extinction, and hybridization."  <BR> <BR>     
+</div>     
+
+<BR CLEAR="...">
 
 ---    
 
