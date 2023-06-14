@@ -3,13 +3,13 @@ layout: page
 excerpt: "Quantitative ecology, population dynamics, ecological networks"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: aspens4high.jpg
+  feature: officebanner.jpg
   credit: jdyeakel
 ---
 
 <!-- <span style="font-size:1em;">School of Natural Sciences @ UC-Merced</span> --> 
 
-## Eco-evolutionary theory $$\because$$ Life & Environmental Sciences 
+## Yeakel Quantitative Ecological Dynamics (QED) Group $$\because$$ UC Merced 
 
 <p>
   <span class="firstcharacter">W</span>
