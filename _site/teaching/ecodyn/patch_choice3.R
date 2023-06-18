@@ -48,6 +48,7 @@ for (t in seq(tmax-1,1,-1)) {
   for (x in (xc+1):xmax) {
     
     value = numeric(np)
+    value_r = numeric(np)
     
     for (i in 1:np) {
       

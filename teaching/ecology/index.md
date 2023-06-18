@@ -1,6 +1,6 @@
 ---
 layout: pagetrimnobio
-title: "Fundamentals of Ecology :: Summer, 2022"
+title: "Fundamentals of Ecology :: Summer, 2023"
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
@@ -12,26 +12,27 @@ image:
 ## Welcome!
 Welcome to the course website for ***Fundamentals of Ecology***. This summer course taught remotely. We will be having lecture and discussion sections synchronously on ZOOM (links below). This will be the primary site that will host course information and changes to the schedule, as well as your Discussion Section activities. The Catcourses, or Canvas, site for this course will be used for assessments (e.g. homeworks and exams), course grades, and announcements. See the **syllabus** for details and the **schedule** for information regarding important dates and content.
 
-<!-- 
+
 
 ---
 
 ## Info
 *	[Syllabus]({{ site.url }}/teaching/ecology/syllabus/)  
 * [Schedule]({{ site.url }}/teaching/ecology/schedule_summer/)  
-*	**Lecture**:Tuesday and Thursdays, 8:30-11:15pm on [Zoom](https://ucmerced.zoom.us/j/89134742405) (remote, synchronous)  
+*	**Lecture**:Tuesday and Thursdays, 8:30-11:15pm on [Zoom](https://ucmerced.zoom.us/j/82629391369) (remote, synchronous)  
 * **Discussion section time**  
-    * 03D - Tuesday 11:30-1:20pm on [Zoom](https://ucmerced.zoom.us/j/82706992699) (remote, synchronous)  
-    * 02D - Thursday 11:30-1:20pm on [Zoom](https://ucmerced.zoom.us/j/89125656499) (remote, synchronous)  
+    * 03D - Tuesday 11:30-1:20pm on [Zoom](https://ucmerced.zoom.us/j/85147840634) (remote, synchronous)  
+    * 02D - Thursday 11:30-1:20pm on [Zoom](https://ucmerced.zoom.us/j/89062804429) (remote, synchronous)  
 
-*	Prof. Yeakel Office Hours: Monday 9-11am or by appointment on [Zoom](https://ucmerced.zoom.us/j/89878534043)  
-*	TA Megha Suswaram Office Hours: Mondays 12-2pm on [Zoom](https://ucmerced.zoom.us/j/82135505682) (same password as other zoom rooms)  
+*	Prof. Yeakel Office Hours: TBD  
+*	TA Lisa Paggeot Office Hours: TBD  
 
 ## Contact
 Please use the Inbox application in the CatCourses (Canvas) website to contact either of us. *There is no guarantee of response if personal emails are used.*
 
 ---
 
+<!-- 
 ## Discussion Sections and Demonstrations
 * [Demo 1: Using R]({{ site.url }}/teaching/ecology/summersections/demo_1_introtoR/){:target="_blank"}  
 * [Section 1: Temperature as an ecological constraint]({{ site.url }}/teaching/ecology/summersections/section_1_temperature){:target="_blank"}  

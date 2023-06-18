@@ -9,10 +9,12 @@ nmax = K*2
 
 #cost
 c = c(1,1) 
-p = c(0,3)*K 
+p = c(0,2)*K 
 f = c(1,0.5) 
 d = c(0.01,0.02) 
 r = c(1,0) 
+
+rscale = 0.5;
 
 np = length(c) 
 
@@ -26,7 +28,7 @@ for (x in 1:xmax) {
       W[x,n,tmax] <- 0 
     } else {
       # W[x,tmax] <- 1 
-      W[x,n,tmax] <- max(r*((x*0.5)/xmax))
+      W[x,n,tmax] <- max(r*((x*rscale)/xmax))
     }
   }
 }
@@ -89,7 +91,7 @@ for (t in seq(tmax-1,1,-1)) {
         Wxp <- interpolate(xp,n,W,t)
         Wxpp <- interpolate(xpp,n,W,t)
 
-        value[i] <- (r[i]*((x*0.5)/xmax)) + (1-d[i])*f[i]*Wxp + (1-d[i])*(1-f[i])*Wxpp 
+        value[i] <- (r[i]*((x*rscale)/xmax)) + (1-d[i])*f[i]*Wxp + (1-d[i])*(1-f[i])*Wxpp 
         
       } # end i loop
       
@@ -126,7 +128,7 @@ for (t in 1:(tmax-1)) {
       
       #Reproduce
       r_draw = runif(1)
-      if (r_draw > (1 - (state*0.5)/xmax)) {
+      if (r_draw > (1 - (state*rscale)/xmax)) {
         offspring <- offspring + 1
       }
       
@@ -183,4 +185,26 @@ par(mfrow=c(1,2))
 plot(pop,type='l',xlab = 'Time',ylab='N(t)')
 plot(pop[1:(tmax-2)],pop[2:(tmax-1)],xlim=c(0,300),ylim=c(0,300),type='l',xlab='N(t)',ylab='N(t+1)')
 lines(seq(0,300),seq(0,300),type='l',lty=3)
+
+
+# If using Julia
+tmax = Int64(@rget tmax);
+D = @rget D;
+W = @rget W;
+pop = @rget pop;
+
+
+
+heatmap(D[3,:,:])
+
+heatmap(D[10,:,:])
+
+lineplot(pop)
+
+lineplot(pop[1:(tmax-2)],pop[2:(tmax-1)])
+
+
+
+
+
 
