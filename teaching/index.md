@@ -9,6 +9,11 @@ image:
   credit: jdyeakel
 ---
 
+> ### [Fundamentals of Ecology (Summer, 2023)]({{ site.url }}/teaching/ecology/)  
+> Putting the Lotka in your Volterra since 1926      
+
+<br>
+
 > ### [Ecological Dynamics (Spring, 2023)]({{ site.url }}/teaching/ecodyn/)   
 > Quantitative and Systems Biology 256  
 

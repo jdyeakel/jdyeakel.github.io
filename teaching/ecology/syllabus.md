@@ -1,6 +1,6 @@
 ---
 layout: pagetrimnobio
-title: "Fundamentals of Ecology (BIO/ESS 148) :: Syllabus, Summer 2022"
+title: "Fundamentals of Ecology (BIO/ESS 148) :: Syllabus, Summer 2023"
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
@@ -11,12 +11,12 @@ comments: true
 
 
 + **Lecture Time**: Tuesday and Thursdays, 8:30-11:15pm  
-+ **Lecture Location**: Remote and synchronous on [Zoom]()  
++ **Lecture Location**: Remote and synchronous on [Zoom](https://ucmerced.zoom.us/j/82629391369)  
 + **Discussion section time**  
-    * 03D - Tuesday 11:30-1:20pm on [Zoom]() (remote, synchronous)  
-    * 02D - Thursday 11:30-1:20pm on [Zoom]() (remote, synchronous)  
-+ **Instructor**: Justin D. Yeakel; Office Hours: Mondays 9-11am or by appointment on [Zoom]()  
-+ **Teaching Assistant**: Megha Suswaram; Office Hours: Mondays 12-2pm on [Zoom]()    
+    * 03D - Tuesday 11:30-1:20pm on [Zoom](https://ucmerced.zoom.us/j/85147840634) (remote, synchronous)  
+    * 02D - Thursday 11:30-1:20pm on [Zoom](https://ucmerced.zoom.us/j/89062804429) (remote, synchronous)  
++ **Instructor**: Justin D. Yeakel; Office Hours: TBD  
++ **Teaching Assistant**: Lisa Paggeot; Office Hours: TBD    
 + **Course Websites**  
     Everything that we do this this course will revolve around two principle websites. In some cases, information will be duplicated on both sites (link to readings), and I will attempt to cross-link as necessary.
     > The [***CatCourse Website (Canvas)***](https://catcourses.ucmerced.edu/): Turning in assignments, grades, lectures, links to readings  
@@ -66,6 +66,6 @@ comments: true
         <!-- * **Quizzes**: Quizzes will be given periodically during the lecture period. They will not necessarily be announced. -->  
         * **Discussion Activities**: All students are required to go to their respective Discussion Sections and participate/engage in the discussions and activities conducted in the section. Your discussion grade will take into account both participation and responses to Discussion assignments. ***Only otherwise notified, Discussion Activity scores will be delivered via CatCourses***   
         * **Exams**: There will be **2** “midterm” exams during the semester and **1** comprehensive final. There will be no make-up exams or early exams. If you are sick during an exam, you must supply a note from your doctor verifying your illness. Your grade for the missed exam will be based on your average score from the other exams. You cannot miss more than one exam for an excused illness and taking the final is mandatory in order to pass the course. ***Exams may either be in person or delivered remotely via Canvas, as the situation requires***
-        * ***Grading***: Your final grade will be based on the following: lecture attendance: 5%; discussion section participation & activities: 15%; homework: 15%; midterms: 40% (two, 20% each); and comprehensive final exam: 25%.  
+        * ***Grading***: Your final grade will be based on the following: lecture attendance: 10%; discussion section participation & activities: 20%; homework: 20%; midterms: 30% (two, 15% each); and comprehensive final exam: 20%.  
         * Grades will be given using the approximate framework: A: 90 - 100%, B: 80 - 90%, C: 70 - 80%, D: 60 - 70%, F: < 60%. This framework is subject to change given the distribution of the final grades.   
         * Late assignments (e.g., homework) will not be accepted.  
