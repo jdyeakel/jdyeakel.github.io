@@ -47,7 +47,7 @@ tr:nth-child(odd) {background: #FFF}
 | Date | Lect/Disc_# | Lecture_Topic | Description | Required Readings | Assign. |
 | ---------- | ----------- | --------------- | ------------- | ------------ |
 | **6/20**       | **(T-L1)** | Introduction | Levels of organization | Bowman Ch. 1 |     |
-|       |  |  |   | [Leopold; excerpts]({{ site.url }}/teaching/ecology/papers/Leopold_Excerpts){:target="_blank"} |      |
+|       |  |  |   | [Leopold; excerpts]({{ site.url }}/teaching/ecology/papers/Leopold_Excerpts.pdf){:target="_blank"} |      |
 | **6/22**  | **(R-L2)** | Biomes | Distinguishing among Earth's biomes | Bowman Ch. 3 |     |
 |    |   | Energy 1 | Variation in temperature and water | Bowman Ch. 4 |     |
 |        | **(D1)** | Disc 1 |  [Intro to R]({{ site.url }}/teaching/ecology/summersections/section_1_introtoR){:target="_blank"}   |  |     |
