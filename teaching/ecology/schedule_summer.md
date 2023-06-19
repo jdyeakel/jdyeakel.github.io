@@ -47,15 +47,15 @@ tr:nth-child(odd) {background: #FFF}
 | Date | Lect/Disc_# | Lecture_Topic | Description | Required Readings | Assign. |
 | ---------- | ----------- | --------------- | ------------- | ------------ |
 | **6/20**       | **(T-L1)** | Introduction | Levels of organization | Bowman Ch. 1 |     |
-|       |  |  | Scales, models, and R; [Intro to R]({{ site.url }}/teaching/ecology/summersections/demo_1_introtoR){:target="_blank"} | [Leopold; excerpts]({{ site.url }}/teaching/ecology/papers/Leopold_Excerpts){:target="_blank"} |      |
+|       |  |  |   | [Leopold; excerpts]({{ site.url }}/teaching/ecology/papers/Leopold_Excerpts){:target="_blank"} |      |
 | **6/22**  | **(R-L2)** | Biomes | Distinguishing among Earth's biomes | Bowman Ch. 3 |     |
 |    |   | Energy 1 | Variation in temperature and water | Bowman Ch. 4 |     |
-|        | **(D1)** | Disc 1 |  [Temperature as an ecological constraint]({{ site.url }}/teaching/ecology/summersections/section_1_temperature){:target="_blank"}    | [Gunderson & Leal 2015]({{ site.url }}/teaching/ecology/papers/Gunderson.pdf){:target="_blank"} |     |
+|        | **(D1)** | Disc 1 |  [Intro to R]({{ site.url }}/teaching/ecology/summersections/demo_1_introtoR){:target="_blank"}   | [Gunderson & Leal 2015]({{ site.url }}/teaching/ecology/papers/Gunderson.pdf){:target="_blank"} |     |
 | **6/27** | **(T-L3)** | Energy 2 | Energetic pathways in ecology | Bowman Ch. 5 |    |
 |   |   | Allometry | Allometry & Macroecology 1 | [West & Brown]({{ site.url }}/teaching/ecology/papers/West_Brown_2004.pdf){:target="_blank"} |    |
 | **6/29** | **(R-L4)** | Allometry | Allometry & Macroecology 2 | |    |
 |  |  | Evolution | Evolution | Bowman Ch. 6 |   |
-|         | **(D2)** | Disc 2 |  [Allometry & Macroecology]()  |    |  Hmwk 1 due   |
+|         | **(D2)** | Disc 2 |  [Temperature as an ecological constraint]({{ site.url }}/teaching/ecology/summersections/section_1_temperature){:target="_blank"}   |    |  Hmwk 1 due   |
 | **7/04** | **(T-L5)** | July 4 - no class |  |  |    |
 |  |  |  |  |  |    |
 | **7/06** | **(R-L6)** | ***Exam I***  |  |  |    |
