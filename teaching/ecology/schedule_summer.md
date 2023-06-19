@@ -55,7 +55,7 @@ tr:nth-child(odd) {background: #FFF}
 |   |   | Allometry | Allometry & Macroecology 1 | [West & Brown]({{ site.url }}/teaching/ecology/papers/West_Brown_2004.pdf){:target="_blank"} |    |
 | **6/29** | **(R-L4)** | Allometry | Allometry & Macroecology 2 | |    |
 |  |  | Evolution | Evolution | Bowman Ch. 6 |   |
-|         | **(D2)** | Disc 2 |  [Temperature as an ecological constraint]({{ site.url }}/teaching/ecology/summersections/section_1_temperature){:target="_blank"}   |  [Gunderson & Leal 2015]({{ site.url }}/teaching/ecology/papers/Gunderson.pdf){:target="_blank"}  |  Hmwk 1 due   |
+|         | **(D2)** | Disc 2 |  [Temperature as an ecological constraint]({{ site.url }}/teaching/ecology/summersections/section_2_temperature){:target="_blank"}   |  [Gunderson & Leal 2015]({{ site.url }}/teaching/ecology/papers/Gunderson.pdf){:target="_blank"}  |  Hmwk 1 due   |
 | **7/04** | **(T-L5)** | July 4 - no class |  |  |    |
 |  |  |  |  |  |    |
 | **7/06** | **(R-L6)** | ***Exam I***  |  |  |    |
