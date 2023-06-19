@@ -1,6 +1,6 @@
 ---
 layout: pagetrimnobio
-title: "Temperature as an ecological constraint"
+title: "Section 2: Temperature as an ecological constraint"
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
