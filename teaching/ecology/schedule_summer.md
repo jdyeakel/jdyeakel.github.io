@@ -1,6 +1,6 @@
 ---
 layout: pagetrimnobio
-title: "Fundamentals of Ecology (BIO/ESS 148) :: Schedule, Summer 2022"
+title: "Fundamentals of Ecology (BIO/ESS 148) :: Schedule, Summer 2023"
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
