@@ -56,7 +56,7 @@ comments: true
         * The **2** lowest lecture attendance scores will be dropped  
     * ***Required and Supplemental Readings***  
         * **Required Textbook**: W.D. Bowman, S.D. Hacker, and Cain, M.L. 2017. Ecology, 4th or 5th Edition. Sinauer Associates, Inc., Publishers. Sunderland, MA.  
-        * Everyone is given ebook access (and charged) at the beginning of the course (see announcement on CatCourses for more info). If you do not wish to maintain your access to the ebook, follow the instructions on the CatCourses announcement to decline access and recoup the ebook charge.    
+        * There is a Follett Discover link - I'm having trouble getting word on its activation with our class... if you have difficulties accessing the book through the Follett Discover link, search for Ecology via the campus bookstore website.     
         * Readings will also be assigned for the Discussion section and instead of the book for some lectures. These are required and will be provided on the course website.  
         * Note: earlier editions (1st, 2nd, 3rd) of this textbook may be used but are not recommended.  
     * ***In-class laptops or tablets***
