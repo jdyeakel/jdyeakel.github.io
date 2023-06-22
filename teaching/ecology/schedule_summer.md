@@ -41,7 +41,7 @@ tr:nth-child(odd) {background: #FFF}
 > First half from 8:30 - 9:45  
 > Break from 9:45 - 10:00  
 > Second half from 10:00 - 11:15  
-> ***Students are required to attend the full lecture to receive credit***
+> ***Students are required to attend the full lecture to receive credit***  
 > ***Homeworks are due on the Sunday (11:50 PM) of the week they are posted. See CatCourses for the Assignment details*** 
 
 
