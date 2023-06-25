@@ -1,5 +1,5 @@
 ---
 layout: post-index
-title: All Posts
+title: Posts - mostly artwork these days
 excerpt: "A List of Posts"
 ---

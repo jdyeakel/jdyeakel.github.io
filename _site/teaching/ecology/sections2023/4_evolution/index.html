@@ -113,7 +113,7 @@
 					    <li><a href="//jdyeakel.github.io/CV/" >Publications</a></li>
 					  
 					    
-					    <li><a href="//jdyeakel.github.io/posts/" >Posts</a></li>
+					    <li><a href="//jdyeakel.github.io/posts/" >Art Posts</a></li>
 					  
 		    </ul>
 		</nav>
@@ -194,7 +194,7 @@
   <p><strong><em>In the 1970s-80s, biologists Peter and Rosemary Grant caught and measured birds from more than 20 generations of finches on the Galapagos island of Daphne Major. In one of those years, 1977, a severe drought caused vegetation to wither, and the only remaining food source were large, tough, drought-resistant seeds, which the finches ordinarily ignored. Were the birds with larger and stronger beaks for opening these tough seeds more likely to survive that year, and did they tend to pass this characteristic to their offspring? The data are beak depths (height of the beak at its base) of 751 finches caught the year before the drought (1976) and 89 finches captured the year after the drought (1978). -Statistical Sleuth (3rd edition)</em></strong></p>
 </blockquote>
 
-<p>Let’s now look at the beak width data collected by Rosemary and Peter Grant on the 1976 and 1978 expedition. We will plot the frequencies of beak depth across individuals in population measured during 1976 and 1978. We will use the <code class="highlighter-rouge">hist()</code> function in <code class="highlighter-rouge">R</code>, which plots the frequency distribution. Because the number of individuals sampled in 1976 is very different (751 individuals in 1976 and 89 individuals in 1978), we have scaled the y-axis so that we are looking at the <em>proportion</em> of individuals with different trait values (this means the y-axis will range from \(0 \leftrightarrow 1\)).</p>
+<p>Let’s now look at the beak width data collected by Rosemary and Peter Grant on the 1976 and 1978 expedition. We will plot the frequencies of beak depth across individuals in population measured during 1976 and 1978. We will use the <code class="language-plaintext highlighter-rouge">hist()</code> function in <code class="language-plaintext highlighter-rouge">R</code>, which plots the frequency distribution. Because the number of individuals sampled in 1976 is very different (751 individuals in 1976 and 89 individuals in 1978), we have scaled the y-axis so that we are looking at the <em>proportion</em> of individuals with different trait values (this means the y-axis will range from \(0 \leftrightarrow 1\)).</p>
 
 <figure>
 <img src="//jdyeakel.github.io/images/ecology/beakdepth.jpg" width="700" />
@@ -232,7 +232,7 @@
 <blockquote>
   <h3 id="discussion">Discussion</h3>
   <ol>
-    <li>Use the <code class="highlighter-rouge">mean()</code> and <code class="highlighter-rouge">sd()</code> functions to calculate the mean and standard deviation of depth measurements from 1976 (<code class="highlighter-rouge">depth_1976</code>) and 1978 (<code class="highlighter-rouge">depth_1978</code>). How does the mean and standard deviation change over time?</li>
+    <li>Use the <code class="language-plaintext highlighter-rouge">mean()</code> and <code class="language-plaintext highlighter-rouge">sd()</code> functions to calculate the mean and standard deviation of depth measurements from 1976 (<code class="language-plaintext highlighter-rouge">depth_1976</code>) and 1978 (<code class="language-plaintext highlighter-rouge">depth_1978</code>). How does the mean and standard deviation change over time?</li>
     <li>Try to explain <em>both</em> changes to the mean and stand deviation of the population.</li>
     <li>As mentioned above, there is a large difference in the number of individuals sampled from 1976 to 1978. Why? Can we say something about the traits of the individuals who <em>weren’t</em> sampled in 1978? In other words, which finches were selected against and why?</li>
     <li>Was this selection event caused directly or indirectly by the drought?</li>
@@ -251,15 +251,15 @@
   <p><strong><em>The Pseudocode: Here is what the simulation does</em></strong>:</p>
   <ol>
     <li>We imagine a population that starts with \(N_0 = 100\) individuals, each of which are given a trait value.</li>
-    <li>At the beginning we will randomly choose the trait value \(x\) from a normal distribution with an arbitrary mean of 0.5 and an initial standard deviation <code class="highlighter-rouge">sd0</code> that we input.</li>
+    <li>At the beginning we will randomly choose the trait value \(x\) from a normal distribution with an arbitrary mean of 0.5 and an initial standard deviation <code class="language-plaintext highlighter-rouge">sd0</code> that we input.</li>
     <li>At <strong>each time-step</strong>, 2 things happen:
       <ol>
-        <li>Each individual gives birth to some number of offspring. <strong><em>Individuals with higher trait values (values of \(x\)) have a slight reproductive advantage and give birth to more offspring.</em></strong> The offspring produced by an adult with a trait value \(x = m\) will have a similar trait value… we will draw the offspring’s trait from a normal distribution with a mean \(m\) and standard deviation that we call the <code class="highlighter-rouge">mutation</code> value. This describes how different the offspring is likely to be from the parent… the larger the <code class="highlighter-rouge">mutation</code> value, the more likely the offspring’s trait value will be different from the parent’s at \(x = m\). Because we are drawing the offspring’s trait from a normal distribution around \(x = m\), the offspring has an equal change of having a trait value lower than \(m\) as having a trait value higher than \(m\).</li>
+        <li>Each individual gives birth to some number of offspring. <strong><em>Individuals with higher trait values (values of \(x\)) have a slight reproductive advantage and give birth to more offspring.</em></strong> The offspring produced by an adult with a trait value \(x = m\) will have a similar trait value… we will draw the offspring’s trait from a normal distribution with a mean \(m\) and standard deviation that we call the <code class="language-plaintext highlighter-rouge">mutation</code> value. This describes how different the offspring is likely to be from the parent… the larger the <code class="language-plaintext highlighter-rouge">mutation</code> value, the more likely the offspring’s trait value will be different from the parent’s at \(x = m\). Because we are drawing the offspring’s trait from a normal distribution around \(x = m\), the offspring has an equal change of having a trait value lower than \(m\) as having a trait value higher than \(m\).</li>
         <li>Each individual has a probability of dying, regardless of its trait value.</li>
       </ol>
     </li>
     <li>We encode these rules in the code below, and keep track of the <strong><em>mean trait value of the population</em></strong> over time. Sometimes too many individuals die and the simulation stops. In the plot this is shown as the mean trait value going to zero, which just means the population is now extinct.</li>
-    <li>Because there are so many random things that might happen in a single simulation of a population, we want to run the simulation many times. Each repetition is independent of the others. We will plot the mean trait values of <code class="highlighter-rouge">reps = 100</code> independently run simulations.</li>
+    <li>Because there are so many random things that might happen in a single simulation of a population, we want to run the simulation many times. Each repetition is independent of the others. We will plot the mean trait values of <code class="language-plaintext highlighter-rouge">reps = 100</code> independently run simulations.</li>
   </ol>
 </blockquote>
 
@@ -344,7 +344,7 @@
   <ol>
     <li>What is realistic and what is unrealistic about the model setup?</li>
     <li>Describe the output of the simulation results</li>
-    <li>I mention above that the simulation results look boring, and I mean this in the sense that the mean trait value of the population does not change much over time. In other words, there is not really <em>evolution</em> here. Why? Pay particular attention to the <code class="highlighter-rouge">sd0</code> and <code class="highlighter-rouge">mutation</code> values.</li>
+    <li>I mention above that the simulation results look boring, and I mean this in the sense that the mean trait value of the population does not change much over time. In other words, there is not really <em>evolution</em> here. Why? Pay particular attention to the <code class="language-plaintext highlighter-rouge">sd0</code> and <code class="language-plaintext highlighter-rouge">mutation</code> values.</li>
   </ol>
 </blockquote>
 
@@ -355,43 +355,43 @@
 
 <p><strong>Initial trait variability</strong>: Let’s first increase slightly the amount of variability that individuals start with at the beginning of the simulation. Try the following permutations on the original implementation of the code by replacing the last line with:</p>
 <ul>
-  <li><code class="highlighter-rouge">evolution.sim(reps=100,tmax=20,N0=100,sd0=0.05,mutation=0.01)</code></li>
-  <li><code class="highlighter-rouge">evolution.sim(reps=100,tmax=20,N0=100,sd0=0.1,mutation=0.01)</code></li>
+  <li><code class="language-plaintext highlighter-rouge">evolution.sim(reps=100,tmax=20,N0=100,sd0=0.05,mutation=0.01)</code></li>
+  <li><code class="language-plaintext highlighter-rouge">evolution.sim(reps=100,tmax=20,N0=100,sd0=0.1,mutation=0.01)</code></li>
 </ul>
 
 <blockquote>
   <h3 id="discussion-2">Discussion</h3>
   <ol>
-    <li>What does the value of <code class="highlighter-rouge">sd0</code> specify?</li>
-    <li>Describe what you observe as you increase <code class="highlighter-rouge">sd0</code>.</li>
+    <li>What does the value of <code class="language-plaintext highlighter-rouge">sd0</code> specify?</li>
+    <li>Describe what you observe as you increase <code class="language-plaintext highlighter-rouge">sd0</code>.</li>
     <li>What do you think is the cause of this effect?</li>
   </ol>
 </blockquote>
 
-<p><strong>Variability of offspring from parent trait values</strong>: Now that we’ve experimented with <code class="highlighter-rouge">sd0</code>, let’s now consider the variability of the offspring away from the parent, which is encoded in the parameter <code class="highlighter-rouge">mutation</code>. If <code class="highlighter-rouge">mutation=0</code>, then the offspring has <em>exactly</em> the same trait as its parent. So let’s examine this first. With the previous results in mind, where <code class="highlighter-rouge">sd0=0.1</code> and the results that you examined, let’s drop <code class="highlighter-rouge">mutation=0</code>, such that you plug in:</p>
+<p><strong>Variability of offspring from parent trait values</strong>: Now that we’ve experimented with <code class="language-plaintext highlighter-rouge">sd0</code>, let’s now consider the variability of the offspring away from the parent, which is encoded in the parameter <code class="language-plaintext highlighter-rouge">mutation</code>. If <code class="language-plaintext highlighter-rouge">mutation=0</code>, then the offspring has <em>exactly</em> the same trait as its parent. So let’s examine this first. With the previous results in mind, where <code class="language-plaintext highlighter-rouge">sd0=0.1</code> and the results that you examined, let’s drop <code class="language-plaintext highlighter-rouge">mutation=0</code>, such that you plug in:</p>
 <ul>
-  <li><code class="highlighter-rouge">evolution.sim(reps=100,tmax=20,N0=100,sd0=0.1,mutation=0)</code></li>
+  <li><code class="language-plaintext highlighter-rouge">evolution.sim(reps=100,tmax=20,N0=100,sd0=0.1,mutation=0)</code></li>
 </ul>
 
 <blockquote>
   <h3 id="discussion-3">Discussion</h3>
   <ol>
-    <li>Compare these results to the case where <code class="highlighter-rouge">sd0=0.1</code> and <code class="highlighter-rouge">mutation=0.01</code>. Are they different?</li>
+    <li>Compare these results to the case where <code class="language-plaintext highlighter-rouge">sd0=0.1</code> and <code class="language-plaintext highlighter-rouge">mutation=0.01</code>. Are they different?</li>
     <li>The big question… if there <em>is no mutation</em>, meaning every offspring is <em>exactly the same as their parent</em>, how do you explain these results???</li>
   </ol>
 </blockquote>
 
-<p>Now let’s set the initial variability to the lower value of <code class="highlighter-rouge">sd0=0.01</code> and explore just the impact of increasing <code class="highlighter-rouge">mutation</code>:</p>
+<p>Now let’s set the initial variability to the lower value of <code class="language-plaintext highlighter-rouge">sd0=0.01</code> and explore just the impact of increasing <code class="language-plaintext highlighter-rouge">mutation</code>:</p>
 <ul>
-  <li><code class="highlighter-rouge">evolution.sim(reps=100,tmax=20,N0=100,sd0=0.01,mutation=0.05)</code></li>
-  <li><code class="highlighter-rouge">evolution.sim(reps=100,tmax=20,N0=100,sd0=0.01,mutation=0.1)</code></li>
+  <li><code class="language-plaintext highlighter-rouge">evolution.sim(reps=100,tmax=20,N0=100,sd0=0.01,mutation=0.05)</code></li>
+  <li><code class="language-plaintext highlighter-rouge">evolution.sim(reps=100,tmax=20,N0=100,sd0=0.01,mutation=0.1)</code></li>
 </ul>
 
 <blockquote>
   <h3 id="discussion-4">Discussion</h3>
   <ol>
     <li>Describe what you see</li>
-    <li>Which of the two had a larger impact on evolution? Increasing <code class="highlighter-rouge">sd0</code> or increasing <code class="highlighter-rouge">mutation</code>?</li>
+    <li>Which of the two had a larger impact on evolution? Increasing <code class="language-plaintext highlighter-rouge">sd0</code> or increasing <code class="language-plaintext highlighter-rouge">mutation</code>?</li>
     <li>Which of the two had a larger impact on the <em>speed</em> of evolution? In other words, the time at which some amount of change is observed?</li>
     <li>What do you think the <em>cause</em> of these differences is?</li>
   </ol>

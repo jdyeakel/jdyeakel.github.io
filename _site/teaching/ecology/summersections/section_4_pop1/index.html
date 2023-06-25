@@ -113,7 +113,7 @@
 					    <li><a href="//jdyeakel.github.io/CV/" >Publications</a></li>
 					  
 					    
-					    <li><a href="//jdyeakel.github.io/posts/" >Posts</a></li>
+					    <li><a href="//jdyeakel.github.io/posts/" >Art Posts</a></li>
 					  
 		    </ul>
 		</nav>
@@ -205,8 +205,8 @@ Notice we have also divided both sides by \(\Delta t\), which will help with the
   <h3 id="discussion">Discussion</h3>
   <ol>
     <li>Experiment with the above parameter values. What happens when you change \(b\) to be greater, less-than, or equal to \(d\)? Describe in words what is happening in each scenario.</li>
-    <li>Compare results for small versus large time windows \(\Delta t\) <code class="highlighter-rouge">Deltat</code></li>
-    <li>What is the shape of the population over time when we expand the amount of time over which we observe the population? e.g. try <code class="highlighter-rouge">tmax = 100</code></li>
+    <li>Compare results for small versus large time windows \(\Delta t\) <code class="language-plaintext highlighter-rouge">Deltat</code></li>
+    <li>What is the shape of the population over time when we expand the amount of time over which we observe the population? e.g. try <code class="language-plaintext highlighter-rouge">tmax = 100</code></li>
     <li>Given \(\Delta t = 1\), what is the proportional change in population size? How would you calculate this? Hint: you don’t need to the code black to do this… Look to the last equation before the code block.</li>
   </ol>
 </blockquote>
@@ -396,9 +396,9 @@ K &amp;= \frac{b-d}{a+c},~{\rm or} \\ \\
 <blockquote>
   <h3 id="discussion-6">Discussion</h3>
   <ol>
-    <li>Given <code class="highlighter-rouge">r = 0.01,b = 0.8, d = 0.2, a = 0.01,c = 0.01</code>, where does the flow indicate that the population will settle?</li>
+    <li>Given <code class="language-plaintext highlighter-rouge">r = 0.01,b = 0.8, d = 0.2, a = 0.01,c = 0.01</code>, where does the flow indicate that the population will settle?</li>
     <li>Plug in the values \((b,d,a,c)\) to solve for \(K\) given the equation for \(K\) above. Comparing this value to what we observe in the graph, what is our interpretation of what \(K\) means?</li>
-    <li>Let’s a) switch <code class="highlighter-rouge">b</code> and <code class="highlighter-rouge">d</code> and reverse the direction of the slope, so that our parameters are <code class="highlighter-rouge">r = 0.01,b = 0.2, d = 0.8, a = -0.01,c = -0.01</code>. How do we interpret what will happen to this population? Is this realistic?</li>
+    <li>Let’s a) switch <code class="language-plaintext highlighter-rouge">b</code> and <code class="language-plaintext highlighter-rouge">d</code> and reverse the direction of the slope, so that our parameters are <code class="language-plaintext highlighter-rouge">r = 0.01,b = 0.2, d = 0.8, a = -0.01,c = -0.01</code>. How do we interpret what will happen to this population? Is this realistic?</li>
     <li>Derive the y-intercepts and x-intercepts for \(b^\prime\) and \(d^\prime\) in terms of \((b,d,a,c)\). Can you confirm analytically the x- and y-intercepts that you observe in the above graph?</li>
   </ol>
 </blockquote>
@@ -433,8 +433,8 @@ K &amp;= \frac{b-d}{a+c},~{\rm or} \\ \\
   <ol>
     <li>Input the initial parameter combinations that we investigated in the flow diagram. How does this plot compliment our expectations of the dynamics from predicting the flow?</li>
     <li>Unlike the flow diagram, we have to input an initial population size \(N_0\). Try entering a large \(N_0\) as the starting population. What do you observe? Does the long-term dynamics change?</li>
-    <li>What is the role in <code class="highlighter-rouge">r</code>? How does changing <code class="highlighter-rouge">r</code> change what happens to the population?</li>
-    <li>As before, let’s a) switch <code class="highlighter-rouge">b</code> and <code class="highlighter-rouge">d</code> and reverse the direction of the slope, so that our parameters are <code class="highlighter-rouge">r = 0.01,b = 0.2, d = 0.8, a = -0.01,c = -0.01, tmax = 1000,N0 = 1</code>. Try this for \(N_0 = 1\), \(N_0 = 29\), \(N_0 = 30\), and \(N_0 = 31\). Does what you observe match your expectations for what you predicted the population to do from the flow diagram? Why do you think you got an error message for \(N_0 = 31\)?</li>
+    <li>What is the role in <code class="language-plaintext highlighter-rouge">r</code>? How does changing <code class="language-plaintext highlighter-rouge">r</code> change what happens to the population?</li>
+    <li>As before, let’s a) switch <code class="language-plaintext highlighter-rouge">b</code> and <code class="language-plaintext highlighter-rouge">d</code> and reverse the direction of the slope, so that our parameters are <code class="language-plaintext highlighter-rouge">r = 0.01,b = 0.2, d = 0.8, a = -0.01,c = -0.01, tmax = 1000,N0 = 1</code>. Try this for \(N_0 = 1\), \(N_0 = 29\), \(N_0 = 30\), and \(N_0 = 31\). Does what you observe match your expectations for what you predicted the population to do from the flow diagram? Why do you think you got an error message for \(N_0 = 31\)?</li>
   </ol>
 </blockquote>
 
@@ -464,7 +464,7 @@ K &amp;= \frac{b-d}{a+c},~{\rm or} \\ \\
 <blockquote>
   <h3 id="discussion-8">Discussion</h3>
   <ol>
-    <li>Try alternative values for <code class="highlighter-rouge">r</code> and <code class="highlighter-rouge">K</code>. How do these parameters impact the dynamics of the population when you start at different population sizes <code class="highlighter-rouge">N0</code>?</li>
+    <li>Try alternative values for <code class="language-plaintext highlighter-rouge">r</code> and <code class="language-plaintext highlighter-rouge">K</code>. How do these parameters impact the dynamics of the population when you start at different population sizes <code class="language-plaintext highlighter-rouge">N0</code>?</li>
   </ol>
 </blockquote>
 
@@ -545,9 +545,9 @@ N(t + 1) - N(t) &amp;= r_d N(t) \left( 1 - \frac{N(t)}{K} \right)
   </ol>
 </blockquote>
 
-<p>Okay… so let’s now see if our expectations match reality. Below is a code block where the discrete logistic is simulated over time. As with the continuous-time population equation, we have to supply the initial population size \(N_0\), and the (in this case) discrete growth parameter \(r_d\) and the carrying capacity \(K\). In addition we have to specify the number of time-steps over which we will simulate <code class="highlighter-rouge">tmax</code>.</p>
+<p>Okay… so let’s now see if our expectations match reality. Below is a code block where the discrete logistic is simulated over time. As with the continuous-time population equation, we have to supply the initial population size \(N_0\), and the (in this case) discrete growth parameter \(r_d\) and the carrying capacity \(K\). In addition we have to specify the number of time-steps over which we will simulate <code class="language-plaintext highlighter-rouge">tmax</code>.</p>
 
-<p>For simplicity, let’s keep <code class="highlighter-rouge">K=1</code> for now. Recall that in class, \(N^* = K\), which means that the steady state for the continuous-time system is at the carrying capacity \(K\). But if \(K=1\), what does this mean? The steady state is at 1 individual??? No - this wouldn’t make sense. Remember that \(N\) could be in units of \([individuals]\) (where only integer values make sense) or could be in units of density \([individuals/area]\). In the case of the latter, fractional values have meaning… for example, let’s consider 0.1 individuals/area. If our area is in units of \([{\rm km}^2]\), 0.1 \(individuals/km^2\) means that there is roughly 1 individual per 10 \({\rm km}^2\). If \(K=1\), then we can assume that we are dealing with densities.</p>
+<p>For simplicity, let’s keep <code class="language-plaintext highlighter-rouge">K=1</code> for now. Recall that in class, \(N^* = K\), which means that the steady state for the continuous-time system is at the carrying capacity \(K\). But if \(K=1\), what does this mean? The steady state is at 1 individual??? No - this wouldn’t make sense. Remember that \(N\) could be in units of \([individuals]\) (where only integer values make sense) or could be in units of density \([individuals/area]\). In the case of the latter, fractional values have meaning… for example, let’s consider 0.1 individuals/area. If our area is in units of \([{\rm km}^2]\), 0.1 \(individuals/km^2\) means that there is roughly 1 individual per 10 \({\rm km}^2\). If \(K=1\), then we can assume that we are dealing with densities.</p>
 
 <p>Run the code block below, and see if your expectations for \(N \approx 0\) and for \(N \approx K\) are correct, where in this case \(K=1\).</p>
 
@@ -567,9 +567,9 @@ N(t + 1) - N(t) &amp;= r_d N(t) \left( 1 - \frac{N(t)}{K} \right)
 <blockquote>
   <h3 id="discussion-12">Discussion</h3>
   <ol>
-    <li>Now set <code class="highlighter-rouge">rd = 2</code>. What dynamics do you observe? Describe them. Are they stable?</li>
-    <li>Set <code class="highlighter-rouge">rd = 2.5</code>. What dynamics do you observe? Describe them. Are they stable?</li>
-    <li>Set <code class="highlighter-rouge">rd = 3.0</code>. What dynamics do you observe? Describe them. Are they stable? Not clear? Change <code class="highlighter-rouge">tmax = 100</code> to give you a longer-time perspective. How would you describe what you see?</li>
+    <li>Now set <code class="language-plaintext highlighter-rouge">rd = 2</code>. What dynamics do you observe? Describe them. Are they stable?</li>
+    <li>Set <code class="language-plaintext highlighter-rouge">rd = 2.5</code>. What dynamics do you observe? Describe them. Are they stable?</li>
+    <li>Set <code class="language-plaintext highlighter-rouge">rd = 3.0</code>. What dynamics do you observe? Describe them. Are they stable? Not clear? Change <code class="language-plaintext highlighter-rouge">tmax = 100</code> to give you a longer-time perspective. How would you describe what you see?</li>
   </ol>
 </blockquote>
 
@@ -619,7 +619,7 @@ N(t + 1) - N(t) &amp;= r_d N(t) \left( 1 - \frac{N(t)}{K} \right)
   <h3 id="discussion-13">Discussion</h3>
   <ol>
     <li>Across intervals of 0.1, at what value of \(r_d\) do the dynamics become cyclic? Unpredictable?</li>
-    <li>Compare <code class="highlighter-rouge">rd=1.8</code> to <code class="highlighter-rouge">rd=2.0</code>. What is the primary difference between these outcomes. Compare both the results of the cobweb diagram and the \(N(t)\) vs. \(t\) plot to establish your interpretation of what is going on.</li>
+    <li>Compare <code class="language-plaintext highlighter-rouge">rd=1.8</code> to <code class="language-plaintext highlighter-rouge">rd=2.0</code>. What is the primary difference between these outcomes. Compare both the results of the cobweb diagram and the \(N(t)\) vs. \(t\) plot to establish your interpretation of what is going on.</li>
     <li>Do we observe cycles or chaotic dynamics in the continuous-time logistic model? <strong><em>(Below is the code block from Section 7 where we assessed continuous-time logistic dynamics, which you can use for reference)</em></strong></li>
     <li>Given these differences, what are the long-term implications for discrete-time vs. continuous-time population dynamics?</li>
     <li>What ecological factors might promote continuous- vs. discrete-time population dynamics?</li>

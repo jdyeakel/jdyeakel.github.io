@@ -113,7 +113,7 @@
 					    <li><a href="//jdyeakel.github.io/CV/" >Publications</a></li>
 					  
 					    
-					    <li><a href="//jdyeakel.github.io/posts/" >Posts</a></li>
+					    <li><a href="//jdyeakel.github.io/posts/" >Art Posts</a></li>
 					  
 		    </ul>
 		</nav>
@@ -205,8 +205,8 @@ Notice we have also divided both sides by \(\Delta t\), which will help with the
   <h3 id="discussion">Discussion</h3>
   <ol>
     <li>Experiment with the above parameter values. What happens when you change \(b\) to be greater, less-than, or equal to \(d\)? Describe in words what is happening in each scenario.</li>
-    <li>Compare results for small versus large time windows \(\Delta t\) <code class="highlighter-rouge">Deltat</code></li>
-    <li>What is the shape of the population over time when we expand the amount of time over which we observe the population? e.g. try <code class="highlighter-rouge">tmax = 100</code></li>
+    <li>Compare results for small versus large time windows \(\Delta t\) <code class="language-plaintext highlighter-rouge">Deltat</code></li>
+    <li>What is the shape of the population over time when we expand the amount of time over which we observe the population? e.g. try <code class="language-plaintext highlighter-rouge">tmax = 100</code></li>
     <li>Given \(\Delta t = 1\), what is the proportional change in population size? How would you calculate this? Hint: you don’t need to the code black to do this… Look to the last equation before the code block.</li>
   </ol>
 </blockquote>
@@ -347,9 +347,9 @@ K &amp;= \frac{b-d}{a+c},~{\rm or} \\ \\
 <blockquote>
   <h3 id="discussion-4">Discussion</h3>
   <ol>
-    <li>Given <code class="highlighter-rouge">r = 0.01,b = 0.8, d = 0.2, a = 0.01,c = 0.01</code>, where does the flow indicate that the population will settle?</li>
+    <li>Given <code class="language-plaintext highlighter-rouge">r = 0.01,b = 0.8, d = 0.2, a = 0.01,c = 0.01</code>, where does the flow indicate that the population will settle?</li>
     <li>Plug in the values \((b,d,a,c)\) to solve for \(K\) given the equation for \(K\) above. Comparing this value to what we observe in the graph, what is our interpretation of what \(K\) means?</li>
-    <li>Let’s a) switch <code class="highlighter-rouge">b</code> and <code class="highlighter-rouge">d</code> and reverse the direction of the slope, so that our parameters are <code class="highlighter-rouge">r = 0.01,b = 0.2, d = 0.8, a = -0.01,c = -0.01</code>. How do we interpret what will happen to this population? Is this realistic?</li>
+    <li>Let’s a) switch <code class="language-plaintext highlighter-rouge">b</code> and <code class="language-plaintext highlighter-rouge">d</code> and reverse the direction of the slope, so that our parameters are <code class="language-plaintext highlighter-rouge">r = 0.01,b = 0.2, d = 0.8, a = -0.01,c = -0.01</code>. How do we interpret what will happen to this population? Is this realistic?</li>
     <li>Derive the y-intercepts and x-intercepts for \(b^\prime\) and \(d^\prime\) in terms of \((b,d,a,c)\). Can you confirm analytically the x- and y-intercepts that you observe in the above graph?</li>
   </ol>
 </blockquote>
@@ -384,8 +384,8 @@ K &amp;= \frac{b-d}{a+c},~{\rm or} \\ \\
   <ol>
     <li>Input the initial parameter combinations that we investigated in the flow diagram. How does this plot compliment our expectations of the dynamics from predicting the flow?</li>
     <li>Unlike the flow diagram, we have to input an initial population size \(N_0\). Try entering a large \(N_0\) as the starting population. What do you observe? Does the long-term dynamics change?</li>
-    <li>What is the role in <code class="highlighter-rouge">r</code>? How does changing <code class="highlighter-rouge">r</code> change what happens to the population?</li>
-    <li>As before, let’s a) switch <code class="highlighter-rouge">b</code> and <code class="highlighter-rouge">d</code> and reverse the direction of the slope, so that our parameters are <code class="highlighter-rouge">r = 0.01,b = 0.2, d = 0.8, a = -0.01,c = -0.01, tmax = 1000,N0 = 1</code>. Try this for \(N_0 = 1\), \(N_0 = 29\), \(N_0 = 30\), and \(N_0 = 31\). Does what you observe match your expectations for what you predicted the population to do from the flow diagram? Why do you think you got an error message for \(N_0 = 31\)?</li>
+    <li>What is the role in <code class="language-plaintext highlighter-rouge">r</code>? How does changing <code class="language-plaintext highlighter-rouge">r</code> change what happens to the population?</li>
+    <li>As before, let’s a) switch <code class="language-plaintext highlighter-rouge">b</code> and <code class="language-plaintext highlighter-rouge">d</code> and reverse the direction of the slope, so that our parameters are <code class="language-plaintext highlighter-rouge">r = 0.01,b = 0.2, d = 0.8, a = -0.01,c = -0.01, tmax = 1000,N0 = 1</code>. Try this for \(N_0 = 1\), \(N_0 = 29\), \(N_0 = 30\), and \(N_0 = 31\). Does what you observe match your expectations for what you predicted the population to do from the flow diagram? Why do you think you got an error message for \(N_0 = 31\)?</li>
   </ol>
 </blockquote>
 
@@ -415,7 +415,7 @@ K &amp;= \frac{b-d}{a+c},~{\rm or} \\ \\
 <blockquote>
   <h3 id="discussion-6">Discussion</h3>
   <ol>
-    <li>Try alternative values for <code class="highlighter-rouge">r</code> and <code class="highlighter-rouge">K</code>. How do these parameters impact the dynamics of the population when you start at different population sizes <code class="highlighter-rouge">N0</code>?</li>
+    <li>Try alternative values for <code class="language-plaintext highlighter-rouge">r</code> and <code class="language-plaintext highlighter-rouge">K</code>. How do these parameters impact the dynamics of the population when you start at different population sizes <code class="language-plaintext highlighter-rouge">N0</code>?</li>
   </ol>
 </blockquote>
 

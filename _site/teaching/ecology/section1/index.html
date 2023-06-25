@@ -113,7 +113,7 @@
 					    <li><a href="//jdyeakel.github.io/CV/" >Publications</a></li>
 					  
 					    
-					    <li><a href="//jdyeakel.github.io/posts/" >Posts</a></li>
+					    <li><a href="//jdyeakel.github.io/posts/" >Art Posts</a></li>
 					  
 		    </ul>
 		</nav>
@@ -161,7 +161,7 @@
 
 <blockquote>
   <h2 id="using-r-studio-optional">Using R Studio (optional)</h2>
-  <p><strong>Cloud</strong> First we need to sign up for a <code class="highlighter-rouge">FREE</code> RStudio Cloud account. There are paid tiers to this, but the base tier - which is all we need - is free. Visit the <a href="https://rstudio.cloud/">RStudio Cloud website</a> and click the <code class="highlighter-rouge">Get Started for Free</code> button and follow the instructions to make your account. After you do this, you will be able to log in to RStudio Cloud use the program.<br />
+  <p><strong>Cloud</strong> First we need to sign up for a <code class="language-plaintext highlighter-rouge">FREE</code> RStudio Cloud account. There are paid tiers to this, but the base tier - which is all we need - is free. Visit the <a href="https://rstudio.cloud/">RStudio Cloud website</a> and click the <code class="language-plaintext highlighter-rouge">Get Started for Free</code> button and follow the instructions to make your account. After you do this, you will be able to log in to RStudio Cloud use the program.<br />
 <strong>Local App</strong> <em>Alternatively</em> you can install R directly on your computer if you are using a laptop with Window/Apple/Linux OS - this option will not work on Chromebooks. Running RStudio natively on your machine is free, and you can find directions to install (Mac, Windows, Linux) by following this <a href="https://rstudio.com/">link</a>.<br />
 Whether you are using RStudio Cloud or RStudio on your machine, here is a resource that will help acquaint you with the RStudio environment: <a href="https://cpb-us-e1.wpmucdn.com/sites.ucsc.edu/dist/d/276/files/2015/09/GetStartedWithR-1i06k8e.pdf">link</a>.</p>
 </blockquote>
@@ -179,7 +179,7 @@ Whether you are using RStudio Cloud or RStudio on your machine, here is a resour
 
 <p>Copy this code block into the window at the bottom of the page, and press Control-Enter. The output will be generated below the window.</p>
 
-<p>So a few things in the above code block that I want you to pay attention to. The first line starts with a <code class="highlighter-rouge">#</code> symbol, which in the R language identifies that line as a comment or note. It is not code - it is just a note to the reader. I will use these comments/notes to describe what the code is doing. Below the first two comment lines, we tell R to assign the phrase “Hello World” to the object <code class="highlighter-rouge">x</code>. Below the last comment, we pass <code class="highlighter-rouge">x</code> to the function <code class="highlighter-rouge">print</code>. The function <code class="highlighter-rouge">print()</code> <em>does</em> something with <code class="highlighter-rouge">x</code>. As you might guess, it means ‘Print’, and will print whatever we pass to it. We pass <code class="highlighter-rouge">x</code> to <code class="highlighter-rouge">print()</code>, but instead of printing the letter x, it prints ‘Hello World’ because we have assigned that phrase to the object <code class="highlighter-rouge">x</code>. The output is shown in the green shaded box below the input window.</p>
+<p>So a few things in the above code block that I want you to pay attention to. The first line starts with a <code class="language-plaintext highlighter-rouge">#</code> symbol, which in the R language identifies that line as a comment or note. It is not code - it is just a note to the reader. I will use these comments/notes to describe what the code is doing. Below the first two comment lines, we tell R to assign the phrase “Hello World” to the object <code class="language-plaintext highlighter-rouge">x</code>. Below the last comment, we pass <code class="language-plaintext highlighter-rouge">x</code> to the function <code class="language-plaintext highlighter-rouge">print</code>. The function <code class="language-plaintext highlighter-rouge">print()</code> <em>does</em> something with <code class="language-plaintext highlighter-rouge">x</code>. As you might guess, it means ‘Print’, and will print whatever we pass to it. We pass <code class="language-plaintext highlighter-rouge">x</code> to <code class="language-plaintext highlighter-rouge">print()</code>, but instead of printing the letter x, it prints ‘Hello World’ because we have assigned that phrase to the object <code class="language-plaintext highlighter-rouge">x</code>. The output is shown in the green shaded box below the input window.</p>
 
 <p><br /></p>
 
@@ -250,7 +250,7 @@ Whether you are using RStudio Cloud or RStudio on your machine, here is a resour
 
 <h2 id="not-just-numbers">Not just numbers!</h2>
 
-<p>Much of what we will do will involve manipulating lists of numbers, which we call a <code class="highlighter-rouge">vector</code>. For example, perhaps we measure the proportion of the day a bird spends foraging for 10 days. We could examine this information by organizing it into a vector.</p>
+<p>Much of what we will do will involve manipulating lists of numbers, which we call a <code class="language-plaintext highlighter-rouge">vector</code>. For example, perhaps we measure the proportion of the day a bird spends foraging for 10 days. We could examine this information by organizing it into a vector.</p>
 
 <div class="language-R highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="w">    </span><span class="c1"># For 10 days we measure the proportion of the day a certain bird spends foraging.</span><span class="w">
     </span><span class="c1"># (don't worry about how... there is plenty of time for realism later on)</span><span class="w">
@@ -311,7 +311,7 @@ Below we will explore ecological relationships that occur at different scales. W
 
 <h2 id="individual-scale">Individual-scale</h2>
 
-<p><strong><em>Sea Otter diets</em></strong>: Sea otters are carnivorous mammals that live in coastal environments where upwelling drives nutrient-rich shallow-water communities from which they derive the vast majority of their food. Sea otters are voracious eaters and incorporate a wide variety of prey into their diet. For the population that lives off the coast of Santa Cruz, California, sea otters have been shown to exhibit remarkable individuality in thier dietary predilictions. Ecologist Tim Tinker spent an enormous number of hours identifying otters by individually unique characteristics and carefully monitorying foraging bouts. The most commonly observed prey items of these otters included <code class="highlighter-rouge">[Cancer crabs, kelp crabs, lobsters, urchins, abalone, snail, mollusk, clams, mussels, sea stars, sea worms, sand dollars, and other invertebrates]</code>. Compiling thousands of hours of observational data revealed that sea otter individuals have unique food preferences. Below we will see how one might go about exploring this dietary individuality in <code class="highlighter-rouge">R</code>.</p>
+<p><strong><em>Sea Otter diets</em></strong>: Sea otters are carnivorous mammals that live in coastal environments where upwelling drives nutrient-rich shallow-water communities from which they derive the vast majority of their food. Sea otters are voracious eaters and incorporate a wide variety of prey into their diet. For the population that lives off the coast of Santa Cruz, California, sea otters have been shown to exhibit remarkable individuality in thier dietary predilictions. Ecologist Tim Tinker spent an enormous number of hours identifying otters by individually unique characteristics and carefully monitorying foraging bouts. The most commonly observed prey items of these otters included <code class="language-plaintext highlighter-rouge">[Cancer crabs, kelp crabs, lobsters, urchins, abalone, snail, mollusk, clams, mussels, sea stars, sea worms, sand dollars, and other invertebrates]</code>. Compiling thousands of hours of observational data revealed that sea otter individuals have unique food preferences. Below we will see how one might go about exploring this dietary individuality in <code class="language-plaintext highlighter-rouge">R</code>.</p>
 
 <div class="language-R highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="w">    </span><span class="c1"># First, we will create a vector listing the names of the prey mentioned above</span><span class="w">
     </span><span class="c1"># Names of prey types</span><span class="w">
@@ -380,13 +380,13 @@ Stuff. -->
 
 <p>Now - don’t panic, but we are going to model how a population might change over time using a MATHEMATICAL EQUATION 😱 First, we say that the population size of a particular species… say wombats… is represented by n(t), which means “the population size n at time t. Now we must specify how n changes in the future (time t+1) as a function of what it is today (time t). So we will write an equation that gives us n(t+1) as a function of n(t).</p>
 
-<p>As we will learn in future classes when we cover this in detail, the transition of the population size today n(t) to that at a future time n(t+1) will involve two parameters: the reproductive rate r (accounting for how quickly individuals in the population reproduce), and the carrying capacity k, which determines how many individuals can ‘fit’ within a given environment. For now we will ignore k, and set <code class="highlighter-rouge">k = 1</code>. The equation of population growth is given as</p>
+<p>As we will learn in future classes when we cover this in detail, the transition of the population size today n(t) to that at a future time n(t+1) will involve two parameters: the reproductive rate r (accounting for how quickly individuals in the population reproduce), and the carrying capacity k, which determines how many individuals can ‘fit’ within a given environment. For now we will ignore k, and set <code class="language-plaintext highlighter-rouge">k = 1</code>. The equation of population growth is given as</p>
 
 \[\begin{equation}
 n(t+1) = rn(t)\left(1 - \frac{n(t)}{k}\right).
 \end{equation}\]
 
-<p>This equation is special, and is called the <code class="highlighter-rouge">logistic map</code>. In the R script below, the function <code class="highlighter-rouge">logistic.map()</code> is encodes the equation presented above. Don’t worry too much about how this function works… all we really need to know is that the function takes 4 parameters… the reprodutive rate <code class="highlighter-rouge">r</code>, the starting population size <code class="highlighter-rouge">n0</code>, the carrying capacity <code class="highlighter-rouge">k</code> (which we will set to 1), and the maximum number of time steps we will evaluate <code class="highlighter-rouge">tmax</code>.</p>
+<p>This equation is special, and is called the <code class="language-plaintext highlighter-rouge">logistic map</code>. In the R script below, the function <code class="language-plaintext highlighter-rouge">logistic.map()</code> is encodes the equation presented above. Don’t worry too much about how this function works… all we really need to know is that the function takes 4 parameters… the reprodutive rate <code class="language-plaintext highlighter-rouge">r</code>, the starting population size <code class="language-plaintext highlighter-rouge">n0</code>, the carrying capacity <code class="language-plaintext highlighter-rouge">k</code> (which we will set to 1), and the maximum number of time steps we will evaluate <code class="language-plaintext highlighter-rouge">tmax</code>.</p>
 
 <div class="language-R highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="w">    </span><span class="c1"># First we will define the Logistic Map function</span><span class="w">
     </span><span class="c1"># Don't worry about the details - we will get to this later</span><span class="w">
@@ -425,8 +425,8 @@ n(t+1) = rn(t)\left(1 - \frac{n(t)}{k}\right).
 <blockquote>
   <h3 id="discussion-1">Discussion</h3>
   <ol>
-    <li>What does it mean to have a low <code class="highlighter-rouge">r</code> vs. a high <code class="highlighter-rouge">r</code>? Explore by setting <code class="highlighter-rouge">r=1</code>, <code class="highlighter-rouge">r=1.5</code>, <code class="highlighter-rouge">r=2</code>, and <code class="highlighter-rouge">r=2.5</code>. How might this relate to different species? For example, would rabbits 🐇 be more likely to have a lower or higher <code class="highlighter-rouge">r</code> than horses 🐎?</li>
-    <li>Now continue dialing up <code class="highlighter-rouge">r</code>. Explore the following values and describe the resulting dynamics: <code class="highlighter-rouge">r=3</code>, <code class="highlighter-rouge">r=3.5</code>, and <code class="highlighter-rouge">r=4</code>.</li>
+    <li>What does it mean to have a low <code class="language-plaintext highlighter-rouge">r</code> vs. a high <code class="language-plaintext highlighter-rouge">r</code>? Explore by setting <code class="language-plaintext highlighter-rouge">r=1</code>, <code class="language-plaintext highlighter-rouge">r=1.5</code>, <code class="language-plaintext highlighter-rouge">r=2</code>, and <code class="language-plaintext highlighter-rouge">r=2.5</code>. How might this relate to different species? For example, would rabbits 🐇 be more likely to have a lower or higher <code class="language-plaintext highlighter-rouge">r</code> than horses 🐎?</li>
+    <li>Now continue dialing up <code class="language-plaintext highlighter-rouge">r</code>. Explore the following values and describe the resulting dynamics: <code class="language-plaintext highlighter-rouge">r=3</code>, <code class="language-plaintext highlighter-rouge">r=3.5</code>, and <code class="language-plaintext highlighter-rouge">r=4</code>.</li>
     <li>Are these results surprising? What might be the long-term implications if a species’ population behaves in this manner?</li>
   </ol>
 </blockquote>
@@ -509,7 +509,7 @@ n(t+1) = rn(t)\left(1 - \frac{n(t)}{k}\right).
 <blockquote>
   <h3 id="discussion-2">Discussion</h3>
   <ol>
-    <li>What happens to the island communities following Simberloff’s fumigation treatment (the datapoint at time <code class="highlighter-rouge">t=0</code> is species richness <em>before</em> fumigation)</li>
+    <li>What happens to the island communities following Simberloff’s fumigation treatment (the datapoint at time <code class="language-plaintext highlighter-rouge">t=0</code> is species richness <em>before</em> fumigation)</li>
     <li>What type of variation is observed between and among island communities?</li>
     <li>What do you think about the ethics of fumigating mangrove islands full of arthropods to examine foundational concepts in ecology? Is there a less impactful way to go about investigating these questions?</li>
   </ol>

@@ -113,7 +113,7 @@
 					    <li><a href="//jdyeakel.github.io/CV/" >Publications</a></li>
 					  
 					    
-					    <li><a href="//jdyeakel.github.io/posts/" >Posts</a></li>
+					    <li><a href="//jdyeakel.github.io/posts/" >Art Posts</a></li>
 					  
 		    </ul>
 		</nav>
@@ -249,7 +249,7 @@ T &gt; R &gt; P &gt; S
   </ol>
 </blockquote>
 
-<p>Now let’s graphically explore how Fitness of A-type and B-type depends on the makeup of the population \(x\). In the code-block below we have encoded the fitness values of A-type and B-type individuals as a function of the proportion of type A in the population \(x\). If \(\Phi_A &gt; \Phi_B\), the proportion of A-type in the population will increase. This means that we will <em>flow</em> from left to right along the x-axis as the composition of the population becomes dominated by A-type individuals. This is represented by the the symbol <code class="highlighter-rouge">&gt;</code>, which denotes the flow direction along the x-axis, illustrating how the makeup of the population dynamically changes in response to different payoff matrices. If \(\Phi_A &lt; \Phi_B\), the proportion of A-type in the population will decline. This is represented by the symbol <code class="highlighter-rouge">&lt;</code>.</p>
+<p>Now let’s graphically explore how Fitness of A-type and B-type depends on the makeup of the population \(x\). In the code-block below we have encoded the fitness values of A-type and B-type individuals as a function of the proportion of type A in the population \(x\). If \(\Phi_A &gt; \Phi_B\), the proportion of A-type in the population will increase. This means that we will <em>flow</em> from left to right along the x-axis as the composition of the population becomes dominated by A-type individuals. This is represented by the the symbol <code class="language-plaintext highlighter-rouge">&gt;</code>, which denotes the flow direction along the x-axis, illustrating how the makeup of the population dynamically changes in response to different payoff matrices. If \(\Phi_A &lt; \Phi_B\), the proportion of A-type in the population will decline. This is represented by the symbol <code class="language-plaintext highlighter-rouge">&lt;</code>.</p>
 
 <p>For example, the following payoff matrix corresponds to a \(\Phi_A &gt; \Phi_B\) for all values of \(x\) (let’s call this Scenario 1):</p>
 
@@ -343,8 +343,8 @@ What does it mean to be better or worse than <em>average</em>? The <em>average</
 
 <p>These are a simple set of rules, so let’s code this into a simulation, which is presented in the code-block below. As before, we need to set the values of the payoff matrix \((a,b,c,d)\), but now we also need to set:</p>
 <ul>
-  <li><code class="highlighter-rouge">propA</code> = the initial proportion of A-type in the population</li>
-  <li><code class="highlighter-rouge">tmax</code> = the number over time steps of which we are simulating</li>
+  <li><code class="language-plaintext highlighter-rouge">propA</code> = the initial proportion of A-type in the population</li>
+  <li><code class="language-plaintext highlighter-rouge">tmax</code> = the number over time steps of which we are simulating</li>
 </ul>
 
 <div class="language-R highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="w">    </span><span class="n">game.pop</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">function</span><span class="p">(</span><span class="n">a</span><span class="p">,</span><span class="n">b</span><span class="p">,</span><span class="n">c</span><span class="p">,</span><span class="n">d</span><span class="p">,</span><span class="n">propA</span><span class="p">,</span><span class="n">tmax</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w">
@@ -398,8 +398,8 @@ What does it mean to be better or worse than <em>average</em>? The <em>average</
         <li>Scenario 5: \(a &lt; c~{\rm and}~b &gt; d\)</li>
       </ol>
     </li>
-    <li>What is the effect of setting <code class="highlighter-rouge">propA</code> to a very low value? (e.g. <code class="highlighter-rouge">propA = 0.0001</code>) Consider what this might mean for invading populations.</li>
-    <li>Evaluate the following: <code class="highlighter-rouge">game.pop(a = 4, b = 8, c = 8,d = 3, propA = 0.00001, tmax = 20)</code> What scenario is this with respect to? What is surprising about these results? Without simulating the dynamics of A/B-type composition within the population explicitly (i.e. given the payoff matrix alone as in the example before this one), would you have been able to predict the observed dynamics?</li>
+    <li>What is the effect of setting <code class="language-plaintext highlighter-rouge">propA</code> to a very low value? (e.g. <code class="language-plaintext highlighter-rouge">propA = 0.0001</code>) Consider what this might mean for invading populations.</li>
+    <li>Evaluate the following: <code class="language-plaintext highlighter-rouge">game.pop(a = 4, b = 8, c = 8,d = 3, propA = 0.00001, tmax = 20)</code> What scenario is this with respect to? What is surprising about these results? Without simulating the dynamics of A/B-type composition within the population explicitly (i.e. given the payoff matrix alone as in the example before this one), would you have been able to predict the observed dynamics?</li>
     <li>Consider what the above results might mean in an environment this is subject to frequent disturbance.</li>
   </ol>
 </blockquote>

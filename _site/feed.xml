@@ -4,13 +4,37 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="//jdyeakel.github.io/feed.xml" />
 <link rel="alternate" type="text/html" href="//jdyeakel.github.io" />
-<updated>2023-06-18T10:17:51-07:00</updated>
+<updated>2023-06-25T15:08:21-07:00</updated>
 <id>//jdyeakel.github.io/</id>
 <author>
   <name>J. D. Yeakel</name>
   <uri>//jdyeakel.github.io/</uri>
   <email>jdyeakel@gmail.com</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Indricothere Art]]></title>
+  <link rel="alternate" type="text/html" href="//jdyeakel.github.io/posts/indricothere/" />
+  <id>//jdyeakel.github.io/posts/indricothere</id>
+  <published>2023-06-25T14:48:51-07:00</published>
+  <updated>2023-06-25T14:48:51-07:00</updated>
+  <author>
+    <name>J. D. Yeakel</name>
+    <uri>//jdyeakel.github.io</uri>
+    <email>jdyeakel@gmail.com</email>
+  </author>
+  <content type="html">&lt;figure&gt;
+&lt;img src=&quot;//jdyeakel.github.io/images/art_indricothere.jpeg&quot; width=&quot;700&quot; /&gt;
+&lt;figcaption&gt; An &lt;i&gt;Indricothere&lt;/i&gt; or &lt;i&gt;Paracerathere&lt;/i&gt; by J.D. Yeakel, June 2023.
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I thought it would be fun to flex a different muscle, and will be contributing some research-inspired artwork, for better or worse. This one is inspired by the largest terrestrial mammal known to live, at about 2 to 2.5 times the size of a contemporary elephant. In some recent papers, we use relatively minimal ecological models to predict the largest size these organisms can obtain based on energetic constraints on populations (see &lt;a href=&quot;https://www.nature.com/articles/s41467-018-02822-y&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;) and further show how predator and harvest mortality might tip the scales and destabilize populations for such megaherbivores (see &lt;a href=&quot;https://arxiv.org/abs/2211.16638&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;). We are working on some other related ideas that we hope to get out soon.&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;//jdyeakel.github.io/posts/indricothere/&quot;&gt;Indricothere Art&lt;/a&gt; was originally published by J. D. Yeakel at &lt;a href=&quot;//jdyeakel.github.io&quot;&gt;Yeakel Group&lt;/a&gt; on June 25, 2023.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
