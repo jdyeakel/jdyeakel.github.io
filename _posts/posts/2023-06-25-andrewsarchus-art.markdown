@@ -12,7 +12,7 @@ date: 2023-06-25T15:15:32-07:00
 
 
 <figure>
-<img src="{{ site.url }}/images/art_andrewsarchus.jpeg" width="700">
+<img src="{{ site.url }}/images/art_andrewsarchus.jpeg" width="1000">
 <figcaption> The Middle Eocene predator <i>Andrewsarchus</i> by J.D. Yeakel (June 2023).
 </figcaption>
 </figure>
