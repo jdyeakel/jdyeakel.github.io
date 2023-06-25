@@ -40,7 +40,8 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 
 
 ## Lecture Recordings
-* [Lecture 1: 6/20](https://ucmerced.box.com/s/kyxnsplc88aw1nen4y7zs8ljhz2j9jbl)  
+* [Lecture 1: 6/20](https://ucmerced.box.com/s/kyxnsplc88aw1nen4y7zs8ljhz2j9jbl){:target="_blank"}  
+* [Lecture 2: 6/22](https://ucmerced.box.com/s/zpcyahr7i4rw4qhakuwujaw86el0amwe){:target="_blank"}  
 
 
 <!-- 
