@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Andrewsarchus Art
+title: "Art :: Andrewsarchus"
 modified:
 categories: posts
 excerpt:

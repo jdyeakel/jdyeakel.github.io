@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Indricothere Art
+title: "Art :: Indricothere"
 modified:
 categories: posts
-excerpt: "An <i>Indricothere</i> or <i>Paracerathere</i> by J.D. Yeakel, June 2023."
+excerpt: "An <i>Indricothere</i> or <i>Paracerathere</i> by J.D. Yeakel (June 2023)."
 tags: []
 image:
   feature:
