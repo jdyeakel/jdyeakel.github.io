@@ -2,355 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">Yeakel Group</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
-<link rel="alternate" type="text/html" href="http://localhost:4000" />
-<updated>2023-06-25T15:28:57-07:00</updated>
-<id>http://localhost:4000/</id>
+<link rel="self" type="application/atom+xml" href="//jdyeakel.github.io/feed.xml" />
+<link rel="alternate" type="text/html" href="//jdyeakel.github.io" />
+<updated>2023-06-25T19:16:51-07:00</updated>
+<id>//jdyeakel.github.io/</id>
 <author>
   <name>J. D. Yeakel</name>
-  <uri>http://localhost:4000/</uri>
+  <uri>//jdyeakel.github.io/</uri>
   <email>jdyeakel@gmail.com</email>
 </author>
 
 
 <entry>
-  <title type="html"><![CDATA[Andrewsarchus Art]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/posts/andrewsarchus-art/" />
-  <id>http://localhost:4000/posts/andrewsarchus-art</id>
+  <title type="html"><![CDATA[Art :: Andrewsarchus]]></title>
+  <link rel="alternate" type="text/html" href="//jdyeakel.github.io/posts/andrewsarchus-art/" />
+  <id>//jdyeakel.github.io/posts/andrewsarchus-art</id>
   <published>2023-06-25T15:15:32-07:00</published>
   <updated>2023-06-25T15:15:32-07:00</updated>
   <author>
     <name>J. D. Yeakel</name>
-    <uri>http://localhost:4000</uri>
+    <uri>//jdyeakel.github.io</uri>
     <email>jdyeakel@gmail.com</email>
   </author>
   <content type="html">&lt;figure&gt;
-&lt;img src=&quot;http://localhost:4000/images/art_andrewsarchus.jpeg&quot; width=&quot;700&quot; /&gt;
-&lt;figcaption&gt; The Middle Eocene predator &lt;i&gt;Andrewsarchus&lt;/i&gt; by J.D. Yeakel, June 2023.
+&lt;img src=&quot;//jdyeakel.github.io/images/art_andrewsarchus.jpeg&quot; width=&quot;1000&quot; /&gt;
+&lt;figcaption&gt; The Middle Eocene predator &lt;i&gt;Andrewsarchus&lt;/i&gt; by J.D. Yeakel (June 2023).
 &lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;This one was a challenge, and there’s parts of it I like and parts that I don’t. With some creative liberties, this artiodactyl is thought to have been the largest terrestrial mammalian carnivore, topping the scales at roughly 1000 Kg! We explore how the energetic requirements of carnivores this large would crash herbivore populations if contemporary predator-prey mass relationships are followed (predato-prey mass relationships document the expected prey mass for a given predator mass, or sometimes the expected predator mass for a given prey mass). We explore these ideas in a paper that’s currently in revision in &lt;em&gt;American Naturalist&lt;/em&gt;. You can find the ArXived version &lt;a href=&quot;https://arxiv.org/abs/2211.16638&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This one was a challenge, and there are parts that I like and parts that I’m not so sure about. With some creative liberties, this artiodactyl is thought to have been the largest terrestrial mammalian predator, topping the scales at roughly 1000 Kg! We explore how the energetic requirements of terrestrial predators this large would crash herbivore populations, that is if contemporary predator-prey mass relationships are followed (predator-prey mass relationships document the expected prey mass for a given predator mass, or sometimes the expected predator mass for a given prey mass). We explore these ideas in a paper that’s currently in revision at &lt;em&gt;American Naturalist&lt;/em&gt;. You can find the ArXived version &lt;a href=&quot;https://arxiv.org/abs/2211.16638&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/posts/andrewsarchus-art/&quot;&gt;Andrewsarchus Art&lt;/a&gt; was originally published by J. D. Yeakel at &lt;a href=&quot;http://localhost:4000&quot;&gt;Yeakel Group&lt;/a&gt; on June 25, 2023.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;//jdyeakel.github.io/posts/andrewsarchus-art/&quot;&gt;Art :: Andrewsarchus&lt;/a&gt; was originally published by J. D. Yeakel at &lt;a href=&quot;//jdyeakel.github.io&quot;&gt;Yeakel Group&lt;/a&gt; on June 25, 2023.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
-  <title type="html"><![CDATA[Indricothere Art]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/posts/indricothere/" />
-  <id>http://localhost:4000/posts/indricothere</id>
+  <title type="html"><![CDATA[Art :: Indricothere]]></title>
+  <link rel="alternate" type="text/html" href="//jdyeakel.github.io/posts/indricothere/" />
+  <id>//jdyeakel.github.io/posts/indricothere</id>
   <published>2023-06-25T14:48:51-07:00</published>
   <updated>2023-06-25T14:48:51-07:00</updated>
   <author>
     <name>J. D. Yeakel</name>
-    <uri>http://localhost:4000</uri>
+    <uri>//jdyeakel.github.io</uri>
     <email>jdyeakel@gmail.com</email>
   </author>
   <content type="html">&lt;figure&gt;
-&lt;img src=&quot;http://localhost:4000/images/art_indricothere.jpeg&quot; width=&quot;700&quot; /&gt;
-&lt;figcaption&gt; An &lt;i&gt;Indricothere&lt;/i&gt; or &lt;i&gt;Paracerathere&lt;/i&gt; by J.D. Yeakel, June 2023.
+&lt;img src=&quot;//jdyeakel.github.io/images/art_indricothere.jpeg&quot; width=&quot;700&quot; /&gt;
+&lt;figcaption&gt; An &lt;i&gt;Indricothere&lt;/i&gt; or &lt;i&gt;Paracerathere&lt;/i&gt; by J.D. Yeakel (June 2023).
 &lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;I thought it would be fun to flex a different muscle, and will be contributing some research-inspired artwork, for better or worse. This one is inspired by the largest terrestrial mammal known to live, at about 2 to 2.5 times the size of a contemporary elephant. In some recent papers, we use relatively minimal ecological models to predict the largest size these organisms can obtain based on energetic constraints on populations (see &lt;a href=&quot;https://www.nature.com/articles/s41467-018-02822-y&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;) and further show how predator and harvest mortality might tip the scales and destabilize populations for such megaherbivores (see &lt;a href=&quot;https://arxiv.org/abs/2211.16638&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;). We are working on some other related ideas that we hope to get out soon.&lt;/p&gt;
+&lt;p&gt;I thought it would be fun to flex a different muscle, and will be contributing some research-inspired artwork, for better or for worse. This one is inspired by the largest terrestrial mammal known to live, at about 2 to 2.5 times the size of contemporary elephants. In some recent papers, we use relatively minimal ecological models to predict the largest size these organisms can obtain based on energetic constraints on populations (see &lt;a href=&quot;https://www.nature.com/articles/s41467-018-02822-y&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;) and further show how predator and harvest mortality might tip the scales and destabilize populations for such megaherbivores (see &lt;a href=&quot;https://arxiv.org/abs/2211.16638&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;). We are working on some other related ideas that we hope to get out soon.&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/posts/indricothere/&quot;&gt;Indricothere Art&lt;/a&gt; was originally published by J. D. Yeakel at &lt;a href=&quot;http://localhost:4000&quot;&gt;Yeakel Group&lt;/a&gt; on June 25, 2023.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Rebuttal in PNAS]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/posts/rebuttal-in-pnas/" />
-  <id>http://localhost:4000/posts/rebuttal-in-pnas</id>
-  <published>2015-02-09T09:40:26-08:00</published>
-  <updated>2015-02-09T09:40:26-08:00</updated>
-  <author>
-    <name>J. D. Yeakel</name>
-    <uri>http://localhost:4000</uri>
-    <email>jdyeakel@gmail.com</email>
-  </author>
-  <content type="html">&lt;p&gt;Recently, our paper on reconstructing and analyzing the structure and function of ecological networks in Ancient Egypt (published in PNAS this past September), recieved two letters to the editor.
-One letter was written by Dr. Linda Evans, an Egyptologist studying the roles of animals in ancient Egypt, and one was by a research team at the University of Haifa, Israel.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;The second letter, by Bar-Oz et al., was not a criticism, mentioning that they have found similar patterns of extinction in paleontological sites in the Levant.
-One of the primary differences in the Levant is that the large aridification shifts documented in Egypt were not nearly as pronounced, suggesting that alternative mechanisms may have been responsible for animal extinctions.
-They note that the most likely mechanisms are human-driven.
-In our analysis of the Egyptian fauna, we can’t distinguish between different potential drivers of change, though the largest changes to the mammalian community co-occur with large aridification events.
-Certainly, impacts to the mammalian community during these events may also have been driven by humans, perhaps exaggerated by changes in climate.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;The letter by Dr. Evans was more critical, and brought up some important points.
-The primary concern that Dr. Evans raised was that changes to the mammalian community - as depicted in artwork - could have been the result of cultural forces, and may not accurately represent which species were around, and when.
-This is certainly a valid criticism.
-One of my favorite examples of this is the California state flag, which depicts a grizzly bear, even though there are no longer grizzly bears in California (sadly).
-Because we were using artwork to reconstruct animal occurrance, this was a potential issue that we had expected going into the project.
-To deal with potential cultural bias – or even errors due to preservational bias – we injected a large amount of uncertainty with regard to the timing of species extinctions into our analysis.
-Importantly, this added uncertainty did not have a significant influence on our results.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Read the letter by Evans &lt;a href=&quot;http://www.pnas.org/content/112/3/E239.extract.html?etoc&quot;&gt;here&lt;/a&gt;, the letter by Bar-Oz &lt;a href=&quot;http://www.pnas.org/content/112/3/E238.extract.html?etoc&quot;&gt;here&lt;/a&gt;, and our response to both &lt;a href=&quot;http://www.pnas.org/content/112/3/E240.extract.html?etoc&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/posts/rebuttal-in-pnas/&quot;&gt;Rebuttal in PNAS&lt;/a&gt; was originally published by J. D. Yeakel at &lt;a href=&quot;http://localhost:4000&quot;&gt;Yeakel Group&lt;/a&gt; on February 09, 2015.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[GSA Travel Fail]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/posts/gsa-travel-fail/" />
-  <id>http://localhost:4000/posts/gsa-travel-fail</id>
-  <published>2014-11-04T17:26:47-08:00</published>
-  <updated>2014-11-04T17:26:47-08:00</updated>
-  <author>
-    <name>J. D. Yeakel</name>
-    <uri>http://localhost:4000</uri>
-    <email>jdyeakel@gmail.com</email>
-  </author>
-  <content type="html">&lt;p&gt;I’ve always wanted to go to the Geological Society of America conference – I have a lot of friends who are geologists/geophysicists and go every year, and always enjoy it. I finally got a chance to go when I was invited to give a talk on techniques in reconstructing paleo ecosystems at the meeting in Vancouver, so I jumped at the chance. It looked like a great symposium and a fun opportunity to meet some people whose work that I admired.   &lt;br /&gt;
-&lt;br /&gt;
-The only issue was that my wife was (and still is) near the end of our first pregnancy, and I’ve already been gone a lot this Fall. No worries - we’d work around that, and this will be instead a short trip! In theory, this was the plan: fly out from ABQ at 6:30pm on Sunday, give my talk at 9:30am on Monday, have the rest of the day at GSA, and fly back on Tuesday morning. Things didn’t quite work out that way… &lt;br /&gt;
-&lt;br /&gt;
-To make a long story short, my plane was delayed on approach to Phoenix due to lightening storms, and I missed my flight to Vancouver by 15 minutes. The next flight was the next day, and I wouldn’t arrive until 3:00pm – well after my talk, the symposium, and basically the conference for that day, so it was looking like a wash. I couldn’t fly back to ABQ, because that was defined as a different trip by the airline, and would have to be bought separately. I couldn’t stay in Phoenix and wait for my flight back because you can’t catch flights between legs. So the shortest path to ABQ was through Vancouver!&lt;br /&gt;
-&lt;br /&gt;
-So I flew out to Vancouver, managed to get downtown by 3:00pm to meet with Jon Moore, who I had planned to work on some research projects with while I was there, and then met my old friends from the Koch Lab Kena Fox-Dobbs and Katie Snell for beers afterward. Had a good time, reminisced, met another friend downtown, headed back to the hotel, and flew home the next morning. So ended my most expensive night out ever, and I still haven’t been to GSA! &lt;br /&gt;
-&lt;br /&gt;
-In case you’re interested, my talk was on our recent Egyptian ecology research, which you can read about &lt;a href=&quot;/posts/collapse-of-an-ancient-egyptian-food-web-in-pnas&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/posts/gsa-travel-fail/&quot;&gt;GSA Travel Fail&lt;/a&gt; was originally published by J. D. Yeakel at &lt;a href=&quot;http://localhost:4000&quot;&gt;Yeakel Group&lt;/a&gt; on November 04, 2014.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[New Website]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/posts/first-post/" />
-  <id>http://localhost:4000/posts/first-post</id>
-  <published>2014-10-10T09:56:01-07:00</published>
-  <updated>2014-10-10T09:56:01-07:00</updated>
-  <author>
-    <name>J. D. Yeakel</name>
-    <uri>http://localhost:4000</uri>
-    <email>jdyeakel@gmail.com</email>
-  </author>
-  <content type="html">&lt;p&gt;This is my first post to my GitHub website powered by Jekyll. I have a lot to learn.&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/posts/first-post/&quot;&gt;New Website&lt;/a&gt; was originally published by J. D. Yeakel at &lt;a href=&quot;http://localhost:4000&quot;&gt;Yeakel Group&lt;/a&gt; on October 10, 2014.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Collapse of an Ancient Egyptian Food Web in PNAS]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/posts/collapse-of-an-ancient-egyptian-food-web-in-pnas/" />
-  <id>http://localhost:4000/posts/collapse-of-an-ancient-egyptian-food-web-in-pnas</id>
-  <published>2014-09-07T23:00:00-07:00</published>
-  <updated>2014-09-07T23:00:00-07:00</updated>
-  <author>
-    <name>J. D. Yeakel</name>
-    <uri>http://localhost:4000</uri>
-    <email>jdyeakel@gmail.com</email>
-  </author>
-  <content type="html">&lt;p&gt;We recently published a &lt;a href=&quot;http://www.pnas.org/content/111/40/14472.abstract&quot;&gt;paper in the Proceedings of the National Academy of Sciences&lt;/a&gt; detailing the collapse of the Egyptian mammalian community across the second half of the Holocene (see this link for the UCSC press release). The project was a collaboration between myself, Mathias Pires, and Lars Rudolf along with coauthors Paulo Guimarães Jr., Nathaniel Dominy, Paul Koch, and Thilo Gross. We used paleontological, archeological, and historical information – including records of artistic works – of species occurrences in Ancient Egypt to reconstruct the pattern of extinctions over ca. 6000 years. Remarkably, some of the largest changes in the community coincided with previously recorded aridification pulses in Egypt that have been associated with cultural collapse and socio-political turnover. We then used mathematical modeling to determine the consequences of the extinctions in Egypt, and found that the loss of species richness had large impacts on the stability of the community as well as the roles of individual species within the ecosystem.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;http://infograficos.estadao.com.br/public/cidades/extincoes-egito/&quot;&gt;See a Brazilian infographic of the extinction events!&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;In 2009, Nate Dominy (then a professor of Anthropology at UC-Santa Cruz and now at Dartmouth) and I visited the traveling Tutankhamen exhibit in San Francisco, where a startling array of artifacts, sculptures, and carvings were on display. One of the more striking realizations was the amount of detail and the abundance of animal representations in the exhibit. In fact, Egyptian artisans were keen observers of the natural world and recorded these observations in their work. For example, the tombs of pharaohs were illustrated with depictions of hunting scenes, providing a glimpse of the natural world during that time period. The cumulative body of paleontological, archeological, and historical evidence reveals a world very different than what is seen in Egypt today – lions, wild dogs, striped hyenas, elephants, giraffes, wildebeest, hartebeest, and many species of gazelle were common Egyptian fauna. This startlingly rich animal community is familiar to us in our modern world, but we would expect to find it in East Africa. In fact, at the end of the Pleistocene (11.7 thousand years ago), there were 37 large-bodied mammalian species in Egypt, whereas there are only 8 remaining today. What happened?&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Egypt in the News!&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://news.sciencemag.org/biology/2014/09/clues-animal-extinctions-found-walls-egyptian-tombs&quot;&gt;Science&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.nature.com/news/ancient-art-fills-in-egypt-s-ecological-history-1.13528&quot;&gt;Nature&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.smithsonianmag.com/ist/?next=/science/egypts-mammal-extinctions-tracked-through-6000-years-art-180952641/&quot;&gt;Smithsonian&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://news.ucsc.edu/2014/09/egyptian-mammals.html&quot;&gt;UCSC press release&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.nbcnews.com/science/environment/ancient-egyptian-art-opens-window-mammal-extinctions-n198511&quot;&gt;NBC News&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.ft.com/cms/s/0/5aa098ac-4904-11e4-9f63-00144feab7de.html&quot;&gt;Financial Times&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://news.discovery.com/animals/egypts-ancient-animals-killed-by-climate-and-civilization-140915.htm&quot;&gt;Discovery&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://now.dartmouth.edu/2014/09/art-sheds-new-light-on-the-ecology-of-ancient-egypt/&quot;&gt;Dartmouth Now&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://news.mongabay.com/2014/1201-smuga-otto-ucsc-egypt.html#sthash.uLn7GSux.dpbs&quot;&gt;Mongabay.com&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;The record of artistic works reflects the decline of the Egyptian mammalian community. For example, the Dama deer was an early inhabitant of northern Egypt, and was prominently depicted until the 18th Dynasty (ca. 3270 yrs BP), but is not found afterwards. The beisa oryx were depicted in numerous rock carvings and are present in hunting scenes until the 12th Dynasty (ca. 3520 yrs BP), but afterwards are only found with reference to being imported from Nubia (southern Egypt/northern Sudan). Lions are very interesting… there were two lion morphotypes recorded in Egypt – one larger-bodied long-maned lion, and one smaller-bodied short-maned lion (these are distinctly represented with respect to male/female forms). It is thought that the larger-maned lion may have been a distinct subspecies – possibly the Barbary lion, which persisted in the Atlas Mountains until the late 19th/early 20th century. In Egypt, this subspecies disappeared early on (ca. 4645 yrs BP). The short-maned lions persisted later, last being represented in ecological settings ca. 3035 yrs BP. This disappearance anticipates accounts of lion rarity in the written record – for example, Herodotus described lions as common, whereas Aristotle (about a century later) recorded them as being rare.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;The extinction of species in Egypt appears to be non-random. There were three large aridification pulses recorded in the region surrounding Egypt: one at ca. 5000 yrs BP (year before 1950), one at 4100 yrs BP, and one at ca. 3000 yrs BP. In each of these time-intervals, there was a significant shift in the ratio of predators to prey in Egypt, where the community primarily looses herbivores until 3035 yrs BP (such that the predator-prey ratio increases), and then carnivores (such that the predator-prey ratio decreases). This pattern is distinct when compared against random extinction simulations, and robust with respect to error in the timing of extinctions. The observed pattern may be explained by direct hunting from human populations, changes in primary productivity, or a competition for resources/space. Our approach can’t quite tease apart these competing drivers, but we can asses the consequences of the observed changes on the functioning of the community.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;To determine the consequences of the extinctions, we used rules based on body size to assemble predator-prey trophic networks, and Generalized Modeling to determine the local stability of these systems over time. Generalized Modeling permits the analysis of systems where the functional relationships between and among species are not well understood (see here for a series of examples using the method, here for the method applied to large food webs, and here for an ecological introduction on the topic). We found that as the extinctions in Egypt accrue, the stability of the system declines. We determined that this decline in stability is largely due to a loss of ecological redundancy. For example, small- to medium-sized herbivores are important to the stability of the predator-prey network because they provide the core resources for the predator guild. When there are many of these species in the system, the loss of any one has negligible impact on system stability. As these animals disappear and the system shrinks in size, the loss of any one component generally has a larger impact on the system as a whole.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;The importance of studying ancient ecosystems is vital for modern conservation efforts. This seems to be a strange declaration at face value – ancient ecosystems have long passed and don’t often seem immediately relevant. However, the world that we live in has been significantly altered in the past 5000 years by both climatic and human-induced impacts. The latter has played a particularly important role in the past few hundred years. Gaining insight in how such impacts have altered the functioning of ecological communities is important because is provides a baseline by which modern and future impacts can be measured. Furthermore, for animals that are long-lived, such as mammals, looking into the past is one of the only ways that we can observe long-term trends, as well as the potential impacts of large perturbations that can’t be recreated in laboratory settings. We hope that our analysis of the community in Ancient Egypt stimulates some thoughtful discussions on the role paleoecological inference with respect to modern conservation efforts.&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/posts/collapse-of-an-ancient-egyptian-food-web-in-pnas/&quot;&gt;Collapse of an Ancient Egyptian Food Web in PNAS&lt;/a&gt; was originally published by J. D. Yeakel at &lt;a href=&quot;http://localhost:4000&quot;&gt;Yeakel Group&lt;/a&gt; on September 07, 2014.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[A Perturbation Approach to Explore Stock Recruitment Relationships]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/posts/a-perturbation-approach-to-explore-stock-recruitment-relationships/" />
-  <id>http://localhost:4000/posts/a-perturbation-approach-to-explore-stock-recruitment-relationships</id>
-  <published>2014-08-24T23:00:00-07:00</published>
-  <updated>2014-08-24T23:00:00-07:00</updated>
-  <author>
-    <name>J. D. Yeakel</name>
-    <uri>http://localhost:4000</uri>
-    <email>jdyeakel@gmail.com</email>
-  </author>
-  <content type="html">&lt;p&gt;We recently published a paper in &lt;a href=&quot;http://link.springer.com/article/10.1007/s12080-014-0230-z&quot;&gt;Theoretical Ecology&lt;/a&gt; where we use Generalized Modeling to explore stock recruitment relationships in fisheries. Models of stock recruitment are fundamental to fish population dynamics, describing how reproduction (in terms of the biomass of new recruits) changes as a function of the density of the current stock. In many resource-limited populations, recruitment increases for lower levels of stock biomass until it levels off at higher levels of stock biomass (described by the Beverton-Holt functional response). In others, particularly when there is cannibalism or nest predation, recruitment increases, reaches a peak, and then decreases for higher levels of stock biomass (described by the Ricker functional response). In open populations, where resources are not necessarily limiting, recruitment may continue to increase with stock biomass (the Cushing functional response).&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Being able to distinguish between stock recruitment relationships (SRRs) is vital for predicting the long-term dynamics of a fish population. Traditionally, SRRs are distinguished using statistical methods of best fit. In this manuscript, we present an alternative method of distinguishing between SRRs based on the response of a population to an external disturbance. The timing and degree of a population’s reaction can be used to distinguish between SRRs and is strongly resilient to observational error. The method relies on ‘generalizing’ the functional response, where we do not assume to know the specific architecture of the SRR. This approach relies on ‘Generalized Modeling’, which we review here, and is based on techniques developed by Thilo Gross et al., illustrated with respect to some really neat examples here. We extend some of these ideas by introducing generalized modeling techniques with respect to discrete-time rather than continuous time systems.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;We hope that this method illustrates a different way of looking at an old problem, and think that it has particular relevance to relatively new fisheries where long-term time-series data do not exist. It offers a way to explore different aspects of fish reproduction, while remaining in a modeling framework rooted in biological mechanisms. I think the most interesting parts of these ideas are illustrated with respect to age-structured models, where the dynamics become complex.&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/posts/a-perturbation-approach-to-explore-stock-recruitment-relationships/&quot;&gt;A Perturbation Approach to Explore Stock Recruitment Relationships&lt;/a&gt; was originally published by J. D. Yeakel at &lt;a href=&quot;http://localhost:4000&quot;&gt;Yeakel Group&lt;/a&gt; on August 24, 2014.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Exploring the Life History Diversity of Steelhead Salmon]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/posts/exploring-the-life-history-diversity-of-steelhead-salmon/" />
-  <id>http://localhost:4000/posts/exploring-the-life-history-diversity-of-steelhead-salmon</id>
-  <published>2014-02-27T23:00:00-08:00</published>
-  <updated>2014-02-27T23:00:00-08:00</updated>
-  <author>
-    <name>J. D. Yeakel</name>
-    <uri>http://localhost:4000</uri>
-    <email>jdyeakel@gmail.com</email>
-  </author>
-  <content type="html">&lt;p&gt;Populations of animals can be quite complex… they can be composed of many different age classes with individuals seeking out different strategies with the common goal of maximizing reproductive fitness over a variable environment. An excellent example of an organism with such complex age-structured populations are Steelhead salmon.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;In this paper that I co-authored with my post-doc advisor Jon Moore as well as Doug Peard, Jeff Lough and Mark Beere, we took advantage of an incredible dataset of life history information compiled from growth information in fish scales for two Steelhead populations in British Columbia watersheds. These scales tell us whether an individual fish was living in fresh vs. ocean water while the scale was growing, and permit reconstruction of individual life-histories. In other words, the scale data gives us an idea of the sequence of freshwater to ocean vs. ocean to freshwater transitions, and how many times individual Steelhead returned to their natal freshwater rivers to spawn.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;We found that the complex and variable life histories exhibited by Steelhead salmon can protect their populations from environmental variability. In fact, populations that have a large percentage of individuals coming back to their natal streams to spawn multiple times lowers the Coefficient of Variation of their population sizes over time (the Standard Deviation of the population trajectory divided by the mean), thus stabilizing population fluctuations. This has important conservation implications because fish hatcheries, the building of dams, and other human-induced disturbances within river systems tend to ‘homogenize’  the life histories of fish populations, thus eroding the stabilizing influence of life-history diversity.&lt;/p&gt;
-
-&lt;p&gt;So the moral of the story is: it’s good to be different.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Check out the full paper here:&lt;/p&gt;
-
-&lt;p&gt;Moore JW, Yeakel JD, Peard D, Lough J, Beere M. Life-history diversity and its importance to population stability and persistence of a migratory fish: steelhead in two large North American watersheds. Journal of Animal Ecology. DOI: 10.1111/1365-2656.12212 [link]&lt;/p&gt;
-
-
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/posts/exploring-the-life-history-diversity-of-steelhead-salmon/&quot;&gt;Exploring the Life History Diversity of Steelhead Salmon&lt;/a&gt; was originally published by J. D. Yeakel at &lt;a href=&quot;http://localhost:4000&quot;&gt;Yeakel Group&lt;/a&gt; on February 27, 2014.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Synchronisation and Stability in River Metapopulation Networks in Ecology Letters]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/posts/synchronisation-and-stability-in-river-metapopulation-networks-in-ecology-letters/" />
-  <id>http://localhost:4000/posts/synchronisation-and-stability-in-river-metapopulation-networks-in-ecology-letters</id>
-  <published>2013-12-08T23:00:00-08:00</published>
-  <updated>2013-12-08T23:00:00-08:00</updated>
-  <author>
-    <name>J. D. Yeakel</name>
-    <uri>http://localhost:4000</uri>
-    <email>jdyeakel@gmail.com</email>
-  </author>
-  <content type="html">&lt;p&gt;The immigration and emigration of individuals to and from populations within a metapopulation allows abundant populations to rescue those nearing extinction. This is an important trait of metapopulation dynamics, however this ‘rescue effect’ is destroyed if the populations are synchronized: if all populations are at low abundance at the same time, they cannot rescue each other. Moreover, the structure of interactions within a metapopulation (which controls how individuals can flow from one population to another) has a large impact on the dynamics of the whole system. The structure of a metapopulation may be influenced by any feature on the landscape that influences how an animal moves, including geological features such as mountains, the occurrence of water sources, or the distribution of forests, grasslands, or deserts. In aquatic populations that inhabit rivers, the geological constraints of watersheds dictate which populations interact.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;In a paper that we just published in Ecology Letters [1], we explore how the specialized structure of river networks impacts both the sizes of fluctuations within populations, as well as the extent to which river populations can become synchronized as the result of river network structure. We show that river networks confer dual stability by both decreasing the fluctuations of riverine metapopulations, and providing a natural buffering against synchronization. We also show that altering river structure – for example by linking otherwise separated river branches with canals – has a large effect on dynamics, increasing the potential that populations can become synchronized. We finish by discussing the idea that the size of the organism (and by extension its mobility) changes the structure of the metapopulation that is distributed within a given watershed. This has a large impact on synchronization, and poses some exciting unanswered questions in metapopulation theory. Check out the paper on the website here.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Appendices: The Appendices were not posted on the official website. Until that is resolved, please find them here.&lt;/p&gt;
-
-&lt;p&gt;[1] Yeakel, J. D., Moore, J. W., Guimarães, P. R., Jr, &amp;amp; de Aguiar, M. A. M. (2013). Synchronisation and stability in river metapopulation networks. Ecology Letters. doi:10.1111/ele.12228 Link&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/posts/synchronisation-and-stability-in-river-metapopulation-networks-in-ecology-letters/&quot;&gt;Synchronisation and Stability in River Metapopulation Networks in Ecology Letters&lt;/a&gt; was originally published by J. D. Yeakel at &lt;a href=&quot;http://localhost:4000&quot;&gt;Yeakel Group&lt;/a&gt; on December 08, 2013.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Exploring the Constraints of Hominin Foraging Behaviors]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/posts/exploring-the-constraints-of-hominin-foraging-behaviors/" />
-  <id>http://localhost:4000/posts/exploring-the-constraints-of-hominin-foraging-behaviors</id>
-  <published>2013-09-09T23:00:00-07:00</published>
-  <updated>2013-09-09T23:00:00-07:00</updated>
-  <author>
-    <name>J. D. Yeakel</name>
-    <uri>http://localhost:4000</uri>
-    <email>jdyeakel@gmail.com</email>
-  </author>
-  <content type="html">&lt;p&gt;Many hominin species are distinguished by their large teeth. Notably, the genus Paranthropus had enormous bunodont molars covered in thick enamel. The evolution of the suite of traits collectively referred to as ‘megadontia’ was doubtless in response to the foods that these animals were consuming. We have just published a paper in the journal Evolution [1, link] where we explore how such traits may have influenced the foraging behaviors of human ancestors using a process-based state-dependent foraging model. The primary assumption in our model is that foraging decisions depend on both the energetic state of the organism (is the organism hungry or not), as well as its enamel volume (what is the state of the organism’s teeth). The attached figure shows a cartoon depiction of the enamel layer on a hominin molar tooth, as well as the simple method we use to approximate enamel volume (which, in terms of total volume across all molar teeth is quite an accurate approximation!).  As we consume foods over our lives, our enamel slowly erodes away. Generally this enamel loss is unnoticeable, and sometimes it is disastrous (for example, if you chip or lose a tooth). If you are a hunter or gatherer living in the wild, such enamel loss will have an impact on what foods you can eat – particularly if the foods that are being sought after have different mechanical properties with different demands on enamel.&lt;/p&gt;
-
-&lt;p&gt;Interestingly, there has long been a ‘disquieting discrepancy’ between the morphology of hominin species and their molar microwear [2]. The patterns of scratches and pits on the surfaces of molar teeth can be used to reconstruct the types of foods the animal consumed prior to its death. Many hominins have a microwear fabric that suggest softer, pliable foods. However, their robust morphology suggests a diet based on harder foods, particularly for hominins with megadont traits. Moreover, analysis of stable isotope ratios among hominin species indicates a diet that is based on the consumption of C-4 photosynthetic foods [3]. These foods include tropical grasses and sedges, and tend to be more fracture-resistent, or ‘hard’.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;We use our modeling framework to investigate these seemingly disparate conclusions. We find that the predicted fitness-maximizing foraging behaviors bring consilience to morphological, isotopic, and microwear-based lines of evidence. We also show that our model correctly predicts the observed range of isotopic values for hominin species such as Paranthropus robustus. Of course, it is just a model, and to quote a reviewer ‘hominins cannot eat theory’. We heartily agree, but suggest that such process-based models are well-suited for exploring the important physical and behavioral constraints that are expected to impact the actual foraging behaviors of organisms in the wild. We also explore how body size is expected to interact with energetic reserves and tooth wear, how this has an impact on when foods become preferred vs. fallback resources (eaten only in times of stress), and to what extent very tough but common foods such as tropical grasses are likely to be major components of diet. Despite much emphasis on grass leaves as likely hominin foods in recent literature [4,5], our model predictions suggest that grass leaves are unlikely to maximize fitness except in extreme circumstances.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Literature cited&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Yeakel, J. D., Dominy, N. J., Koch, P. L., &amp;amp; Mangel, M. (2013). Functional morphology, stable isotopes, and human evolution: a model of consilience. Evolution. doi:10.1111/evo.12240      [link]&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Ungar, P. S., Grine, F. E., &amp;amp; Teaford, M. F. (2008). Dental microwear and diet of the Plio-Pleistocene hominin Paranthropus boisei. PLoS ONE, 3(4), e2044.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Ungar, P. S., &amp;amp; Sponheimer, M. (2011). The diets of early hominins. Science, 334(6053), 190–193. doi:10.1126/science.1207701&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Lee-Thorp, J. (2011). The demise of “Nutcracker Man”. Proceedings of the National Academy of Sciences of the USA, 108(23), 9319–9320. doi:10.1073/pnas.1105808108&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Rabenold, D., &amp;amp; Pearson, O. M. (2011). Abrasive, silica phytoliths and the evolution of thick molar enamel in primates, with implications for the diet of Paranthropus boisei. PLoS ONE, 6(12), e28379. doi:10.1371/journal.pone.0028379.t002&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/posts/exploring-the-constraints-of-hominin-foraging-behaviors/&quot;&gt;Exploring the Constraints of Hominin Foraging Behaviors&lt;/a&gt; was originally published by J. D. Yeakel at &lt;a href=&quot;http://localhost:4000&quot;&gt;Yeakel Group&lt;/a&gt; on September 09, 2013.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Dietary Flexibility, Food Webs, and the Last Glacial Maximum]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/posts/dietary-flexibility-food-webs-and-the-last-glacial-maximum/" />
-  <id>http://localhost:4000/posts/dietary-flexibility-food-webs-and-the-last-glacial-maximum</id>
-  <published>2013-05-13T23:00:00-07:00</published>
-  <updated>2013-05-13T23:00:00-07:00</updated>
-  <author>
-    <name>J. D. Yeakel</name>
-    <uri>http://localhost:4000</uri>
-    <email>jdyeakel@gmail.com</email>
-  </author>
-  <content type="html">&lt;p&gt;We just had a paper published in the &lt;a href=&quot;http://rspb.royalsocietypublishing.org/content/280/1762/20130239.short?rss=1&quot;&gt;Proceedings of the Royal Society B: Biological Sciences&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The paper is on the structure of food webs before, during, and after the Last Glacial Maximum – a global scale climatic event that impacted mammalian communities across the world. We look at spatial and temporal variation in diet on both species-specific and community-level scales. We show that dietary flexibility distinguished bears and wolves, while large cats had relatively inflexible diets over space. We also show that trophic interactions among species in the mammoth steppe (ranging from Europe to the Yukon) were structured differently in western Europe than Alaska, however these structures were relatively unchanged across the Last Glacial Maximum.  Check out the &lt;a href=&quot;http://news.ucsc.edu/2013/05/mammoth-steppe.html&quot;&gt;press release&lt;/a&gt;.&lt;/p&gt;
-
-&lt;figure&gt;
-	&lt;a href=&quot;/images/mammoth.jpg&quot;&gt;&lt;img src=&quot;/images/mammoth.jpg&quot; /&gt;&lt;/a&gt;
-	&lt;figcaption&gt;&lt;a href=&quot;/images/mammoth.jpg&quot; title=&quot;Mammoth tusks are still found in the arctic landscape, remnants of the mammoth steppe ecosystem that supported a diverse assemblage of large-bodied mammals.&quot;&gt;Mammoth tusks are still found in the arctic landscape, remnants of the mammoth steppe ecosystem that supported a diverse assemblage of large-bodied mammals.&lt;/a&gt;.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/posts/dietary-flexibility-food-webs-and-the-last-glacial-maximum/&quot;&gt;Dietary Flexibility, Food Webs, and the Last Glacial Maximum&lt;/a&gt; was originally published by J. D. Yeakel at &lt;a href=&quot;http://localhost:4000&quot;&gt;Yeakel Group&lt;/a&gt; on May 13, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;//jdyeakel.github.io/posts/indricothere/&quot;&gt;Art :: Indricothere&lt;/a&gt; was originally published by J. D. Yeakel at &lt;a href=&quot;//jdyeakel.github.io&quot;&gt;Yeakel Group&lt;/a&gt; on June 25, 2023.&lt;/p&gt;</content>
 </entry>
 
 </feed>
