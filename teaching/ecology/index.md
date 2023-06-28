@@ -37,11 +37,14 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 
 ## Discussion Sections and Demonstrations
 * [Section 1: Using R]({{ site.url }}/teaching/ecology/summersections/section_1_introtoR/){:target="_blank"}  
+* [Section 2: Temperature]({{ site.url }}/teaching/ecology/summersections/section_2_temperature/){:target="_blank"}  
 
 
 ## Lecture Recordings
 * [Lecture 1: 6/20](https://ucmerced.box.com/s/kyxnsplc88aw1nen4y7zs8ljhz2j9jbl){:target="_blank"}  
 * [Lecture 2: 6/22](https://ucmerced.box.com/s/zpcyahr7i4rw4qhakuwujaw86el0amwe){:target="_blank"}  
+* [Lecture 3 part 1: 6/27](https://ucmerced.box.com/s/678cz3gh5bd5fif03t0aqxi94yzficsf){:target="_blank"}  
+* [Lecture 3 part 2: 6/27](https://ucmerced.box.com/s/jktcv7lxi34i2slm80sqnf3kjc9moqz6){:target="_blank"}  
 
 
 <!-- 
