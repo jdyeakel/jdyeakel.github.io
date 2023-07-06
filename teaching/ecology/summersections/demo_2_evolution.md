@@ -1,6 +1,6 @@
 ---
 layout: pagetrimnobio
-title: "Section 3 :: Evolution by natural selection"
+title: "Demo 2 :: Evolution by natural selection"
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
