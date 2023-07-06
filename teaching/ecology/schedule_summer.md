@@ -62,7 +62,6 @@ tr:nth-child(odd) {background: #FFF}
 | **7/06** | **(R-L6)** | ***Exam I***  |  |  |    |
 |  |  | Evolution | Evolution | Bowman Ch. 6 |  [Demo]({{ site.url }}/teaching/ecology/summersections/demo_2_evolution){:target="_blank"}  |
 |         | **(D3)** | Disc 3 |   No Discussion  |  |  No Hmwk  |
-<!-- | **7/11** | **(T-L7)** | Games | Evolutionary Game Theory w/ [Demo]()     | [Easley & Kleinberg]() |    | -->
 | **7/11** | **(T-L7)** | Behavior | Behavioral ecology     | Bowman Ch. 8, [Sinervo]() |    |
 |  |  | Populations 1 | Density dependence and population dynamics | Bowman Ch. 10 |    |
 | **7/13** | **(R-L8)** | Populations 2 | Logistic Growth   |    |    |
@@ -88,6 +87,7 @@ tr:nth-child(odd) {background: #FFF}
 | **8/10** | **(R-L15)** | ***FINAL EXAM*** |   |  |  |
 
 
+<!-- | **7/11** | **(T-L7)** | Games | Evolutionary Game Theory w/ [Demo]()     | [Easley & Kleinberg]() |    | -->
 
 <!-- | **12/8** | **(T-L26)** | Communities | Community assembly, succession | Bowman Ch. 17 |    |
 | **12/10** | **(R-L27)** | Biogeography | Patterns of species diversity | Bowman Ch. 18 |    |
