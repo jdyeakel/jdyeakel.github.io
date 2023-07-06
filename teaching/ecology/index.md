@@ -38,6 +38,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 ## Discussion Sections and Demonstrations
 * [Section 1: Using R]({{ site.url }}/teaching/ecology/summersections/section_1_introtoR/){:target="_blank"}  
 * [Section 2: Temperature]({{ site.url }}/teaching/ecology/summersections/section_2_temperature/){:target="_blank"}  
+* [Demo 1: Metabolism]({{ site.url }}/teaching/ecology/summersections/demo_1_metabolism/){:target="_blank"}   
 
 
 ## Lecture Recordings
