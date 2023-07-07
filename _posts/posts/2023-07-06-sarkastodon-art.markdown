@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sarkastodon Art
+title: "Art :: Sarkastodon"
 modified:
 categories: posts
 excerpt:
