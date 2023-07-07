@@ -12,7 +12,7 @@ date: 2023-07-06T17:44:47-07:00
 
 
 <figure>
-<img src="{{ site.url }}/images/art_sarkastodon.jpeg" width="700">
+<img src="{{ site.url }}/images/art_sarkastodon.jpeg" width="1000">
 <figcaption> The 500-800 Kg oxyaenodont <i>Sarkastodon</i> by J.D. Yeakel (July 2023).
 </figcaption>
 </figure>
