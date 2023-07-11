@@ -62,7 +62,7 @@ tr:nth-child(odd) {background: #FFF}
 | **7/06** | **(R-L6)** | ***Exam I***  |  |  |    |
 |  |  | Evolution | Evolution | Bowman Ch. 6 |  [Demo]({{ site.url }}/teaching/ecology/summersections/demo_2_evolution){:target="_blank"}  |
 |         | **(D3)** | Disc 3 |   No Discussion  |  |  No Hmwk  |
-| **7/11** | **(T-L7)** | Behavior | Behavioral ecology     | Bowman Ch. 8, [Sinervo]() |    |
+| **7/11** | **(T-L7)** | Behavior | Behavioral ecology     | Bowman Ch. 8, [Sinervo]({{ site.url }}/teaching/ecology/papers/optimalforaging.pdf){:target="_blank"} |    |
 |  |  | Populations 1 | Density dependence and population dynamics | Bowman Ch. 10 |    |
 | **7/13** | **(R-L8)** | Populations 2 | Logistic Growth   |    |    |
 |  |  |  | Discrete dynamics & Cobweb diagrams  |    |    |
