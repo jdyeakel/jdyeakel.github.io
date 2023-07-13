@@ -71,7 +71,7 @@ tr:nth-child(odd) {background: #FFF}
 |  |  |  | Competition dynamics 1 |  |    |
 | **7/20** | **(R-L10)** | ***Exam II*** |  |  |    |
 |  |  | Competition | Competition dynamics 2 and [demo]()   |  |    |
-|         | **(D5)** | Disc 5 |  [Competition Dynamics]()    |  |  Hmwk 4 due |
+|         | **(D5)** | Disc 5 |  [Competition]({{ site.url }}/teaching/ecology/summersections/section_4_comp){:target="_blank"}      |  |  Hmwk 4 due |
 | **7/25** | **(T-L11)** | Predation 1 | Herbivory/Predation | Bowman Ch. 12 |    |
 |  |  | Predation 2 | Predation dynamics with [demo]() |  |    |
 | **7/27** | **(R-L12)** | Parasitism | Parasites and Parasitoids | Bowman Chap. 13 |    |
