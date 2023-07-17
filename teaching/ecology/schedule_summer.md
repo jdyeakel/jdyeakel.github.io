@@ -54,13 +54,13 @@ tr:nth-child(odd) {background: #FFF}
 |        | **(D1)** | Disc 1 |  [Intro to R]({{ site.url }}/teaching/ecology/summersections/section_1_introtoR){:target="_blank"}   |  |   Hmwk 1 due  |
 | **6/27** | **(T-L3)** | Energy 2 | Energetic pathways in ecology | Bowman Ch. 5 |    |
 |   |   | Allometry | Allometry & Macroecology 1 | [West & Brown]({{ site.url }}/teaching/ecology/papers/West_Brown_2004.pdf){:target="_blank"} |    |
-| **6/29** | **(R-L4)** | Allometry | Allometry & Macroecology 2 |   |  [Demo]({{ site.url }}/teaching/ecology/summersections/demo_1_metabolism){:target="_blank"}  |
+| **6/29** | **(R-L4)** | Allometry | Allometry & Macroecology 2 |   |  [Met. Demo]({{ site.url }}/teaching/ecology/summersections/demo_1_metabolism){:target="_blank"}  |
 |  |  | Evolution | Evolution | Bowman Ch. 6 |   |
 |         | **(D2)** | Disc 2 |  [Temperature as an ecological constraint]({{ site.url }}/teaching/ecology/summersections/section_2_temperature){:target="_blank"}   |  [Gunderson & Leal 2015]({{ site.url }}/teaching/ecology/papers/Gunderson.pdf){:target="_blank"}  |  Hmwk 2 due   |
 | **7/04** | **(T-L5)** | July 4 - no class |  |  |    |
 |  |  |  |  |  |    |
 | **7/06** | **(R-L6)** | ***Exam I***  |  |  |    |
-|  |  | Evolution | Evolution | Bowman Ch. 6 |  [Demo]({{ site.url }}/teaching/ecology/summersections/demo_2_evolution){:target="_blank"}  |
+|  |  | Evolution | Evolution | Bowman Ch. 6 |  [Evol. Demo]({{ site.url }}/teaching/ecology/summersections/demo_2_evolution){:target="_blank"}  |
 |         | **(D3)** | Disc 3 |   No Discussion  |  |  No Hmwk  |
 | **7/11** | **(T-L7)** | Behavior | Behavioral ecology     | Bowman Ch. 8, [Sinervo]({{ site.url }}/teaching/ecology/papers/optimalforaging.pdf){:target="_blank"} |    |
 |  |  | Populations 1 | Density dependence and population dynamics | Bowman Ch. 10 |    |
@@ -70,7 +70,7 @@ tr:nth-child(odd) {background: #FFF}
 | **7/18** | **(T-L9)** | Competition | Intro to competition | Bowman Ch. 14 |    |
 |  |  |  | Competition dynamics 1 |  |    |
 | **7/20** | **(R-L10)** | ***Exam II*** |  |  |    |
-|  |  | Competition | Competition dynamics 2 and [demo]()   |  |    |
+|  |  | Competition | Competition dynamics 2 and [Comp. Demo]({{ site.url }}/teaching/ecology/summersections/demo_3_comp){:target="_blank"}    |  |    |
 |         | **(D5)** | Disc 5 |  [Competition]({{ site.url }}/teaching/ecology/summersections/section_4_comp){:target="_blank"}      |  |  Hmwk 4 due |
 | **7/25** | **(T-L11)** | Predation 1 | Herbivory/Predation | Bowman Ch. 12 |    |
 |  |  | Predation 2 | Predation dynamics with [demo]() |  |    |
