@@ -42,6 +42,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 * [Demo 2: Evolution]({{ site.url }}/teaching/ecology/summersections/demo_2_evolution/){:target="_blank"}   
 * [Section 3: Population growth]({{ site.url }}/teaching/ecology/summersections/section_3_pop1){:target="_blank"}  
 * [Section 4: Competition]({{ site.url }}/teaching/ecology/summersections/section_4_comp){:target="_blank"}  
+* [Demo : Competition]({{ site.url }}/teaching/ecology/summersections/demo_3_comp){:target="_blank"}  
 
 ## Lecture Recordings
 * [Lecture 1: 6/20](https://ucmerced.box.com/s/kyxnsplc88aw1nen4y7zs8ljhz2j9jbl){:target="_blank"}  
