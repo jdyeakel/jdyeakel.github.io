@@ -42,7 +42,9 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 * [Demo 2: Evolution]({{ site.url }}/teaching/ecology/summersections/demo_2_evolution/){:target="_blank"}   
 * [Section 3: Population growth]({{ site.url }}/teaching/ecology/summersections/section_3_pop1){:target="_blank"}  
 * [Section 4: Competition]({{ site.url }}/teaching/ecology/summersections/section_4_comp){:target="_blank"}  
-* [Demo : Competition]({{ site.url }}/teaching/ecology/summersections/demo_3_comp){:target="_blank"}  
+* [Demo: Competition]({{ site.url }}/teaching/ecology/summersections/demo_3_comp){:target="_blank"}  
+* [Section 5: Predation]({{ site.url }}/teaching/ecology/summersections/section_5_pred){:target="_blank"}  
+* [Demo: Predation]({{ site.url }}/teaching/ecology/summersections/demo_4_pred){:target="_blank"}  
 
 ## Lecture Recordings
 * [Lecture 1: 6/20](https://ucmerced.box.com/s/kyxnsplc88aw1nen4y7zs8ljhz2j9jbl){:target="_blank"}  
@@ -55,6 +57,8 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 * [Lecture 6: 7/11](https://ucmerced.box.com/s/grxnywgmi0p3mzwmbzp5dugbiqlrm8g9){:target="_blank"}  
 * [Lecture 7: 7/13](https://ucmerced.box.com/s/0e99odpr2ngfp16xkruai80grjb5dwom){:target="_blank"}  
 * [Lecture 8: 7/18](https://ucmerced.box.com/s/wfw80tpm0aw7j6uebsysa81u74u9onut){:target="_blank"}  
+* [Lecture 9: 7/20](https://ucmerced.box.com/s/cljhoaeru7ibu32zw3y4ox1g3vgq68aw){:target="_blank"}  
+* [Lecture 10: 7/25](https://ucmerced.box.com/s/m5pzj4dwd0nt6kpl52d08s5d0tppd88c){:target="_blank"}  
 
 
 <!-- 
