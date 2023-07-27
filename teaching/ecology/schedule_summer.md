@@ -75,7 +75,7 @@ tr:nth-child(odd) {background: #FFF}
 | **7/25** | **(T-L11)** | Predation 1 | Herbivory/Predation | Bowman Ch. 12 |    |
 |  |  | Predation 2 | Predation dynamics with [Pred. demo]({{ site.url }}/teaching/ecology/summersections/demo_4_pred){:target="_blank"} |  |    |
 | **7/27** | **(R-L12)** | Parasitism | Parasites and Parasitoids | Bowman Chap. 13 |    |
-|  |  | Disease | The dynamics of disease | Bowman 13.4-end, [Blackwood to 2.2.2](); [R0 is just an average]() |    |
+|  |  | Disease | The dynamics of disease | Bowman 13.4-end, [Blackwood to 2.2.2]({{ site.url }}/teaching/ecology/papers/Blackwood_SIR.pdf){:target="_blank"}; [R0 is just an average](https://www.santafe.edu/news-center/news/transmission-t-024-cristopher-moore-on-the-heavy-tail-of-outbreaks){:target="_blank"} |    |
 |         | **(D6)** | Disc 6 |  [Predation]({{ site.url }}/teaching/ecology/summersections/section_5_pred){:target="_blank"}    |  |  Hmwk 4 due |
 | **8/1** | **(T-L13)** | Disease cont. |  |  |    |
 |  |  | Disease cont. |  |  |    |
