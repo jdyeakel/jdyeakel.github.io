@@ -81,7 +81,7 @@ tr:nth-child(odd) {background: #FFF}
 |  |  | Disease cont. |  |  |    |
 | **8/3** | **(R-L14)** | Interactions | Mutualisms  | Bowman Chap. 15 |    |
 |  |  |  | Food webs | Bowman Chap. 21 |    |
-|         | **(D7)** | Disc 7 | [Disease Dynamics]()  | | Hmwk 5 due |
+|         | **(D7)** | Disc 7 | [Disease Dynamics]({{ site.url }}/teaching/ecology/summersections/section_6_disease){:target="_blank"}  | | Hmwk 5 due |
 | **8/08** | **(T-L14)** | Communities | Island Biogeography | Bowman Chap. 18.3 |    |
 |  |  |  | Ecological communities | Bowman Chap. 16.2-16.3 |    |
 | **8/10** | **(R-L15)** | ***FINAL EXAM*** |   |  |  |
