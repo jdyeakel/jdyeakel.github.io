@@ -9,7 +9,8 @@ image:
 
 <!-- <span style="font-size:1em;">School of Natural Sciences @ UC-Merced</span> --> 
 
-## Yeakel Quantitative Ecological Dynamics (QED) Group $$\because$$ UC Merced 
+# Quantitative Ecological Dynamics (QED) Group  
+### Life & Environmental Science | UC Merced  
 
 <p>
   <span class="firstcharacter">W</span>
