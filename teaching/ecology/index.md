@@ -46,6 +46,8 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 * [Section 5: Predation]({{ site.url }}/teaching/ecology/summersections/section_5_pred){:target="_blank"}  
 * [Demo: Predation]({{ site.url }}/teaching/ecology/summersections/demo_4_pred){:target="_blank"}  
 * [Section 6: Disease]({{ site.url }}/teaching/ecology/summersections/section_6_disease){:target="_blank"}  
+* [Demo: Island Biogeography]({{ site.url }}/teaching/ecology/summersections/demo_5_biogeography){:target="_blank"}  
+
 
 ## Lecture Recordings
 * [Lecture 1: 6/20](https://ucmerced.box.com/s/kyxnsplc88aw1nen4y7zs8ljhz2j9jbl){:target="_blank"}  
