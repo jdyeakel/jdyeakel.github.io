@@ -55,7 +55,7 @@ comments: true
         * Your final grade will be based on the following: 
             *   Lecture attendance: 10%
             *   Homework: 42%
-            *   Exams: 48% (four at 13% each)  
+            *   Exams: 48% (four at 12% each)  
         * Grades will be given using the approximate framework: A: 90 - 100%, B: 80 - 90%, C: 70 - 80%, D: 60 - 70%, F: < 60%. This framework is subject to change given the distribution of the final grades.
 
 --------------------------------
