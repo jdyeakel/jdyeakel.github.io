@@ -1,4 +1,4 @@
-tmax <- 200
+tmax <- 500
 
 xc <- 2 
 
@@ -128,7 +128,7 @@ for (t in 1:(tmax-1)) {
       
       #Reproduce
       r_draw = runif(1)
-      if (r_draw > (1 - (state*rscale)/xmax)) {
+      if (r_draw > (1 - r[dec]*(state*rscale)/xmax)) { # changed 10 26 2023
         offspring <- offspring + 1
       }
       
@@ -136,7 +136,8 @@ for (t in 1:(tmax-1)) {
       d_draw = runif(1) 
       
       #IF you survive, look for food
-      if (d_draw > d[dec]) {
+      #If d_draw = 1, then you always survive
+      if (d_draw < (1 - d[dec])) {
         
         #Do I find food during this activity?
         f_draw = runif(1) 
@@ -172,6 +173,7 @@ for (t in 1:(tmax-1)) {
       newX = rep(offspringstart,nmax)
       newX[1:length(X)] = X
       X = newX
+      X = X
     } else {
       newX = rep(offspringstart,Xadd)
       X = c(X,newX)
@@ -185,6 +187,8 @@ par(mfrow=c(1,2))
 plot(pop,type='l',xlab = 'Time',ylab='N(t)')
 plot(pop[1:(tmax-2)],pop[2:(tmax-1)],xlim=c(0,300),ylim=c(0,300),type='l',xlab='N(t)',ylab='N(t+1)')
 lines(seq(0,300),seq(0,300),type='l',lty=3)
+
+
 
 
 # If using Julia

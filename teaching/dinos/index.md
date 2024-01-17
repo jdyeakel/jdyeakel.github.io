@@ -1,6 +1,6 @@
 ---
 layout: pagetrimdino
-title: "The Natural History of Dinosaurs :: Spring 2021"
+title: "The Natural History of Dinosaurs :: Spring 2024"
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
@@ -11,7 +11,10 @@ image:
 
 
 ## Welcome!
-Welcome to the course website for ***Natural History of Dinosaurs***. Of course, this semester we will be running this course entirely remotely, with both lecture and discussion section occurring on ZOOM (links below). This course will be conducted ***synchronously***, meaning that it is mandatory that you attend lectures and discussions *at the times they occur*. This will be the primary site that will host course information and changes to the schedule, as well as your Discussion Section activities. The Catcourses, or Canvas, site for this course will be used for assessments (homework and exams) and of course grades. See the [syllabus]({{ site.url }}/teaching/dinos/syllabus) for details and the [schedule]({{ site.url }}/teaching/dinos/schedule) for information regarding important dates and content.
+Welcome to the course website for ***Natural History of Dinosaurs***. This will be the primary site that will host course information, changes to the schedule, and homework assignments. The Catcourses, or Canvas, site for this course will be used for turning in assignments and course grades. See the [Syllabus]({{ site.url }}/teaching/dinos/syllabus) for details and the [Schedule]({{ site.url }}/teaching/dinos/schedule) for information regarding important dates and content.
+
+* [Syllabus]({{ site.url }}/teaching/dinos/syllabus)  
+* [Schedule]({{ site.url }}/teaching/dinos/schedule)  
 
 <!-- 
 ## FINAL EXAM

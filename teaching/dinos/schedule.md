@@ -1,6 +1,6 @@
 ---
 layout: pagetrimdino
-title: "The Natural History of Dinosaurs (BIO/ESS 065) :: Schedule, Spring 2021"
+title: "The Natural History of Dinosaurs BIO/ESS 065 :: Schedule, Spring 2024"
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
@@ -13,16 +13,20 @@ comments: true
 <br>
 M = Monday  
 W = Wednesday  
-F = Friday  
+Sun = Sunday  
 L = Lecture 
 H = Homework   
-D = Discussion
 
 <style>
 table{
     border-collapse: collapse;
     border-spacing: 0;
     /* border:1px solid #808080; */
+}
+
+th, td {
+    /* border:1px solid #808080; */
+    text-align: left; /* Add this line for left text alignment */
 }
 
 /* th{
@@ -36,72 +40,75 @@ tr:nth-child(even) {background: #B2DFEE}
 tr:nth-child(odd) {background: #FFF}
 </style>
 
-| Wk | Date | Lect/Disc_# | Lecture_Topic | Description | Required Readings | Assign. |
-| ---------- | ---------- | ----------- | --------------- | ------------- | ------------ |
-| 1 | **1/20**       | **(W-L1)** | Introduction | Paleontology and fossils | Fast. Ch. 1,2 |     |
-|  |         |  | **No Disc** | No Discussion section |  |     |
-| 2 | **1/25**  | **(M-L2)** | Evolution 1 | Natural selection | Fast. Chp. 3 |     |
-|  |  **1/27**  | **(W-L3)** | Evolution 2 | Cladistics |  |     |
-|  | **1/29**  | **F-H1** | Homework |  |  |  Hmwk 1 due   |
-|  |        | **D1** | Disc 1 | Paleontology and Sedimentology | [Sed. worksheet]({{ site.url }}/teaching/dinos/Section_1_Strat_Section.pdf){:target="_blank"} |     |
-| 3 | **2/1**       | **(M-L4)** | Early life | Cambrian through Devonian | Fast. Chp. 4 |     |
-|  |  **2/3**   | **(W-L5)** | Early life | Devonian through Permian |  |     |
-|  |        | **D2** | Disc 2 |  Cladistics    | [Cladistics worksheet]({{ site.url }}/teaching/dinos/Section_2_Cladistics.pdf){:target="_blank"} |     |
-| 4 | **2/8** | **(M-L6)** | Dinosaurs | Basal dinosaurs | Fast. Part II, Chp. 5 |    |
-|  | **2/10** | **(W-L7)** | Thyreophorans | Stegosaurs | Fast. Chp. 10 |    |
-|  | **2/12**  | **F-H2** | Homework |  |  |  Hmwk 2 due   |
-|  |         | **D3** | Disc 3 |  Anatomy  |  [Anatomy worksheet]({{ site.url }}/teaching/dinos/Section_3_Anatomy.pdf){:target="_blank"}  |     |
-| 5 | **2/15** | **M** | **No Class** |  |  |    |
-|  |  | **2/17** | **W** | ***Exam I***   |  |  |    |
-|  |         |  | **No Disc** |   |  |    |
-| 6 | **2/22** | **(M-L8)** | Thyreophorans | Ankylos | Fast. Chp. 10 |    |
-|  | **2/24** | **(M-L9)** | Marginocephalians | Pachys | Fast. Chp. 11 |    |
-|  |         | **D4** | Disc 4 |  Cladistics 2  | [Cladistics 2 worksheet]({{ site.url }}/teaching/dinos/Section_4_Cladistics2.pdf){:target="_blank"}  |     |
-| 7 | **3/1** | **(M-L10)** | Marginocephalians | Ceratops | Fast. Chp. 11 |    |
-|  | **3/3** | **(W-L11)** | Ornithopods |  | Fast. Chp. 12 |    |
-|  |  **3/5** | **F-H3** | Homework |  |  |  Hmwk 3 due   |
-|  |         | **D5** | Disc 5 |  Thermoregulation   | Reading [1](https://www.wired.com/2009/07/toucanbill/){:target="_blank"} & [2](https://www.smithsonianmag.com/science-nature/armored-dinosaurs-kept-cool-labyrinth-nose-canals-180971073/){:target="_blank"}; Supp [1](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0207381){:target="_blank"} & [2](https://science.sciencemag.org/content/325/5939/468?ijkey=b5e9d5b337a93ab599c7c44bec9573a4cca5224e&keytype2=tf_ipsecsha){:target="_blank"} |    |
-| 8 | **3/8** | **(M-L12)** | Sauropods 1 |  | Fast. Part III, Chp. 8 |   |
-|  | **3/10** | **(W-L13)** | Sauropods 2 |  |    |    |
-|  |  **3/12** | **F-H4** | Homework |  |  |  Hmwk 4 due   |
-|  |         | **D6** | Disc 6 | [Dinosaur Wars](https://ucmerced.box.com/s/gtbzmxc4oou7wmki8xyj60exusqew30q){:target="_blank"}  | Not in person |    |
-| 9 | **3/15** | **(M-L14)** | Review |  |  |  |
-|  | **3/17** | **W** | ***Exam II*** |  |  |    |
+## Lecture Schedule
+
+| Week&nbsp;&nbsp;&nbsp; | Month/Day&nbsp;&nbsp;&nbsp; | Lecture No. | Lecture Topic | Description | Required Readings |
+| ---------- | ---------- | ----------- | --------------- | ------------- | 
+| 1 | **1/17**   | **W-L1** | Introduction | Paleontology and fossils | Fast. Ch. 1,2 |
+| 2 | **1/22**  | **M-L2** | Evolution 1 | Natural selection | Fast. Chp. 3 |
+|  |  **1/24**  | **W-L3** | Evolution 2 | Cladistics |  |
+| 3 | **1/29**  | **M-L4** | Early life | Cambrian through Devonian | Fast. Chp. 4 |
+|  |  **1/31**   | **W-L5** | Early life | Devonian through Permian |  |
+| 4 | **2/5** | **M-L6** | Dinosaurs | Basal dinosaurs | Fast. Chp. 5 |
+|  | **2/7** | **W-L7** | Thyreophorans 1 | Stegosaurs | Fast. Chp. 10 |
+| 5 | **2/12** | **M-L8** |Thyreophorans 2 | Ankylos | Fast. Chp. 10 |
+|  |  **2/14** | **W** | ***Exam I***   | In class |  |
+| 6 |  **2/19** | **M** | President's Day   | **NO CLASS** |  |
+|  | **2/21** | **W-L9** | Marginocephalians | Pachys | Fast. Chp. 11 |
+| 7 | **2/26** | **M-L10** | Marginocephalians | Ceratops | Fast. Chp. 11 |
+|  | **2/28** | **W-L11** | Ornithopods |  | Fast. Chp. 12 |
+| 8 | **3/4** | **M-L12** | Sauropods 1 |  | Fast. Part III, Chp. 9 |
+|  | **3/6** | **W-L13** | Sauropods 2 |  |    |
+| 9 | **3/11** | **M-L14** | Paleobiology 1 |  | Fast. Chp. 13 |
+|  | **3/13** | **W-L15** | Paleobiology 2 |  | Fast. Chp. 14 |
+| 10 | **3/18** | **M** | ***Exam II*** | In class |  |
+|  | **3/20** | **W-L16** | Theropods 1 |  | Fast. Chp. 6 |
+| 11 | **3/25** | **M** | Spring Break | **NO CLASS** |  |
+|  | **3/27** | **W** | Spring Break | **NO CLASS** |  |
+| 12 | **4/1** | **M-L17** | Theropods 2 |  | Fast. Chp. 7 |
+|  | **4/3** | **W-L18** | Origin of Birds 1 |  | Fast. Chp. 8 |
+| 13 | **4/8** | **M-L19** |  Origin of Birds 2 |  |  |
+|  | **4/10** | **W** | ***Exam III*** |  |  |
+| 14 | **4/15** | **M-L20** | Flying Reptiles |  | TBD |
+|  | **4/17** | **W-L21** |Swimming Reptiles |  | TBD |
+| 15 | **4/22** | **M-L22** |  Mammals |  | TBD |
+|  | **4/24** | **W-L23** |  The Mesozoic World |  | Fast. Chp. 15 |
+| 16 | **4/29** | **M-L24** | Extinction |  | Fast. Chp. 17 |
+|  | **5/1** | **W** | ***Exam IV***  | In class |  |
+
+<!-- | 17 | **5/8** | **Sat.** | ***FINAL EXAM*** |   |  | -->
+
+
+## Homework Schedule - check for updates
+
+| Week&nbsp;&nbsp;&nbsp; | Due Month/Day&nbsp;&nbsp;&nbsp; | Due Date | Description |
+| ---------- | ---------- | ----------- | --------------- | ------------- |
+| 2 | **1/28**  | **Sun-H1** | Homework 1 - TBD |
+| 4 | **2/11**  | **Sun-H2** | Homework 2 - TBD |
+| 7 |  **3/3** | **Sun-H3** | Homework 3 - TBD |
+| 9 |  **3/17** | **Sun-H4** | Homework 4 - TBD |
+| 14 |  **4/21** | **Sun-H5** | Homework 5 - TBD |
+| 15 |  **4/28** | **Sun-H6** | Homework 6 - TBD |
+
+
+<!-- ---
+
+|  |  **4/30** | **F-H6** | Homework |  | [Motani 2009]https://ucmerced.box.com/s/lry9eenbs4fq251wzuvoezbbmtihbvg2{:target="_blank"}   |  Hmwk 6 due   |
+
+|  |        | **D1** | Disc 1 | Paleontology and Sedimentology | [Sed. worksheet]{{ site.url }}/teaching/dinos/Section_1_Strat_Section.pdf{:target="_blank"} |     |
+|  |        | **D2** | Disc 2 |  Cladistics    | [Cladistics worksheet]{{ site.url }}/teaching/dinos/Section_2_Cladistics.pdf{:target="_blank"} |     |
+|  |         | **D6** | Disc 6 | [Dinosaur Wars]https://ucmerced.box.com/s/gtbzmxc4oou7wmki8xyj60exusqew30q{:target="_blank"}  | Not in person |    |
+|  |         | **D3** | Disc 3 |  Anatomy  |  [Anatomy worksheet]{{ site.url }}/teaching/dinos/Section_3_Anatomy.pdf{:target="_blank"}  |     |
+|  |         | **D4** | Disc 4 |  Cladistics 2  | [Cladistics 2 worksheet]{{ site.url }}/teaching/dinos/Section_4_Cladistics2.pdf{:target="_blank"}  |     |
+|  |         | **D5** | Disc 5 |  Thermoregulation   | Reading [1]https://www.wired.com/2009/07/toucanbill/{:target="_blank"} & [2]https://www.smithsonianmag.com/science-nature/armored-dinosaurs-kept-cool-labyrinth-nose-canals-180971073/{:target="_blank"}; Supp [1]https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0207381{:target="_blank"} & [2]https://science.sciencemag.org/content/325/5939/468?ijkey=b5e9d5b337a93ab599c7c44bec9573a4cca5224e&keytype2=tf_ipsecsha{:target="_blank"} |    |
 |  |        | **D7** | Disc 7 |     |  |    |
-| 10 | **3/22** | **(M-No Class)** | Spring Break |  |  |    |
-|  | **3/24** | **(W-No Class)** | Spring Break |  |  |    |
-|  |         | **No Disc** |  |  |   |    |
-| 11 | **3/29** | **(M-L15)** | Metabolism |  | Fast. Chp. 13 |    |
-|  | **3/31** | **(W-L16)** | Theropods 1 |  | Fast. Chp. 6 |    |
 |  |       | **D8** | Disc 8 |    |  |   |
-| 12 | **4/5** | **(M-L17)** | Theropods 2 |  | Fast. Chp. 7 |    |
-|  | **4/7** | **(W-L18)** | Theropods 3 |  |  |    |
-|  |         | **D9** | Disc 9 | [Schroeder et al. paper](https://ucmerced.box.com/s/08jfqfcwdtnecfzc9djh0g42w87z5gi8){:target="_blank"}  |  |  |
-| 13 | **4/12** | **(M-L19)** | Theropods 4 |  |  | |
-|  | **4/14** | **W** | ***Exam III*** |  |  |    |
-|  |  **4/15** | **R-H5** | Homework |  |  |  Hmwk 5 due   |
-|  |        | **D10** | Disc 10 | [Origin of Birds](https://ucmerced.box.com/s/yqr6fc2tci22jbheq7qmkjpr0yaqrwk8){:target="_blank"}    |  Not in person |  |
-| 14 | **4/19** | **(M-L20)** | Origin of Birds |  | Fast. Chp. 8 |    |
-|  | **4/21** | **(W-L21)** | Flying Reptiles |  | TBD |    |
-|  |         | **D11** | Disc 11 | [Origin of Birds Discussion](https://ucmerced.box.com/s/yqr6fc2tci22jbheq7qmkjpr0yaqrwk8){:target="_blank"}  | [Worksheet](https://ucmerced.box.com/s/tj3sqx111hezniqemlt13zbd372niutf){:target="_blank"}  |  |
-| 15 | **4/26** | **(M-L22)** | Swimming Reptiles |  |  |    |
-|  | **4/28** | **(W-L23)** | Mesozoic World |  | Fast. Chp. 15 |    |
-|  |  **4/30** | **F-H6** | Homework |  | [Motani 2009](https://ucmerced.box.com/s/lry9eenbs4fq251wzuvoezbbmtihbvg2){:target="_blank"}   |  Hmwk 6 due   |
+|  |         | **D9** | Disc 9 | [Schroeder et al. paper]https://ucmerced.box.com/s/08jfqfcwdtnecfzc9djh0g42w87z5gi8{:target="_blank"}  |  |  |
+|  |         | **No Disc** |  |  |   |    |
+|  |        | **D10** | Disc 10 | [Origin of Birds]https://ucmerced.box.com/s/yqr6fc2tci22jbheq7qmkjpr0yaqrwk8{:target="_blank"}    |  Not in person |  |
+|  |         | **D11** | Disc 11 | [Origin of Birds Discussion]https://ucmerced.box.com/s/yqr6fc2tci22jbheq7qmkjpr0yaqrwk8{:target="_blank"}  | [Worksheet]https://ucmerced.box.com/s/tj3sqx111hezniqemlt13zbd372niutf{:target="_blank"}  |  |
 |  |        | **D12** | Disc 12 |   | |  |
-| 16 | **5/3** | **(M-L24)** | Mammals |  |  |    |
-|  | **5/5** | **(W-L23)** | Extinction |  |  |    |
 |  |        | **D13** | Disc 13 |   | |  |
-|  | **5/8** | **Sat.** | ***FINAL EXAM*** | Comprehensive (8-11AM)  |  |  |
 
 
-
-<!-- | **12/8** | **(T-L26)** | Communities | Community assembly, succession | Bowman Ch. 17 |    |
-| **12/10** | **(R-L27)** | Biogeography | Patterns of species diversity | Bowman Ch. 18 |    |
-|     **12/11**    | **(F-D14)** | Disc 14 | Modeling colonization & extinction  | |  | -->
-<!-- | **11/17** | **(T-L22)** | Disease 1 | The dynamics of disease | TBD |    |
-| **11/19** | **(R-L23)** | Disease 2 | Epidemics and pandemics |  |    | -->
-
-<!---
-| **11/17** | **23-T** | Interactions | Mutualism and commensalism | Bowman Ch. 15 |    |
-| **11/19** | **24-R** | Networks | Interactions across ecological networks | TBD |    |
-|         | | **Disc-12** |  Analyzing ecological networks |  | HW-9 due |--->
+|  |  **4/30** | **F-H6** | Homework |  | [Motani 2009]https://ucmerced.box.com/s/lry9eenbs4fq251wzuvoezbbmtihbvg2{:target="_blank"}   |  Hmwk 6 due   | -->
