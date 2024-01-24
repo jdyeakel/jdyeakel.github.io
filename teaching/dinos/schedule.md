@@ -83,7 +83,7 @@ tr:nth-child(odd) {background: #FFF}
 
 >   Homework Instructions: Download the pdf of the homework, fill it out using either a pdf-editor (such as Preview or Adobe) or print it out and fill it out by hand. If you use a pdf-editor, ensure your additions are recorded on the pdf when you submit. If you print it out, make sure to scan or take clear pictures of the worksheet(s) before uploading. You must combine separate scanned pages into a single pdf for upload. Homework assignments will be uploaded to the appropriate *Assignment* in CatCourses.  
 
-| Week&nbsp;&nbsp;&nbsp; | Due Month/Day&nbsp;&nbsp;&nbsp; | Due Date | Description |
+| Week&nbsp;&nbsp;&nbsp; | Due Month/Day&nbsp;&nbsp;&nbsp; | Weekday/Time | Description |
 | ---------- | ---------- | ----------- | --------------- | ------------- |
 | 2 | **1/28**  | **Sunday @ midnight** | [Homework 1 - Stratigraphy]({{ site.url }}/teaching/dinos/hmwk1_strat.pdf){:target="_blank"} |
 | 4 | **2/11**  | TBD | Homework 2 - TBD |
