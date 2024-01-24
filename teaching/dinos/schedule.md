@@ -46,7 +46,7 @@ tr:nth-child(odd) {background: #FFF}
 | ---------- | ---------- | ----------- | --------------- | ------------- | 
 | 1 | **1/17**   | **W-L1** | Introduction | Paleontology and fossils | Fast. Ch. 1,2 |
 | 2 | **1/22**  | **M-L2** | Evolution 1 | Natural selection | Fast. Chp. 3 |
-|  |  **1/24**  | **W-L3** | Evolution 2 | Cladistics |  |
+|  |  **1/24**  | **W-L3** | Evolution 2 | Cladistics [practice]({{ site.url }}/teaching/dinos/practice1_cladistics.pdf){:target="_blank"} |  |
 | 3 | **1/29**  | **M-L4** | Early life | Cambrian through Devonian | Fast. Chp. 4 |
 |  |  **1/31**   | **W-L5** | Early life | Devonian through Permian |  |
 | 4 | **2/5** | **M-L6** | Dinosaurs | Basal dinosaurs | Fast. Chp. 5 |
