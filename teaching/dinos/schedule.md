@@ -81,14 +81,16 @@ tr:nth-child(odd) {background: #FFF}
 
 ## Homework Schedule - check for updates
 
+>   Homework Instructions: Download the pdf of the homework, fill it out using either a pdf-editor (such as Preview or Adobe) or print it out and fill it out by hand. If you use a pdf-editor, ensure your additions are recorded on the pdf when you submit. If you print it out, make sure to scan or take clear pictures of the worksheet(s) before uploading. You must combine separate scanned pages into a single pdf for upload.  
+
 | Week&nbsp;&nbsp;&nbsp; | Due Month/Day&nbsp;&nbsp;&nbsp; | Due Date | Description |
 | ---------- | ---------- | ----------- | --------------- | ------------- |
-| 2 | **1/28**  | **Sun-H1** | Homework 1 - TBD |
-| 4 | **2/11**  | **Sun-H2** | Homework 2 - TBD |
-| 7 |  **3/3** | **Sun-H3** | Homework 3 - TBD |
-| 9 |  **3/17** | **Sun-H4** | Homework 4 - TBD |
-| 14 |  **4/21** | **Sun-H5** | Homework 5 - TBD |
-| 15 |  **4/28** | **Sun-H6** | Homework 6 - TBD |
+| 2 | **1/28**  | **Sunday @ midnight** | [Homework 1 - Stratigraphy]({{ site.url }}/teaching/dinos/hmwk1_strat.pdf){:target="_blank"} |
+| 4 | **2/11**  | TBD | Homework 2 - TBD |
+| 7 |  **3/3** | TBD | Homework 3 - TBD |
+| 9 |  **3/17** | TBD | Homework 4 - TBD |
+| 14 |  **4/21** | TBD | Homework 5 - TBD |
+| 15 |  **4/28** | TBD | Homework 6 - TBD |
 
 
 <!-- ---
