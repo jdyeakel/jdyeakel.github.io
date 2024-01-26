@@ -16,6 +16,12 @@ Welcome to the course website for ***Natural History of Dinosaurs***. This will 
 * [Syllabus]({{ site.url }}/teaching/dinos/syllabus)  
 * [Schedule]({{ site.url }}/teaching/dinos/schedule)  
 
+
+### Lecture Slides  
+* [Lecture 1: Paleontology and Sedimentology]({{ site.url }}/teaching/dinos/lectures/01_Intro_paleo.pdf)  
+* [Lectures 2 & 3: Evolution and Cladistics]({{ site.url }}/teaching/dinos/lectures/02_Evolution.pdf)  
+
+
 <!-- 
 ## FINAL EXAM
 
