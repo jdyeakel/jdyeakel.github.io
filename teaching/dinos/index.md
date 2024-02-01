@@ -18,8 +18,10 @@ Welcome to the course website for ***Natural History of Dinosaurs***. This will 
 
 
 ### Lecture Slides  
-* [Lecture 1: Paleontology and Sedimentology]({{ site.url }}/teaching/dinos/lectures/01_Intro_paleo.pdf)  
-* [Lectures 2 & 3: Evolution and Cladistics]({{ site.url }}/teaching/dinos/lectures/02_Evolution.pdf)  
+* [Lecture 1: Paleontology and Sedimentology](https://ucmerced.box.com/s/fdwpf0fr4l9je0p2egxjjcg1grk9subn){:target="_blank"}  
+* [Lectures 2 & 3: Evolution and Cladistics](https://ucmerced.box.com/s/6o6nwzj4hg6rih75n0fo2bq0h94gih7i){:target="_blank"}  
+* [Lecture 4: Life before dinosaurs 1](https://ucmerced.box.com/s/o9g5mybahexc9eddcqtl193c6qzkhdgn){:target="_blank"}    
+* [Lecture 5: Life before dinosaurs 2](https://ucmerced.box.com/s/nr7mh2ntfpe2qwyvk5t9cf1vcftt8jwn){:target="_blank"}  
 
 
 <!-- 
