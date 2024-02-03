@@ -86,7 +86,7 @@ tr:nth-child(odd) {background: #FFF}
 | Week&nbsp;&nbsp;&nbsp; | Due Month/Day&nbsp;&nbsp;&nbsp; | Weekday/Time | Description |
 | ---------- | ---------- | ----------- | --------------- | ------------- |
 | 2 | **1/28**  | **Sunday @ midnight** | [Homework 1 - Stratigraphy]({{ site.url }}/teaching/dinos/hmwk1_strat.pdf){:target="_blank"} |
-| 4 | **2/4**  | **Sunday @ midnight** | [Homework 1 - Cladistics]({{ site.url }}/teaching/dinos/hmwk2_cladistics.pdf){:target="_blank"} |
+| 4 | **2/4**  | **Sunday @ midnight** | [Homework 2 - Cladistics]({{ site.url }}/teaching/dinos/hmwk2_cladistics.pdf){:target="_blank"} |
 | 4 | **2/11**  | TBD | Homework 3 - TBD |
 | 7 |  **3/3** | TBD | Homework 4 - TBD |
 | 9 |  **3/17** | TBD | Homework 5 - TBD |
