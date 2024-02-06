@@ -14,27 +14,26 @@ comments: true
 *In prep**)
 -->
 
-Upcoming
-:	* ☕ Ritwika V.P.S., Gopinathan A.J., <span style="color:#4292E5;">Yeakel J.D.</span> The fitness tradeoffs of predation: When to scavenge and when to steal.
+In Review
+:	* Dominy N.J., Rosien J., Fannin L., <span style="color:#4292E5;">Yeakel J.D.</span>, Malaivijitnond S., Tan A. Food-washing monkeys recognize the law of diminishing returns. [Preprint](https://assets.researchsquare.com/files/rs-3867327/v1/5f28e282-6865-4867-820d-30a9a3a9c3d0.pdf?c=1706717973){:target="_blank"}.
+	
+	* ☕ Suswaram M., Bhat U., <span style="color:#4292E5;">Yeakel J.D.</span> Rising above the noise: the influence of population dynamics on the evolution of acoustic signaling. In review @ *Journal of Physics: Complexity*. [Preprint](https://www.biorxiv.org/content/10.1101/2022.09.02.506422v1){:target="_blank"}.
 
-	* ☕ Suswaram M., Bhat U., <span style="color:#4292E5;">Yeakel J.D.</span> Rising above the noise: the influence of population dynamics on the evolution of acoustic signaling. In review @ *Ecology and Evolution*. [Preprint](https://www.biorxiv.org/content/10.1101/2022.09.02.506422v1){:target="_blank"}.
-
-	* ☕ Suswaram M., <span style="color:#4292E5;">Yeakel J.D.</span>, Gokhale C.S. Parasitoid pressures and silence evolution. In review @ *Proceedings of the Royal Society B*. [Preprint](https://www.biorxiv.org/content/10.1101/2022.08.12.503800v1){:target="_blank"}.
-
-	* ☕ Rallings T., Kempes C.P., <span style="color:#4292E5;">Yeakel J.D.</span> On the dynamics of mortality and the ephemeral nature of mammalian megafauna. In review @ *Proceedings of the Royal Society B: Biological Sciences*. [Preprint](https://doi.org/10.48550/arXiv.2211.16638){:target="_blank"}.
+	* ☕ Rallings T., Kempes C.P., <span style="color:#4292E5;">Yeakel J.D.</span> On the dynamics of mortality and the ephemeral nature of mammalian megafauna. In review @ *The American Naturalist*. [Preprint](https://doi.org/10.48550/arXiv.2211.16638){:target="_blank"}.
 
 
-2022
+2024
+:	* ☕ Ritwika V.P.S., Gopinathan A.J., <span style="color:#4292E5;">Yeakel J.D.</span> Beyond the kill: The allometry of predation behaviours among large carnivores. In press @ *Journal of Animal Ecology*.
+
+2023
 :	* Valdovinos F.S., Hale K.R.S., Dritz S., Glaum P.R., Mccann K.S., Simon S.M., Thébault E., Wetzel W.C., Wootton K.L., <span style="color:#4292E5;">Yeakel J.D.</span> A bioenergetic framework for aboveground terrestrial food webs. [*Trends in Ecology and Evolution*](https://www.sciencedirect.com/science/article/pii/S0169534722002841){:target="_blank"}.
 
-	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1098/rspb.2022.0808"></div> $${}^\dagger$$Kim S.L., $${}^\dagger$$<span style="color:#4292E5;">Yeakel J.D.</span>, Balk M.A., Eberle J.J., Zeichner S., Fieman D., Kriwet J. [Decoding the dynamics of dental distributions: insights from shark demography and dispersal](https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2022.0808){:target="_blank"} *Proceedings of the Royal Society B: Biological Sciences*.
-
-<!-- Preprint -->
+2022
+:	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1098/rspb.2022.0808"></div> ☕ $${}^\dagger$$Kim S.L., $${}^\dagger$$<span style="color:#4292E5;">Yeakel J.D.</span>, Balk M.A., Eberle J.J., Zeichner S., Fieman D., Kriwet J. [Decoding the dynamics of dental distributions: insights from shark demography and dispersal](https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2022.0808){:target="_blank"} *Proceedings of the Royal Society B: Biological Sciences*.
 
 
 2021
 :	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1016/j.palaeo.2021.110393"></div> Fannin, L. <span style="color:#4292E5;">Yeakel J.D.</span>,Venkataraman V.V., Seyoum C., Geraads D., Fashing P., Nguyen N., Fox-Dobbs K., Dominy N.J. [Carbon and strontium isotope ratios shed new light on the paleobiology and collapse of *Theropithecus*, a primate experiment in graminivory](https://www.sciencedirect.com/science/article/abs/pii/S0031018221001784){:target="_blank"} *Palaeogeography, Palaeoclimatology, Palaeoecology*.  
-
 
 
 2020
