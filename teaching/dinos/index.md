@@ -22,7 +22,7 @@ Welcome to the course website for ***Natural History of Dinosaurs***. This will 
 * [Lectures 2 & 3: Evolution and Cladistics](https://ucmerced.box.com/s/6o6nwzj4hg6rih75n0fo2bq0h94gih7i){:target="_blank"}  
 * [Lecture 4: Life before dinosaurs 1](https://ucmerced.box.com/s/o9g5mybahexc9eddcqtl193c6qzkhdgn){:target="_blank"}    
 * [Lecture 5: Life before dinosaurs 2](https://ucmerced.box.com/s/nr7mh2ntfpe2qwyvk5t9cf1vcftt8jwn){:target="_blank"}  
-
+* [Lecture 6: Dinosaurs!](https://ucmerced.box.com/s/a66ebye80pmuo5xhvpeadbghq4pxqbtu){:target="_blank"}  
 
 <!-- 
 ## FINAL EXAM
