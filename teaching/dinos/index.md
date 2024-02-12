@@ -23,6 +23,8 @@ Welcome to the course website for ***Natural History of Dinosaurs***. This will 
 * [Lecture 4: Life before dinosaurs 1](https://ucmerced.box.com/s/o9g5mybahexc9eddcqtl193c6qzkhdgn){:target="_blank"}    
 * [Lecture 5: Life before dinosaurs 2](https://ucmerced.box.com/s/nr7mh2ntfpe2qwyvk5t9cf1vcftt8jwn){:target="_blank"}  
 * [Lecture 6: Dinosaurs!](https://ucmerced.box.com/s/a66ebye80pmuo5xhvpeadbghq4pxqbtu){:target="_blank"}  
+* [Lecture 7: Stegosauria](https://ucmerced.box.com/s/alvm0ro85t0ne5vxk9aajpieqz35iy88){:target="_blank"}  
+* [Lecture 8: Ankylosauria](https://ucmerced.box.com/s/6wxddak9jbniub0fhqetzdiuv42caeno){:target="_blank"}  
 
 <!-- 
 ## FINAL EXAM
