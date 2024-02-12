@@ -10,11 +10,12 @@ url:              //jdyeakel.github.io
 
 permalink:   /:categories/:title/
 markdown:    kramdown
-highlighter: rouge
+# highlighter: rouge
+syntax_highlighter: coderay
 sass:
   sass_dir: _sass
   style: compressed
-gems:
+plugins:
   - jekyll-sitemap
 
 kramdown:
@@ -22,7 +23,7 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  use_coderay: true
+  # enable_coderay: true
     # coderay:
     # coderay_line_numbers: nil
     # coderay_css: style
