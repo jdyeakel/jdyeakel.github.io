@@ -90,6 +90,9 @@ tr:nth-child(odd) {background: #FFF}
 | 4 | **2/11**  | **Sunday @ midnight** | [Homework 3 - early life]({{ site.url }}/teaching/dinos/hmwk3_earlylife.pdf){:target="_blank"} |
 
 
+
+
+
 <!-- | 7 |  **3/3** | TBD | Homework 4 - TBD |
 | 9 |  **3/17** | TBD | Homework 5 - TBD |
 | 14 |  **4/21** | TBD | Homework 6 - TBD |

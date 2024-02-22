@@ -25,6 +25,7 @@ Welcome to the course website for ***Natural History of Dinosaurs***. This will 
 * [Lecture 6: Dinosaurs!](https://ucmerced.box.com/s/a66ebye80pmuo5xhvpeadbghq4pxqbtu){:target="_blank"}  
 * [Lecture 7: Stegosauria](https://ucmerced.box.com/s/alvm0ro85t0ne5vxk9aajpieqz35iy88){:target="_blank"}  
 * [Lecture 8: Ankylosauria](https://ucmerced.box.com/s/6wxddak9jbniub0fhqetzdiuv42caeno){:target="_blank"}  
+* [Lecture 9: Pachycephalosaurs](https://ucmerced.box.com/s/ptssmwmxy2m0qtaqir7ch4gn5of8tdx1){:target="_blank"}  
 
 <!-- 
 ## FINAL EXAM
