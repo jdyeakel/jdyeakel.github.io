@@ -87,7 +87,7 @@ tr:nth-child(odd) {background: #FFF}
 | ---------- | ---------- | ----------- | --------------- | ------------- |
 | 2 | **1/28**  | **Sunday @ midnight** | [Homework 1 - Stratigraphy]({{ site.url }}/teaching/dinos/hmwk1_strat.pdf){:target="_blank"} |
 | 4 | **2/4**  | **Sunday @ midnight** | [Homework 2 - Cladistics]({{ site.url }}/teaching/dinos/hmwk2_cladistics.pdf){:target="_blank"} |
-| 5 | **2/11**  | **Sunday @ midnight** | [Homework 3 - early life]({{ site.url }}/teaching/dinos/hmwk3_earlylife.pdf){:target="_blank"} |
+| 5 | **2/11**  | **Sunday @ midnight** | [Homework 3 - Early life]({{ site.url }}/teaching/dinos/hmwk3_earlylife.pdf){:target="_blank"} |
 | 7 | **3/03**  | **Sunday @ midnight** | [Homework 4 - Ornithischia]({{ site.url }}/teaching/dinos/hmwk4_ornithischians.pdf){:target="_blank"} |
 
 
