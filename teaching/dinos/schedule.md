@@ -58,7 +58,7 @@ tr:nth-child(odd) {background: #FFF}
 | 7 | **2/26** | **M-L10** | Marginocephalians | Ceratops | Fast. Chp. 11 |
 |  | **2/28** | **W** |  | **NO CLASS** |  |
 | 8 | **3/4** | **M-L11** | Ornithopods |  | Fast. Chp. 12 |
-|  | **3/6** | **W-L12** | Sauropods 1 |  | Fast. Part III, Chp. 9 |
+|  | **3/6** | **W-L12** | Sauropods  |  | Fast. Part III, Chp. 9 |
 | 9 | **3/11** | **M-L13** | Paleobiology 1 |  | Fast. Chp. 13 |
 |  | **3/13** | **W-L14** | Paleobiology 2 |  | Fast. Chp. 14 |
 | 10 | **3/18** | **M** | ***Exam II*** | In class |  |
