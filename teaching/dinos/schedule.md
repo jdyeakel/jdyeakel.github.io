@@ -56,7 +56,7 @@ tr:nth-child(odd) {background: #FFF}
 | 6 |  **2/19** | **M** | President's Day   | **NO CLASS** |  |
 |  | **2/21** | **W-L9** | Marginocephalians | Pachys | Fast. Chp. 11 |
 | 7 | **2/26** | **M-L10** | Marginocephalians | Ceratops | Fast. Chp. 11 |
-|  | **2/28** | **W** | **No Class** |  |  |
+|  | **2/28** | **W** |  | **NO CLASS** |  |
 | 8 | **3/4** | **M-L11** | Ornithopods |  | Fast. Chp. 12 |
 |  | **3/6** | **W-L12** | Sauropods 1 |  | Fast. Part III, Chp. 9 |
 | 9 | **3/11** | **M-L13** | Paleobiology 1 |  | Fast. Chp. 13 |
