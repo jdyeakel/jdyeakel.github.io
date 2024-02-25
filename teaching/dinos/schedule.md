@@ -56,27 +56,28 @@ tr:nth-child(odd) {background: #FFF}
 | 6 |  **2/19** | **M** | President's Day   | **NO CLASS** |  |
 |  | **2/21** | **W-L9** | Marginocephalians | Pachys | Fast. Chp. 11 |
 | 7 | **2/26** | **M-L10** | Marginocephalians | Ceratops | Fast. Chp. 11 |
-|  | **2/28** | **W-L11** | Ornithopods |  | Fast. Chp. 12 |
-| 8 | **3/4** | **M-L12** | Sauropods 1 |  | Fast. Part III, Chp. 9 |
-|  | **3/6** | **W-L13** | Sauropods 2 |  |    |
-| 9 | **3/11** | **M-L14** | Paleobiology 1 |  | Fast. Chp. 13 |
-|  | **3/13** | **W-L15** | Paleobiology 2 |  | Fast. Chp. 14 |
+|  | **2/28** | **W** | **No Class** |  |  |
+| 8 | **3/4** | **M-L11** | Ornithopods |  | Fast. Chp. 12 |
+|  | **3/6** | **W-L12** | Sauropods 1 |  | Fast. Part III, Chp. 9 |
+| 9 | **3/11** | **M-L13** | Paleobiology 1 |  | Fast. Chp. 13 |
+|  | **3/13** | **W-L14** | Paleobiology 2 |  | Fast. Chp. 14 |
 | 10 | **3/18** | **M** | ***Exam II*** | In class |  |
-|  | **3/20** | **W-L16** | Theropods 1 |  | Fast. Chp. 6 |
+|  | **3/20** | **W-L15** | Theropods 1 |  | Fast. Chp. 6 |
 | 11 | **3/25** | **M** | Spring Break | **NO CLASS** |  |
 |  | **3/27** | **W** | Spring Break | **NO CLASS** |  |
-| 12 | **4/1** | **M-L17** | Theropods 2 |  | Fast. Chp. 7 |
-|  | **4/3** | **W-L18** | Origin of Birds 1 |  | Fast. Chp. 8 |
-| 13 | **4/8** | **M-L19** |  Origin of Birds 2 |  |  |
+| 12 | **4/1** | **M-L16** | Theropods 2 |  | Fast. Chp. 7 |
+|  | **4/3** | **W-L17** | Origin of Birds 1 |  | Fast. Chp. 8 |
+| 13 | **4/8** | **M-L18** |  Origin of Birds 2 |  |  |
 |  | **4/10** | **W** | ***Exam III*** |  |  |
-| 14 | **4/15** | **M-L20** | Flying Reptiles |  | TBD |
-|  | **4/17** | **W-L21** |Swimming Reptiles |  | TBD |
-| 15 | **4/22** | **M-L22** |  Mammals |  | TBD |
-|  | **4/24** | **W-L23** |  The Mesozoic World |  | Fast. Chp. 15 |
-| 16 | **4/29** | **M-L24** | Extinction |  | Fast. Chp. 17 |
+| 14 | **4/15** | **M-L19** | Flying Reptiles |  | TBD |
+|  | **4/17** | **W-L20** |Swimming Reptiles |  | TBD |
+| 15 | **4/22** | **M-L21** |  Mammals |  | TBD |
+|  | **4/24** | **W-L22** |  The Mesozoic World |  | Fast. Chp. 15 |
+| 16 | **4/29** | **M-L23** | Extinction |  | Fast. Chp. 17 |
 |  | **5/1** | **W** | ***Exam IV***  | In class |  |
 
-<!-- | 17 | **5/8** | **Sat.** | ***FINAL EXAM*** |   |  | -->
+<!-- | 17 | **5/8** | **Sat.** | ***FINAL EXAM*** |   |  | 
+|  | **3/13** | **W-L15** | Paleobiology 2 |  | Fast. Chp. 14 |-->
 
 
 ## Homework Schedule - check for updates

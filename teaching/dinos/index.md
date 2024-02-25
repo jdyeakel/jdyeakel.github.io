@@ -16,6 +16,10 @@ Welcome to the course website for ***Natural History of Dinosaurs***. This will 
 * [Syllabus]({{ site.url }}/teaching/dinos/syllabus)  
 * [Schedule]({{ site.url }}/teaching/dinos/schedule)  
 
+### Announcements
+* ***No Office Hours or Lecture Wednesday Feb 28***
+
+---
 
 ### Lecture Slides  
 * [Lecture 1: Paleontology and Sedimentology](https://ucmerced.box.com/s/fdwpf0fr4l9je0p2egxjjcg1grk9subn){:target="_blank"}  
