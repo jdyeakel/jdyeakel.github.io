@@ -31,6 +31,7 @@ Welcome to the course website for ***Natural History of Dinosaurs***. This will 
 * [Lecture 8: Ankylosauria](https://ucmerced.box.com/s/6wxddak9jbniub0fhqetzdiuv42caeno){:target="_blank"}  
 * [Lecture 9: Pachycephalosaurs](https://ucmerced.box.com/s/ptssmwmxy2m0qtaqir7ch4gn5of8tdx1){:target="_blank"}  
 * [Lecture 10: Ceratopsians](https://ucmerced.box.com/s/0jpk3sdwqsu17hosp2azfsvqiyq4k7e8){:target="_blank"}   
+* [Lecture 11: Ornithopods](https://ucmerced.box.com/s/4vy3g0ezkh0keys6n30vhs3axv8sh188){:target="_blank"}  
 
 
 <!-- 
