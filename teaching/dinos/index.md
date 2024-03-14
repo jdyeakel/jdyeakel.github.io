@@ -32,8 +32,8 @@ Welcome to the course website for ***Natural History of Dinosaurs***. This will 
 * [Lecture 9: Pachycephalosaurs](https://ucmerced.box.com/s/ptssmwmxy2m0qtaqir7ch4gn5of8tdx1){:target="_blank"}  
 * [Lecture 10: Ceratopsians](https://ucmerced.box.com/s/0jpk3sdwqsu17hosp2azfsvqiyq4k7e8){:target="_blank"}   
 * [Lecture 11: Ornithopods](https://ucmerced.box.com/s/4vy3g0ezkh0keys6n30vhs3axv8sh188){:target="_blank"}  
-* [Lecture 12: Sauropods](https://ucmerced.box.com/s/5zy184c1lrhq7oqpieu6a048p44ob6wa){:target="_blank"}  
-
+* [Lecture 12 & 13: Sauropods](https://ucmerced.box.com/s/5zy184c1lrhq7oqpieu6a048p44ob6wa){:target="_blank"}  
+* [Lecture 14: Metabolism](https://ucmerced.box.com/s/5qn628t62d0g4wjs2fe6j9l5k2jh6ef6){:target="_blank"}  
 
 <!-- 
 ## FINAL EXAM
