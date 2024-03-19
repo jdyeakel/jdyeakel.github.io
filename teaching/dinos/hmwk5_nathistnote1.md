@@ -55,6 +55,5 @@
 - Recent studies suggest the plates had blood vessels, supporting the thermoregulation theory.
 - The spiked tail (thagomizer) was likely a defensive tool against predators.
 
-**Reflection:** (Optional) I chose Stegosaurus because its iconic plates and spikes embody the fascinating variety of evolutionary adaptations dinosaurs developed. Learning about it highlights the complex interplay between form, function, and environment in dinosaur evolution.
 
-Note - your natural history note can use other details, but should be limited to one page.
+***Note - your natural history note should include other details and/or diagrams/images/etc, but should be limited to one page.***
