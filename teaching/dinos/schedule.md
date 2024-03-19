@@ -90,7 +90,7 @@ tr:nth-child(odd) {background: #FFF}
 | 4 | **2/4**  | **Sunday @ midnight** | [Homework 2 - Cladistics]({{ site.url }}/teaching/dinos/hmwk2_cladistics.pdf){:target="_blank"} |
 | 5 | **2/11**  | **Sunday @ midnight** | [Homework 3 - Early life]({{ site.url }}/teaching/dinos/hmwk3_earlylife.pdf){:target="_blank"} |
 | 7 | **3/03**  | **Sunday @ midnight** | [Homework 4 - Ornithischia]({{ site.url }}/teaching/dinos/hmwk4_ornithischians.pdf){:target="_blank"} |
-
+| 10 | **3/31** | **Sunday @ midnight** | [Homework 5 - A natural history note]({{ site.url }}/teaching/dinos/hmwk5_nathistnote1.pdf){:target="_blank"} |
 
 
 
