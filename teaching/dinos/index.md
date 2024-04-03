@@ -34,6 +34,9 @@ Welcome to the course website for ***Natural History of Dinosaurs***. This will 
 * [Lecture 11: Ornithopods](https://ucmerced.box.com/s/4vy3g0ezkh0keys6n30vhs3axv8sh188){:target="_blank"}  
 * [Lecture 12 & 13: Sauropods](https://ucmerced.box.com/s/5zy184c1lrhq7oqpieu6a048p44ob6wa){:target="_blank"}  
 * [Lecture 14: Metabolism](https://ucmerced.box.com/s/5qn628t62d0g4wjs2fe6j9l5k2jh6ef6){:target="_blank"}  
+* [Lecture 15: Body Size](https://ucmerced.box.com/s/at28a1x1050t2a2xpeax51nqkjpvywtq){:target="_blank"}  
+* [Lectures 16-17: Theropods I](https://ucmerced.box.com/s/s2l1ft9htkrdsq03pc19dtkop7e2ezfr){:target="_blank"}  
+
 
 <!-- 
 ## FINAL EXAM

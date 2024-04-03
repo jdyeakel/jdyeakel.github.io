@@ -68,8 +68,8 @@ tr:nth-child(odd) {background: #FFF}
 | 12 | **4/1** | **M-L16** | Theropods 2 |  | Fast. Chp. 7 |
 |  | **4/3** | **W-L17** | Origin of Birds 1 |  | Fast. Chp. 8 |
 | 13 | **4/8** | **M-L18** |  Origin of Birds 2 |  |  |
-|  | **4/10** | **W** | ***Exam III*** |  |  |
-| 14 | **4/15** | **M-L19** | Flying Reptiles |  | TBD |
+|  | **4/10** | **W-L19** | Flying Reptiles |  | TBD |
+| 14 | **4/15** | **M** | ***Exam III*** |  |  |
 |  | **4/17** | **W-L20** |Swimming Reptiles |  | TBD |
 | 15 | **4/22** | **M-L21** |  Mammals |  | TBD |
 |  | **4/24** | **W-L22** |  The Mesozoic World |  | Fast. Chp. 15 |
