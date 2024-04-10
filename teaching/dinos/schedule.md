@@ -91,7 +91,7 @@ tr:nth-child(odd) {background: #FFF}
 | 5 | **2/11**  | **Sunday @ midnight** | [Homework 3 - Early life]({{ site.url }}/teaching/dinos/hmwk3_earlylife.pdf){:target="_blank"} |
 | 7 | **3/03**  | **Sunday @ midnight** | [Homework 4 - Ornithischia]({{ site.url }}/teaching/dinos/hmwk4_ornithischians.pdf){:target="_blank"} |
 | 10 | **3/24** | **Sunday @ midnight** | [Homework 5 - A natural history note]({{ site.url }}/teaching/dinos/hmwk5_nathistnote1.pdf){:target="_blank"} |
-
+| 14 | **4/17** | **Wednesday @ midnight** | [Homework 6 - The Mesozoic in scientific literature]({{ site.url }}/teaching/dinos/hmwk6_scientificpaper.pdf){:target="_blank"} |
 
 
 
