@@ -70,7 +70,7 @@ tr:nth-child(odd) {background: #FFF}
 | 13 | **4/8** | **M-L18** |  Origin of Birds 2 |  |  |
 |  | **4/10** | **W-L19** | Flying Reptiles |  | [AmSci article]({{ site.url }}/teaching/dinos/flyingreptiles_reading.pdf){:target="_blank"} |
 | 14 | **4/15** | **M** | ***Exam III*** |  |  |
-|  | **4/17** | **W-L20** |Swimming Reptiles |  | TBD |
+|  | **4/17** | **W-L20** |Swimming Reptiles & Crocs |  | [Marine Reptiles]({{ site.url }}/teaching/dinos/Motani_Evo_Edu_Outreach_2009.pdf){:target="_blank"} |
 | 15 | **4/22** | **M-L21** |  Mammals |  | TBD |
 |  | **4/24** | **W-L22** |  The Mesozoic World |  | Fast. Chp. 15 |
 | 16 | **4/29** | **M-L23** | Extinction |  | Fast. Chp. 17 |
