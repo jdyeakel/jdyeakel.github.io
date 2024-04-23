@@ -39,7 +39,8 @@ Welcome to the course website for ***Natural History of Dinosaurs***. This will 
 * [Lectures 18: Theropods II](https://ucmerced.box.com/s/0o6ec0vx16v5str97nsz3pr8k2o4lxk1){:target="_blank"}  
 * [Lecture 19a: Evolution of Birds](https://ucmerced.box.com/s/aimxqsppwjz4o5uz360nxjdt6239kdbc){:target="_blank"}  
 * [Lecture 19b: Flying Reptiles](https://ucmerced.box.com/s/bf1mpnnuq2uf3ew7260veokuyf2nyi4i){:target="_blank"}  
-
+* [Lexure 20: Aquatic Reptiles](https://ucmerced.box.com/s/c6ip1z8kkl78xahd4f0kptpssdfdloh7){:target="_blank"}  
+* [Lecture 21: Crocs and the Mesozoic World](https://ucmerced.box.com/s/6o432ko51vdy4qpsbqndlkiu2igqgadi){:target="_blank"}  
 
 <!-- 
 ## FINAL EXAM
