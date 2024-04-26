@@ -13,6 +13,8 @@ image:
 
 ## $$\because$$ Quantitative Ecological Dynamics Group $$\because$$  
 
+> *"What counts is that I have discovered the question to ask and a good question is, of course, the key by which infinite answers can be educed"*  
+> *-Isaac Asimov (Foundation's Edge)*  
 
 <p>
   <span class="firstcharacter">W</span>
