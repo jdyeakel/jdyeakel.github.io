@@ -41,6 +41,7 @@ Welcome to the course website for ***Natural History of Dinosaurs***. This will 
 * [Lecture 19b: Flying Reptiles](https://ucmerced.box.com/s/bf1mpnnuq2uf3ew7260veokuyf2nyi4i){:target="_blank"}  
 * [Lexure 20: Aquatic Reptiles](https://ucmerced.box.com/s/c6ip1z8kkl78xahd4f0kptpssdfdloh7){:target="_blank"}  
 * [Lecture 21: Crocs and the Mesozoic World](https://ucmerced.box.com/s/6o432ko51vdy4qpsbqndlkiu2igqgadi){:target="_blank"}  
+* [Lecture 22: Mammals](https://ucmerced.box.com/s/c4sq791vy0q89ylnmjqgaiku07wxxhmy){:target="_blank"}  
 
 <!-- 
 ## FINAL EXAM
