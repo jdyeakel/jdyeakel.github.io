@@ -35,7 +35,7 @@ Welcome to the course website for ***Natural History of Dinosaurs***. This will 
 * [Lecture 12 & 13: Sauropods](https://ucmerced.box.com/s/5zy184c1lrhq7oqpieu6a048p44ob6wa){:target="_blank"}  
 * [Lecture 14: Metabolism](https://ucmerced.box.com/s/5qn628t62d0g4wjs2fe6j9l5k2jh6ef6){:target="_blank"}  
 * [Lecture 15: Body Size](https://ucmerced.box.com/s/at28a1x1050t2a2xpeax51nqkjpvywtq){:target="_blank"}  
-* [Lectures 16-17: Theropods I](https://ucmerced.box.com/s/s2l1ft9htkrdsq03pc19dtkop7e2ezfr){:target="_blank"}  
+* [Lectures 16 & 17: Theropods I](https://ucmerced.box.com/s/s2l1ft9htkrdsq03pc19dtkop7e2ezfr){:target="_blank"}  
 * [Lectures 18: Theropods II](https://ucmerced.box.com/s/0o6ec0vx16v5str97nsz3pr8k2o4lxk1){:target="_blank"}  
 * [Lecture 19a: Evolution of Birds](https://ucmerced.box.com/s/aimxqsppwjz4o5uz360nxjdt6239kdbc){:target="_blank"}  
 * [Lecture 19b: Flying Reptiles](https://ucmerced.box.com/s/bf1mpnnuq2uf3ew7260veokuyf2nyi4i){:target="_blank"}  
