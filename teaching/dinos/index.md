@@ -42,6 +42,8 @@ Welcome to the course website for ***Natural History of Dinosaurs***. This will 
 * [Lexure 20: Aquatic Reptiles](https://ucmerced.box.com/s/c6ip1z8kkl78xahd4f0kptpssdfdloh7){:target="_blank"}  
 * [Lecture 21: Crocs and the Mesozoic World](https://ucmerced.box.com/s/6o432ko51vdy4qpsbqndlkiu2igqgadi){:target="_blank"}  
 * [Lecture 22: Mammals](https://ucmerced.box.com/s/c4sq791vy0q89ylnmjqgaiku07wxxhmy){:target="_blank"}  
+* [Lecture 23: Extinctions](https://ucmerced.box.com/s/ddow21wj4dmfrksdv7856ja251b4zr4o){:target="_blank"}  
+
 
 <!-- 
 ## FINAL EXAM
