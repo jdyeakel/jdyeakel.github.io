@@ -16,14 +16,18 @@ comments: true
 
 In Review
 :	* Dominy N.J., Rosien J., Fannin L., <span style="color:#4292E5;">Yeakel J.D.</span>, Malaivijitnond S., Tan A. Food-washing monkeys recognize the law of diminishing returns. [Preprint](https://assets.researchsquare.com/files/rs-3867327/v1/5f28e282-6865-4867-820d-30a9a3a9c3d0.pdf?c=1706717973){:target="_blank"}.
+
+	* Fannin L.D., Seyoum C.M., Venkataraman V.V., <span style="color:#4292E5;">Yeakel J.D.</span>, Janis C.M., Cerling T.E., Dominy N.J. Behavioral drive during human evolution. In revision @ *Science*.
 	
 	* ☕ Suswaram M., Bhat U., <span style="color:#4292E5;">Yeakel J.D.</span> Rising above the noise: the influence of population dynamics on the evolution of acoustic signaling. In review @ *Journal of Physics: Complexity*. [Preprint](https://www.biorxiv.org/content/10.1101/2022.09.02.506422v1){:target="_blank"}.
 
-	* ☕ Rallings T., Kempes C.P., <span style="color:#4292E5;">Yeakel J.D.</span> On the dynamics of mortality and the ephemeral nature of mammalian megafauna. In review @ *The American Naturalist*. [Preprint](https://doi.org/10.48550/arXiv.2211.16638){:target="_blank"}.
+	
 
 
 2024
-:	* ☕ Ritwika V.P.S., Gopinathan A.J., <span style="color:#4292E5;">Yeakel J.D.</span> Beyond the kill: The allometry of predation behaviours among large carnivores. In press @ *Journal of Animal Ecology*.
+:	* ☕ Rallings T., Kempes C.P., <span style="color:#4292E5;">Yeakel J.D.</span> On the dynamics of mortality and the ephemeral nature of mammalian megafauna. In review @ *The American Naturalist*. [Preprint](https://doi.org/10.48550/arXiv.2211.16638){:target="_blank"}.
+
+	* ☕ Ritwika V.P.S., Gopinathan A.J., <span style="color:#4292E5;">Yeakel J.D.</span> Beyond the kill: The allometry of predation behaviours among large carnivores. In press @ *Journal of Animal Ecology*.
 
 2023
 :	* Valdovinos F.S., Hale K.R.S., Dritz S., Glaum P.R., Mccann K.S., Simon S.M., Thébault E., Wetzel W.C., Wootton K.L., <span style="color:#4292E5;">Yeakel J.D.</span> A bioenergetic framework for aboveground terrestrial food webs. [*Trends in Ecology and Evolution*](https://www.sciencedirect.com/science/article/pii/S0169534722002841){:target="_blank"}.
