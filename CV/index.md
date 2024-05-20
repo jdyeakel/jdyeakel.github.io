@@ -25,7 +25,7 @@ In Review
 
 
 2024
-:	* ☕ Rallings T., Kempes C.P., <span style="color:#4292E5;">Yeakel J.D.</span> On the dynamics of mortality and the ephemeral nature of mammalian megafauna. In review @ *The American Naturalist*. [Preprint](https://doi.org/10.48550/arXiv.2211.16638){:target="_blank"}.
+:	* ☕ Rallings T., Kempes C.P., <span style="color:#4292E5;">Yeakel J.D.</span> On the dynamics of mortality and the ephemeral nature of mammalian megafauna. In press @ *The American Naturalist*. [Preprint](https://doi.org/10.48550/arXiv.2211.16638){:target="_blank"}.
 
 	* ☕ Ritwika V.P.S., Gopinathan A.J., <span style="color:#4292E5;">Yeakel J.D.</span> Beyond the kill: The allometry of predation behaviours among large carnivores. In press @ *Journal of Animal Ecology*.
 
