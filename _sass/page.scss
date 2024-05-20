@@ -348,6 +348,10 @@ $button-size: 1.5rem;
 		max-width: 110px;
 		@include rounded(150px);
 	}
+	.cv-photo {
+		max-width: 210px;
+		max-height: 310px;
+	}
 	@media #{$small} {
 		display: block;
 		@include grid(12,2);
@@ -373,9 +377,10 @@ $button-size: 1.5rem;
 	@media #{$large} {
 		h3,
 		.bio-photo,
+		.cv-photo,
 		p,
 		.author-social {
-			max-width: 150px;
+			max-width: 250px;
 		}
 	}
 	@media #{$x-large} {
