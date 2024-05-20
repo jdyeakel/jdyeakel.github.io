@@ -120,8 +120,15 @@ dt {
 	width: 57px;
 }
 
+
 dd {
-	border-left: 1px solid #74ADD1;
+	border-left: 3px solid #74ADD1;
+	margin: -5px 0 -15px 63px;
+	padding: 0 0 0 9px;
+}
+
+dd.review {
+	border-left: 3px solid #6bdc61; // New border color
 	margin: -5px 0 -15px 63px;
 	padding: 0 0 0 9px;
 }
