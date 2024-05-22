@@ -29,10 +29,10 @@ comments: true
 **2024**
 :	* ☕ Rallings T., Kempes C.P., <span style="color:#4292E5;">Yeakel J.D.</span> On the dynamics of mortality and the ephemeral nature of mammalian megafauna. In press @ *The American Naturalist*. [Preprint](https://doi.org/10.48550/arXiv.2211.16638){:target="_blank"}.
 
-	* ☕ Ritwika V.P.S., Gopinathan A.J., <span style="color:#4292E5;">Yeakel J.D.</span> [Beyond the kill: The allometry of predation behaviours among large carnivores](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2656.14070) *Journal of Animal Ecology* 93 (5) 554-566.
+	* ☕ Ritwika V.P.S., Gopinathan A.J., <span style="color:#4292E5;">Yeakel J.D.</span> [Beyond the kill: The allometry of predation behaviours among large carnivores](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2656.14070){:target="_blank"} *Journal of Animal Ecology* 93 (5) 554-566.
 
 **2023**
-:	* Valdovinos F.S., Hale K.R.S., Dritz S., Glaum P.R., Mccann K.S., Simon S.M., Thébault E., Wetzel W.C., Wootton K.L., <span style="color:#4292E5;">Yeakel J.D.</span> A bioenergetic framework for aboveground terrestrial food webs. [*Trends in Ecology and Evolution*](https://www.sciencedirect.com/science/article/pii/S0169534722002841){:target="_blank"}.
+:	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1016/j.tree.2022.11.004"></div> Valdovinos F.S., Hale K.R.S., Dritz S., Glaum P.R., Mccann K.S., Simon S.M., Thébault E., Wetzel W.C., Wootton K.L., <span style="color:#4292E5;">Yeakel J.D.</span> [A bioenergetic framework for aboveground terrestrial food webs](https://www.sciencedirect.com/science/article/pii/S0169534722002841){:target="_blank"} *Trends in Ecology and Evolution*.
 
 
 **2022**

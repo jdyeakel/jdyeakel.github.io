@@ -48,7 +48,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 * [Section 6: Disease]({{ site.url }}/teaching/ecology/summersections/section_6_disease){:target="_blank"}  
 * [Demo: Island Biogeography]({{ site.url }}/teaching/ecology/summersections/demo_5_biogeography){:target="_blank"}  
 
-
+<!-- 
 ## Lecture Recordings
 * [Lecture 1: 6/20](https://ucmerced.box.com/s/kyxnsplc88aw1nen4y7zs8ljhz2j9jbl){:target="_blank"}  
 * [Lecture 2: 6/22](https://ucmerced.box.com/s/zpcyahr7i4rw4qhakuwujaw86el0amwe){:target="_blank"}  
@@ -66,7 +66,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 * [Lecture 12: 8/1](https://ucmerced.box.com/s/1ivkvo4s2cn65ucshm7k4co9bjs37j21){:target="_blank"}  
 * [Lecture 13: 8/3](https://ucmerced.box.com/s/1gn0yw4tfnu81l93b84h6k36fz68sr1q){:target="_blank"}  
 * [Lecture 14: 8/8](https://ucmerced.box.com/s/5ohxszijfhw86kkv0mnja07w6tx6ousr){:target="_blank"}   
-
+ -->
 
 
 
