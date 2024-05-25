@@ -17,6 +17,12 @@ image:
   e are a diverse group of ecologists and evolutionary biologists who investigate how individuals, populations, and communities function using a combination of theory, statistical approaches, and sometimes even data. The questions that we investigate range from understanding how food webs are structured and function over large temporal and spatial scales, to what rodents eat and why, to uncovering energetic thresholds constraining mammalian body size evolution, to predicting when crickets should lose their chirp, to exploring the effects of assembly and ecological engineers on evolving communities, to predicting behavioral transitions among mammalian carnivores. While our interests are varied, we aim to apply simple models in mature ways to uncover the fundamental processes governing the dynamics of eco-evolutionary systems over contemporary and paleontological timescales.  
 </p>
 
+<!-- <a href="https://example.com" class="btn">Primary Button</a>
+<a href="https://example.com" class="btn btn-success">Success Button</a>
+<a href="https://example.com" class="btn btn-warning">Warning Button</a>
+<a href="https://example.com" class="btn btn-danger">Danger Button</a>
+<a href="https://example.com" class="btn btn-info">Info Button</a> -->
+
 ---
 
 ### $$\oint$$ News & Updates   
