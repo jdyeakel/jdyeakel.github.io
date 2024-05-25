@@ -38,8 +38,9 @@ I generally use network-theoretic approaches – combined with empirical measure
 
 <span style="text-align=left;font-size:1.5em;color:#4292E5;">Principal Investigator</span>   
 <div>
-<p style="float: left;padding-right:25px"><img src="/images/justin-web.jpg" width="125"></p>    
-<b>Justin D. Yeakel:</b> "In a nutshell, I am fascinated by the ecological and physiological constraints that drive trophic interactions between species, and how such interactions trickle up to impact populations and communities over large spatial and temporal scales." <a href="http://jdyeakel.github.io/pdfs/Yeakel_CV.pdf" target="_blank">CV (PDF)</a> | <a href="http://scholar.google.com/citations?user=nWHtsZYAAAAJ&hl=en&oi=sra" target="_blank">Google Scholar</a> <BR> <BR>
+<!-- <p style="float: left;padding-right:25px"><img src="/images/justin-web.jpg" width="125"></p>     -->
+  <p style="float: left; padding-right: 25px;"><img src="/images/justin-web.jpg" style="clip-path: ellipse(50% 50%); width: 125px; height: auto;" alt="Justin D. Yeakel bio photo"></p> 
+<b>Justin D. Yeakel:</b> "In a nutshell, I am fascinated by the ecological and physiological constraints that drive trophic interactions between species, and how such interactions trickle up to impact populations and communities over large spatial and temporal scales." <a href="{{ site.url }}/CV/Yeakel_CV/Yeakel_CV.pdf" target="_blank">CV (PDF)</a> | <a href="http://scholar.google.com/citations?user=nWHtsZYAAAAJ&hl=en&oi=sra" target="_blank">Google Scholar</a> <BR> <BR>
 </div>       
 
 <BR CLEAR="...">
@@ -57,25 +58,34 @@ Check back soon...
 
 <span style="text-align=left;font-size:1.5em;color:#4292E5;">Graduate Researchers</span> 
 <div>
-<p style="float: left;padding-right:25px"><img src="/images/Irina-web.jpg" width="125"></p>
+<p style="float: left;padding-right:25px"><img src="/images/Irina-web.jpg" style="clip-path: ellipse(50% 50%); width: 125px; height: auto;"></p>
  <b><a href="https://birskisbarros.weebly.com/" target="_blank">Irina Birskis Barros</a></b> "I am interested in how species assemble into communities, especially how diversity shapes and is shaped by species interactions. I aim to use empirical data, mathematical modeling and network theory to investigate how ecological networks assemble and what factors might influence their stability and structure over evolutionary time."  <BR> <BR>     
 </div>     
 
 <BR CLEAR="...">   
 
-<div>
-<p style="float: left;padding-right:25px"><img src="/images/anna-web.jpg" width="125"></p>
- <b>Anna Carolina Dias de Almeida</b> "I am broadly interested in eco-evolutionary dynamics and the gap in knowledge between micro and macroevolution. More specifically, I'm interested in how complex ecological interactions can affect the evolution of species. I aim to use mathematical modeling and empirical data to explore how predator-prey, competition and mutualistic interactions can act on a macroevolutionary scale, and analyze evolutionary events, such as speciation, extinction, and hybridization."  <BR> <BR>     
-</div>     
+<div style="display: flex; align-items: flex-start;">
+    <div style="flex-shrink: 0; padding-right: 25px;">
+        <img src="/images/anna-web.jpg" style="clip-path: ellipse(50% 50%); width: 125px; height: auto;" alt="Anna Carolina Dias de Almeida bio photo">
+    </div>
+    <div>
+        <b>Anna Carolina Dias de Almeida</b> "I am broadly interested in eco-evolutionary dynamics and the gap in knowledge between micro and macroevolution. More specifically, I'm interested in how complex ecological interactions can affect the evolution of species. I aim to use mathematical modeling and empirical data to explore how predator-prey, competition and mutualistic interactions can act on a macroevolutionary scale, and analyze evolutionary events, such as speciation, extinction, and hybridization."
+        <br><br>
+    </div>
+</div> 
 
 <BR CLEAR="...">
 
 ---    
 
 <span style="text-align=left;font-size:1.5em;color:#4292E5;">Undergraduate Researchers</span> 
-<div>
-<p style="float: left;padding-right:25px"><img src="/images/person.jpg" width="125"></p>
-<b>Your Name Here</b> "If you're an undergraduate student at UC Merced and would like to join our group, please get in touch!"  <BR> <BR> <BR> <BR>     
+<div style="display: flex; align-items: flex-start;">
+    <div style="flex-shrink: 0; padding-right: 25px;">
+      <img src="/images/person.jpg" style="clip-path: ellipse(50% 50%); width: 125px; height: auto;">
+    </div>
+  <div>
+    <b>Your Name Here</b> "If you're an undergraduate student at UC Merced and would like to join our group, please get in touch!"  <BR> <BR> <BR> <BR>     
+  </div> 
 </div>     
 
 <BR CLEAR="...">
@@ -83,57 +93,92 @@ Check back soon...
 ---
 
 <span style="text-align=left;font-size:1.5em;color:#4292E5;">Lab Alumni</span>
+<div style="display: flex; align-items: flex-start;">
+    <div style="flex-shrink: 0; padding-right: 25px;">
+      <img src="/images/Taran-web.jpg" style="clip-path: ellipse(50% 50%); width: 125px; height: auto;">
+    </div>
 <div>
-<p style="float: left;padding-right:25px"><img src="/images/Taran-web.jpg" width="125"></p>
-<b>Dr. Taran Rallings Ph.D. (Quant. Sys. Biology)</b> <b>Postdoctoral Researcher, Imperial College London (Silwood Park)</b>"I am interested in how we set conservation baselines. I want to use modelling, food web theory, and paleocology to compare modern and historical communities with an eye to  conservation and restoration. This includes questions of how to best restore food webs to early baselines - the usefulness of ecological surrogates and de-extinction, stabilizing reintroduction orders, etc. This information may help us make better decisions about existing projects like Pleistocene Park and help structure future rewilding attempts."  <BR> <BR>     
+  <b>Dr. Taran Rallings Ph.D. (Quant. Sys. Biology)</b> <b>Postdoctoral Researcher, Imperial College London (Silwood Park)</b>"I am interested in how we set conservation baselines. I want to use modelling, food web theory, and paleocology to compare modern and historical communities with an eye to  conservation and restoration. This includes questions of how to best restore food webs to early baselines - the usefulness of ecological surrogates and de-extinction, stabilizing reintroduction orders, etc. This information may help us make better decisions about existing projects like Pleistocene Park and help structure future rewilding attempts."  <BR> <BR>     
+  </div> 
 </div>     
 
 <BR CLEAR="...">   
 
-<div>
-<p style="float: left;padding-right:25px"><img src="/images/Megha-web.jpg" width="125"></p>
+<div style="display: flex; align-items: flex-start;">
+    <div style="flex-shrink: 0; padding-right: 25px;">
+      <img src="/images/Megha-web.jpg" style="clip-path: ellipse(50% 50%); width: 125px; height: auto;">
+    </div>
+<div>  
 <b><a href="http://www.meghasuswaram.com" target="_blank">Dr. Megha Suswaram Ph.D. (Quant. Sys. Biology)</a></b> "I am broadly interested in how phenotypic variation evolves with complex ecological interactions. I use modeling to understand trophic interactions, feedbacks and selection pressures in eco-evolutionary biology.  I am particularly interested in understanding the effect of antagonistic selection pressures on phenotypic trait evolution and how it changes predator – prey dynamics. I am also exploring conditions under which mutualisms may evolve between the different kind of predator-prey interactions."  <BR> <BR>     
-</div>     
+  </div> 
+</div>      
 
 <BR CLEAR="...">
 
 
-<div>
-<p style="float: left;padding-right:25px"><img src="/images/Ritwika-web2.jpg" width="125"></p>
+<div style="display: flex; align-items: flex-start;">
+    <div style="flex-shrink: 0; padding-right: 25px;">
+    <img src="/images/Ritwika-web2.jpg" style="clip-path: ellipse(50% 50%); width: 125px; height: auto;">
+    </div>
+<div> 
 <b>Dr. Ritwika VPS Ph.D. (Physics)</b> <b>Postdoctoral Researcher at UCLA</b> "I joined UC Merced as a physics grad student in Fall 2015. I have long been interested in the scope of using physics to solve problems in ecology and evolutionary biology, hence my interest in the Yeakel lab. Currently, I work on an eclectic collection of problems which includes looking at vocalisation in human infants as an acoustic foraging process, studying the dynamics of a population of foragers given a choice of strategies, and looking at the collective motion of phototactic bacteria."  <BR> <BR>     
-</div>     
+  </div> 
+</div>       
 
 <BR CLEAR="...">
 
 
-<div>
-<p style="float: left;padding-right:25px"><img src="/images/Uttam-web.jpg" width="125"></p> <b><a href="https://scholar.google.com/citations?user=8AVQ7NgAAAAJ&hl=en" target="_blank">Dr. Uttam Bhat, Ph.D.</a></b> <b>Former Postdoctoral Fellow; Data Scientist, Climate LLC</b> "I study problems in ecology using tools from physics. In particular, currently I'm studying how different foraging behaviors affect the depletion pattern in the environment, and in turn how the depletion affects the forager's lifetime. For this, I use tools from random walks, first-passage processes and asymptotic analysis."  <BR> <BR>     
-</div>     
-
-<BR CLEAR="...">
-
-<div>
-<p style="float: left;padding-right:25px"><img src="/images/JP-web.jpg" width="125"></p> <b><a href="http://jeanpgibert.weebly.com" target="_blank">Jean-Philippe Gibert</a></b> <b>Former McDonnell Fellow; Assistant Professor, Duke University NC</b> "I study how phenotypic variation affects the structure and dynamics of complex food webs and how this effect is mediated by environmental factors such as temperature. To do so, I integrate information across systems and taxa and often combine mathematical, computational and empirical tools." <BR> <BR> 
+<div style="display: flex; align-items: flex-start;">
+    <div style="flex-shrink: 0; padding-right: 25px;">
+    <img src="/images/Uttam-web.jpg" style="clip-path: ellipse(50% 50%); width: 125px; height: auto;">
+    </div>
+<div> 
+    <b><a href="https://scholar.google.com/citations?user=8AVQ7NgAAAAJ&hl=en" target="_blank">Dr. Uttam Bhat, Ph.D.</a></b> <b>Former Postdoctoral Fellow; Data Scientist, Climate LLC</b> "I study problems in ecology using tools from physics. In particular, currently I'm studying how different foraging behaviors affect the depletion pattern in the environment, and in turn how the depletion affects the forager's lifetime. For this, I use tools from random walks, first-passage processes and asymptotic analysis."  <BR> <BR>     
+  </div> 
 </div>      
 
 <BR CLEAR="...">
 
-<div>
-<p style="float: left;padding-right:25px"><img src="/images/Jack-web.jpg" width="125"></p> <b><a href="http://jackhopkinswildlife.com" target="_blank">Dr. John (Jack) Hopkins III, Ph.D.</a></b> <b>President, Center for Wildlife Studies</b> "I primarily conduct empirical field-based research that uses a variety of sampling methods and quantitative approaches to investigate the effects of environmental change on species interactions, wildlife-habitat relationships, and the foraging behavior and nutrition of free-ranging mammals." <BR> <BR> 
+<div style="display: flex; align-items: flex-start;">
+    <div style="flex-shrink: 0; padding-right: 25px;">
+    <img src="/images/JP-web.jpg" style="clip-path: ellipse(50% 50%); width: 125px; height: auto;">
+    </div>
+<div> 
+    <b><a href="http://jeanpgibert.weebly.com" target="_blank">Jean-Philippe Gibert</a></b> <b>Former McDonnell Fellow; Assistant Professor, Duke University NC</b> "I study how phenotypic variation affects the structure and dynamics of complex food webs and how this effect is mediated by environmental factors such as temperature. To do so, I integrate information across systems and taxa and often combine mathematical, computational and empirical tools." <BR> <BR> 
+  </div> 
+</div>        
+
+<BR CLEAR="...">
+
+<div style="display: flex; align-items: flex-start;">
+    <div style="flex-shrink: 0; padding-right: 25px;">
+    <img src="/images/Jack-web.jpg" style="clip-path: ellipse(50% 50%); width: 125px; height: auto;">
+    </div>
+<div> 
+    <b><a href="http://jackhopkinswildlife.com" target="_blank">Dr. John (Jack) Hopkins III, Ph.D.</a></b> <b>President, Center for Wildlife Studies</b> "I primarily conduct empirical field-based research that uses a variety of sampling methods and quantitative approaches to investigate the effects of environmental change on species interactions, wildlife-habitat relationships, and the foraging behavior and nutrition of free-ranging mammals." <BR> <BR> 
+  </div> 
 </div>      
 
 <BR CLEAR="...">
 
-<div>
-<p style="float: left;padding-right:25px"><img src="/images/person.jpg" width="125"></p>
+<div style="display: flex; align-items: flex-start;">
+    <div style="flex-shrink: 0; padding-right: 25px;">
+    <img src="/images/person.jpg" style="clip-path: ellipse(50% 50%); width: 125px; height: auto;">
+    </div>
+<div>     
 <b>Andrea Diaz Cruz</b> "I am very passionate about the environment and I want to understand more of the inner workings of ecology. I am studying trophic systems and developing models which will reflect the human impact on ecosystems as I hope to predict what happens to an ecosystem when the trophic order is disrupted."  <BR> <BR> 
+  </div> 
 </div>     
 
 <BR CLEAR="...">
 
-<div>
-<p style="float: left;padding-right:25px"><img src="/images/Harrison-web.jpg" width="125"></p>
+<div style="display: flex; align-items: flex-start;">
+    <div style="flex-shrink: 0; padding-right: 25px;">
+    <img src="/images/Harrison-web.jpg" style="clip-path: ellipse(50% 50%); width: 125px; height: auto;">
+    </div>
+<div>       
 <b>Harrison Duran</b> "I am interested in studying ecology and the dynamics between systems in order to develop a greater  understanding of  humanity's impact on the environment. I gather information on mammal morphology in order to find correlations between certain morphological traits and diets"  <BR> <BR>     
+  </div> 
 </div>     
 
 
