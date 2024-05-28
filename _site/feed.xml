@@ -4,13 +4,39 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
 <link rel="alternate" type="text/html" href="http://localhost:4000" />
-<updated>2024-05-25T11:29:50-07:00</updated>
+<updated>2024-05-28T13:20:59-07:00</updated>
 <id>http://localhost:4000/</id>
 <author>
   <name>J. D. Yeakel</name>
   <uri>http://localhost:4000/</uri>
   <email>jdyeakel@gmail.com</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Art :: Amphicyon]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/posts/art-amphicyon/" />
+  <id>http://localhost:4000/posts/art-amphicyon</id>
+  <published>2024-05-28T13:05:21-07:00</published>
+  <updated>2024-05-28T13:05:21-07:00</updated>
+  <author>
+    <name>J. D. Yeakel</name>
+    <uri>http://localhost:4000</uri>
+    <email>jdyeakel@gmail.com</email>
+  </author>
+  <content type="html">&lt;figure&gt;
+&lt;img src=&quot;http://localhost:4000/images/art_amphicyon.jpeg&quot; width=&quot;1000&quot; /&gt;
+&lt;figcaption&gt; The 200-300 Kg &apos;bear dog&apos; &lt;i&gt;Amphicyon&lt;/i&gt; by J.D. Yeakel (June 2024).
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;
+  &lt;span class=&quot;firstcharacter&quot;&gt;T&lt;/span&gt;
+  rying to stay a little more on top of anatomy on this one. There are quite a few known species of &lt;i&gt;Amphicyon&lt;/i&gt; (Miocene), spanning Africa, Europe, Asia, and North America. But to me it will always be the &apos;lion-weasel&apos;. I started this last summer, but was consumed with my new role as bio program chair... now have a little break between my spring &lt;i&gt;Dinosaurs&lt;/i&gt; course and my summer &lt;i&gt;Ecology&lt;/i&gt; course, so it&apos;s been fun to jump back into this. Maybe next up should be some herbivores, as I find them a bit more interesting anatomically.    
+&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/posts/art-amphicyon/&quot;&gt;Art :: Amphicyon&lt;/a&gt; was originally published by J. D. Yeakel at &lt;a href=&quot;http://localhost:4000&quot;&gt;Yeakel Group&lt;/a&gt; on May 28, 2024.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
@@ -30,8 +56,10 @@
 &lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;Here’s a wild (and loose) interpretation of the 500-800 Kg oxyaenodont &lt;em&gt;Sarkastodon&lt;/em&gt;, an extinct placental mammalian carnivore (within the paraphyletic Creodonta). There doesn’t seem to be much known about this group, and most reconstructions I’ve seen are very giant-weasel-like. This is obviously more cat-like with weird mandrill shit going on on its face. Incorporated the spread digits, blunt canines, and large masticatory build - crunching bones wouldn’t seem to be much of an issue. But a lot of artistic license on some pretty partial fossils, so why not go wild?&lt;/p&gt;
-
+&lt;p&gt;
+  &lt;span class=&quot;firstcharacter&quot;&gt;H&lt;/span&gt;
+  ere&apos;s a wild (and loose) interpretation of the 500-800 Kg oxyaenodont &lt;i&gt;Sarkastodon&lt;/i&gt;, an extinct placental mammalian carnivore (within the paraphyletic Creodonta). There doesn&apos;t seem to be much known about this group, and most reconstructions I&apos;ve seen are very giant-weasel-like. This is obviously more cat-like with weird mandrill shit going on on its face. Incorporated the spread digits, blunt canines, and large masticatory build - crunching bones wouldn&apos;t seem to be much of an issue. But a lot of artistic license on some pretty partial fossils, so why not go wild?   
+&lt;/p&gt;
 
   &lt;p&gt;&lt;a href=&quot;http://localhost:4000/posts/sarkastodon-art/&quot;&gt;Art :: Sarkastodon&lt;/a&gt; was originally published by J. D. Yeakel at &lt;a href=&quot;http://localhost:4000&quot;&gt;Yeakel Group&lt;/a&gt; on July 06, 2023.&lt;/p&gt;</content>
 </entry>
@@ -54,7 +82,10 @@
 &lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;This one was a challenge, and there are parts that I like and parts that I’m not so sure about. With some creative liberties, this artiodactyl is thought to have been the largest terrestrial mammalian predator, topping the scales at roughly 1000 Kg! We explore how the energetic requirements of terrestrial predators this large would crash herbivore populations, that is if contemporary predator-prey mass relationships are followed (predator-prey mass relationships document the expected prey mass for a given predator mass, or sometimes the expected predator mass for a given prey mass). We explore these ideas in a paper that’s currently in revision at &lt;em&gt;American Naturalist&lt;/em&gt;. You can find the ArXived version &lt;a href=&quot;https://arxiv.org/abs/2211.16638&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+  &lt;span class=&quot;firstcharacter&quot;&gt;T&lt;/span&gt;
+  his one was a challenge, and there are parts that I like and parts that I&apos;m not so sure about. With some creative liberties, this artiodactyl is thought to have been the largest terrestrial mammalian predator, topping the scales at roughly 1000 Kg! We explore how the energetic requirements of terrestrial predators this large would crash herbivore populations, that is if contemporary predator-prey mass relationships are followed (predator-prey mass relationships document the expected prey mass for a given predator mass, or sometimes the expected predator mass for a given prey mass). We explore these ideas in a paper that&apos;s currently in revision at *American Naturalist*. You can find the ArXived version &lt;a href=&quot;https://arxiv.org/abs/2211.16638&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.  
+&lt;/p&gt;
 
   &lt;p&gt;&lt;a href=&quot;http://localhost:4000/posts/andrewsarchus-art/&quot;&gt;Art :: Andrewsarchus&lt;/a&gt; was originally published by J. D. Yeakel at &lt;a href=&quot;http://localhost:4000&quot;&gt;Yeakel Group&lt;/a&gt; on June 25, 2023.&lt;/p&gt;</content>
 </entry>
@@ -77,7 +108,10 @@
 &lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;I thought it would be fun to flex a different muscle, and will be contributing some research-inspired artwork, for better or for worse. This one is inspired by the largest terrestrial mammal known to live, at about 2 to 2.5 times the size of contemporary elephants. In some recent papers, we use relatively minimal ecological models to predict the largest size these organisms can obtain based on energetic constraints on populations (see &lt;a href=&quot;https://www.nature.com/articles/s41467-018-02822-y&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;) and further show how predator and harvest mortality might tip the scales and destabilize populations for such megaherbivores (see &lt;a href=&quot;https://arxiv.org/abs/2211.16638&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;). We are working on some other related ideas that we hope to get out soon.&lt;/p&gt;
+&lt;p&gt;
+  &lt;span class=&quot;firstcharacter&quot;&gt;I&lt;/span&gt;
+  thought it would be fun to flex a different muscle, and will be contributing some research-inspired artwork, for better or for worse. This one is inspired by the largest terrestrial mammal known to live, at about 2 to 2.5 times the size of contemporary elephants. In some recent papers, we use relatively minimal ecological models to predict the largest size these organisms can obtain based on energetic constraints on populations (see &lt;a href=&quot;https://www.nature.com/articles/s41467-018-02822-y&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;) and further show how predator and harvest mortality might tip the scales and destabilize populations for such megaherbivores (see &lt;a href=&quot;https://arxiv.org/abs/2211.16638&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;). We are working on some other related ideas that we hope to get out soon.
+&lt;/p&gt;
 
 
   &lt;p&gt;&lt;a href=&quot;http://localhost:4000/posts/indricothere/&quot;&gt;Art :: Indricothere&lt;/a&gt; was originally published by J. D. Yeakel at &lt;a href=&quot;http://localhost:4000&quot;&gt;Yeakel Group&lt;/a&gt; on June 25, 2023.&lt;/p&gt;</content>
