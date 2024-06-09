@@ -1,6 +1,6 @@
 ---
 layout: pagetrimnobio
-title: "Fundamentals of Ecology (BIO/ESS 148) :: Syllabus, Summer 2023"
+title: "Fundamentals of Ecology (BIO/ESS 148) :: Syllabus, Summer 2024"
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
@@ -16,7 +16,7 @@ comments: true
     * 03D - Tuesday 11:30-1:20pm on [Zoom](https://ucmerced.zoom.us/j/85147840634) (remote, synchronous)  
     * 02D - Thursday 11:30-1:20pm on [Zoom](https://ucmerced.zoom.us/j/89062804429) (remote, synchronous)  
 + **Instructor**: Justin D. Yeakel; Office Hours: TBD  
-+ **Teaching Assistant**: Lisa Paggeot; Office Hours: TBD    
++ **Teaching Assistant**: Francisco Gorrostieta Campos; Office Hours: TBD    
 + **Course Websites**  
     Everything that we do this this course will revolve around two principle websites. In some cases, information will be duplicated on both sites (link to readings), and I will attempt to cross-link as necessary.
     > The [***CatCourse Website (Canvas)***](https://catcourses.ucmerced.edu/): Turning in assignments, grades, lectures, links to readings  
@@ -55,8 +55,9 @@ comments: true
         * Attendance and participation in the discussion section is required and will be a component of the student’s course grade.  
         * The **2** lowest lecture attendance scores will be dropped  
     * ***Required and Supplemental Readings***  
-        * **Required Textbook**: W.D. Bowman, S.D. Hacker, and Cain, M.L. 2017. Ecology, 4th or 5th Edition. Sinauer Associates, Inc., Publishers. Sunderland, MA.  
-        * There is a Follett Discover link - I'm having trouble getting word on its activation with our class... if you have difficulties accessing the book through the Follett Discover link, search for Ecology via the campus bookstore website.     
+        * **Required Textbook**: W.D. Bowman, S.D. Hacker, and Cain, M.L. 2017. Ecology, 6th Edition. Sinauer Associates, Inc., Publishers. Sunderland, MA.  
+        * Everyone should have access to the e-book; if you do not want the e-book, you will need to OPT-OUT.
+        * Access the ebook through [redshelf](https://brytewave.redshelf.com/)         
         * Readings will also be assigned for the Discussion section and instead of the book for some lectures. These are required and will be provided on the course website.  
         * Note: earlier editions (1st, 2nd, 3rd) of this textbook may be used but are not recommended.  
     * ***In-class laptops or tablets***
