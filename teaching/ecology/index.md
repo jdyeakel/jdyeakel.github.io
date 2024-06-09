@@ -1,6 +1,6 @@
 ---
 layout: pagetrimnobio
-title: "Fundamentals of Ecology :: Summer, 2023"
+title: "Fundamentals of Ecology :: Summer, 2024"
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
@@ -19,13 +19,13 @@ Welcome to the course website for ***Fundamentals of Ecology***. This summer cou
 ## Info
 *	[Syllabus]({{ site.url }}/teaching/ecology/syllabus/)  
 * [Schedule]({{ site.url }}/teaching/ecology/schedule_summer/)  
-*	**Lecture**:Tuesday and Thursdays, 8:30-11:15pm on [Zoom](https://ucmerced.zoom.us/j/82629391369) (remote, synchronous)  
+*	**Lecture**:Tuesday and Thursdays, 8:30-11:15pm on [Zoom]() (remote, synchronous)  
 * **Discussion section time**  
-    * 03D - Tuesday 11:30-1:20pm on [Zoom](https://ucmerced.zoom.us/j/85147840634) (remote, synchronous)  
-    * 02D - Thursday 11:30-1:20pm on [Zoom](https://ucmerced.zoom.us/j/89062804429) (remote, synchronous)  
+    * 03D - Tuesday 11:30-1:20pm on [Zoom]() (remote, synchronous)  
+    * 02D - Thursday 11:30-1:20pm on [Zoom]() (remote, synchronous)  
 
 *	Prof. Yeakel Office Hours: Mondays 9-10AM by [ZOOM](https://ucmerced.zoom.us/j/5384567727) or by appointment   
-*	TA Lisa Paggeot Office Hours: Wednesdays 2-3PM by [ZOOM](https://ucmerced.zoom.us/j/85904201082?pwd=SEY0cmZmeEo5ankreFpmMWw5ZmdQQT09) or by appointment   
+*	TA Francisco Gorrostieta Campos Office Hours: TBA by [ZOOM]() or by appointment   
 
 ## Contact
 Please use the Inbox application in the CatCourses (Canvas) website to contact either of us. *There is no guarantee of response if personal emails are used.*
