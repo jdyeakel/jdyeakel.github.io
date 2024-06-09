@@ -58,9 +58,9 @@ tr:nth-child(odd) {background: #FFF}
 |  |  | Evolution | Evolution | Bowman Ch. 6 |   |
 |         | **(D2)** | Disc 2 |  [Temperature as an ecological constraint]({{ site.url }}/teaching/ecology/summersections/section_2_temperature){:target="_blank"}   |  [Gunderson & Leal 2015]({{ site.url }}/teaching/ecology/papers/Gunderson.pdf){:target="_blank"}  |  Hmwk 2 due   |
 | **7/02** | **(T-L5)** | ***Exam I*** |  |  |    |
-|  |  |  |  |  |    |
-| **7/04** | **(R-L6)** | July 4 - no class  |  |  |    |
 |  |  | Evolution | Evolution | Bowman Ch. 6 |  [Evol. Demo]({{ site.url }}/teaching/ecology/summersections/demo_2_evolution){:target="_blank"}  |
+| **7/04** | **(R-L6)** | July 4 - no class  |  |  |    |
+|  |  |  |  |  |    |
 |         | **(D3)** | Disc 3 |   No Discussion  |  |  No Hmwk  |
 | **7/09** | **(T-L7)** | Behavior | Behavioral ecology     | Bowman Ch. 8, [Sinervo]({{ site.url }}/teaching/ecology/papers/optimalforaging.pdf){:target="_blank"} |    |
 |  |  | Populations 1 | Density dependence and population dynamics | Bowman Ch. 10 |    |
