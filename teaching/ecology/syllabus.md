@@ -20,7 +20,7 @@ comments: true
 + **Course Websites**  
     Everything that we do this this course will revolve around two principle websites. In some cases, information will be duplicated on both sites (link to readings), and I will attempt to cross-link as necessary.
     > The [***CatCourse Website (Canvas)***](https://catcourses.ucmerced.edu/): Turning in assignments, grades, lectures, links to readings  
-    > The [***Ecology Course Website***]({{ site.url }}/teaching/ecology): Basic course information, discussion section activities, links to readings  
+    > The [***Ecology Course Website***]({{ site.url }}/teaching/ecology): Basic course information, discussion section activities, links to readings. This course site will have the up-to-date schedule information and links to discussion section and in-class activities.  
 + **Course Schedule**: 
 
     [Course Schedule]({{ site.url }}/teaching/ecology/schedule_summer)  
@@ -52,11 +52,11 @@ comments: true
 + **Course Requirements & Grading Procedures**  
     * ***Class Attendance and Participation Policy***  
         * This course is delivered ***synchronously over ZOOM*** The lecture & discussion attendance *at the time of the lecture & discussion* is required.
-        * Attendance and participation in the discussion section is required and will be a component of the student’s course grade.  
-        * The **2** lowest lecture attendance scores will be dropped  
+        <!-- * Attendance and participation in the discussion section is required and will be a component of the student’s course grade.   -->
+        * The **2** lowest lecture attendance scores will be dropped.  
     * ***Required and Supplemental Readings***  
-        * **Required Textbook**: W.D. Bowman, S.D. Hacker, and Cain, M.L. 2017. Ecology, 6th Edition. Sinauer Associates, Inc., Publishers. Sunderland, MA.  
-        * Everyone should have access to the e-book; if you do not want the e-book, you will need to OPT-OUT.
+        * **Required Textbook**: W.D. Bowman, S.D. Hacker, and Cain, M.L. 2017. Ecology, 6th Edition. Sinauer Associates, Inc., Publishers. Sunderland, MA.   
+        * Everyone should have access to the e-book via the inclusive access program; if you do not want the e-book, you will need to OPT-OUT. See the Announcment on Canvas from the bookstore for details.   
         * Access the ebook through [redshelf](https://brytewave.redshelf.com/)         
         * Readings will also be assigned for the Discussion section and instead of the book for some lectures. These are required and will be provided on the course website.  
         * Note: earlier editions (1st, 2nd, 3rd) of this textbook may be used but are not recommended.  
@@ -65,8 +65,8 @@ comments: true
     * ***Course Assignments and Projects***  
         * **Homework**: Throughout the semester,  homework assignments will be assigned, consisting of exercises provided by the Teaching Assistant/Instructor. ***Homework assignments will be delivered via Canvas***  
         <!-- * **Quizzes**: Quizzes will be given periodically during the lecture period. They will not necessarily be announced. -->  
-        * **Discussion Activities**: All students are required to go to their respective Discussion Sections and participate/engage in the discussions and activities conducted in the section. Your discussion grade will take into account both participation and responses to Discussion assignments. ***Only otherwise notified, Discussion Activity scores will be delivered via CatCourses***   
-        * **Exams**: There will be **2** “midterm” exams during the semester and **1** comprehensive final. There will be no make-up exams or early exams. If you are sick during an exam, you must supply a note from your doctor verifying your illness. Your grade for the missed exam will be based on your average score from the other exams. You cannot miss more than one exam for an excused illness and taking the final is mandatory in order to pass the course. ***Exams may either be in person or delivered remotely via Canvas, as the situation requires***
+        * **Discussion Activities**: All students are required to go to their respective Discussion Sections and participate/engage in the discussions and activities conducted in the section. Your discussion grade will take into account both participation and responses to Discussion assignments. ***Discussion sections will take place via Zoom and are mandatory to attend synchronously.***   
+        * **Exams**: There will be **2** “midterm” exams during the semester and **1** comprehensive final. There will be no make-up exams or early exams. If you are sick during an exam, you must supply a note from your doctor verifying your illness. Your grade for the missed exam will be based on your average score from the other exams. You cannot miss more than one exam for an excused illness and taking the final is mandatory in order to pass the course. ***Exams will be delivered remotely via Canvas.***
         * ***Grading***: Your final grade will be based on the following: lecture attendance: 10%; discussion section participation & activities: 20%; homework: 20%; midterms: 30% (two, 15% each); and comprehensive final exam: 20%.  
         * Grades will be given using the approximate framework: A: 90 - 100%, B: 80 - 90%, C: 70 - 80%, D: 60 - 70%, F: < 60%. This framework is subject to change given the distribution of the final grades.   
         * Late assignments (e.g., homework) will not be accepted.  
