@@ -11,10 +11,10 @@ comments: true
 
 
 + **Lecture Time**: Tuesday and Thursdays, 8:30-11:15pm  
-+ **Lecture Location**: Remote and synchronous on [Zoom](https://ucmerced.zoom.us/j/82629391369)  
++ **Lecture Location**: Remote and synchronous on [Zoom](https://ucmerced.zoom.us/j/87577631671)  
 + **Discussion section time**  
-    * 03D - Tuesday 11:30-1:20pm on [Zoom](https://ucmerced.zoom.us/j/85147840634) (remote, synchronous)  
-    * 02D - Thursday 11:30-1:20pm on [Zoom](https://ucmerced.zoom.us/j/89062804429) (remote, synchronous)  
+    * 03D - Tuesday 11:30-1:20pm on [Zoom](https://ucmerced.zoom.us/j/87035100739) (remote, synchronous)  
+    * 02D - Thursday 11:30-1:20pm on [Zoom](https://ucmerced.zoom.us/j/81117405112) (remote, synchronous)  
 + **Instructor**: Justin D. Yeakel; Office Hours: TBD  
 + **Teaching Assistant**: Francisco Gorrostieta Campos; Office Hours: TBD    
 + **Course Websites**  

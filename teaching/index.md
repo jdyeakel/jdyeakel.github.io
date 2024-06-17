@@ -9,7 +9,7 @@ image:
   credit: jdyeakel
 ---
 
-> ### [Fundamentals of Ecology (Summer, 2023)]({{ site.url }}/teaching/ecology/)  
+> ### [Fundamentals of Ecology (Summer, 2024)]({{ site.url }}/teaching/ecology/)  
 > Putting the Lotka in your Volterra since 1926      
 
 <br>
@@ -24,13 +24,9 @@ image:
 
 <br>
 
-> ### [Natural History of Dinosaurs (Spring, 2021)]({{ site.url }}/teaching/dinos/)   
+> ### [Natural History of Dinosaurs (Spring, 2024)]({{ site.url }}/teaching/dinos/)   
 > 65 million quarters of a second in the making
 
-<br>
-
-> ### [Fundamentals of Ecology (Summer, 2022)]({{ site.url }}/teaching/ecology/)  
-> Putting the Lotka in your Volterra since 1926       
 
 
 

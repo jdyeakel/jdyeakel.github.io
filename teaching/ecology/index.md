@@ -19,12 +19,12 @@ Welcome to the course website for ***Fundamentals of Ecology***. This summer cou
 ## Info
 *	[Syllabus]({{ site.url }}/teaching/ecology/syllabus/)  
 * [Schedule]({{ site.url }}/teaching/ecology/schedule_summer/)  
-*	**Lecture**:Tuesday and Thursdays, 8:30-11:15pm on [Zoom]() (remote, synchronous)  
+*	**Lecture**:Tuesday and Thursdays, 8:30-11:15pm on [Zoom](https://ucmerced.zoom.us/j/87577631671) (remote, synchronous)  
 * **Discussion section time**  
-    * 03D - Tuesday 11:30-1:20pm on [Zoom]() (remote, synchronous)  
-    * 02D - Thursday 11:30-1:20pm on [Zoom]() (remote, synchronous)  
+    * 03D - Tuesday 11:30-1:20pm on [Zoom](https://ucmerced.zoom.us/j/87035100739) (remote, synchronous)  
+    * 02D - Thursday 11:30-1:20pm on [Zoom](https://ucmerced.zoom.us/j/81117405112) (remote, synchronous)  
 
-*	Prof. Yeakel Office Hours: Mondays 9-10AM by [ZOOM](https://ucmerced.zoom.us/j/5384567727) or by appointment   
+*	Prof. Yeakel Office Hours: TBA by [ZOOM](https://ucmerced.zoom.us/j/5384567727) or by appointment   
 *	TA Francisco Gorrostieta Campos Office Hours: TBA by [ZOOM]() or by appointment   
 
 ## Contact
@@ -36,6 +36,9 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 
 
 ## Discussion Sections and Demonstrations
+
+> **Note:** You are welcome to explore future discussion sections and/or class examples, however I may be updating minor elements to these activities as we go along.  
+
 * [Section 1: Using R]({{ site.url }}/teaching/ecology/summersections/section_1_introtoR/){:target="_blank"}  
 * [Section 2: Temperature]({{ site.url }}/teaching/ecology/summersections/section_2_temperature/){:target="_blank"}  
 * [Demo 1: Metabolism]({{ site.url }}/teaching/ecology/summersections/demo_1_metabolism/){:target="_blank"}   
