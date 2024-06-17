@@ -1,6 +1,6 @@
 ---
 layout: post-index
-title: Original Artwork
+title: Posts, Art, Stuff
 excerpt: "A List of Posts"
 ---
 
