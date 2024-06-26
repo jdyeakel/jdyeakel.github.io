@@ -1,8 +1,8 @@
-PWD /Users/justinyeakel/Dropbox/UC Merced/Ladder/Yeakel_CV
+PWD /Users/justinyeakel/Dropbox/jdyeakel.github.io/CV/Yeakel_CV
 INPUT /usr/local/texlive/2023/texmf.cnf
 INPUT /usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/justinyeakel/Dropbox/UC Merced/Ladder/Yeakel_CV/Yeakel_CV.tex
+INPUT /Users/justinyeakel/Dropbox/jdyeakel.github.io/CV/Yeakel_CV/Yeakel_CV.tex
 OUTPUT Yeakel_CV.log
 INPUT ./res.cls
 INPUT ./res.cls
