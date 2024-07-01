@@ -20,14 +20,12 @@ comments: true
 <br>
 * Fannin L.D., Seyoum C.M., Venkataraman V.V., <span style="color:#4292E5;">Yeakel J.D.</span>, Janis C.M., Cerling T.E., Dominy N.J. Behavioral drive during human evolution. In revision @ *Science*.  
 <br>
-* ☕ Suswaram M., Bhat U., <span style="color:#4292E5;">Yeakel J.D.</span> Rising above the noise: the influence of population dynamics on the evolution of acoustic signaling. In review @ *Journal of Physics: Complexity*. [Preprint](https://www.biorxiv.org/content/10.1101/2022.09.02.506422v1){:target="_blank"}.  
-	
-
-<br>
 
 
 **2024**
-:	* ☕ Rallings T., Kempes C.P., <span style="color:#4292E5;">Yeakel J.D.</span> On the dynamics of mortality and the ephemeral nature of mammalian megafauna. In press @ *The American Naturalist*. [Preprint](https://doi.org/10.48550/arXiv.2211.16638){:target="_blank"}.
+:	* ☕ Suswaram M., Bhat U., <span style="color:#4292E5;">Yeakel J.D.</span> Rising above the noise: the influence of population dynamics on the evolution of acoustic signaling. In Press @ *Journal of Physics: Complexity*.  
+
+	* ☕ Rallings T., Kempes C.P., <span style="color:#4292E5;">Yeakel J.D.</span> [On the dynamics of mortality and the ephemeral nature of mammalian megafauna.](https://doi.org/10.1086/731331){:target="_blank"} In press @ *The American Naturalist*.
 
 	* ☕ Ritwika V.P.S., Gopinathan A.J., <span style="color:#4292E5;">Yeakel J.D.</span> [Beyond the kill: The allometry of predation behaviours among large carnivores](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2656.14070){:target="_blank"} *Journal of Animal Ecology* 93 (5) 554-566.
 
