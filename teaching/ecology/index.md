@@ -24,8 +24,8 @@ Welcome to the course website for ***Fundamentals of Ecology***. This summer cou
     * 03D - Tuesday 11:30-1:20pm on [Zoom](https://ucmerced.zoom.us/j/87035100739) (remote, synchronous)  
     * 02D - Thursday 11:30-1:20pm on [Zoom](https://ucmerced.zoom.us/j/81117405112) (remote, synchronous)  
 
-*	Prof. Yeakel Office Hours: 9-10AM Wednesdays by [ZOOM](https://ucmerced.zoom.us/j/5384567727) or by appointment   
-*	TA Francisco Gorrostieta Campos Office Hours: TBA by [ZOOM]() or by appointment   
+*	Prof. Yeakel Office Hours: 9-10AM Wednesdays by [ZOOM](https://ucmerced.zoom.us/j/5384567727) or by appointment.   
+*	TA Francisco Gorrostieta Campos Office Hours: 9-10 AM Mondays by [ZOOM](https://ucmerced.zoom.us/j/81220898024) or by appointment.  
 
 ## Contact
 Please use the Inbox application in the CatCourses (Canvas) website to contact either of us. *There is no guarantee of response if personal emails are used.*

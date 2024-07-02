@@ -16,7 +16,7 @@ comments: true
     * 03D - Tuesday 11:30-1:20pm on [Zoom](https://ucmerced.zoom.us/j/87035100739) (remote, synchronous)  
     * 02D - Thursday 11:30-1:20pm on [Zoom](https://ucmerced.zoom.us/j/81117405112) (remote, synchronous)  
 + **Instructor**: Justin D. Yeakel; Office Hours: 9-10AM Wednesdays by [ZOOM](https://ucmerced.zoom.us/j/5384567727) or by appointment.     
-+ **Teaching Assistant**: Francisco Gorrostieta Campos; Office Hours: TBD    
++ **Teaching Assistant**: Francisco Gorrostieta Campos; Office Hours: 9-10 AM Mondays by [ZOOM](https://ucmerced.zoom.us/j/81220898024) or by appointment.    
 + **Course Websites**  
     Everything that we do this this course will revolve around two principle websites. In some cases, information will be duplicated on both sites (link to readings), and I will attempt to cross-link as necessary.
     > The [***CatCourse Website (Canvas)***](https://catcourses.ucmerced.edu/): Turning in assignments, grades, lectures, links to readings  
