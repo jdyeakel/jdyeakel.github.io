@@ -56,6 +56,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 * [6/20: Lecture 2](https://ucmerced.box.com/s/xjg3a6zbwgdz0fjwznh2pef0fgxz5bm7){:target="_blank"}  
 * [6/25: Lecture 3](https://ucmerced.box.com/s/cbi7612gx5kg2sj9vt6etphupyou31td){:target="_blank"}  
 * [6/27: Lecture 4](https://ucmerced.box.com/s/amlibtjflyu085fslqom09puv459xtgw){:target="_blank"}  
+* [7/02: Lecture 5](https://ucmerced.box.com/s/b7g0sgdwd4hqoppmcc4lvxl12tjjpdex){:target="_blank"}  
 
 
 
