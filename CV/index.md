@@ -8,7 +8,7 @@ comments: true
 
 
 ---
-☕ from the Yeakel QED group; $${}^\dagger$$contributed equally  
+☕ from the Yeakel QED group; $${}^\dagger$$contributed equally; [PDF]({{ site.url }}/CV/Yeakel_CV/Yeakel_CV.pdf){:target="_blank"}  
 
 <!---
 *In prep**)
@@ -24,7 +24,7 @@ comments: true
 <br>
 
 **2024**
-:	* ☕ Suswaram M., Bhat U., <span style="color:#4292E5;">Yeakel J.D.</span> Rising above the noise: the influence of population dynamics on the evolution of acoustic signaling. In Press @ *Journal of Physics: Complexity*.  
+:	* ☕ Suswaram M., Bhat U., <span style="color:#4292E5;">Yeakel J.D.</span> [Rising above the noise: the influence of population dynamics on the evolution of acoustic signaling.](https://iopscience.iop.org/article/10.1088/2632-072X/ad5e2e){:target="_blank"} In Press @ *Journal of Physics: Complexity*.  
 
 	* ☕ Rallings T., Kempes C.P., <span style="color:#4292E5;">Yeakel J.D.</span> [On the dynamics of mortality and the ephemeral nature of mammalian megafauna.](https://doi.org/10.1086/731331){:target="_blank"} In press @ *The American Naturalist*.
 
