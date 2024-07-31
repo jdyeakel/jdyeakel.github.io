@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.21)  9 JUL 2024 14:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.21)  30 JUL 2024 07:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -262,72 +262,73 @@ LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/m/sc' in size <12> not availa
 (Font)              Font shape `OT1/EBGaramond-OsF/regular/sc' tried instead on input line 45.
 LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/regular/sc' will be
 (Font)              scaled to size 12.0pt on input line 45.
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--53
+
+ []
+
 LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/m/it' in size <12> not available
-(Font)              Font shape `OT1/EBGaramond-OsF/regular/it' tried instead on input line 55.
+(Font)              Font shape `OT1/EBGaramond-OsF/regular/it' tried instead on input line 57.
 LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/regular/it' will be
-(Font)              scaled to size 12.0pt on input line 55.
+(Font)              scaled to size 12.0pt on input line 57.
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--60
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 83--84
+Underfull \hbox (badness 10000) in paragraph at lines 57--62
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 91--92
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 94.
+(Font)              <12> on input line 96.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 94.
+(Font)              <8> on input line 96.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 94.
-LaTeX Font Info:    Trying to load font information for TS1+EBGaramond-OsF on input line 160.
-(/usr/local/texlive/2023/texmf-dist/tex/latex/ebgaramond/TS1EBGaramond-OsF.fd
+(Font)              <6> on input line 96.
+[1
+
+{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_fc2mbn.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_egoty6.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_tsrvmb.enc}]
+LaTeX Font Info:    Trying to load font information for TS1+EBGaramond-OsF on input line 162.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/ebgaramond/TS1EBGaramond-OsF.fd
 File: TS1EBGaramond-OsF.fd 2019/10/22 (autoinst) Font definitions for TS1/EBGaramond-OsF.
 )
 LaTeX Font Info:    Font shape `TS1/EBGaramond-OsF/m/n' in size <12> not available
-(Font)              Font shape `TS1/EBGaramond-OsF/regular/n' tried instead on input line 160.
+(Font)              Font shape `TS1/EBGaramond-OsF/regular/n' tried instead on input line 162.
 LaTeX Font Info:    Font shape `TS1/EBGaramond-OsF/regular/n' will be
-(Font)              scaled to size 12.0pt on input line 160.
+(Font)              scaled to size 12.0pt on input line 162.
 
-Overfull \hbox (1.7669pt too wide) in paragraph at lines 160--161
+Overfull \hbox (1.7669pt too wide) in paragraph at lines 162--163
 \OT1/EBGaramond-OsF/regular/it/12 Re-con-struct-ing In-ter-ac-tions of Species En-sem-bles (RISE): Gen-er-al-ized dy-nam-i-cal frame-works
  []
 
-[1
 
-{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_fc2mbn.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_egoty6.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_tsrvmb.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_ld6df2.enc}]
-Overfull \hbox (23.12672pt too wide) in paragraph at lines 224--225
+Overfull \hbox (23.12672pt too wide) in paragraph at lines 226--227
 []\OT1/EBGaramond-OsF/regular/n/12 National Sci-ence Foun-da-tion, SGP-Sedimentary Ge-ol-ogy & Pa-le-o-bi-ol-ogy: \OT1/EBGaramond-OsF/regular/it/12 As-sess-ing millennial-
  []
 
-[2]
+[2{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_ld6df2.enc}]
 LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/m/n' in size <10> not available
-(Font)              Font shape `OT1/EBGaramond-OsF/regular/n' tried instead on input line 300.
+(Font)              Font shape `OT1/EBGaramond-OsF/regular/n' tried instead on input line 302.
 LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/regular/n' will be
-(Font)              scaled to size 10.0pt on input line 300.
+(Font)              scaled to size 10.0pt on input line 302.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 300.
+(Font)              <7> on input line 302.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 300.
+(Font)              <5> on input line 302.
 
-Underfull \hbox (badness 10000) detected at line 303
+Underfull \hbox (badness 10000) detected at line 305
 [][]\OT1/EBGaramond-OsF/regular/n/12 .[]
  []
 
 
-Underfull \hbox (badness 10000) detected at line 304
-[][]\OT1/EBGaramond-OsF/regular/n/12 .[]
- []
-
-
-Underfull \hbox (badness 10000) detected at line 313
+Underfull \hbox (badness 10000) detected at line 306
 [][]\OT1/EBGaramond-OsF/regular/n/12 .[]
  []
 
@@ -337,13 +338,13 @@ Underfull \hbox (badness 10000) detected at line 315
  []
 
 
-Overfull \hbox (9.14pt too wide) in paragraph at lines 315--316
-[]\OT1/EBGaramond-OsF/regular/n/12 Rallings T., Kem-pes C.P., $[][]$\OT1/EBGaramond-OsF/bold/n/12 Yeakel J.D. \OT1/EBGaramond-OsF/regular/n/12 2024. []\OT1/EBGaramond-OsF/regular/it/12 On the dy-nam-ics of mor-tal-ity and the ephemeral
+Underfull \hbox (badness 10000) detected at line 317
+[][]\OT1/EBGaramond-OsF/regular/n/12 .[]
  []
 
 
-Underfull \hbox (badness 10000) detected at line 317
-[][]\OT1/EBGaramond-OsF/regular/n/12 .[]
+Overfull \hbox (9.14pt too wide) in paragraph at lines 317--318
+[]\OT1/EBGaramond-OsF/regular/n/12 Rallings T., Kem-pes C.P., $[][]$\OT1/EBGaramond-OsF/bold/n/12 Yeakel J.D. \OT1/EBGaramond-OsF/regular/n/12 2024. []\OT1/EBGaramond-OsF/regular/it/12 On the dy-nam-ics of mor-tal-ity and the ephemeral
  []
 
 
@@ -386,19 +387,19 @@ Underfull \hbox (badness 10000) detected at line 333
 [][]\OT1/EBGaramond-OsF/regular/n/12 .[]
  []
 
-LaTeX Font Info:    Font shape `TS1/EBGaramond-OsF/m/n' in size <10> not available
-(Font)              Font shape `TS1/EBGaramond-OsF/regular/n' tried instead on input line 336.
-LaTeX Font Info:    Font shape `TS1/EBGaramond-OsF/regular/n' will be
-(Font)              scaled to size 10.0pt on input line 336.
-LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/m/it' in size <10> not available
-(Font)              Font shape `OT1/EBGaramond-OsF/regular/it' tried instead on input line 336.
-LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/regular/it' will be
-(Font)              scaled to size 10.0pt on input line 336.
 
-Underfull \hbox (badness 10000) detected at line 339
+Underfull \hbox (badness 10000) detected at line 335
 [][]\OT1/EBGaramond-OsF/regular/n/12 .[]
  []
 
+LaTeX Font Info:    Font shape `TS1/EBGaramond-OsF/m/n' in size <10> not available
+(Font)              Font shape `TS1/EBGaramond-OsF/regular/n' tried instead on input line 338.
+LaTeX Font Info:    Font shape `TS1/EBGaramond-OsF/regular/n' will be
+(Font)              scaled to size 10.0pt on input line 338.
+LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/m/it' in size <10> not available
+(Font)              Font shape `OT1/EBGaramond-OsF/regular/it' tried instead on input line 338.
+LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/regular/it' will be
+(Font)              scaled to size 10.0pt on input line 338.
 [3]
 Underfull \hbox (badness 10000) detected at line 341
 [][]\OT1/EBGaramond-OsF/regular/n/12 .[]
@@ -475,7 +476,7 @@ Underfull \hbox (badness 10000) detected at line 369
  []
 
 
-Underfull \hbox (badness 10000) detected at line 372
+Underfull \hbox (badness 10000) detected at line 371
 [][]\OT1/EBGaramond-OsF/regular/n/12 .[]
  []
 
@@ -545,24 +546,29 @@ Underfull \hbox (badness 10000) detected at line 398
  []
 
 [5]
-Overfull \hbox (19.72247pt too wide) in paragraph at lines 430--431
+Underfull \hbox (badness 10000) detected at line 400
+[][]\OT1/EBGaramond-OsF/regular/n/12 .[]
+ []
+
+
+Overfull \hbox (19.72247pt too wide) in paragraph at lines 432--433
 []\OT1/EBGaramond-OsF/regular/n/12 NIMBioS: Spa-tiotem-po-ral vari-a-tion and dy-nam-ics in eco-log-i-cal net-works I,II,III,IV. Knoxville,
  []
 
-[6] [7] [8] [9] [10] [11] [12] ) 
+[6] [7] [8] [9] [10] [11] [12] [13] ) 
 Here is how much of TeX's memory you used:
- 9108 strings out of 476025
- 148931 string characters out of 5790017
+ 9109 strings out of 476025
+ 148938 string characters out of 5790017
  1867388 words of memory out of 5000000
  29400 multiletter control sequences out of 15000+600000
  526186 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,5n,76p,548b,579s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,5n,76p,548b,680s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Bold.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Italic.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Regular.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on Yeakel_CV.pdf (12 pages, 378694 bytes).
+Output written on Yeakel_CV.pdf (13 pages, 379771 bytes).
 PDF statistics:
- 234 PDF objects out of 1000 (max. 8388607)
- 203 compressed objects within 3 object streams
- 56 named destinations out of 1000 (max. 500000)
+ 239 PDF objects out of 1000 (max. 8388607)
+ 207 compressed objects within 3 object streams
+ 57 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
