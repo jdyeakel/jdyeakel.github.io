@@ -16,7 +16,9 @@ comments: true
 
 **<span style="color:#6bdc61;">In Review</span>**
 : <dd class="review"> <div markdown="1">
-* Dominy N.J., Rosien J., Fannin L., <span style="color:#4292E5;">Yeakel J.D.</span>, Malaivijitnond S., Tan A. Food-washing monkeys recognize the law of diminishing returns. [Preprint](https://assets.researchsquare.com/files/rs-3867327/v1/5f28e282-6865-4867-820d-30a9a3a9c3d0.pdf?c=1706717973){:target="_blank"}. In review @ eLife.  
+* ☕ <span style="color:#4292E5;">Yeakel J.D.</span>, Hutchinson M.C., Kempes C.P., Koch P.L., Gill J.L., Pires M.M. Bioenergetic trophic trade-offs determine mass-dependent extinction thresholds across the Cenozoic. [Preprint](http://arxiv.org/abs/2410.18849){:target="_blank"}.  
+<br>
+* Dominy N.J., Rosien J., Fannin L., <span style="color:#4292E5;">Yeakel J.D.</span>, Malaivijitnond S., Tan A. Food-washing monkeys recognize the law of diminishing returns. [eLife Reviewed Preprint](https://elifesciences.org/reviewed-preprints/98520#){:target="_blank"}. In review @ eLife.  
 <br>
 * Fannin L.D., Seyoum C.M., Venkataraman V.V., <span style="color:#4292E5;">Yeakel J.D.</span>, Janis C.M., Cerling T.E., Dominy N.J. Behavioral drive during human evolution. In revision @ *Science*.  
 <br>
