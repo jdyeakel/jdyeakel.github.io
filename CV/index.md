@@ -20,15 +20,15 @@ comments: true
 <br>
 * Dominy N.J., Rosien J., Fannin L., <span style="color:#4292E5;">Yeakel J.D.</span>, Malaivijitnond S., Tan A. Food-washing monkeys recognize the law of diminishing returns. [eLife Reviewed Preprint](https://elifesciences.org/reviewed-preprints/98520#){:target="_blank"}. In review @ eLife.  
 <br>
-* Fannin L.D., Seyoum C.M., Venkataraman V.V., <span style="color:#4292E5;">Yeakel J.D.</span>, Janis C.M., Cerling T.E., Dominy N.J. Behavioral drive during human evolution. In revision @ *Science*.  
+* Rosien J.E., Fannin L.D., Seyoum C.M., Venkataraman V.V., <span style="color:#4292E5;">Yeakel J.D.</span>, Janis C.M., Cerling T.E., Dominy N.J. Behavioral drive during human evolution. In revision @ *Science*.  
 <br>
 
 <br>
 
 **2024**
-:	* ☕ Suswaram M., Bhat U., <span style="color:#4292E5;">Yeakel J.D.</span> [Rising above the noise: the influence of population dynamics on the evolution of acoustic signaling.](https://iopscience.iop.org/article/10.1088/2632-072X/ad5e2e){:target="_blank"} In Press @ *Journal of Physics: Complexity*.  
+:	* ☕ Suswaram M., Bhat U., <span style="color:#4292E5;">Yeakel J.D.</span> [Rising above the noise: the influence of population dynamics on the evolution of acoustic signaling.](https://iopscience.iop.org/article/10.1088/2632-072X/ad5e2e){:target="_blank"} *Journal of Physics: Complexity* 5(3), p.035007.  
 
-	* ☕ Rallings T., Kempes C.P., <span style="color:#4292E5;">Yeakel J.D.</span> [On the dynamics of mortality and the ephemeral nature of mammalian megafauna.](https://doi.org/10.1086/731331){:target="_blank"} In press @ *The American Naturalist*.
+	* ☕ Rallings T., Kempes C.P., <span style="color:#4292E5;">Yeakel J.D.</span> [On the dynamics of mortality and the ephemeral nature of mammalian megafauna.](https://doi.org/10.1086/731331){:target="_blank"} *The American Naturalist* 204 (3) 274-288.
 
 	* ☕ Ritwika V.P.S., Gopinathan A.J., <span style="color:#4292E5;">Yeakel J.D.</span> [Beyond the kill: The allometry of predation behaviours among large carnivores](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2656.14070){:target="_blank"} *Journal of Animal Ecology* 93 (5) 554-566.
 
