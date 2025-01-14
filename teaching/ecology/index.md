@@ -32,7 +32,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 
 ---
 
-
+<!-- 
 
 
 ## Discussion Sections and Demonstrations
@@ -65,4 +65,4 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 * [7/25: Lecture 11](https://ucmerced.box.com/s/gs8716vzojlbbsjwwlo13gfh0sd0nqtg){:target="_blank"}  
 * [7/30: Lecture 12](https://ucmerced.box.com/s/egiekiytiivy92e4by7my8zmid0gckqm){:target="_blank"}  
 * [8/01: Lecture 13](https://ucmerced.box.com/s/u8kctgy93c7nzsvzw6xxvzasvy12ui9j){:target="_blank"}  
-* [8/06: Lecture 14](https://ucmerced.box.com/s/3nwzs9boxtgm1hox8t4da8xokw921c3m){:target="_blank"}  
+* [8/06: Lecture 14](https://ucmerced.box.com/s/3nwzs9boxtgm1hox8t4da8xokw921c3m){:target="_blank"}   -->
