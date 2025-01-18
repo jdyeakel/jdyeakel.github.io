@@ -9,7 +9,7 @@ gem "webrick"
 # Optional: If you use Faraday retry middleware
 gem "faraday-retry"
 
-
+gem 'octopress', '~> 3.0.0.rc.12'
 
 
 # source 'https://rubygems.org'
