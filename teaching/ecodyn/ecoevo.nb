@@ -1,0 +1,481 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 12.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[     19780,        473]
+NotebookOptionsPosition[     19263,        456]
+NotebookOutlinePosition[     19602,        471]
+CellTagsIndexPosition[     19559,        468]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[BoxData[
+ RowBox[{"Clear", "[", "\"\<Global`*\>\"", "]"}]], "Input",
+ CellChangeTimes->{{3.779391212520055*^9, 3.779391238703347*^9}},
+ CellLabel->
+  "In[232]:=",ExpressionUUID->"46fd117c-4208-4481-b6a2-160516bbe847"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"Manipulate", "[", "\[IndentingNewLine]", 
+   RowBox[{
+    RowBox[{
+     RowBox[{"e1", "=", "0.5"}], ";", "\[IndentingNewLine]", 
+     RowBox[{"e2", "=", "0.5"}], ";", "\[IndentingNewLine]", 
+     RowBox[{"r1", "=", "0.2"}], ";", "\[IndentingNewLine]", 
+     RowBox[{"r2", "=", "R2"}], ";", "\[IndentingNewLine]", 
+     RowBox[{"k", "=", "500"}], ";", "\[IndentingNewLine]", 
+     RowBox[{"d", "=", "0.5"}], ";", "\[IndentingNewLine]", 
+     RowBox[{"theta1", "=", 
+      RowBox[{"-", "0.2"}]}], ";", "\[IndentingNewLine]", 
+     RowBox[{"theta2", "=", "0.2"}], ";", "\[IndentingNewLine]", 
+     RowBox[{"alpha", "=", "0.02"}], ";", "\[IndentingNewLine]", 
+     RowBox[{"tau", "=", "0.1"}], ";", "\[IndentingNewLine]", 
+     RowBox[{"sigma", "=", "0.2"}], ";", "\[IndentingNewLine]", 
+     RowBox[{"h", "=", "1"}], ";", "\[IndentingNewLine]", 
+     RowBox[{"tmax", "=", "1000"}], ";", "\[IndentingNewLine]", 
+     RowBox[{"s", "=", 
+      RowBox[{"NDSolve", "[", 
+       RowBox[{
+        RowBox[{"{", "\[IndentingNewLine]", 
+         RowBox[{
+          RowBox[{
+           RowBox[{
+            RowBox[{"p", "'"}], "[", "t", "]"}], "==", 
+           RowBox[{
+            RowBox[{"e1", "*", 
+             RowBox[{"(", 
+              RowBox[{
+               RowBox[{"(", 
+                RowBox[{
+                 RowBox[{"(", 
+                  RowBox[{"alpha", "*", "tau"}], ")"}], "/", 
+                 RowBox[{"Sqrt", "[", 
+                  RowBox[{
+                   RowBox[{"sigma", "^", "2"}], "+", 
+                   RowBox[{"tau", "^", "2"}]}], "]"}]}], ")"}], "*", 
+               RowBox[{"Exp", "[", 
+                RowBox[{
+                 RowBox[{"-", 
+                  RowBox[{"(", 
+                   RowBox[{
+                    RowBox[{"(", 
+                    RowBox[{
+                    RowBox[{"xbar", "[", "t", "]"}], "-", "theta1"}], ")"}], 
+                    "^", "2"}], ")"}]}], "/", 
+                 RowBox[{"(", 
+                  RowBox[{"2", "*", 
+                   RowBox[{"(", 
+                    RowBox[{
+                    RowBox[{"sigma", "^", "2"}], "+", 
+                    RowBox[{"tau", "^", "2"}]}], ")"}]}], ")"}]}], "]"}]}], 
+              ")"}], "*", 
+             RowBox[{"n1", "[", "t", "]"}], "*", 
+             RowBox[{"p", "[", "t", "]"}]}], "+", 
+            RowBox[{"e2", "*", 
+             RowBox[{"(", 
+              RowBox[{
+               RowBox[{"(", 
+                RowBox[{
+                 RowBox[{"(", 
+                  RowBox[{"alpha", "*", "tau"}], ")"}], "/", 
+                 RowBox[{"Sqrt", "[", 
+                  RowBox[{
+                   RowBox[{"sigma", "^", "2"}], "+", 
+                   RowBox[{"tau", "^", "2"}]}], "]"}]}], ")"}], "*", 
+               RowBox[{"Exp", "[", 
+                RowBox[{
+                 RowBox[{"-", 
+                  RowBox[{"(", 
+                   RowBox[{
+                    RowBox[{"(", 
+                    RowBox[{
+                    RowBox[{"xbar", "[", "t", "]"}], "-", "theta2"}], ")"}], 
+                    "^", "2"}], ")"}]}], "/", 
+                 RowBox[{"(", 
+                  RowBox[{"2", "*", 
+                   RowBox[{"(", 
+                    RowBox[{
+                    RowBox[{"sigma", "^", "2"}], "+", 
+                    RowBox[{"tau", "^", "2"}]}], ")"}]}], ")"}]}], "]"}]}], 
+              ")"}], "*", 
+             RowBox[{"n2", "[", "t", "]"}], "*", 
+             RowBox[{"p", "[", "t", "]"}]}], "-", 
+            RowBox[{"d", "*", 
+             RowBox[{"p", "[", "t", "]"}]}]}]}], ",", "\[IndentingNewLine]", 
+          RowBox[{
+           RowBox[{
+            RowBox[{"n1", "'"}], "[", "t", "]"}], "==", 
+           RowBox[{
+            RowBox[{"r1", "*", 
+             RowBox[{"n1", "[", "t", "]"}], "*", 
+             RowBox[{"(", 
+              RowBox[{"1", "-", 
+               RowBox[{"(", 
+                RowBox[{
+                 RowBox[{"n1", "[", "t", "]"}], "/", "k"}], ")"}]}], ")"}]}], 
+            "-", 
+            RowBox[{
+             RowBox[{"(", 
+              RowBox[{
+               RowBox[{"(", 
+                RowBox[{
+                 RowBox[{"(", 
+                  RowBox[{"alpha", "*", "tau"}], ")"}], "/", 
+                 RowBox[{"Sqrt", "[", 
+                  RowBox[{
+                   RowBox[{"sigma", "^", "2"}], "+", 
+                   RowBox[{"tau", "^", "2"}]}], "]"}]}], ")"}], "*", 
+               RowBox[{"Exp", "[", 
+                RowBox[{
+                 RowBox[{"-", 
+                  RowBox[{"(", 
+                   RowBox[{
+                    RowBox[{"(", 
+                    RowBox[{
+                    RowBox[{"xbar", "[", "t", "]"}], "-", "theta1"}], ")"}], 
+                    "^", "2"}], ")"}]}], "/", 
+                 RowBox[{"(", 
+                  RowBox[{"2", "*", 
+                   RowBox[{"(", 
+                    RowBox[{
+                    RowBox[{"sigma", "^", "2"}], "+", 
+                    RowBox[{"tau", "^", "2"}]}], ")"}]}], ")"}]}], "]"}]}], 
+              ")"}], "*", 
+             RowBox[{"n1", "[", "t", "]"}], "*", 
+             RowBox[{"p", "[", "t", "]"}]}]}]}], ",", "\[IndentingNewLine]", 
+          RowBox[{
+           RowBox[{
+            RowBox[{"n2", "'"}], "[", "t", "]"}], "\[Equal]", 
+           RowBox[{
+            RowBox[{"r2", "*", 
+             RowBox[{"n2", "[", "t", "]"}], "*", 
+             RowBox[{"(", 
+              RowBox[{"1", "-", 
+               RowBox[{"(", 
+                RowBox[{
+                 RowBox[{"n2", "[", "t", "]"}], "/", "k"}], ")"}]}], ")"}]}], 
+            "-", 
+            RowBox[{
+             RowBox[{"(", 
+              RowBox[{
+               RowBox[{"(", 
+                RowBox[{
+                 RowBox[{"(", 
+                  RowBox[{"alpha", "*", "tau"}], ")"}], "/", 
+                 RowBox[{"Sqrt", "[", 
+                  RowBox[{
+                   RowBox[{"sigma", "^", "2"}], "+", 
+                   RowBox[{"tau", "^", "2"}]}], "]"}]}], ")"}], "*", 
+               RowBox[{"Exp", "[", 
+                RowBox[{
+                 RowBox[{"-", 
+                  RowBox[{"(", 
+                   RowBox[{
+                    RowBox[{"(", 
+                    RowBox[{
+                    RowBox[{"xbar", "[", "t", "]"}], "-", "theta2"}], ")"}], 
+                    "^", "2"}], ")"}]}], "/", 
+                 RowBox[{"(", 
+                  RowBox[{"2", "*", 
+                   RowBox[{"(", 
+                    RowBox[{
+                    RowBox[{"sigma", "^", "2"}], "+", 
+                    RowBox[{"tau", "^", "2"}]}], ")"}]}], ")"}]}], "]"}]}], 
+              ")"}], "*", 
+             RowBox[{"n2", "[", "t", "]"}], "*", 
+             RowBox[{"p", "[", "t", "]"}]}]}]}], ",", "\[IndentingNewLine]", 
+          RowBox[{
+           RowBox[{
+            RowBox[{"xbar", "'"}], "[", "t", "]"}], " ", "\[Equal]", " ", 
+           RowBox[{
+            RowBox[{
+             RowBox[{"(", 
+              RowBox[{"Sqrt", "[", 
+               RowBox[{"h", "*", 
+                RowBox[{"(", 
+                 RowBox[{"sigma", "^", "2"}], ")"}]}], "]"}], ")"}], "^", 
+             "2"}], "*", 
+            RowBox[{"(", 
+             RowBox[{
+              RowBox[{"(", 
+               RowBox[{
+                RowBox[{"(", 
+                 RowBox[{"e1", "*", 
+                  RowBox[{"n1", "[", "t", "]"}], "*", "tau", "*", "alpha", 
+                  "*", 
+                  RowBox[{
+                   RowBox[{"(", 
+                    RowBox[{"theta1", "-", 
+                    RowBox[{"xbar", "[", "t", "]"}]}], ")"}], "/", 
+                   RowBox[{"(", 
+                    RowBox[{
+                    RowBox[{"(", 
+                    RowBox[{
+                    RowBox[{"tau", "^", "2"}], "+", 
+                    RowBox[{"sigma", "^", "2"}]}], ")"}], "^", 
+                    RowBox[{"(", 
+                    RowBox[{"3", "/", "2"}], ")"}]}], ")"}]}]}], ")"}], "*", 
+                RowBox[{"Exp", "[", 
+                 RowBox[{
+                  RowBox[{"-", 
+                   RowBox[{
+                    RowBox[{"(", 
+                    RowBox[{
+                    RowBox[{"xbar", "[", "t", "]"}], "-", "theta1"}], ")"}], 
+                    "^", "2"}]}], "/", 
+                  RowBox[{"(", 
+                   RowBox[{"2", "*", 
+                    RowBox[{"(", 
+                    RowBox[{
+                    RowBox[{"tau", "^", "2"}], "+", 
+                    RowBox[{"sigma", "^", "2"}]}], ")"}]}], ")"}]}], "]"}]}], 
+               ")"}], "+", 
+              RowBox[{"(", 
+               RowBox[{
+                RowBox[{"(", 
+                 RowBox[{"e2", "*", 
+                  RowBox[{"n2", "[", "t", "]"}], "*", "tau", "*", "alpha", 
+                  "*", 
+                  RowBox[{
+                   RowBox[{"(", 
+                    RowBox[{"theta2", "-", 
+                    RowBox[{"xbar", "[", "t", "]"}]}], ")"}], "/", 
+                   RowBox[{"(", 
+                    RowBox[{
+                    RowBox[{"(", 
+                    RowBox[{
+                    RowBox[{"tau", "^", "2"}], "+", 
+                    RowBox[{"sigma", "^", "2"}]}], ")"}], "^", 
+                    RowBox[{"(", 
+                    RowBox[{"3", "/", "2"}], ")"}]}], ")"}]}]}], ")"}], "*", 
+                RowBox[{"Exp", "[", 
+                 RowBox[{
+                  RowBox[{"-", 
+                   RowBox[{
+                    RowBox[{"(", 
+                    RowBox[{
+                    RowBox[{"xbar", "[", "t", "]"}], "-", "theta2"}], ")"}], 
+                    "^", "2"}]}], "/", 
+                  RowBox[{"(", 
+                   RowBox[{"2", "*", 
+                    RowBox[{"(", 
+                    RowBox[{
+                    RowBox[{"tau", "^", "2"}], "+", 
+                    RowBox[{"sigma", "^", "2"}]}], ")"}]}], ")"}]}], "]"}]}], 
+               ")"}]}], ")"}]}]}], ",", "\[IndentingNewLine]", 
+          RowBox[{
+           RowBox[{"p", "[", "0", "]"}], "\[Equal]", "5"}], ",", 
+          RowBox[{
+           RowBox[{"n1", "[", "0", "]"}], "==", "1"}], ",", 
+          RowBox[{
+           RowBox[{"n2", "[", "0", "]"}], "\[Equal]", "120"}], ",", 
+          RowBox[{
+           RowBox[{"xbar", "[", "0", "]"}], "==", "0.2"}]}], "}"}], ",", 
+        "\[IndentingNewLine]", 
+        RowBox[{"{", 
+         RowBox[{"p", ",", "n1", ",", "n2", ",", "xbar"}], "}"}], ",", 
+        RowBox[{"{", 
+         RowBox[{"t", ",", "tmax"}], "}"}]}], "]"}]}], ";", 
+     "\[IndentingNewLine]", 
+     RowBox[{"GraphicsGrid", "[", 
+      RowBox[{"{", 
+       RowBox[{"{", 
+        RowBox[{
+         RowBox[{"Plot", "[", 
+          RowBox[{
+           RowBox[{"Evaluate", "[", 
+            RowBox[{
+             RowBox[{"{", 
+              RowBox[{
+               RowBox[{"p", "[", "t", "]"}], ",", 
+               RowBox[{"n1", "[", "t", "]"}], ",", 
+               RowBox[{"n2", "[", "t", "]"}]}], "}"}], "/.", "s"}], "]"}], 
+           ",", 
+           RowBox[{"{", 
+            RowBox[{"t", ",", "0", ",", "tmax"}], "}"}]}], "]"}], ",", 
+         "\[IndentingNewLine]", 
+         RowBox[{"Plot", "[", 
+          RowBox[{
+           RowBox[{"Evaluate", "[", 
+            RowBox[{
+             RowBox[{"{", 
+              RowBox[{"xbar", "[", "t", "]"}], "}"}], "/.", "s"}], "]"}], ",", 
+           RowBox[{"{", 
+            RowBox[{"t", ",", "0", ",", "tmax"}], "}"}], ",", 
+           RowBox[{"PlotRange", "\[Rule]", 
+            RowBox[{"{", 
+             RowBox[{
+              RowBox[{"-", "0.3"}], ",", "0.3"}], "}"}]}]}], "]"}]}], "}"}], 
+       "}"}], "]"}]}], ",", "\[IndentingNewLine]", 
+    RowBox[{"{", 
+     RowBox[{"R2", ",", "0.001", ",", "1"}], "}"}]}], "]"}], 
+  "\[IndentingNewLine]"}]], "Input",
+ CellChangeTimes->{{3.7793904476918497`*^9, 3.779391012115793*^9}, {
+  3.779391048485882*^9, 3.779391134773408*^9}, {3.779391292624527*^9, 
+  3.779391295216159*^9}, {3.779391340933097*^9, 3.7793913947357483`*^9}, {
+  3.779391434044132*^9, 3.7793914451503677`*^9}, {3.7793915307365007`*^9, 
+  3.779391531992649*^9}, {3.779391569215234*^9, 3.779391617312664*^9}, {
+  3.779391721520817*^9, 3.779391746967812*^9}, {3.77939179771802*^9, 
+  3.779391798020302*^9}, {3.779391835917594*^9, 3.779391872523691*^9}, {
+  3.7793921350951014`*^9, 3.7793922814146023`*^9}, {3.779392331368683*^9, 
+  3.7793923944820623`*^9}},
+ CellLabel->
+  "In[398]:=",ExpressionUUID->"3f7f6f0c-8760-45da-b225-57108dfb5f67"],
+
+Cell[BoxData[
+ TagBox[
+  StyleBox[
+   DynamicModuleBox[{CloudObject`Private`R2$$ = 0.001, Typeset`show$$ = True, 
+    Typeset`bookmarkList$$ = {}, Typeset`bookmarkMode$$ = "Menu", 
+    Typeset`animator$$, Typeset`animvar$$ = 1, Typeset`name$$ = 
+    "\"untitled\"", Typeset`specs$$ = {{
+      Hold[CloudObject`Private`R2$$], 0.001, 1}}, Typeset`size$$ = {
+    600., {96., 101.}}, Typeset`update$$ = 0, Typeset`initDone$$, 
+    Typeset`skipInitDone$$ = True, CloudObject`Private`R2$686673$$ = 0}, 
+    DynamicBox[Manipulate`ManipulateBoxes[
+     1, StandardForm, "Variables" :> {CloudObject`Private`R2$$ = 0.001}, 
+      "ControllerVariables" :> {
+        Hold[CloudObject`Private`R2$$, CloudObject`Private`R2$686673$$, 0]}, 
+      "OtherVariables" :> {
+       Typeset`show$$, Typeset`bookmarkList$$, Typeset`bookmarkMode$$, 
+        Typeset`animator$$, Typeset`animvar$$, Typeset`name$$, 
+        Typeset`specs$$, Typeset`size$$, Typeset`update$$, Typeset`initDone$$,
+         Typeset`skipInitDone$$}, 
+      "Body" :> ($CellContext`e1 = 0.5; $CellContext`e2 = 
+        0.5; $CellContext`r1 = 0.2; $CellContext`r2 = 
+        CloudObject`Private`R2$$; $CellContext`k = 500; $CellContext`d = 
+        0.5; $CellContext`theta1 = -0.2; $CellContext`theta2 = 
+        0.2; $CellContext`alpha = 0.02; $CellContext`tau = 
+        0.1; $CellContext`sigma = 0.2; $CellContext`h = 1; $CellContext`tmax = 
+        1000; $CellContext`s = 
+        NDSolve[{
+          Derivative[
+            1][$CellContext`p][$CellContext`t] == $CellContext`e1 \
+((($CellContext`alpha $CellContext`tau)/
+               Sqrt[$CellContext`sigma^2 + $CellContext`tau^2]) 
+              Exp[(-($CellContext`xbar[$CellContext`t] - \
+$CellContext`theta1)^2)/(
+                2 ($CellContext`sigma^2 + $CellContext`tau^2))]) \
+$CellContext`n1[$CellContext`t] $CellContext`p[$CellContext`t] + \
+$CellContext`e2 ((($CellContext`alpha $CellContext`tau)/
+               Sqrt[$CellContext`sigma^2 + $CellContext`tau^2]) 
+              Exp[(-($CellContext`xbar[$CellContext`t] - \
+$CellContext`theta2)^2)/(
+                2 ($CellContext`sigma^2 + $CellContext`tau^2))]) \
+$CellContext`n2[$CellContext`t] $CellContext`p[$CellContext`t] - \
+$CellContext`d $CellContext`p[$CellContext`t], 
+           Derivative[
+            1][$CellContext`n1][$CellContext`t] == $CellContext`r1 \
+$CellContext`n1[$CellContext`t] (
+              1 - $CellContext`n1[$CellContext`t]/$CellContext`k) - \
+((($CellContext`alpha $CellContext`tau)/
+              Sqrt[$CellContext`sigma^2 + $CellContext`tau^2]) 
+             Exp[(-($CellContext`xbar[$CellContext`t] - \
+$CellContext`theta1)^2)/(
+               2 ($CellContext`sigma^2 + $CellContext`tau^2))]) \
+$CellContext`n1[$CellContext`t] $CellContext`p[$CellContext`t], 
+           Derivative[
+            1][$CellContext`n2][$CellContext`t] == $CellContext`r2 \
+$CellContext`n2[$CellContext`t] (
+              1 - $CellContext`n2[$CellContext`t]/$CellContext`k) - \
+((($CellContext`alpha $CellContext`tau)/
+              Sqrt[$CellContext`sigma^2 + $CellContext`tau^2]) 
+             Exp[(-($CellContext`xbar[$CellContext`t] - \
+$CellContext`theta2)^2)/(
+               2 ($CellContext`sigma^2 + $CellContext`tau^2))]) \
+$CellContext`n2[$CellContext`t] $CellContext`p[$CellContext`t], 
+           Derivative[1][$CellContext`xbar][$CellContext`t] == 
+           Sqrt[$CellContext`h $CellContext`sigma^2]^2 (($CellContext`e1 \
+$CellContext`n1[$CellContext`t] $CellContext`tau $CellContext`alpha \
+(($CellContext`theta1 - \
+$CellContext`xbar[$CellContext`t])/($CellContext`tau^2 + \
+$CellContext`sigma^2)^(3/2))) 
+              Exp[(-($CellContext`xbar[$CellContext`t] - \
+$CellContext`theta1)^2)/(
+                2 ($CellContext`tau^2 + $CellContext`sigma^2))] + \
+($CellContext`e2 $CellContext`n2[$CellContext`t] $CellContext`tau \
+$CellContext`alpha (($CellContext`theta2 - \
+$CellContext`xbar[$CellContext`t])/($CellContext`tau^2 + \
+$CellContext`sigma^2)^(3/2))) 
+              Exp[(-($CellContext`xbar[$CellContext`t] - \
+$CellContext`theta2)^2)/(
+                2 ($CellContext`tau^2 + $CellContext`sigma^2))]), \
+$CellContext`p[0] == 5, $CellContext`n1[0] == 1, $CellContext`n2[0] == 
+           120, $CellContext`xbar[0] == 
+           0.2}, {$CellContext`p, $CellContext`n1, $CellContext`n2, \
+$CellContext`xbar}, {$CellContext`t, $CellContext`tmax}]; GraphicsGrid[{{
+           Plot[
+            Evaluate[
+             ReplaceAll[{
+               $CellContext`p[$CellContext`t], 
+               $CellContext`n1[$CellContext`t], 
+               $CellContext`n2[$CellContext`t]}, $CellContext`s]], \
+{$CellContext`t, 0, $CellContext`tmax}], 
+           Plot[
+            Evaluate[
+             ReplaceAll[{
+               $CellContext`xbar[$CellContext`t]}, $CellContext`s]], \
+{$CellContext`t, 0, $CellContext`tmax}, PlotRange -> {-0.3, 0.3}]}}]), 
+      "Specifications" :> {{CloudObject`Private`R2$$, 0.001, 1}}, 
+      "Options" :> {}, "DefaultOptions" :> {}],
+     ImageSizeCache->{645., {155., 161.}},
+     SingleEvaluation->True],
+    Deinitialization:>None,
+    DynamicModuleValues:>{},
+    SynchronousInitialization->True,
+    UndoTrackedVariables:>{Typeset`show$$, Typeset`bookmarkMode$$},
+    UnsavedVariables:>{Typeset`initDone$$},
+    UntrackedVariables:>{Typeset`size$$}], "Manipulate",
+   Deployed->True,
+   StripOnInput->False],
+  Manipulate`InterpretManipulate[1]]], "Output",
+ CellChangeTimes->{
+  3.779391120176725*^9, 3.779391243999606*^9, 3.779391297135257*^9, {
+   3.7793913787936363`*^9, 3.779391395914052*^9}, 3.779391440923126*^9, 
+   3.77939154382204*^9, {3.7793915969909763`*^9, 3.779391617974839*^9}, {
+   3.7793917225811577`*^9, 3.779391748264386*^9}, 3.779391798550598*^9, {
+   3.779391851916006*^9, 3.779391872962957*^9}, {3.7793921835380793`*^9, 
+   3.779392197223055*^9}, 3.779392251326559*^9, 3.7793922824062653`*^9, {
+   3.7793923330878057`*^9, 3.779392360942603*^9}, {3.779392391779072*^9, 
+   3.7793924137485533`*^9}},
+ CellLabel->
+  "Out[398]=",ExpressionUUID->"4004cc9c-221f-46bb-8ec6-a5d8d3efbf40"]
+}, Open  ]]
+},
+WindowSize->{1186, 1005},
+WindowMargins->{{Automatic, 228}, {Automatic, 0}},
+FrontEndVersion->"12.0 for Mac OS X x86 (64-bit) (April 8, 2019)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 222, 4, 30, "Input",ExpressionUUID->"46fd117c-4208-4481-b6a2-160516bbe847"],
+Cell[CellGroupData[{
+Cell[805, 28, 12398, 306, 640, "Input",ExpressionUUID->"3f7f6f0c-8760-45da-b225-57108dfb5f67"],
+Cell[13206, 336, 6041, 117, 369, "Output",ExpressionUUID->"4004cc9c-221f-46bb-8ec6-a5d8d3efbf40"]
+}, Open  ]]
+}
+]
+*)
+
