@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
-gem "github-pages", "=228"
+#gem "github-pages", "=228"
+gem "github-pages", ">= 232"
 gem 'webrick'
 gem 'jekyll-sitemap'
 gem 'octopress', '~> 3.0.0.rc.12'
