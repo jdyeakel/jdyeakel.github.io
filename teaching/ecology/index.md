@@ -1,6 +1,6 @@
 ---
 layout: pagetrimnobio
-title: "Fundamentals of Ecology :: Summer, 2024"
+title: "Fundamentals of Ecology :: Spring, 2025"
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
@@ -10,7 +10,7 @@ image:
 ---
 
 ## Welcome!
-Welcome to the course website for ***Fundamentals of Ecology***. This summer course taught remotely. We will be having lecture and discussion sections synchronously on ZOOM (links below). This will be the primary site that will host course information and changes to the schedule, as well as your Discussion Section activities. The Catcourses, or Canvas, site for this course will be used for assessments (e.g. homeworks and exams), course grades, and announcements. See the **syllabus** for details and the **schedule** for information regarding important dates and content.
+Welcome to the course website for ***Fundamentals of Ecology***. We will be having lecture and discussion sections in person -- attendance is **mandatory**. This will be the primary site that will host course information and changes to the schedule, as well as your Discussion Section activities. The Catcourses, or Canvas, site for this course will be used to record assessments/assignments, course grades, and announcements. See the **syllabus** for details and the **schedule** for information regarding important dates and content. Note that the schedule will change as we progress throughout the course.  
 
 
 
@@ -18,14 +18,15 @@ Welcome to the course website for ***Fundamentals of Ecology***. This summer cou
 
 ## Info
 *	[Syllabus]({{ site.url }}/teaching/ecology/syllabus/)  
-* [Schedule]({{ site.url }}/teaching/ecology/schedule_summer/)  
-*	**Lecture**:Tuesday and Thursdays, 8:30-11:15pm on [Zoom](https://ucmerced.zoom.us/j/87577631671) (remote, synchronous)  
+* [Schedule]({{ site.url }}/teaching/ecology/schedule/)  
+*	**Lecture**: Mondays and Wednesdays, 01:30 PM - 02:45 PM; Classroom and Office 2 Bldg Room: 140     
 * **Discussion section time**  
-    * 03D - Tuesday 11:30-1:20pm on [Zoom](https://ucmerced.zoom.us/j/87035100739) (remote, synchronous)  
-    * 02D - Thursday 11:30-1:20pm on [Zoom](https://ucmerced.zoom.us/j/81117405112) (remote, synchronous)  
+    * 03D - Monday 04:30 PM - 05:20 PM; Classroom and Office 1 Bldg Room: 113  
+    * 04D - Wednesday 04:30 PM - 05:20 PM; Classroom and Office 1 Bldg Room: 114  
+    * 02D - Wednesday 05:30 PM - 06:20 PM; Classroom and Office 1 Bldg Room: 265  
 
-*	Prof. Yeakel Office Hours: 9-10AM Wednesdays by [ZOOM](https://ucmerced.zoom.us/j/5384567727) or by appointment.   
-*	TA Francisco Gorrostieta Campos Office Hours: 9-10 AM Mondays by [ZOOM](https://ucmerced.zoom.us/j/81220898024) or by appointment.  
+*	Prof. Yeakel Office Hours: TBD or by appointment.   
+*	TA Anabelle Marques Klovrza Office Hours: TBD or by appointment.  
 
 ## Contact
 Please use the Inbox application in the CatCourses (Canvas) website to contact either of us. *There is no guarantee of response if personal emails are used.*

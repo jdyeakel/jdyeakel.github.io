@@ -10,20 +10,22 @@ comments: true
 [> To Course Schedule]({{ site.url }}/teaching/ecology/schedule_summer/)
 
 
-+ **Lecture Time**: Tuesday and Thursdays, 8:30-11:15pm  
-+ **Lecture Location**: Remote and synchronous on [Zoom](https://ucmerced.zoom.us/j/87577631671)  
-+ **Discussion section time**  
-    * 03D - Tuesday 11:30-1:20pm on [Zoom](https://ucmerced.zoom.us/j/87035100739) (remote, synchronous)  
-    * 02D - Thursday 11:30-1:20pm on [Zoom](https://ucmerced.zoom.us/j/81117405112) (remote, synchronous)  
-+ **Instructor**: Justin D. Yeakel; Office Hours: 9-10AM Wednesdays by [ZOOM](https://ucmerced.zoom.us/j/5384567727) or by appointment.     
-+ **Teaching Assistant**: Francisco Gorrostieta Campos; Office Hours: 9-10 AM Mondays by [ZOOM](https://ucmerced.zoom.us/j/81220898024) or by appointment.    
++ **Lecture Time**: Mondays and Wednesdays, 01:30 PM - 02:45 PM    
++ **Lecture Location**: Classroom and Office 2 Bldg Room: 140  
++ **Discussion section time & Location**  
+    * 03D - Monday 04:30 PM - 05:20 PM; Classroom and Office 1 Bldg Room: 113  
+    * 04D - Wednesday 04:30 PM - 05:20 PM; Classroom and Office 1 Bldg Room: 114  
+    * 02D - Wednesday 05:30 PM - 06:20 PM; Classroom and Office 1 Bldg Room: 265  
++ **Instructor**: Prof. Yeakel Office Hours: TBD or by appointment.       
++ **Teaching Assistant**: Anabelle Marques Klovrza Office Hours: TBD or by appointment.      
 + **Course Websites**  
     Everything that we do this this course will revolve around two principle websites. In some cases, information will be duplicated on both sites (link to readings), and I will attempt to cross-link as necessary.
     > The [***CatCourse Website (Canvas)***](https://catcourses.ucmerced.edu/): Turning in assignments, grades, lectures, links to readings  
     > The [***Ecology Course Website***]({{ site.url }}/teaching/ecology): Basic course information, discussion section activities, links to readings. This course site will have the up-to-date schedule information and links to discussion section and in-class activities.  
 + **Course Schedule**: 
 
-    [Course Schedule]({{ site.url }}/teaching/ecology/schedule_summer)  
+    [Course Schedule]({{ site.url }}/teaching/ecology/schedule)  
+
 + **Course Description**  
 
     This course fulfills an upper division requirement for the Ecology and Evolutionary Biology (EEB) emphasis track of the Biological Sciences Major, as well an upper division requirement for the Earth Systems Science Major. This course provides an introduction to ecology - the scientific study of how organisms interact with each other and their physical environment. Prerequisite: BIO 001 or BIO 005 or ESS 001 or ESS 005 or consent of instructor. Normal Letter Grade only.
@@ -44,14 +46,14 @@ comments: true
 
 + **Format & Procedures**  
     
-    This course is structured as follows: two 165-minute lecture sessions and one 110-minute discussion section per week. Discussion sections will provide students an opportunity to discuss in more detail scientific findings from peer-reviewed publications and practice using the R programming langauge to confront ecological problems. Your participation in lectures and discussion sections is mandatory.  
+    This course is structured as follows: two 75-minute lecture sessions and one 50-minute discussion section per week. Discussion sections will provide students an opportunity to discuss in more detail scientific findings from peer-reviewed publications and practice using the R programming langauge to confront ecological problems. Your participation in lectures and discussion sections is mandatory.  
 <!-- 
     We will also spend a Saturday morning in March exploring the Vernal Pools ecosystem just off campus to apply some of our newly gained ecological knowledge to the field. All students are required to attend and participate. Field observations from the Vernal Pools will be used to write a Field Report towards the end of the semester. -->
 
 
 + **Course Requirements & Grading Procedures**  
     * ***Class Attendance and Participation Policy***  
-        * This course is delivered ***synchronously over ZOOM*** The lecture & discussion attendance *at the time of the lecture & discussion* is required.
+        * This course is delivered in person. The lecture & discussion attendance is required.
         <!-- * Attendance and participation in the discussion section is required and will be a component of the student’s course grade.   -->
         * The **2** lowest lecture attendance scores will be dropped.  
     * ***Required and Supplemental Readings***  
@@ -61,12 +63,12 @@ comments: true
         * Readings will also be assigned for the Discussion section and instead of the book for some lectures. These are required and will be provided on the course website.  
         * Note: earlier editions (1st, 2nd, 3rd) of this textbook may be used but are not recommended.  
     * ***In-class laptops or tablets***
-        * Each student will be expected to have access to a laptop or tablet during lectures and discussion sections to explore ecological models. Any operating system will suffice, as will iPads or similar tablet-like devices. Smartphones are ***not*** recommended.  
+        * Each student will be expected to have access to a laptop or tablet during lectures and discussion sections to explore ecological models. Any operating system will suffice, as will iPads or similar tablet-like devices. Smartphones are ***not*** allowed.  
     * ***Course Assignments and Projects***  
-        * **Homework**: Throughout the semester,  homework assignments will be assigned, consisting of exercises provided by the Teaching Assistant/Instructor. ***Homework assignments will be delivered via Canvas***  
+        * **Homework**: Throughout the semester,  homework assignments will be assigned, consisting of exercises provided by the Teaching Assistant/Instructor.    
         <!-- * **Quizzes**: Quizzes will be given periodically during the lecture period. They will not necessarily be announced. -->  
-        * **Discussion Activities**: All students are required to go to their respective Discussion Sections and participate/engage in the discussions and activities conducted in the section. Your discussion grade will take into account both participation and responses to Discussion assignments. ***Discussion sections will take place via Zoom and are mandatory to attend synchronously.***   
-        * **Exams**: There will be **2** “midterm” exams during the semester and **1** comprehensive final. There will be no make-up exams or early exams. If you are sick during an exam, you must supply a note from your doctor verifying your illness. Your grade for the missed exam will be based on your average score from the other exams. You cannot miss more than one exam for an excused illness and taking the final is mandatory in order to pass the course. ***Exams will be delivered remotely via Canvas.***
-        * ***Grading***: Your final grade will be based on the following: lecture attendance: 10%; discussion section participation & activities: 20%; homework: 20%; midterms: 30% (two, 15% each); and comprehensive final exam: 20%.  
+        * **Discussion Activities**: All students are required to go to their respective Discussion Sections and participate/engage in the discussions and activities conducted in the section. Your discussion grade will take into account both participation and responses to Discussion assignments.    
+        * **Exams**: There will be **3** “midterm” exams during the semester and **1** comprehensive final. There will be no make-up exams or early exams. If you are sick during an exam, you must supply a note from your doctor verifying your illness. Your grade for the missed exam will be based on your average score from the other exams. You cannot miss more than one exam for an excused illness and taking the final is mandatory in order to pass the course.  
+        * ***Grading***: Your final grade will be based on the following: lecture attendance: 10%; discussion section participation & activities: 25%; homework: 20%; midterms: 30% (three, 10% each); and comprehensive final exam: 15%.  
         * Grades will be given using the approximate framework: A: 90 - 100%, B: 80 - 90%, C: 70 - 80%, D: 60 - 70%, F: < 60%. This framework is subject to change given the distribution of the final grades.   
         * Late assignments (e.g., homework) will not be accepted.  
