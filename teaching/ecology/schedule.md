@@ -1,6 +1,6 @@
 ---
 layout: pagetrimnobio
-title: "Fundamentals of Ecology (BIO/ESS 148) :: Schedule, Spring 2022"
+title: "Fundamentals of Ecology (BIO/ESS 148) :: Schedule, Spring 2025"
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
@@ -47,22 +47,22 @@ tr:nth-child(odd) {background: #FFF}
 | | **D1**       | Disc 1     | [Investigating ecological problems with R]({{ site.url }}/teaching/ecology/sections2024/1_introtoR/){:target="_blank"} | [What does ecology have to do with me?](https://www.esa.org/about/what-does-ecology-have-to-do-with-me/){:target="_blank"}    |   |
 | **2/3**  | **M-L4**    | Energy 2   | Energetic pathways in ecology       | Bowman Ch. 5     |   |
 | **2/5**  | **W-L5**    | Allometry 1| Allometry & Macroecology 1 | [West & Brown]({{ site.url }}/teaching/ecology/papers/West_Brown_2004.pdf){:target="_blank"}   |   |
-| | **D2**       | Disc 2     | [Temperature as an ecological constraint]({{ site.url }}/teaching/ecology/sections2024/2_temperature/){:target="_blank"}       | [Gunderson & Leal 2015]({{ site.url }}/teaching/ecology/papers/Gunderson.pdf){:target="_blank"}| H1 (Fri)   |
+| | **D2**       | Disc 2     | [Temperature as an ecological constraint]({{ site.url }}/teaching/ecology/sections2024/2_temperature/){:target="_blank"}       | [Gunderson & Leal 2015]({{ site.url }}/teaching/ecology/papers/Gunderson.pdf){:target="_blank"}| H1   |
 | **2/10** | **M-L6**    | Allometry 2| Allometry & Macroecology 2 |    |   |
 | **2/12** | **W**       | ***Exam I***       | (Covers up through L6)     |    |   |
-| | **D3**       | Disc 3     | [Allometry and metabolic scaling]() |    | H2 (Fri)   |
+| | **D3**       | Disc 3     | [Allometry and metabolic scaling]() |    | H2   |
 | **2/17** | **M**       | ***President’s Day – No Class*** |      |    |   |
 | **2/19** | **W-L7**    | Evolution 1| Ecology as the driver of natural selection  | Bowman Ch. 6     |   |
 | | **D4**       | Disc 4     | [Evolution by Natural Selection]()   |    |   |
 | **2/24** | **M-L8**    | Evolution 2| Evolutionary change  | Bowman Ch. 6     |   |
 | **2/26** | **W-L9**    | Life History       | Life history diversity & tradeoffs |    |   |
-| | Disc --      | ***No Discussion Section*** |      |    | H3 (Fri)   |
+| | Disc --      | ***No Discussion Section*** |      |    | H3   |
 | **3/3**  | **M-L10**   | Behavior   | Behavioral ecology   | Bowman Ch. 8, [Sinervo]({{ site.url }}/teaching/ecology/papers/optimalforaging.pdf){:target="_blank"} |   |
 | **3/5**  | **W-L11**   | Populations 1      | Density dependence and population dynamics  | Bowman Ch. 10    |   |
-| | **D5**       | Disc 5     | [Life Histories]() |    | H4 (Fri)   |
+| | **D5**       | Disc 5     | [Life Histories]() |    | H4   |
 | **3/10** | **M-L12**   | Populations 2      | Logistic growth & discrete dynamics |    |   |
 | **3/12** | **W-L13**   | Competition| Intro to competition| Bowman Ch. 14    |   |
-| | **D6**       | Disc 6     | [Exponential and Logistic Growth]()  |    | H5 (Fri)   |
+| | **D6**       | Disc 6     | [Exponential and Logistic Growth]()  |    | H5   |
 | **3/17** | **M-L14**       | Competition 2       |  Competition dynamics 1    |    |   |
 | **3/19** | **W**   | ***Exam II***     |      |    |   |
 | | **D7**       | Disc 7     | [Exponential and Logistic Growth 2]()|    |   |
@@ -73,13 +73,13 @@ tr:nth-child(odd) {background: #FFF}
 | | **D8**       | Disc 8     | [Lotka–Volterra competition dynamics]()   |    |   |
 | **4/7**  | **M-L17**   | Predation 2| Predation dynamics   |    |   |
 | **4/9**  | **W-L18**   | Disease 1  | The dynamics of disease    | Bowman 13.4–end, [Blackwood to 2.2.2]({{ site.url }}/teaching/ecology/papers/Blackwood_SIR.pdf), [R0 is just an average](https://www.santafe.edu/news-center/news/transmission-t-024-cristopher-moore-on-the-heavy-tail-of-outbreaks) |   |
-| | **D9**       | Disc 9     | [Lotka–Volterra predation dynamics]()     |    | H6 (Wed)   |
+| | **D9**       | Disc 9     | [Lotka–Volterra predation dynamics]()     |    | H6   |
 | **4/14** | **M-L19**   | Disease 2  | Disease modeling & applications    | (continuation/readings as desired)|   |
 | **4/16** | **W-L20**   | Parasitism | Parasites and parasitoids  | Bowman Ch. 13    |   |
-| | **D10**      | Disc 10    | [Dynamics of disease](){:target="_blank"}|    | H7 (Wed)   |
+| | **D10**      | Disc 10    | [Dynamics of disease](){:target="_blank"}|    | H7   |
 | **4/21** | **M-L21**   | ***Exam III***     |      |    |   |
 | **4/23** | **W-L22**   | Interactions 1     | Mutualisms  | Bowman Ch. 15    |   |
-| | **D11**      | Disc 11    | [Species interaction networks]()     |    | H8 (Wed)   |
+| | **D11**      | Disc 11    | [Species interaction networks]()     |    | H8   |
 |**4/28** | **M-L23**   | Interactions 2     | Food webs   | Bowman Ch. 21    |   |
 | **4/30** | **W-L24**   | Communities 1      | Island biogeography | Bowman Ch. 18.3  |   |
 | | **D12**      | Disc 12    | [Island biogeography]()  |    |   |

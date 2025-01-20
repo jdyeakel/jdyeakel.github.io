@@ -1,6 +1,6 @@
 ---
 layout: pagetrimnobio
-title: "Fundamentals of Ecology (BIO/ESS 148) :: Syllabus, Summer 2024"
+title: "Fundamentals of Ecology (BIO/ESS 148) :: Syllabus, Spring 2025"
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
@@ -61,7 +61,7 @@ comments: true
         * Everyone should have access to the e-book via the inclusive access program; if you do not want the e-book, you will need to OPT-OUT. See the Announcment on Canvas from the bookstore for details.   
         * Access the ebook through [redshelf](https://brytewave.redshelf.com/)         
         * Readings will also be assigned for the Discussion section and instead of the book for some lectures. These are required and will be provided on the course website.  
-        * Note: earlier editions (1st, 2nd, 3rd) of this textbook may be used but are not recommended.  
+        * Note: earlier editions (1st, 2nd, 3rd, 4th) of this textbook may be used but are not recommended.  
     * ***In-class laptops or tablets***
         * Each student will be expected to have access to a laptop or tablet during lectures and discussion sections to explore ecological models. Any operating system will suffice, as will iPads or similar tablet-like devices. Smartphones are ***not*** allowed.  
     * ***Course Assignments and Projects***  
