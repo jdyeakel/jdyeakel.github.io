@@ -7,7 +7,7 @@ comments: true
 ---
 
 [< Back to Course Page]({{ site.url }}/teaching/ecology)  
-[> To Course Schedule]({{ site.url }}/teaching/ecology/schedule_summer/)
+[> To Course Schedule]({{ site.url }}/teaching/ecology/schedule/)
 
 
 + **Lecture Time**: Mondays and Wednesdays, 01:30 PM - 02:45 PM    
@@ -62,8 +62,11 @@ comments: true
         * Access the ebook through [redshelf](https://brytewave.redshelf.com/)         
         * Readings will also be assigned for the Discussion section and instead of the book for some lectures. These are required and will be provided on the course website.  
         * Note: earlier editions (1st, 2nd, 3rd, 4th) of this textbook may be used but are not recommended.  
-    * ***In-class laptops or tablets***
-        * Each student will be expected to have access to a laptop or tablet during lectures and discussion sections to explore ecological models. Any operating system will suffice, as will iPads or similar tablet-like devices. Smartphones are ***not*** allowed.  
+    * ***In-class laptops or tablets***   
+        * Each student may use a laptop or tablet during lectures and discussion sections to take notes and participate in coures/discussion activities. Any operating system will suffice, as will iPads or similar tablet-like devices.  
+        * Students will need access to a laptop or tablet during discussion sections. See the [Technology Resources Program](https://ue.ucmerced.edu/student-resources/technology-resources) for information about loaning laptops/tablets.  
+        * Smartphones are ***not*** allowed to be used in class or discussion. Use of a smartphone during class will result in loss of attendance points.  
+        * Electronic devices are to be used during class *only* to perform class-related functions (e.g. note-taking). Use of devises for other means may result in loss of attendance points.  
     * ***Course Assignments and Projects***  
         * **Homework**: Throughout the semester,  homework assignments will be assigned, consisting of exercises provided by the Teaching Assistant/Instructor.    
         <!-- * **Quizzes**: Quizzes will be given periodically during the lecture period. They will not necessarily be announced. -->  
@@ -72,3 +75,7 @@ comments: true
         * ***Grading***: Your final grade will be based on the following: lecture attendance: 10%; discussion section participation & activities: 25%; homework: 20%; midterms: 30% (three, 10% each); and comprehensive final exam: 15%.  
         * Grades will be given using the approximate framework: A: 90 - 100%, B: 80 - 90%, C: 70 - 80%, D: 60 - 70%, F: < 60%. This framework is subject to change given the distribution of the final grades.   
         * Late assignments (e.g., homework) will not be accepted.  
+
++ **Artificial Intelligence Policy**  
+    * It is a violation of university policy to misrepresent work that you submit or exchange with your instructor by characterizing it as your own, such as submitting responses to assignments that do not acknowledge the use of generative AI tools. Do no use generative AI to complete assignment tasks unless otherwise instructed. Generative AI may be used to explore/advance understanding in subject material, but will not be used to directly assist in required assignments (again - unless otherwise specified). Please feel free to reach out to me with any questions you may have about the use of generative AI tools before submitting any content that has been substantially informed by these tools.   
+    * Use of AI that violates the terms above will result in a zero for the assignment, and the violator may be subject to academic discipline.   
