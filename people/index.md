@@ -57,13 +57,6 @@ Check back soon...
 ---
 
 <span style="text-align=left;font-size:1.5em;color:#4292E5;">Graduate Researchers</span> 
-<div>
-<p style="float: left;padding-right:25px"><img src="/images/Irina-web.jpg" style="clip-path: ellipse(50% 50%); width: 125px; height: auto;"></p>
- <b><a href="https://birskisbarros.weebly.com/" target="_blank">Irina Birskis Barros</a></b> "I am interested in how species assemble into communities, especially how diversity shapes and is shaped by species interactions. I aim to use empirical data, mathematical modeling and network theory to investigate how ecological networks assemble and what factors might influence their stability and structure over evolutionary time."  <BR> <BR>     
-</div>     
-
-<BR CLEAR="...">   
-
 <div style="display: flex; align-items: flex-start;">
     <div style="flex-shrink: 0; padding-right: 25px;">
         <img src="/images/anna-web.jpg" style="clip-path: ellipse(50% 50%); width: 125px; height: auto;" alt="Anna Carolina Dias de Almeida bio photo">
@@ -81,6 +74,18 @@ Check back soon...
 <span style="text-align=left;font-size:1.5em;color:#4292E5;">Undergraduate Researchers</span> 
 <div style="display: flex; align-items: flex-start;">
     <div style="flex-shrink: 0; padding-right: 25px;">
+      <img src="/images/mason-web.jpg" style="clip-path: ellipse(50% 50%); width: 125px; height: auto;">
+    </div>
+  <div>
+    <b>Mason Fan</b> "I am interested in Mesozoic paleoecology, particularly the life history of various extinct vertebrates and the possible interactions between other members of their own and other species. I would like to gain a better understanding of these organisms by studying their remains, closest living relatives, and the extant organisms currently occupying the potential niche they filled in the past."  <BR> <BR> <BR> <BR>     
+  </div> 
+</div>     
+
+<BR CLEAR="...">
+
+
+<div style="display: flex; align-items: flex-start;">
+    <div style="flex-shrink: 0; padding-right: 25px;">
       <img src="/images/person.jpg" style="clip-path: ellipse(50% 50%); width: 125px; height: auto;">
     </div>
   <div>
@@ -94,6 +99,13 @@ Check back soon...
 
 <span style="text-align=left;font-size:1.5em;color:#4292E5;">Lab Alumni</span><br><br>
 <span style="text-align=left;font-size:1.0em;color:#4292E5;">Ph.D. Students</span>
+<div>
+<p style="float: left;padding-right:25px"><img src="/images/Irina-web.jpg" style="clip-path: ellipse(50% 50%); width: 125px; height: auto;"></p>
+ <b><a href="https://birskisbarros.weebly.com/" target="_blank">Dr. Irina Birskis Barros, Ph.D. (Quant. Sys. Biology);</a></b> <b>Postdoctoral Researcher, Michigan State University</b>"I am interested in how species assemble into communities, especially how diversity shapes and is shaped by species interactions. I aim to use empirical data, mathematical modeling and network theory to investigate how ecological networks assemble and what factors might influence their stability and structure over evolutionary time."  <BR> <BR>     
+</div>     
+
+<BR CLEAR="...">   
+
 <div style="display: flex; align-items: flex-start;">
     <div style="flex-shrink: 0; padding-right: 25px;">
       <img src="/images/Taran-web.jpg" style="clip-path: ellipse(50% 50%); width: 125px; height: auto;">
