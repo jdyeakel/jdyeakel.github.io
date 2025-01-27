@@ -34,6 +34,17 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 
 ---
 
+## Discussion Sections and Demonstrations
+
+* [Section 1: Investigating ecological problems with R]({{ site.url }}/teaching/ecology/sections2024/1_introtoR/){:target="_blank"}  
+
+
+
+## Lecture Slides
+> *Note:* You are responsible for taking notes. If you miss a lecture, get the notes from a friend.
+
+* [Lecture 1 (01/22/2025)](https://ucmerced.box.com/s/u26vlsxcl7iq9mw7va8q5573gr6j1o3n){:target="_blank"}    
+
 
 <!-- 
 
