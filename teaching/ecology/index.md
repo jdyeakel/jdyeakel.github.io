@@ -25,8 +25,8 @@ Welcome to the course website for ***Fundamentals of Ecology***. We will be havi
     * 04D - Wednesday 04:30 PM - 05:20 PM; Classroom and Office 1 Bldg Room: 114  
     * 02D - Wednesday 05:30 PM - 06:20 PM; Classroom and Office 1 Bldg Room: 265  
 
-*	Prof. Yeakel Office Hours: TBD or by appointment.   
-*	TA Anabelle Marques Klovrza Office Hours: TBD or by appointment.  
+*	Prof. Yeakel Office Hours: Wednesdays 9-10 AM (SE1 288), Fridays 9-10 AM ([Zoom](https://ucmerced.zoom.us/j/5384567727)) or by appointment.   
+*	TA Anabelle Marques Klovrza Office Hours: Mondays 2:30-3:30 PM (COB1 320), Fridays 11-12 ([Zoom](https://ucmerced.zoom.us/j/84560227433?pwd=aDWlSqqunRZTI0Rnyl3bYysa46XB1I.1)) or by appointment.  
 
 ## Contact
 Please use the Inbox application in the CatCourses (Canvas) website to contact either of us. *There is no guarantee of response if personal emails are used.*
