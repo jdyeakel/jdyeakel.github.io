@@ -9,13 +9,23 @@ image:
 
 <!-- <span style="font-size:1em;">School of Natural Sciences @ UC-Merced</span> --> 
 
-# Quantitative Ecological Dynamics (QED) Group  
-### Life & Environmental Science | UC Merced  
 
+<div style="display: flex; align-items: flex-start;margin-bottom: 15px;">
+    <div>
+        <span style="text-align=left;font-size:1.5em;color:#4292E5;font-weight: bold;">Quantitative Ecological Dynamics (QED)</span>
+        <br><span style="text-align=left;font-size:1.5em;color:#4292E5;font-weight: bold;">Life & Environmental Sciences</span>
+        <br><span style="text-align=left;font-size:1.5em;color:#4292E5;font-weight: bold;">University of California Merced</span> 
+    </div>
+    <div style="flex-shrink: 0; padding-left: 25px;">
+        <img src="/images/les_logo.jpg" style="clip-path: ellipse(50% 50%); width: 180px; height: auto;" alt="LES logo">
+    </div>
+</div> 
+<div>
 <p>
   <span class="firstcharacter">W</span>
   e are a diverse group of ecologists and evolutionary biologists who investigate how individuals, populations, and communities function using a combination of theory, statistical approaches, and sometimes even data. The questions that we investigate range from understanding how food webs are structured and function over large temporal and spatial scales, to what rodents eat and why, to uncovering energetic thresholds constraining mammalian body size evolution, to predicting when crickets should lose their chirp, to exploring the effects of assembly and ecological engineers on evolving communities, to predicting behavioral transitions among mammalian carnivores. While our interests are varied, we aim to apply simple models in mature ways to uncover the fundamental processes governing the dynamics of eco-evolutionary systems over contemporary and paleontological timescales.  
 </p>
+</div> 
 
 <!-- <a href="https://example.com" class="btn">Primary Button</a>
 <a href="https://example.com" class="btn btn-success">Success Button</a>
