@@ -44,6 +44,8 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 > *Note:* You are responsible for taking notes. If you miss a lecture, get the notes from a friend.
 
 * [Lecture 1 (01/22/2025)](https://ucmerced.box.com/s/u26vlsxcl7iq9mw7va8q5573gr6j1o3n){:target="_blank"}    
+* [Lecture 2 (01/27/2025)](https://ucmerced.box.com/s/g5aaa38jzhj3o9g0q1sgixg21yknmveo){:target="_blank"}    
+
 
 
 <!-- 
