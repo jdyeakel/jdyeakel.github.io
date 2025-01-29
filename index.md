@@ -17,7 +17,7 @@ image:
         <br><span style="text-align=left;font-size:1.5em;color:#4292E5;font-weight: bold;">University of California Merced</span> 
     </div>
     <div style="flex-shrink: 0; padding-left: 25px;">
-        <img src="/images/les_logo.jpg" style="clip-path: ellipse(50% 50%); width: 180px; height: auto;" alt="LES logo">
+        <img src="/images/les_logo.jpg" style="clip-path: ellipse(50% 50%); width: 120px; height: auto;" alt="LES logo">
     </div>
 </div> 
 <div>
