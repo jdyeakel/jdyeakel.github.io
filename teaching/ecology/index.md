@@ -38,7 +38,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 
 * [Section 1: Investigating ecological problems with R]({{ site.url }}/teaching/ecology/sections2024/1_introtoR/){:target="_blank"}  
 * [Section 2: Temperature as an ecological constraint]({{ site.url }}/teaching/ecology/sections2024/2_temperature/){:target="_blank"} & [Reading]({{ site.url }}/teaching/ecology/papers/Gunderson.pdf){:target="_blank"}  
-* [Section 3: Metabolism]({{ site.url }}/teaching/ecology/sections2024/3_metabolism/){:target="_blank"} & [Reading]({{ site.url }}/teaching/ecology/papers/Gunderson.pdf){:target="_blank"}  
+* [Section 3: Metabolism]({{ site.url }}/teaching/ecology/sections2024/3_metabolism/){:target="_blank"}   
 
 
 ## Lecture Slides
