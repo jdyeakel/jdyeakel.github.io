@@ -53,10 +53,10 @@ tr:nth-child(odd) {background: #FFF}
 | | **D3**       | Disc 3     | [Allometry and metabolic scaling]({{ site.url }}/teaching/ecology/sections2024/3_metabolism/){:target="_blank"} |    | H2   |
 | **2/17** | **M**       | ***President’s Day – No Class*** |      |    |   |
 | **2/19** | **W-L7**    | Evolution 1| Ecology as the driver of natural selection  | Bowman Ch. 6     |   |
-| | **D4**       | Disc 4     | [Evolution by Natural Selection]()   |    |   |
+| |   Disc --      |     |   ***No Discussion Section***  |    |   |
 | **2/24** | **M-L8**    | Evolution 2| Evolutionary change  | Bowman Ch. 6     |   |
 | **2/26** | **W-L9**    | Life History       | Life history diversity & tradeoffs |    |   |
-| | Disc --      | ***No Discussion Section*** |      |    | H3   |
+| | **D4**     |Disc 4   |  [Evolution by Natural Selection]()   |    | H3   |
 | **3/3**  | **M-L10**   | Behavior   | Behavioral ecology   | Bowman Ch. 8, [Sinervo]({{ site.url }}/teaching/ecology/papers/optimalforaging.pdf){:target="_blank"} |   |
 | **3/5**  | **W-L11**   | Populations 1      | Density dependence and population dynamics  | Bowman Ch. 10    |   |
 | | **D5**       | Disc 5     | [Life Histories]() |    | H4   |
@@ -68,6 +68,7 @@ tr:nth-child(odd) {background: #FFF}
 | | **D7**       | Disc 7     | [Exponential and Logistic Growth 2]()|    |   |
 | **3/24** | **M**       | ***Spring Break – No Class*** |      |    |   |
 | **3/26** | **W**       | ***Spring Break – No Class*** |      |    |   |
+| |   Disc --      |     |   ***No Discussion Section***  |    |   |
 | **3/31** | **M-L15**   | Competition 3      | Competition dynamics 2     |    |   |
 | **4/2**  | **W-L16**   | Predation 1| Herbivory and predation    | Bowman Ch. 12    |   |
 | | **D8**       | Disc 8     | [Lotka–Volterra competition dynamics]()   |    |   |
