@@ -22,7 +22,7 @@ comments: true
 <br>
 * Dominy N.J., Rosien J., Fannin L., <span style="color:#4292E5;">Yeakel J.D.</span>, Malaivijitnond S., Tan A. Food-washing monkeys recognize the law of diminishing returns. [eLife Reviewed Preprint](https://elifesciences.org/reviewed-preprints/98520#){:target="_blank"}. In revision @ *eLife*.  
 <br>
-* Rosien J.E., Fannin L.D., Seyoum C.M., Venkataraman V.V., <span style="color:#4292E5;">Yeakel J.D.</span>, Janis C.M., Cerling T.E., Dominy N.J. Behavioral drive during human evolution. In revision @ *Science*.  
+* Fannin L.D., Seyoum C.M., Venkataraman V.V., <span style="color:#4292E5;">Yeakel J.D.</span>, Janis C.M., Cerling T.E., Dominy N.J. Behavioral drive during human evolution. In revision @ *Science*.  
 <br>
 * Habermann M., Fahimipour A.K., <span style="color:#4292E5;">Yeakel J.D.</span>, Gross T. Functional motifs in food webs and networks. *Coming soon*.  
 <br>
