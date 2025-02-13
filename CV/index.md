@@ -18,10 +18,18 @@ comments: true
 : <dd class="review"> <div markdown="1">
 * ☕ <span style="color:#4292E5;">Yeakel J.D.</span>, Hutchinson M.C., Kempes C.P., Koch P.L., Gill J.L., Pires M.M. Bioenergetic trophic trade-offs determine mass-dependent extinction thresholds across the Cenozoic. [Preprint](http://arxiv.org/abs/2410.18849){:target="_blank"}.  
 <br>
-* Dominy N.J., Rosien J., Fannin L., <span style="color:#4292E5;">Yeakel J.D.</span>, Malaivijitnond S., Tan A. Food-washing monkeys recognize the law of diminishing returns. [eLife Reviewed Preprint](https://elifesciences.org/reviewed-preprints/98520#){:target="_blank"}. In review @ *eLife*.  
+* ☕ <span style="color:#4292E5;">Yeakel J.D.</span> Coarse-graining cascades within food webs. *Coming soon*.  
+<br>
+* Dominy N.J., Rosien J., Fannin L., <span style="color:#4292E5;">Yeakel J.D.</span>, Malaivijitnond S., Tan A. Food-washing monkeys recognize the law of diminishing returns. [eLife Reviewed Preprint](https://elifesciences.org/reviewed-preprints/98520#){:target="_blank"}. In revision @ *eLife*.  
 <br>
 * Rosien J.E., Fannin L.D., Seyoum C.M., Venkataraman V.V., <span style="color:#4292E5;">Yeakel J.D.</span>, Janis C.M., Cerling T.E., Dominy N.J. Behavioral drive during human evolution. In revision @ *Science*.  
 <br>
+* Habermann M., Fahimipour A.K., <span style="color:#4292E5;">Yeakel J.D.</span>, Gross T. Functional motifs in food webs and networks. *Coming soon*.  
+<br>
+* Massing J., Gross T., <span style="color:#4292E5;">Yeakel J.D.</span>, Fahimipour A.K. Insights into bacterial cooperation:
+Exploring bacterial mutualistic interactions through a dynamical systems approach. *Coming soon*.  
+<br>
+
 
 <br>
 
