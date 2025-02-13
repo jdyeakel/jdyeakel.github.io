@@ -20,7 +20,7 @@ comments: true
 <br>
 * ☕ <span style="color:#4292E5;">Yeakel J.D.</span> Coarse-graining cascades within food webs. *Coming soon*.  
 <br>
-* Dominy N.J., Rosien J., Fannin L., <span style="color:#4292E5;">Yeakel J.D.</span>, Malaivijitnond S., Tan A. Food-washing monkeys recognize the law of diminishing returns. [eLife Reviewed Preprint](https://elifesciences.org/reviewed-preprints/98520#){:target="_blank"}. In revision @ *eLife*.  
+* Rosien J., Fannin L., <span style="color:#4292E5;">Yeakel J.D.</span>, Malaivijitnond S., Dominy N.J., Tan A. Food-washing monkeys recognize the law of diminishing returns. [eLife Reviewed Preprint](https://elifesciences.org/reviewed-preprints/98520#){:target="_blank"}. In revision @ *eLife*.  
 <br>
 * Fannin L.D., Seyoum C.M., Venkataraman V.V., <span style="color:#4292E5;">Yeakel J.D.</span>, Janis C.M., Cerling T.E., Dominy N.J. Behavioral drive during human evolution. In revision @ *Science*.  
 <br>
