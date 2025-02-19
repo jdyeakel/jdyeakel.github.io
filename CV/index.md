@@ -18,7 +18,7 @@ comments: true
 : <dd class="review"> <div markdown="1">
 * ☕ <span style="color:#4292E5;">Yeakel J.D.</span>, Hutchinson M.C., Kempes C.P., Koch P.L., Gill J.L., Pires M.M. Bioenergetic trophic trade-offs determine mass-dependent extinction thresholds across the Cenozoic. [Preprint](http://arxiv.org/abs/2410.18849){:target="_blank"}.  
 <br>
-* ☕ <span style="color:#4292E5;">Yeakel J.D.</span> Coarse-graining cascades within food webs. *Coming soon*.  
+* ☕ <span style="color:#4292E5;">Yeakel J.D.</span> Coarse-graining cascades within food webs. [Preprint](https://arxiv.org/abs/2502.11220){:target="_blank"}.  
 <br>
 * Rosien J., Fannin L., <span style="color:#4292E5;">Yeakel J.D.</span>, Malaivijitnond S., Dominy N.J., Tan A. Food-washing monkeys recognize the law of diminishing returns. [eLife Reviewed Preprint](https://elifesciences.org/reviewed-preprints/98520#){:target="_blank"}. In revision @ *eLife*.  
 <br>
