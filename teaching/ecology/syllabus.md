@@ -17,7 +17,7 @@ comments: true
     * 04D - Wednesday 04:30 PM - 05:20 PM; Classroom and Office 1 Bldg Room: 114  
     * 02D - Wednesday 05:30 PM - 06:20 PM; Classroom and Office 1 Bldg Room: 265  
 + **Instructor**: Prof. Yeakel Office Hours: Wednesdays 9-10 AM (SE1 288), Fridays 9-10 AM ([Zoom](https://ucmerced.zoom.us/j/5384567727)) or by appointment.         
-+ **Teaching Assistant**: Anabelle Marques Klovrza Office Hours: Mondays 2:30-3:30 PM (COB1 320), Fridays 11-12 ([Zoom](https://ucmerced.zoom.us/j/84560227433?pwd=aDWlSqqunRZTI0Rnyl3bYysa46XB1I.1)) or by appointment.        
++ **Teaching Assistant**: Anabelle Marques Klovrza Office Hours: Mondays 2:30-3:30 PM (COB1 320), Fridays 11-12 ([Zoom](https://ucmerced.zoom.us/j/86408413320?pwd=z1Zkrnwe9vfZLilptfe2Qkw13Wgjtc.1)) or by appointment.        
 + **Course Websites**  
     Everything that we do this this course will revolve around two principle websites. In some cases, information will be duplicated on both sites (link to readings), and I will attempt to cross-link as necessary.
     > The [***CatCourse Website (Canvas)***](https://catcourses.ucmerced.edu/): Turning in assignments, grades, lectures, links to readings  
