@@ -56,10 +56,10 @@ tr:nth-child(odd) {background: #FFF}
 | |   Disc --      |     |   ***No Discussion Section***  |    |   |
 | **2/24** | **M-L8**    | Evolution 2| Evolutionary change  | Bowman Ch. 6     |   |
 | **2/26** | **W-L9**    | Life History       | Life history diversity & tradeoffs |    |   |
-| | **D4**     |Disc 4   |  [Evolution by Natural Selection]({{ site.url }}/teaching/ecology/sections2024/4_evolution/)   |    | H2   |
+| | **D4**     |Disc 4   |  [Evolution by Natural Selection]({{ site.url }}/teaching/ecology/sections2024/4_evolution/){:target="_blank"}   |    | H2   |
 | **3/3**  | **M-L10**   | Behavior   | Behavioral ecology   | Bowman Ch. 8, [Sinervo]({{ site.url }}/teaching/ecology/papers/optimalforaging.pdf){:target="_blank"} |   |
 | **3/5**  | **W-L11**   | Populations 1      | Density dependence and population dynamics  | Bowman Ch. 10    |   |
-| | **D5**       | Disc 5     | [Life Histories]() |    | H3   |
+| | **D5**       | Disc 5     | [Life Histories]({{ site.url }}/teaching/ecology/sections2024/5_lifehistory/){:target="_blank"} |    | H3   |
 | **3/10** | **M-L12**   | Populations 2      | Logistic growth & discrete dynamics |    |   |
 | **3/12** | **W-L13**   | Competition| Intro to competition| Bowman Ch. 14    |   |
 | | **D6**       | Disc 6     | [Exponential and Logistic Growth]()  |    | H4   |

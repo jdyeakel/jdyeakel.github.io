@@ -40,7 +40,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 * [Section 2: Temperature as an ecological constraint]({{ site.url }}/teaching/ecology/sections2024/2_temperature/){:target="_blank"} & [Reading]({{ site.url }}/teaching/ecology/papers/Gunderson.pdf){:target="_blank"}  
 * [Section 3: Metabolism]({{ site.url }}/teaching/ecology/sections2024/3_metabolism/){:target="_blank"}   
 * [Section 4: Evolution]({{ site.url }}/teaching/ecology/sections2024/4_evolution/){:target="_blank"}   
-
+* [Section 5: Life History]({{ site.url }}/teaching/ecology/sections2024/5_lifehistory/){:target="_blank"}   
 
 ## Lecture Slides
 > *Note:* You are responsible for taking notes. If you miss a lecture, get the notes from a friend.
