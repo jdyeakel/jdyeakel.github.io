@@ -11,6 +11,7 @@ gem "faraday-retry"
 
 gem 'octopress', '~> 3.0.0.rc.12'
 
+gem "uri", ">= 1.0.3"
 
 # source 'https://rubygems.org'
 # # ruby "3.3.4"
