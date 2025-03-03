@@ -81,7 +81,7 @@ Let's analyze these strategies more thoroughly. Given the alternative equations 
     muo = seq(0,1,0.0001)
 
     mu_mosq = 0.1
-    offspring_mosq = 200
+    offspring_mosq = 20
     Phi_mosq = (1-mu_mosq)^9*((1-muo)* offspring_mosq)
 
     mu_chimp = 0.1
