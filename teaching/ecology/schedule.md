@@ -58,18 +58,18 @@ tr:nth-child(odd) {background: #FFF}
 | **2/26** | **W-L9**    | Life History       | Life history diversity & tradeoffs |    |   |
 | | **D4**     |Disc 4   |  [Evolution by Natural Selection]({{ site.url }}/teaching/ecology/sections2024/4_evolution/){:target="_blank"}   |    | H2   |
 | **3/3**  | **M-L10**   | Behavior   | Behavioral ecology   | Bowman Ch. 8, [Sinervo]({{ site.url }}/teaching/ecology/papers/optimalforaging.pdf){:target="_blank"} |   |
-| **3/5**  | **W-L11**   | Populations 1      | Density dependence and population dynamics  | Bowman Ch. 10    |   |
+| **3/5**  | **W-L11**   |   Behavior    |  Fitness of Interactions | [Demo: Game Theory]({{ site.url }}/teaching/ecology/sections2024/demo_gametheory/){:target="_blank"}    |   |
 | | **D5**       | Disc 5     | [Life Histories]({{ site.url }}/teaching/ecology/sections2024/5_lifehistory/){:target="_blank"} |    | H3   |
-| **3/10** | **M-L12**   | Populations 2      | Logistic growth & discrete dynamics |    |   |
-| **3/12** | **W-L13**   | Competition| Intro to competition| Bowman Ch. 14    |   |
+| **3/10** | **M-L12**   | Populations 1      | Density dependence and population dynamics  |   Bowman Ch. 10 |   |
+| **3/12** | **W-L13**   | Populations 2 | Logistic growth & discrete dynamics |     |   |
 | | **D6**       | Disc 6     | [Exponential and Logistic Growth]()  |    | H4   |
-| **3/17** | **M-L14**       | Competition 2       |  Competition dynamics 1    |    |   |
+| **3/17** | **M-L14**       | Competition       |  Intro to competition    |  Bowman Ch. 14  |   |
 | **3/19** | **W**   | ***Exam II***     |      |    |   |
 | | **D7**       | Disc 7     | [Exponential and Logistic Growth 2]()|    |   |
 | **3/24** | **M**       | ***Spring Break – No Class*** |      |    |   |
 | **3/26** | **W**       | ***Spring Break – No Class*** |      |    |   |
 | |   Disc --      |     |   ***No Discussion Section***  |    |   |
-| **3/31** | **M-L15**   | Competition 3      | Competition dynamics 2     |    |   |
+| **3/31** | **M-L15**   | Competition 2      | Competition dynamics     |    |   |
 | **4/2**  | **W-L16**   | Predation 1| Herbivory and predation    | Bowman Ch. 12    |   |
 | | **D8**       | Disc 8     | [Lotka–Volterra competition dynamics]()   |    |   |
 | **4/7**  | **M-L17**   | Predation 2| Predation dynamics   |    |   |
