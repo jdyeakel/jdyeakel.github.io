@@ -62,7 +62,7 @@ tr:nth-child(odd) {background: #FFF}
 | | **D5**       | Disc 5     | [Life Histories]({{ site.url }}/teaching/ecology/sections2024/5_lifehistory/){:target="_blank"} |    | H3   |
 | **3/10** | **M-L12**   | Populations 1      | Density dependence and population dynamics  |   Bowman Ch. 10 |   |
 | **3/12** | **W-L13**   | Populations 2 | Logistic growth & discrete dynamics |     |   |
-| | **D6**       | Disc 6     | [Exponential and Logistic Growth]()  |    | H4   |
+| | **D6**       | Disc 6     | [Exponential and Logistic Growth]({{ site.url }}/teaching/ecology/sections2024/6_popgrowth/){:target="_blank"}     |    | H4   |
 | **3/17** | **M-L14**       | Competition       |  Intro to competition    |  Bowman Ch. 14  |   |
 | **3/19** | **W**   | ***Exam II***     |      |    |   |
 | | **D7**       | Disc 7     | [Exponential and Logistic Growth 2]()|    |   |
