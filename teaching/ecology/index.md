@@ -58,6 +58,11 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 * [Lecture 10 (03/03/25)](https://ucmerced.box.com/s/9upmqqx54xupll1eti9esv67g0c7o61i){:target="_blank"}    
 
 
+## Lecture Recordings
+> *Note:* Remote lectures only  
+
+* [Population Growth and Density Dependence - 03/12/25](https://ucmerced.box.com/s/0erarq7vya90b2pa978ojgrtdf7j9xnt){:target="_blank"}    
+
 <!-- 
 
 
