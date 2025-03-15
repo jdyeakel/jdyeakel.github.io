@@ -43,7 +43,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 * [Section 5: Life History]({{ site.url }}/teaching/ecology/sections2024/5_lifehistory/){:target="_blank"}   
 * [DEMO: Game Theory]({{ site.url }}/teaching/ecology/sections2024/demo_gametheory/){:target="_blank"}   
 * [Section 6: Population Dynamics]({{ site.url }}/teaching/ecology/sections2024/6_popgrowth/){:target="_blank"}   
-
+* [NOTES: how to derive logistic growth from exponential growth]({{ site.url }}/teaching/ecology/exponentialtologistic.pdf){:target="_blank"}   
 
 
 ## Lecture Slides
