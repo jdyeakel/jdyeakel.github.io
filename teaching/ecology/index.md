@@ -62,7 +62,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 > *Note:* Remote lectures only  
 
 * [Population Growth and Density Dependence - 03/12/25](https://ucmerced.box.com/s/0erarq7vya90b2pa978ojgrtdf7j9xnt){:target="_blank"}    
-* [Lecture on Density Dependence (03/17/25)](https://ucmerced.box.com/s/w8mmyu8j7unjox4fbaesh0r6xwrjazqz){:target="_blank"}    
+* [Density Dependence continued - (03/17/25)](https://ucmerced.box.com/s/w8mmyu8j7unjox4fbaesh0r6xwrjazqz){:target="_blank"}    
 
 
 <!-- 
