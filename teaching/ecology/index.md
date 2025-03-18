@@ -56,13 +56,14 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 * [Lecture 7 (02/19/25)](https://ucmerced.box.com/s/g6tfbk98l61reavffjs3vi45zw7r2f61){:target="_blank"}    
 * [Lectures 8,9 (02/24/25 & 02/26/25)](https://ucmerced.box.com/s/0lvi2ntu026ruba9qg29irs2093volh0){:target="_blank"}    
 * [Lecture 10 (03/03/25)](https://ucmerced.box.com/s/9upmqqx54xupll1eti9esv67g0c7o61i){:target="_blank"}    
-* [Lecture on Density Dependence (03/17/25)](https://ucmerced.box.com/s/w8mmyu8j7unjox4fbaesh0r6xwrjazqz){:target="_blank"}    
 
 
 ## Lecture Recordings
 > *Note:* Remote lectures only  
 
 * [Population Growth and Density Dependence - 03/12/25](https://ucmerced.box.com/s/0erarq7vya90b2pa978ojgrtdf7j9xnt){:target="_blank"}    
+* [Lecture on Density Dependence (03/17/25)](https://ucmerced.box.com/s/w8mmyu8j7unjox4fbaesh0r6xwrjazqz){:target="_blank"}    
+
 
 <!-- 
 
