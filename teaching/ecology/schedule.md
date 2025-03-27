@@ -71,7 +71,7 @@ tr:nth-child(odd) {background: #FFF}
 | |   Disc --      |     |   ***No Discussion Section***  |    |   |
 | **3/31** | **M-L15**   | Competition 2      | Competition dynamics     |    |   |
 | **4/2**  | **W-L16**   | Predation 1| Herbivory and predation    | Bowman Ch. 12    |   |
-| | **D8**       | Disc 8     | [Lotka–Volterra competition dynamics]()   |    |   |
+| | **D8**       | Disc 8     | [Lotka–Volterra competition dynamics]({{ site.url }}/teaching/ecology/sections2024/8_comp/){:target="_blank"}     |    |   |
 | **4/7**  | **M-L17**   | Predation 2| Predation dynamics   |    |   |
 | **4/9**  | **W-L18**   | Disease 1  | The dynamics of disease    | Bowman 13.4–end, [Blackwood to 2.2.2]({{ site.url }}/teaching/ecology/papers/Blackwood_SIR.pdf), [R0 is just an average](https://www.santafe.edu/news-center/news/transmission-t-024-cristopher-moore-on-the-heavy-tail-of-outbreaks) |   |
 | | **D9**       | Disc 9     | [Lotka–Volterra predation dynamics]()     |    | H5   |
