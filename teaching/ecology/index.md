@@ -45,6 +45,8 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 * [Section 6-7: Population Dynamics]({{ site.url }}/teaching/ecology/sections2024/6_popgrowth/){:target="_blank"}   
 * [NOTES: how to derive logistic growth from exponential growth]({{ site.url }}/teaching/ecology/exponentialtologistic.pdf){:target="_blank"}   
 * [Section 8: Competition]({{ site.url }}/teaching/ecology/sections2024/8_comp/){:target="_blank"}   
+* [Section 9: Predation]({{ site.url }}/teaching/ecology/sections2024/9_pred/){:target="_blank"}   
+
 
 ## Lecture Slides
 > *Note:* You are responsible for taking notes. If you miss a lecture, get the notes from a friend.
