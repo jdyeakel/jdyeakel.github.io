@@ -77,7 +77,7 @@ tr:nth-child(odd) {background: #FFF}
 | | **D9**       | Disc 9     | [Lotka–Volterra predation dynamics]({{ site.url }}/teaching/ecology/sections2024/9_pred/){:target="_blank"}        |    | H5   |
 | **4/14** | **M-L19**   | Disease 2  | Disease modeling & applications    | (continuation/readings as desired)|   |
 | **4/16** | **W-L20**   | Parasitism | Parasites and parasitoids  | Bowman Ch. 13    |   |
-| | **D10**      | Disc 10    | [Dynamics of disease](){:target="_blank"}|    | H6   |
+| | **D10**      | Disc 10    | [Dynamics of disease]({{ site.url }}/teaching/ecology/sections2024/10_disease/){:target="_blank"}|    | H6   |
 | **4/21** | **M-L21**   | ***Exam III***     |      |    |   |
 | **4/23** | **W-L22**   | Interactions 1     | Mutualisms  | Bowman Ch. 15    |   |
 | | **D11**      | Disc 11    | [Species interaction networks]()     |    | H7   |
