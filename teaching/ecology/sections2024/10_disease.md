@@ -56,8 +56,8 @@ Before we even think about the susceptible or recovered compartment, we can say 
 
 $$
 \begin{align}
-\frac{\rm d}{\rm dt}I &> \beta \frac{I}{N} - \gamma I \\ \\
-0 &> \beta \frac{I}{N}S - \gamma I \\ \\
+\frac{\rm d}{\rm dt}I &> 0 \\ \\
+\beta \frac{I}{N}S - \gamma I &> 0 \\ \\
 \beta \frac{I}{N}S &> \gamma I \\ \\
 \beta \frac{S}{N} &> \gamma \\ \\
 \frac{S}{N} &> \frac{\gamma}{\beta}
