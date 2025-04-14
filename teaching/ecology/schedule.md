@@ -74,13 +74,13 @@ tr:nth-child(odd) {background: #FFF}
 | | **D8**       | Disc 8     | [Lotka–Volterra competition dynamics]({{ site.url }}/teaching/ecology/sections2024/8_comp/){:target="_blank"}     |    |   |
 | **4/7**  | **M-L17**   | Predation 2| Predation dynamics   |    |   |
 | **4/9**  | **W-L18**   | Disease 1  | The dynamics of disease    | Bowman 13.4–end, [Blackwood to 2.2.2]({{ site.url }}/teaching/ecology/papers/Blackwood_SIR.pdf), [R0 is just an average](https://www.santafe.edu/news-center/news/transmission-t-024-cristopher-moore-on-the-heavy-tail-of-outbreaks) |   |
-| | **D9**       | Disc 9     | [Lotka–Volterra predation dynamics]({{ site.url }}/teaching/ecology/sections2024/9_pred/){:target="_blank"}        |    | H5   |
+| | **D9**       | Disc 9     | [Lotka–Volterra predation dynamics]({{ site.url }}/teaching/ecology/sections2024/9_pred/){:target="_blank"}        |    |    |
 | **4/14** | **M-L19**   | Disease 2  | Disease modeling & applications    | (continuation/readings as desired)|   |
 | **4/16** | **W-L20**   | Parasitism | Parasites and parasitoids  | Bowman Ch. 13    |   |
-| | **D10**      | Disc 10    | [Dynamics of disease]({{ site.url }}/teaching/ecology/sections2024/10_disease/){:target="_blank"}|    | H6   |
+| | **D10**      | Disc 10    | [Dynamics of disease]({{ site.url }}/teaching/ecology/sections2024/10_disease/){:target="_blank"}|    | H5   |
 | **4/21** | **M-L21**   | ***Exam III***     |      |    |   |
 | **4/23** | **W-L22**   | Interactions 1     | Mutualisms  | Bowman Ch. 15    |   |
-| | **D11**      | Disc 11    | [Species interaction networks]()     |    | H7   |
+| | **D11**      | Disc 11    | [Species interaction networks]()     |    | H6   |
 |**4/28** | **M-L23**   | Interactions 2     | Food webs   | Bowman Ch. 21    |   |
 | **4/30** | **W-L24**   | Communities 1      | Island biogeography | Bowman Ch. 18.3  |   |
 | | **D12**      | Disc 12    | [Island biogeography]()  |    |   |
