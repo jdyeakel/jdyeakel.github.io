@@ -80,7 +80,7 @@ tr:nth-child(odd) {background: #FFF}
 | | **D10**      | Disc 10    | [Dynamics of disease]({{ site.url }}/teaching/ecology/sections2024/10_disease/){:target="_blank"}|    | H5   |
 | **4/21** | **M-L21**   | ***Exam III***     |      |    |   |
 | **4/23** | **W-L22**   | Interactions 1     | Mutualisms  | Bowman Ch. 15    |   |
-| | **D11**      | Disc 11    | [Species interaction networks]()     |    | H6   |
+| | **D11**      | Disc 11    | [Species interaction networks]({{ site.url }}/teaching/ecology/sections2024/11_foodwebs/){:target="_blank"}       |    | H6   |
 |**4/28** | **M-L23**   | Interactions 2     | Food webs   | Bowman Ch. 21    |   |
 | **4/30** | **W-L24**   | Communities 1      | Island biogeography | Bowman Ch. 18.3  |   |
 | | **D12**      | Disc 12    | [Island biogeography]()  |    |   |
