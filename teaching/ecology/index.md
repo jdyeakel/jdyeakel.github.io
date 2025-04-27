@@ -48,6 +48,7 @@ Please use the Inbox application in the CatCourses (Canvas) website to contact e
 * [Section 9: Predation]({{ site.url }}/teaching/ecology/sections2024/9_pred/){:target="_blank"}   
 * [Section 10: Disease]({{ site.url }}/teaching/ecology/sections2024/10_disease/){:target="_blank"}  
 * [Section 11: Food webs]({{ site.url }}/teaching/ecology/sections2024/11_foodwebs/){:target="_blank"}  
+* [Section 12: Biogeography]({{ site.url }}/teaching/ecology/sections2024/12_biogeography/){:target="_blank"}  
 
 
 ## Lecture Slides

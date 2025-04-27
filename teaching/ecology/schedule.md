@@ -83,7 +83,7 @@ tr:nth-child(odd) {background: #FFF}
 | | **D11**      | Disc 11    | [Species interaction networks]({{ site.url }}/teaching/ecology/sections2024/11_foodwebs/){:target="_blank"}       |    | H6   |
 |**4/28** | **M-L23**   | Interactions 2     | Food webs   | Bowman Ch. 21    |   |
 | **4/30** | **W-L24**   | Communities 1      | Island biogeography | Bowman Ch. 18.3  |   |
-| | **D12**      | Disc 12    | [Island biogeography]()  |    |   |
+| | **D12**      | Disc 12    | [Island biogeography]({{ site.url }}/teaching/ecology/sections2024/12_biogeography/){:target="_blank"}  |    |   |
 | **5/5**  | **M-L25**   | Communities 2      | Ecological communities     | Bowman Ch. 16.2–16.3     |   |
 | **5/7**  | **W-L25**   | Final Exam      | Ecological communities     | Bowman Ch. 16.2–16.3     |   |
 
