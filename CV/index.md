@@ -33,8 +33,7 @@ Exploring bacterial mutualistic interactions through a dynamical systems approac
 <br>
 
 **2025**
-:	* Rosien J., Fannin L., <span style="color:#4292E5;">Yeakel J.D.</span>, Malaivijitnond S., Dominy N.J., Tan A. Food-washing monkeys recognize the law of diminishing returns. [eLife Reviewed Preprint](https://elifesciences.org/reviewed-preprints/98520#){:target="_blank"}. Revised preprint @ *eLife*.  
-
+:	* Rosien J., Fannin L., <span style="color:#4292E5;">Yeakel J.D.</span>, Malaivijitnond S., Dominy N.J., Tan A. Food-washing monkeys recognize the law of diminishing returns. [eLife Reviewed Preprint](https://elifesciences.org/reviewed-preprints/98520#){:target="_blank"}. Revised preprint @ *eLife*.
 
 **2024**
 :	* ☕ Suswaram M., Bhat U., <span style="color:#4292E5;">Yeakel J.D.</span> [Rising above the noise: the influence of population dynamics on the evolution of acoustic signaling.](https://iopscience.iop.org/article/10.1088/2632-072X/ad5e2e){:target="_blank"} *Journal of Physics: Complexity* 5(3), p.035007.  
