@@ -20,7 +20,7 @@ comments: true
 <br>
 * ☕ <span style="color:#4292E5;">Yeakel J.D.</span> Coarse-graining cascades within food webs. [Preprint](https://arxiv.org/abs/2502.11220){:target="_blank"}.  
 <br>
-* Fannin L.D., Seyoum C.M., Venkataraman V.V., <span style="color:#4292E5;">Yeakel J.D.</span>, Janis C.M., Cerling T.E., Dominy N.J. Behavioral drive during human evolution. In revision @ *Science*.  
+* Fannin L.D., Seyoum C.M., Venkataraman V.V., <span style="color:#4292E5;">Yeakel J.D.</span>, Janis C.M., Cerling T.E., Dominy N.J. Behavioral drive during human evolution. *In Press @ Science*.  
 <br>
 * Habermann M., Fahimipour A.K., <span style="color:#4292E5;">Yeakel J.D.</span>, Gross T. Functional motifs in food webs and networks. [Preprint](https://arxiv.org/abs/2503.14093).  
 <br>
