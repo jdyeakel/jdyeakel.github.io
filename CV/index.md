@@ -24,8 +24,7 @@ comments: true
 <br>
 * Habermann M., Fahimipour A.K., <span style="color:#4292E5;">Yeakel J.D.</span>, Gross T. Functional motifs in food webs and networks. [Preprint](https://arxiv.org/abs/2503.14093).  
 <br>
-* Massing J., Gross T., <span style="color:#4292E5;">Yeakel J.D.</span>, Fahimipour A.K. Insights into bacterial cooperation:
-Exploring bacterial mutualistic interactions through a dynamical systems approach. *Coming soon*.  
+* Massing J., Gross T., <span style="color:#4292E5;">Yeakel J.D.</span>, Fahimipour A.K. Generalized dynamics of cooperating bacteria. [Preprint](https://www.biorxiv.org/content/10.1101/2025.05.08.652847v1){:target="_blank"}.  
 <br>
 * Birskis-Barros I., Assis A.P.A. , James H.F., Kim S.L., <span style="color:#4292E5;">Yeakel J.D.</span> Morphological variability as a buffer against extinction: Insights from Hawaiian honeycreepers. *Coming soon*.  
 <br>
