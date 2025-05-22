@@ -12,13 +12,15 @@ image:
 
 <div style="display: flex; align-items: flex-start;margin-bottom: 15px;">
     <div>
-        <span style="text-align=left;font-size:1.5em;color:#4292E5;font-weight: bold;">Quantitative Ecological Dynamics (QED)</span>
-        <br><span style="text-align=left;font-size:1.5em;color:#333332;">Life & Environmental Sciences</span>
-        <br><span style="text-align=left;font-size:1.5em;color:#333332;">University of California Merced</span> 
+        <span style="text-align=left;font-size:1.3em;color:#207191;font-weight: bold;">Quantitative Ecological Dynamics (QED)</span>
+        <br><span style="text-align=left;font-size:1.0em;color:#333332;">&nbsp;&nbsp;&nbsp;&nbsp;Dept. of Life &amp; Environmental Sciences</span>
+        <br><span style="text-align=left;font-size:1.0em;color:#333332;">&nbsp;&nbsp;&nbsp;&nbsp;School of Natural Sciences</span> 
+        <br><span style="text-align=left;font-size:1.0em;color:#333332;">&nbsp;&nbsp;&nbsp;&nbsp;University of California Merced</span> 
     </div>
-    <div style="flex-shrink: 0; padding-left: 25px;">
-        <img src="/images/les_logo.jpg" style="clip-path: ellipse(50% 50%); width: 120px; height: auto;" alt="LES logo">
-    </div>
+   <div style="flex-shrink: 0; padding-left: 25px; text-align: center;">
+       <img src="/images/les_logo.jpg" style="clip-path: ellipse(50% 50%); width: 130px; height: auto;" alt="LES logo">
+       <div style="font-size: 0.8em; color: #207191;">Life &amp; Environmental Sciences</div>
+   </div>
 </div> 
 <div>
 <p>

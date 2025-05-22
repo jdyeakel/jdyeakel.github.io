@@ -5,33 +5,33 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
 <meta charset="utf-8">
-<title>Yeakel Group</title>
-<meta name="description" content="Quantitative ecology, population dynamics, ecological networks">
-<meta name="keywords" content="Jekyll, theme, responsive, blog, template">
+<title>A guide for converting exponential growth to logistic growth &#8211; Yeakel Group</title>
+
+<meta name="keywords" content="">
 
 
 <!-- Twitter Cards -->
-<meta name="twitter:title" content="Yeakel Group">
-<meta name="twitter:description" content="Quantitative ecology, population dynamics, ecological networks">
+<meta name="twitter:title" content="A guide for converting exponential growth to logistic growth">
 
 
 
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="//jdyeakel.github.io/images/aspens2.jpg">
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="//jdyeakel.github.io/images/default-thumb.png">
 
 <!-- Open Graph -->
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Yeakel Group">
-<meta property="og:description" content="Quantitative ecology, population dynamics, ecological networks">
-<meta property="og:url" content="//jdyeakel.github.io/frank/">
+<meta property="og:title" content="A guide for converting exponential growth to logistic growth">
+
+<meta property="og:url" content="//jdyeakel.github.io/teaching/ecology/exponentialtologistic/">
 <meta property="og:site_name" content="Yeakel Group">
 
 
 
 
 
-<link rel="canonical" href="//jdyeakel.github.io/frank/">
+<link rel="canonical" href="//jdyeakel.github.io/teaching/ecology/exponentialtologistic/">
 <link href="//jdyeakel.github.io/feed.xml" type="application/atom+xml" rel="alternate" title="Yeakel Group Feed">
 
 
@@ -116,34 +116,23 @@
 </div><!-- /.navigation-wrapper -->
 
 
-  <div class="image-wrap">
-  <img src=
-    
-      "//jdyeakel.github.io/images/aspens2.jpg"
-    
-  alt=" feature image">
-  
-    <span class="image-credit">Photo Credit: <a href="">jdyeakel</a></span>
-  
-  </div><!-- /.image-wrap -->
-
 
 <div id="main" role="main">
   <div class="article-author-side">
 	  
 
 
-	<img src="//jdyeakel.github.io/images/justin-web.jpg" class="bio-photo" alt="Justin D. Yeakel bio photo"></a>
+	<img src="//jdyeakel.github.io/images/" class="bio-photo" alt=" bio photo"></a>
 
-<h3>Justin D. Yeakel</h3>
-<p>Associate Professor <br> Biology Program Chair <br> UC Merced <br> External Professor <br> Santa Fe Institute</p>
-<a href="mailto:jdyeakel@gmail.com" class="author-social" target="_blank"><i class="fa fa-envelope-square"></i> Email</a>
-
+<h3></h3>
+<p></p>
 
 
 
 
-<a href="http://github.com/jdyeakel" class="author-social" target="_blank"><i class="fa fa-github"></i> Github</a>
+
+
+
 
 
 
@@ -158,14 +147,128 @@
     </script> -->
   </div>
   <article>
-    <h1></h1>
+    <h1>A guide for converting exponential growth to logistic growth</h1>
     <div class="article-wrap">
-      <!-- <span style="font-size:1em;">School of Natural Sciences @ UC-Merced</span> -->
+      <h2 id="1-simple-exponential-growth">1. Simple (Exponential) Growth</h2>
 
-<h3 id="frankenstein-module-test">Frankenstein module test</h3>
+<h3 id="assumptions">Assumptions</h3>
+<ol>
+  <li><strong>Constant birth rate</strong> (per capita): $b$</li>
+  <li><strong>Constant death rate</strong> (per capita): $d$</li>
+</ol>
 
-<embed src="http://jdyeakel.github.io/frank/FrankensteinCompetition.cdf" width="650" height="450" />
+<p>Hence, per capita <strong>net growth rate</strong> $r$ (i.e., “births minus deaths” per individual) is:
+\(r = b - d.\)</p>
 
+<h3 id="resulting-differential-equation">Resulting Differential Equation</h3>
+<p>Let $N(t)$ be the population size at time $t$. Then exponential growth is modeled by:</p>
+
+\[\frac{dN}{dt} = r \, N.\]
+
+<ul>
+  <li><strong>Interpretation</strong>: The larger the population, the faster it grows, with no upper bound.</li>
+</ul>
+
+<hr />
+
+<h2 id="2-adding-more-realism-density-dependence">2. Adding More Realism: Density-Dependence</h2>
+
+<p>In nature, birth and death rates tend to change with population size:</p>
+
+<ol>
+  <li>
+    <p><strong>Per capita birth rate</strong> <strong>declines</strong> as resources become limited, so we assume:</p>
+
+\[b' = b - a N \quad (\text{where } a \text{ is a positive constant})\]
+
+    <ul>
+      <li>When $N$ is small, $b’ \approx b$.</li>
+      <li>As $N$ gets larger, the term $-\,aN$ makes the <strong>birth rate</strong> go down.</li>
+    </ul>
+  </li>
+  <li>
+    <p><strong>Per capita death rate</strong> <strong>increases</strong> as crowding intensifies, so we assume:</p>
+
+\[d' = d + c N \quad (\text{where } c \text{ is a positive constant})\]
+
+    <ul>
+      <li>When $N$ is small, $d’ \approx d$.</li>
+      <li>As $N$ gets larger, the term $+\,cN$ makes the <strong>death rate</strong> go up.</li>
+    </ul>
+  </li>
+</ol>
+
+<hr />
+
+<h2 id="3-net-per-capita-growth-rate">3. Net Per Capita Growth Rate</h2>
+
+<p>From these two modified rates:
+\(\text{net per capita rate} = b' - d' = (b - aN) \;-\; (d + cN).\)</p>
+
+<p>Simplify this:
+\(b' - d' = (b - d) \;-\; (a + c)\,N.\)</p>
+
+<p>Recalling that $r = b - d$, define $\alpha = a + c$. Then:
+\(b' - d' = r - \alpha \, N.\)</p>
+
+<p>Hence, <strong>the net growth rate</strong> for the whole population $N$ is:</p>
+
+\[\frac{dN}{dt} = \left[r - \alpha N\right] \, N.\]
+
+<hr />
+
+<h2 id="4-the-logistic-growth-equation">4. The Logistic Growth Equation</h2>
+
+<p>Let’s rearrange this into a more familiar form. Factor out $r$:</p>
+
+\[\frac{dN}{dt} = rN - \alpha N^2 = rN\bigl(1 - \tfrac{\alpha}{r}N \bigr).\]
+
+<p>Define the <strong>carrying capacity</strong> $K$ by</p>
+
+\[K = \frac{r}{\alpha}.\]
+
+<p>Then</p>
+
+\[\frac{dN}{dt} 
+= rN\Bigl(1 - \frac{N}{K}\Bigr).\]
+
+<p>This is the <strong>logistic growth equation</strong>.</p>
+
+<h3 id="biological-interpretation">Biological Interpretation</h3>
+<ul>
+  <li>$r$: intrinsic rate of increase (as in exponential growth).</li>
+  <li>$K$: carrying capacity. Once $N$ is near $K$, growth slows and eventually stops.</li>
+</ul>
+
+<hr />
+
+<h2 id="5-why-this-matters">5. Why This Matters</h2>
+
+<ul>
+  <li><strong>Initial Exponential Phase</strong>: When $N$ is small, $\frac{N}{K}$ is close to 0, so growth looks nearly exponential ($\frac{dN}{dt} \approx rN$).</li>
+  <li><strong>Resource Limitation</strong>: As $N$ grows, limited resources and increased crowding reduce births, increase deaths, and slow the growth.</li>
+  <li><strong>Equilibrium</strong>: In the long run, the population stabilizes around $N = K$, where births and deaths balance out.</li>
+</ul>
+
+<hr />
+
+<h2 id="6-recap">6. Recap</h2>
+
+<ol>
+  <li><strong>Start with</strong> a simple exponential model, $\frac{dN}{dt} = rN$.</li>
+  <li><strong>Acknowledge limitations</strong>: constant birth and death rates ignore environmental constraints.</li>
+  <li><strong>Incorporate density-dependence</strong>:
+    <ul>
+      <li>Birth rates <strong>decrease</strong> with $N$.</li>
+      <li>Death rates <strong>increase</strong> with $N$.</li>
+    </ul>
+  </li>
+  <li><strong>Combine</strong> these rates to find a net per capita rate of $r - \alpha N$.</li>
+  <li><strong>Obtain</strong> $\frac{dN}{dt} = rN - \alpha N^2$.</li>
+  <li><strong>Rewrite</strong> in logistic form: $\frac{dN}{dt} = rN\left(1 - \frac{N}{K}\right)$.</li>
+</ol>
+
+<p>That’s it! Understanding each step helps clarify why real populations don’t grow forever but instead level off at a carrying capacity.</p>
 
     </div><!-- /.article-wrap -->
     
