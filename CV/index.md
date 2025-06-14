@@ -18,7 +18,7 @@ comments: true
 : <dd class="review"> <div markdown="1">
 * ☕ <span style="color:#4292E5;">Yeakel J.D.</span>, Hutchinson M.C., Kempes C.P., Koch P.L., Gill J.L., Pires M.M. Bioenergetic trophic trade-offs determine mass-dependent extinction thresholds across the Cenozoic. [Preprint](http://arxiv.org/abs/2410.18849){:target="_blank"}.  
 <br>
-* ☕ <span style="color:#4292E5;">Yeakel J.D.</span> Coarse-graining cascades within food webs. [Preprint](https://arxiv.org/abs/2502.11220){:target="_blank"}.  
+* ☕ <span style="color:#4292E5;">Yeakel J.D.</span> Coarse-graining cascades within food webs. *In Revision @ Oikos*. [Preprint](https://arxiv.org/abs/2502.11220){:target="_blank"}.  
 <br>
 * Fannin L.D., Seyoum C.M., Venkataraman V.V., <span style="color:#4292E5;">Yeakel J.D.</span>, Janis C.M., Cerling T.E., Dominy N.J. Behavioral drive during human evolution. *In Press @ Science*.  
 <br>
@@ -26,7 +26,7 @@ comments: true
 <br>
 * Massing J., Gross T., <span style="color:#4292E5;">Yeakel J.D.</span>, Fahimipour A.K. Generalized dynamics of cooperating bacteria. [Preprint](https://www.biorxiv.org/content/10.1101/2025.05.08.652847v1){:target="_blank"}.  
 <br>
-* Birskis-Barros I., Assis A.P.A. , James H.F., Kim S.L., <span style="color:#4292E5;">Yeakel J.D.</span> Morphological variability as a buffer against extinction: Insights from Hawaiian honeycreepers. *Coming soon*.  
+* ☕ Birskis-Barros I., Assis A.P.A. , James H.F., Kim S.L., <span style="color:#4292E5;">Yeakel J.D.</span> Morphological variability as a buffer against extinction: Insights from Hawaiian honeycreepers. *In Revision @ Proceedings of the Royal Society B: Biological Sciences*.  
 <br>
 
 <br>
