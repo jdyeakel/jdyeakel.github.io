@@ -32,7 +32,7 @@ comments: true
 **2025**
 :	* Fannin L.D., Seyoum C.M., Venkataraman V.V., <span style="color:#4292E5;">Yeakel J.D.</span>, Janis C.M., Cerling T.E., Dominy N.J. [Behavior drives morphological change during human evolution](https://www.science.org/doi/10.1126/science.ado2359){:target="_blank"}. *Science* 389, 488-493.  
 
-	* Rosien J., Fannin L., <span style="color:#4292E5;">Yeakel J.D.</span>, Malaivijitnond S., Dominy N.J., Tan A. Food-washing monkeys recognize the law of diminishing returns. [eLife Reviewed Preprint](https://elifesciences.org/articles/98520){:target="_blank"}. *eLife* 13, RP98520.
+	* Rosien J., Fannin L., <span style="color:#4292E5;">Yeakel J.D.</span>, Malaivijitnond S., Dominy N.J., Tan A. [Food-washing monkeys recognize the law of diminishing returns.](https://elifesciences.org/articles/98520){:target="_blank"}. *eLife* 13, RP98520.
 
 <br>
 
