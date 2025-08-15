@@ -111,10 +111,14 @@ Check back soon...
 
 <span style="text-align=left;font-size:1.5em;color:#4292E5;">Lab Alumni</span><br><br>
 <span style="text-align=left;font-size:1.0em;color:#4292E5;">Ph.D. Students</span>
+<div style="display: flex; align-items: flex-start;">
+    <div style="flex-shrink: 0; padding-right: 25px;">
+      <img src="/images/Irina-web.jpg" style="clip-path: ellipse(50% 50%); width: 125px; height: auto;">
+    </div>
 <div>
-<p style="float: left;padding-right:25px"><img src="/images/Irina-web.jpg" style="clip-path: ellipse(50% 50%); width: 125px; height: auto;"></p>
- <b><a href="https://birskisbarros.weebly.com/" target="_blank">Dr. Irina Birskis Barros, Ph.D. (Quant. Sys. Biology);</a></b> <b>Postdoctoral Researcher, Michigan State University</b>"I am interested in how species assemble into communities, especially how diversity shapes and is shaped by species interactions. I aim to use empirical data, mathematical modeling and network theory to investigate how ecological networks assemble and what factors might influence their stability and structure over evolutionary time."  <BR> <BR>     
-</div>     
+  <b><a href="https://birskisbarros.weebly.com/" target="_blank">Dr. Irina Birskis Barros, Ph.D. (Quant. Sys. Biology);</a></b> <b>Postdoctoral Researcher, Michigan State University</b>"I am interested in how species assemble into communities, especially how diversity shapes and is shaped by species interactions. I aim to use empirical data, mathematical modeling and network theory to investigate how ecological networks assemble and what factors might influence their stability and structure over evolutionary time."  <BR> <BR>     
+  </div> 
+</div>        
 
 <BR CLEAR="...">   
 
