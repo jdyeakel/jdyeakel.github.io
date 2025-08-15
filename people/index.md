@@ -69,6 +69,18 @@ Check back soon...
 
 <BR CLEAR="...">
 
+<div style="display: flex; align-items: flex-start;">
+    <div style="flex-shrink: 0; padding-right: 25px;">
+        <img src="/images/pedro-web.jpg" style="clip-path: ellipse(50% 50%); width: 125px; height: auto;" alt="Pedro Ugarte bio photo">
+    </div>
+    <div>
+        <b>Pedro Ugarte (visiting)</b> "I am interested in deep-time evolutionary dynamics and the ways species interactions and climate shape biodiversity patterns. I am currently completing an MSc in Ecology at the University of Campinas (Unicamp, Brazil) and will be a visiting graduate researcher in the Yeakel Group. I aim to use empirical data, mathematical modeling, and network theory to investigate the role of human diet on the extinction of megafauna during the Late Quaternary."
+        <br><br>
+    </div>
+</div> 
+
+<BR CLEAR="...">
+
 ---    
 
 <span style="text-align=left;font-size:1.5em;color:#4292E5;">Undergraduate Researchers</span> 

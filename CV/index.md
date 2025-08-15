@@ -20,8 +20,6 @@ comments: true
 <br>
 * ☕ <span style="color:#4292E5;">Yeakel J.D.</span> Coarse-graining cascades within food webs. *In Revision @ Oikos*. [Preprint](https://arxiv.org/abs/2502.11220){:target="_blank"}.  
 <br>
-* Fannin L.D., Seyoum C.M., Venkataraman V.V., <span style="color:#4292E5;">Yeakel J.D.</span>, Janis C.M., Cerling T.E., Dominy N.J. Behavioral drive during human evolution. *In Press @ Science*.  
-<br>
 * Habermann M., Fahimipour A.K., <span style="color:#4292E5;">Yeakel J.D.</span>, Gross T. Functional motifs in food webs and networks. [Preprint](https://arxiv.org/abs/2503.14093).  
 <br>
 * Massing J., Gross T., <span style="color:#4292E5;">Yeakel J.D.</span>, Fahimipour A.K. Generalized dynamics of cooperating bacteria. [Preprint](https://www.biorxiv.org/content/10.1101/2025.05.08.652847v1){:target="_blank"}.  
@@ -32,7 +30,9 @@ comments: true
 <br>
 
 **2025**
-:	* Rosien J., Fannin L., <span style="color:#4292E5;">Yeakel J.D.</span>, Malaivijitnond S., Dominy N.J., Tan A. Food-washing monkeys recognize the law of diminishing returns. [eLife Reviewed Preprint](https://elifesciences.org/reviewed-preprints/98520#){:target="_blank"}. Revised preprint @ *eLife*.
+:	* Fannin L.D., Seyoum C.M., Venkataraman V.V., <span style="color:#4292E5;">Yeakel J.D.</span>, Janis C.M., Cerling T.E., Dominy N.J. [Behavior drives morphological change during human evolution](https://www.science.org/doi/10.1126/science.ado2359){:target="_blank"}. *Science* 389, 488-493.  
+
+	* Rosien J., Fannin L., <span style="color:#4292E5;">Yeakel J.D.</span>, Malaivijitnond S., Dominy N.J., Tan A. Food-washing monkeys recognize the law of diminishing returns. [eLife Reviewed Preprint](https://elifesciences.org/articles/98520){:target="_blank"}. *eLife* 13, RP98520.
 
 <br>
 
