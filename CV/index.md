@@ -18,7 +18,7 @@ comments: true
 : <dd class="review"> <div markdown="1">
 * ☕ <span style="color:#4292E5;">Yeakel J.D.</span>, Hutchinson M.C., Kempes C.P., Koch P.L., Gill J.L., Pires M.M. Bioenergetic trophic trade-offs determine mass-dependent extinction thresholds across the Cenozoic. [Preprint](http://arxiv.org/abs/2410.18849){:target="_blank"}.  
 <br>
-* ☕ <span style="color:#4292E5;">Yeakel J.D.</span> Coarse-graining cascades within food webs. *In Revision @ Oikos*. [Preprint](https://arxiv.org/abs/2502.11220){:target="_blank"}.  
+* ☕ <span style="color:#4292E5;">Yeakel J.D.</span> Distilling the dynamics of food webs: A coarse-grained lens on extinction risk and trophic cascades. *In Revision @ Oikos*. [Preprint](https://arxiv.org/abs/2502.11220){:target="_blank"}.  
 <br>
 * Habermann M., Fahimipour A.K., <span style="color:#4292E5;">Yeakel J.D.</span>, Gross T. Functional motifs in food webs and networks. [Preprint](https://arxiv.org/abs/2503.14093).  
 <br>
