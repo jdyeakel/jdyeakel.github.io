@@ -16,11 +16,11 @@ comments: true
 
 **<span style="color:#6bdc61;">In Review</span>**
 : <dd class="review"> <div markdown="1">
-* ☕ <span style="color:#4292E5;">Yeakel J.D.</span>, Hutchinson M.C., Kempes C.P., Koch P.L., Gill J.L., Pires M.M. Bioenergetic trophic trade-offs determine mass-dependent extinction thresholds across the Cenozoic. [Preprint](http://arxiv.org/abs/2410.18849){:target="_blank"}.  
+* ☕ <span style="color:#4292E5;">Yeakel J.D.</span>, Hutchinson M.C., Kempes C.P., Koch P.L., Gill J.L., Pires M.M. Bioenergetic trophic trade-offs determine mass-dependent extinction thresholds across the Cenozoic. In Revision @ Ecology. [Preprint](http://arxiv.org/abs/2410.18849){:target="_blank"}.  
 <br>
-* ☕ <span style="color:#4292E5;">Yeakel J.D.</span> Distilling the dynamics of food webs: A coarse-grained lens on extinction risk and trophic cascades. *In Revision @ Oikos*. [Preprint](https://arxiv.org/abs/2502.11220){:target="_blank"}.  
+* ☕ <span style="color:#4292E5;">Yeakel J.D.</span> Distilling food web dynamics: Top-down and bottom-up drivers of extinction and trophic cascades. *Accepted @ Oikos*. [Preprint](https://arxiv.org/abs/2502.11220){:target="_blank"}.  
 <br>
-* Habermann M., Fahimipour A.K., <span style="color:#4292E5;">Yeakel J.D.</span>, Gross T. Functional motifs in food webs and networks. [Preprint](https://arxiv.org/abs/2503.14093).  
+* Habermann M., Fahimipour A.K., <span style="color:#4292E5;">Yeakel J.D.</span>, Gross T. Functional motifs in food webs and networks. In Revision @ PNAS. [Preprint](https://arxiv.org/abs/2503.14093).  
 <br>
 * Massing J., Gross T., <span style="color:#4292E5;">Yeakel J.D.</span>, Fahimipour A.K. Generalized dynamics of cooperating bacteria. [Preprint](https://www.biorxiv.org/content/10.1101/2025.05.08.652847v1){:target="_blank"}.  
 <br>
