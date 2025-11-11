@@ -11,11 +11,13 @@ comments: true
 ☕ from the Yeakel QED group; $${}^\dagger$$contributed equally; [PDF]({{ site.url }}/CV/Yeakel_CV/Yeakel_CV.pdf){:target="_blank"}  
 
 <!---
-*In prep**)
+*In prep**) 
 -->
 
 **<span style="color:#6bdc61;">In Review</span>**
 : <dd class="review"> <div markdown="1">
+* ☕ <span style="color:#4292E5;">Yeakel J.D.</span>, Fan M., McTavish E.J., de Almeida A.C., Kempes C.P., Bettencourt L.M.A., Kim S., Breed G. An origin for the allometric scaling of mammalian fat reflects populations living on the edge. In Review @ The American Naturalist.  
+<br>
 * ☕ <span style="color:#4292E5;">Yeakel J.D.</span>, Hutchinson M.C., Kempes C.P., Koch P.L., Gill J.L., Pires M.M. Bioenergetic trophic trade-offs determine mass-dependent extinction thresholds across the Cenozoic. In Revision @ Ecology. [Preprint](http://arxiv.org/abs/2410.18849){:target="_blank"}.  
 <br>
 * ☕ <span style="color:#4292E5;">Yeakel J.D.</span> Distilling food web dynamics: Top-down and bottom-up drivers of extinction and trophic cascades. *Accepted @ Oikos*. [Preprint](https://arxiv.org/abs/2502.11220){:target="_blank"}.  
