@@ -18,11 +18,9 @@ comments: true
 : <dd class="review"> <div markdown="1">
 * ☕ <span style="color:#4292E5;">Yeakel J.D.</span>, Fan M., McTavish E.J., de Almeida A.C., Kempes C.P., Bettencourt L.M.A., Kim S., Breed G. An origin for the allometric scaling of mammalian fat reflects populations living on the edge. In Review @ The American Naturalist.  
 <br>
-* ☕ <span style="color:#4292E5;">Yeakel J.D.</span>, Hutchinson M.C., Kempes C.P., Koch P.L., Gill J.L., Pires M.M. Bioenergetic trophic trade-offs determine mass-dependent extinction thresholds across the Cenozoic. In Revision @ Ecology. [Preprint](http://arxiv.org/abs/2410.18849){:target="_blank"}.  
+* ☕ <span style="color:#4292E5;">Yeakel J.D.</span>, Hutchinson M.C., Kempes C.P., Koch P.L., P.D.S. Ugarte, Gill J.L., Pires M.M. Bioenergetic trophic trade-offs determine mass-dependent extinction thresholds across the Cenozoic. In Revision @ Ecology. [Preprint](http://arxiv.org/abs/2410.18849){:target="_blank"}.  
 <br>
 * Habermann M., Fahimipour A.K., <span style="color:#4292E5;">Yeakel J.D.</span>, Gross T. Functional motifs in food webs and networks. In Revision @ PNAS. [Preprint](https://arxiv.org/abs/2503.14093).  
-<br>
-* Massing J., Gross T., <span style="color:#4292E5;">Yeakel J.D.</span>, Fahimipour A.K. Generalized dynamics of cooperating bacteria. [Preprint](https://www.biorxiv.org/content/10.1101/2025.05.08.652847v1){:target="_blank"}.  
 <br>
 * ☕ Birskis-Barros I., Assis A.P.A. , James H.F., Kim S.L., <span style="color:#4292E5;">Yeakel J.D.</span> Morphological variability as a buffer against extinction: Insights from Hawaiian honeycreepers. *In Revision @ Proceedings of the Royal Society B: Biological Sciences*.  
 <br>
@@ -30,7 +28,9 @@ comments: true
 <br>
 
 **2025**
-:	* ☕ <span style="color:#4292E5;">Yeakel J.D.</span> Distilling food web dynamics: Top-down and bottom-up drivers of extinction and trophic cascades. *Oikos*. [Preprint](https://arxiv.org/abs/2502.11220){:target="_blank"}.  
+:	* Massing J., Gross T., <span style="color:#4292E5;">Yeakel J.D.</span>, Fahimipour A.K. Generalized dynamics of cooperating bacteria. In press, *Journal of the Royal Society Interface*. [Preprint](https://www.biorxiv.org/content/10.1101/2025.05.08.652847v1){:target="_blank"}.  
+
+	* ☕ <span style="color:#4292E5;">Yeakel J.D.</span> [Distilling food web dynamics: Top-down and bottom-up drivers of extinction and trophic cascades](https://nsojournals.onlinelibrary.wiley.com/doi/10.1002/oik.11449){:target="_blank"}. *Oikos* 2025:e11449.  
 
 	* Fannin L.D., Seyoum C.M., Venkataraman V.V., <span style="color:#4292E5;">Yeakel J.D.</span>, Janis C.M., Cerling T.E., Dominy N.J. [Behavior drives morphological change during human evolution](https://www.science.org/doi/10.1126/science.ado2359){:target="_blank"}. *Science* 389, 488-493.  
 
