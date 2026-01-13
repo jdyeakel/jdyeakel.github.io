@@ -16,16 +16,17 @@ comments: true
 
 **<span style="color:#6bdc61;">In Review</span>**
 : <dd class="review"> <div markdown="1">
-* ☕ <span style="color:#4292E5;">Yeakel J.D.</span>, Fan M., McTavish E.J., de Almeida A.C., Kempes C.P., Bettencourt L.M.A., Kim S., Breed G. An origin for the allometric scaling of mammalian fat reflects populations living on the edge. In Review @ The American Naturalist.  
+* ☕ <span style="color:#4292E5;">Yeakel J.D.</span>, Fan M., McTavish E.J., de Almeida A.C., Kempes C.P., Bettencourt L.M.A., Kim S., Breed G. An origin for the allometric scaling of mammalian fat reflects populations living on the edge. In Revision @ The American Naturalist.  
 <br>
 * ☕ <span style="color:#4292E5;">Yeakel J.D.</span>, Hutchinson M.C., Kempes C.P., Koch P.L., P.D.S. Ugarte, Gill J.L., Pires M.M. Bioenergetic trophic trade-offs determine mass-dependent extinction thresholds across the Cenozoic. In Revision @ Ecology. [Preprint](http://arxiv.org/abs/2410.18849){:target="_blank"}.  
 <br>
-* Habermann M., Fahimipour A.K., <span style="color:#4292E5;">Yeakel J.D.</span>, Gross T. Functional motifs in food webs and networks. In Revision @ PNAS. [Preprint](https://arxiv.org/abs/2503.14093).  
+* Habermann M., Fahimipour A.K., <span style="color:#4292E5;">Yeakel J.D.</span>, Gross T. Functional motifs in food webs and networks. Accepted @ PNAS. [Preprint](https://arxiv.org/abs/2503.14093).  
 <br>
 * ☕ Birskis-Barros I., Assis A.P.A. , James H.F., Kim S.L., <span style="color:#4292E5;">Yeakel J.D.</span> Morphological variability as a buffer against extinction: Insights from Hawaiian honeycreepers. *In Revision @ Proceedings of the Royal Society B: Biological Sciences*.  
 <br>
 
 <br>
+
 
 **2025**
 :	* Massing J., Gross T., <span style="color:#4292E5;">Yeakel J.D.</span>, Fahimipour A.K. Generalized dynamics of cooperating bacteria. In press, *Journal of the Royal Society Interface*. [Preprint](https://www.biorxiv.org/content/10.1101/2025.05.08.652847v1){:target="_blank"}.  

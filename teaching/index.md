@@ -9,13 +9,14 @@ image:
   credit: jdyeakel
 ---
 
-> ### [Fundamentals of Ecology (Spring, 2025)]({{ site.url }}/teaching/ecology/)  
-> Putting the Lotka in your Volterra since 1926      
+> ### [Ecological Dynamics (Spring, 2026)]({{ site.url }}/teaching/ecodyn156/)   
+> BIO/ESS 156  
+> QSB/ES 256  
 
 <br>
 
-> ### [Ecological Dynamics (Spring, 2023)]({{ site.url }}/teaching/ecodyn/)   
-> Quantitative and Systems Biology 256  
+> ### [Fundamentals of Ecology (Spring, 2025)]({{ site.url }}/teaching/ecology/)  
+> Putting the Lotka in your Volterra since 1926      
 
 <br>
 
