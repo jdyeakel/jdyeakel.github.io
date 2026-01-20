@@ -67,4 +67,4 @@ tr:nth-child(odd) {background: #FFF}
 | 27 | Tue | 4/28 | Probabilistic models 2 | 13 |  |
 | 28 | Thu | 4/30 | Probabilistic models 3 |  |  |
 | 29 | Tue | 5/5 | Review + activity work |  |  |
-| 30 | Thu | 5/7 | Final exam |  |  |
+| 30 | Thu | 5/7 | **Exam IV** |  |  |
