@@ -18,7 +18,7 @@ comments: true
 **Lecture time:** Tues/Thurs 12-1:15pm    
 **Lecture location:** Classroom Office Building (COB2) 140  
 **Instructor:** Professor Justin D. Yeakel (use INBOX feature in Canvas)    
-**Office hours:** T 10-11 AM (SE1 288); F 10-11 AM (ZOOM)     
+**Office hours:** T 10-11 AM (SE1 288); F 10-11 AM ([ZOOM](https://ucmerced.zoom.us/j/5384567727))     
 
 ---  
 

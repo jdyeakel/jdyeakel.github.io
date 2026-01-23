@@ -11,7 +11,7 @@ image:
 ## BIO/ESS 156, QSB/ES 256  
 ## Info
 *   Class time/location: TR 12:00-1:15 in COB2 140  
-*	  Office hours: T 10-11 AM (SE1 288); F 10-11 AM (ZOOM)   
+*	  Office hours: T 10-11 AM (SE1 288); F 10-11 AM ([ZOOM](https://ucmerced.zoom.us/j/5384567727))   
 *   To contact me, use the INBOX feature in Canvas. Letters sent to my email address will typically be lost.  
 *   [**Course Syllabus**]({{ site.url }}/teaching/ecodyn156/syllabus)   
 *   [**Course Schedule**]({{ site.url }}/teaching/ecodyn156/schedule)   
