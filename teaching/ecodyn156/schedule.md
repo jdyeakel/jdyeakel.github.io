@@ -40,7 +40,7 @@ tr:nth-child(odd) {background: #FFF}
 | 02 | Thu | 1/22 | Discrete to continuous pop. growth |  |  |
 | 03 | Tue | 1/27 | Continuous pop. growth + logistic | 4-4.2.2, 4.2.4-4.5 |  |
 | 04 | Thu | 1/29 | Graphing pop. growth |  |  |
-| 05 | Tue | 2/3 | Fixed points + 1D stability | 5 |  |
+| 05 | Tue | 2/3 | Fixed points + 1D stability | 5-5.2.1, 5.3-5.3.1 |  |
 | 06 | Thu | 2/5 | Taylor expansion and bifurcations | Primer 1 |  |
 | 07 | Tue | 2/10 | Bifurcations (cont.) — transcritical |  |  |
 | 08 | Thu | 2/12 | Allee effect |  |  |
