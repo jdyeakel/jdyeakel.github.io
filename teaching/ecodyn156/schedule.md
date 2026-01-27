@@ -37,9 +37,9 @@ tr:nth-child(odd) {background: #FFF}
 | # | Day | Date | Topic | Book Chapter | Assignment |
 |---:|:---:|:---:|---|---|---|
 | 01 | Tue | 1/20 | Intro, models, discrete pop. growth | 3.1-3.2, 3.4-3.7 |  |
-| 02 | Thu | 1/22 | Continuous pop. growth + logistic |  |  |
-| 03 | Tue | 1/27 | Graphing pop. growth  | 4 |  |
-| 04 | Thu | 1/29 | Graphing pop. growth (cont.) |  |  |
+| 02 | Thu | 1/22 | Discrete to continuous pop. growth |  |  |
+| 03 | Tue | 1/27 | Continuous pop. growth + logistic | 4-4.2.2, 4.2.4-4.5 |  |
+| 04 | Thu | 1/29 | Graphing pop. growth |  |  |
 | 05 | Tue | 2/3 | Fixed points + 1D stability | 5 |  |
 | 06 | Thu | 2/5 | Taylor expansion and bifurcations | Primer 1 |  |
 | 07 | Tue | 2/10 | Bifurcations (cont.) — transcritical |  |  |
