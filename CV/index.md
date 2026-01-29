@@ -26,7 +26,7 @@ comments: true
 **2026**
 :	* ☕ Birskis-Barros I., Assis A.P.A. , James H.F., Kim S.L., <span style="color:#4292E5;">Yeakel J.D.</span> Morphological variability as a buffer against extinction: Insights from Hawaiian honeycreepers. *Accepted @ Proceedings of the Royal Society B: Biological Sciences*.  
 
-	* Habermann M., Fahimipour A.K., <span style="color:#4292E5;">Yeakel J.D.</span>, Gross T. Functional motifs in food webs and networks. Accepted @ PNAS. [Preprint](https://arxiv.org/abs/2503.14093).  
+	* Habermann M., Fahimipour A.K., <span style="color:#4292E5;">Yeakel J.D.</span>, Gross T. [Functional motifs in food webs and networks.](https://www.pnas.org/doi/10.1073/pnas.2521927123) *Proceedings of the National Academy of Sciences USA* 123 (5) e2521927123.    
 
 <br>
 
