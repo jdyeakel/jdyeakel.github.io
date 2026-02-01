@@ -38,6 +38,7 @@ image:
 ---
 
 ### $$\oint$$ News & Updates   
+* Check.  
 * *02/18/25*: ***New pre-print available!*** How stable is an ecosystem when you strip population dynamics down to their simplest form? We model species as either high or low in abundance—revealing how food web structure drives stability, extinction risk, and trophic cascades... [Coarse-graining cascades within food webs](https://arxiv.org/abs/2502.11220){:target="_blank"}  
 * *02/18/25*: ***New pre-print available!*** Body size shapes energy demands, limiting who eats whom. Here we show that predator-prey dynamics & external subsidies create size-dependent constraints on coexistence—favoring carnivores between 40-110 kg. The model also informs how diet is expected to change with body size, and that generality may promote fitness into megapredator size ranges, above which it is best to specialize... [Bioenergetic trophic trade-offs determine mass-dependent extinction thresholds across the Cenozoic](https://arxiv.org/abs/2410.18849){:target="_blank"}   
 * *02/13/25*: UC Merced has become an R1 University! The only R1 in the Central Valley, and R1 within a mere 20 years after opening its doors to its first undergraduate class. Exciting to be part of such a unique and important endeavor, surrounded by so many great people who care so much. Add to that that these acheivements have been made in the face of the 2007-2008 financial crisis, the pandemic, and dwindling state support for higher ed, and these accomplishments are that much more incredible.  
