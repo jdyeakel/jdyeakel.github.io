@@ -17,6 +17,9 @@ image:
 *   [**Course Schedule**]({{ site.url }}/teaching/ecodyn156/schedule)   
 *   [**AI Use Policy**]({{ site.url }}/teaching/ecodyn156/syllabus/#ai-use-policy)
 
+## Class Demos  
+- [Cobweb Diagramming!]({{ site.url }}/teaching/ecodyn156/demo1_cobweb/)  
+
 ## Welcome!
 
 Welcome to the course website for **Ecological Dynamics**! The links above should connect you to all the general course information/content that you need. See the *course syllabus* for the required materials, grading policy, AI policy, and rules of the road. See the *course schedule* for the topics we are covering, required readings, etc. Check that page often, as it is subject to change at any time. Any major announcements will be listed on this main page.  
@@ -25,12 +28,11 @@ This course requires the use of a textbook (Otto and Day, *A Biologist's Guide t
 
 For some assignments, AI will be allowed and encouraged in certain capacities. See the [**AI Use Policy**]({{ site.url }}/teaching/ecodyn156/syllabus/#ai-use-policy) for details. But in the allowed use-cases, what AI should you use? Every student has access (through their MS account) to Microsoft Copilot, which currently uses the ChatGPT 4o engine. There are also free tiers of Anthropic's Claude, Google's Gemini, and OpenAI's GPT 5 models, among others. Note that AI can frequently deliver convincing answers/code that is incorrect. Be careful! You will be held responsible for the accuracy of your work whether AI is used or not! 
 
-## Annoucements!
-*   The first day of class is Tuesday, January 20th in COB2 140!  
 
 
 
-## Errata
+
+## Errata!
 
 This is the first time that I am teaching this course as a conjoined undergraduate/graduate offering. While I am excited to offer this material in a way that is accessible and useful for both undergraduate and graduate students, there will be times where I may have to make some alterations as we go along to ensure a smooth delivery. 
 
