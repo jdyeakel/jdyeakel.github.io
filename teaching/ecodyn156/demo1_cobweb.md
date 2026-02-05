@@ -13,11 +13,11 @@ comments: true
 
 For the continuous-time logistic equation, we were able to learn a lot about the dynamics of the system by graphically analyzing the 'flow' when we plotted $${\rm d}N/{\rm dt}$$ (on the y-axis) versus $$N$$ (on the x-axis). There is an analogous method for the discrete time logistic equation, however there is a little more to it that requires careful consideration.
 
-For the discrete-time system, we will graphically analyze the plot of $$N(t+1)$$ (on the y-axis) as a function of $$N(t)$$ (on the x-axis). As with the continuous-time equation, this produces a parabola. The parabola represents the mapping from $$N(t)$$ to $$N(t+1)$$. In other words, if our population is at value $$N(t)$$, to find the next value at time $$t+1$$, we identify the value of $$N(t)$$ on the x-axis, draw a vertical line up to the parabola, and this gives us the value at $$N(t+1)$$. We then reiterate the process. We can make life simpler for ourselves if we also draw the 1:1 line in the same plot (where $$N(t) = N(t+1)$$). Instead of going back to the x-axis for every $$N(t)$$ to draw the vertical line up to the parabola (giving us $$N(t+1)$$), we can simply draw a horizontal line to the 1:1 line (resetting $$N(t+1)$$ to $$N(t)$$), and than a vertical line up or down to the parabola to get at the next value of $$N(t+1)$$. Below we observe the process for tracing the dynamics of a discrete time system in this way:
-*   First, find $$N(t)$$ on the x-axis
-*   Draw a vertical line up to the parabola. This is $$N(t+1)$$
-*   Draw a horizontal line over to the 1:1 line. This resets $$N(t)$$ along the x-axis
-*   Draw a vertical line *up* or *down* to the parabola. This gives us $$N(t+1)$$
+For the discrete-time system, we will graphically analyze the plot of $$n(t+1)$$ (on the y-axis) as a function of $$n(t)$$ (on the x-axis). As with the continuous-time equation, this produces a parabola. The parabola represents the mapping from $$n(t)$$ to $$n(t+1)$$. In other words, if our population is at value $$n(t)$$, to find the next value at time $$t+1$$, we identify the value of $$n(t)$$ on the x-axis, draw a vertical line up to the parabola, and this gives us the value at $$n(t+1)$$. We then reiterate the process. We can make life simpler for ourselves if we also draw the 1:1 line in the same plot (where $$n(t) = n(t+1)$$). Instead of going back to the x-axis for every $$n(t)$$ to draw the vertical line up to the parabola (giving us $$n(t+1)$$), we can simply draw a horizontal line to the 1:1 line (resetting $$n(t+1)$$ to $$n(t)$$), and than a vertical line up or down to the parabola to get at the next value of $$n(t+1)$$. Below we observe the process for tracing the dynamics of a discrete time system in this way:
+*   First, find $$n(t)$$ on the x-axis
+*   Draw a vertical line up to the parabola. This is $$n(t+1)$$
+*   Draw a horizontal line over to the 1:1 line. This resets $$n(t)$$ along the x-axis
+*   Draw a vertical line *up* or *down* to the parabola. This gives us $$n(t+1)$$
 *   Draw a horizontal line over to the 1:1 axis
 *   Repeat, repeat, repeat!
 
@@ -34,7 +34,7 @@ The above algorithm constitutes what we call a *cobweb diagram*. We implement th
         Ntx = seq(0,max(N)*(1+0.5),length.out=100)
         Nty = Ntx + rd*Ntx*(1 - Ntx/K)
         xymax = max(N)
-        plot(Ntx,Nty,type='l',xlab="Population size N(t)", ylab="Population size N(t+1)",lwd=2,xlim=c(0,xymax),ylim=c(0,xymax))
+        plot(Ntx,Nty,type='l',xlab="Population size n(t)", ylab="Population size n(t+1)",lwd=2,xlim=c(0,xymax),ylim=c(0,xymax))
         lines(seq(-1,2),seq(-1,2),col='gray',lwd=2)
         for (t in 1:(tmax-1)) {
             #draw segments
@@ -51,7 +51,7 @@ The above algorithm constitutes what we call a *cobweb diagram*. We implement th
 
 > ### Diving Deeper
 > 1. Across intervals of 0.1, at what value of $$r_d$$ do the dynamics become cyclic? Unpredictable?
-> 2. Compare `rd=1.8` to `rd=2.0`. What is the primary difference between these outcomes. Compare both the results of the cobweb diagram and the $$N(t)$$ vs. $$t$$ plot to establish your interpretation of what is going on.
+> 2. Compare `rd=1.8` to `rd=2.0`. What is the primary difference between these outcomes. Compare both the results of the cobweb diagram and the $$n(t)$$ vs. $$t$$ plot to establish your interpretation of what is going on.
 > 3. Do we observe cycles or chaotic dynamics in the continuous-time logistic model? ***(Below is the code block from Section 7 where we assessed continuous-time logistic dynamics, which you can use for reference)***
 > 4. Given these differences, what are the long-term implications for discrete-time vs. continuous-time population dynamics? 
 > 5. What ecological factors might promote continuous- vs. discrete-time population dynamics?
@@ -83,7 +83,7 @@ This code block allows us to directly compare the temporal dynamics of continuou
             Nd[t] = Ndt 
         }
         maxN = max(c(Nd,out[,2]))
-        plot(out, lwd = 2,xlab='Time',ylab='Population N(t)',col='blue',ylim=c(0,maxN))
+        plot(out, lwd = 2,xlab='Time',ylab='Population n(t)',col='blue',ylim=c(0,maxN))
         lines(Nd,col='red',lwd=2)
     }
     pop.combined(r = 1,K = 1,N0 = 0.01,tmax = 40)
@@ -95,7 +95,7 @@ This code block allows us to directly compare the temporal dynamics of continuou
 
 ## Displacement dynamics near a steady state
 
-So far, the cobweb diagram has helped us *see* how a discrete-time system maps $$N(t)$$ to $$N(t+1)$$. Here we take the next step and make that “mapping” quantitative by focusing on what happens **near a steady state**.
+So far, the cobweb diagram has helped us *see* how a discrete-time system maps $$n(t)$$ to $$n(t+1)$$. Here we take the next step and make that “mapping” quantitative by focusing on what happens **near a steady state**.
 
 Suppose the system has a fixed point $$n^*$$ (a steady state), meaning
 
@@ -109,7 +109,7 @@ Now imagine the population is not exactly at $$n^*$$, but *very close* to it. We
 
 $$
 \begin{equation}
-N(t) = n^* + \epsilon(t),
+n(t) = n^* + \epsilon(t),
 \end{equation}
 $$
 
@@ -122,7 +122,7 @@ The central question is: *does the displacement shrink or grow over time?*
 If $$ \epsilon(t) $$ gets smaller as $$t$$ increases, the system is returning to the steady state and $$n^*$$ is **stable**. If $$\epsilon(t)$$ grows, the system is moving away and $$n^*$$ is **unstable**. And in discrete time, there is an additional wrinkle: the sign of $$\epsilon(t)$$ can flip from one time step to the next, producing oscillatory convergence (or oscillatory divergence).
 
 
-In the code demo, we simulate the logistic difference equation and explicitly track $$\epsilon(t)=N(t)-n^*$$. We then compare the “true” displacement dynamics to what we would expect from the local linear approximation (introduced next). The goal is to confirm—numerically and visually—that near a steady state, the behavior of the full nonlinear model is well summarized by a single number: the local slope $$\lambda$$.
+In the code demo, we simulate the logistic difference equation and explicitly track $$\epsilon(t)=n(t)-n^*$$. We then compare the “true” displacement dynamics to what we would expect from the local linear approximation (introduced next). The goal is to confirm—numerically and visually—that near a steady state, the behavior of the full nonlinear model is well summarized by a single number: the local slope $$\lambda$$.
 
 ---
 
@@ -133,10 +133,10 @@ The displacement idea becomes powerful once we connect it to a standard tool: a 
 Start again from the general discrete-time model
 
 $$
-N(t+1) = f(N(t)).
+n(t+1) = f(n(t)).
 $$
 
-If we are close to a steady state $$n^*$$, then $$N(t)=n^*+\epsilon(t)$$ with $$\epsilon(t)$$ small. We want to express the next displacement $$\epsilon(t+1)$$ in terms of the current displacement $$\epsilon(t)$$. Using a first-order Taylor approximation of $$f$$ near $$n^*$$,
+If we are close to a steady state $$n^*$$, then $$n(t)=n^*+\epsilon(t)$$ with $$\epsilon(t)$$ small. We want to express the next displacement $$\epsilon(t+1)$$ in terms of the current displacement $$\epsilon(t)$$. Using a first-order Taylor approximation of $$f$$ near $$n^*$$,
 
 $$
 f(n^*+\epsilon) \approx f(n^*) + f'(n^*)\,\epsilon.
@@ -145,7 +145,7 @@ $$
 Because $$n^*$$ is a fixed point, $$f(n^*)=n^*$$. Substituting into the displacement definition,
 
 $$
-\epsilon(t+1) = N(t+1)-n^* = f(n^*+\epsilon(t)) - n^*
+\epsilon(t+1) = n(t+1)-n^* = f(n^*+\epsilon(t)) - n^*
 \approx \big(n^* + f'(n^*)\,\epsilon(t)\big) - n^*
 = f'(n^*)\,\epsilon(t).
 $$
@@ -222,7 +222,7 @@ displacement.demo <- function(rd = 1.8, K = 1,
   tt <- 1:tmax
   ymax <- max(abs(c(eps_true, eps_lin)))
   plot(tt, eps_true, type="o", pch=16, lwd=2,
-       xlab="Time t", ylab=expression(epsilon(t) == N(t) - n^"*"),
+       xlab="Time t", ylab=expression(epsilon(t) == n(t) - n^"*"),
        ylim=c(-ymax, ymax))
   lines(tt, eps_lin, type="o", pch=1, lwd=2)
   abline(h=0, lwd=1)
@@ -232,7 +232,7 @@ displacement.demo <- function(rd = 1.8, K = 1,
   
   # Print key quantities
   cat("\n--- Displacement / linearization summary ---\n")
-  cat("Model: N(t+1) = N(t) + rd*N(t)*(1 - N(t)/K)\n")
+  cat("Model: n(t+1) = n(t) + rd*n(t)*(1 - n(t)/K)\n")
   cat("Chosen fixed point n* =", nstar, "\n")
   cat("rd =", rd, "  K =", K, "\n")
   cat("lambda = f'(n*) =", lam, "\n")
