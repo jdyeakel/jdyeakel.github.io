@@ -247,7 +247,7 @@ displacement.demo <- function(rd = 1.8, K = 1,
 ############################################################
 
 # 1) Stable approach to K (no sign-flip if lambda > 0)
-# displacement.demo(rd=1.2, K=1, nstar=1, eps0=0.2, tmax=25)
+# displacement.demo(rd=0.5, K=1, nstar=1, eps0=0.2, tmax=25)
 
 # 2) Stable but oscillatory approach to K (lambda < 0, |lambda|<1)
 # displacement.demo(rd=1.8, K=1, nstar=1, eps0=0.2, tmax=25)
