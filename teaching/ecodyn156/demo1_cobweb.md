@@ -52,7 +52,7 @@ The above algorithm constitutes what we call a *cobweb diagram*. We implement th
 > ### Diving Deeper
 > 1. Across intervals of 0.1, at what value of $$r_d$$ do the dynamics become cyclic? Unpredictable?
 > 2. Compare `rd=1.8` to `rd=2.0`. What is the primary difference between these outcomes. Compare both the results of the cobweb diagram and the $$n(t)$$ vs. $$t$$ plot to establish your interpretation of what is going on.
-> 3. Do we observe cycles or chaotic dynamics in the continuous-time logistic model? ***(Below is the code block from Section 7 where we assessed continuous-time logistic dynamics, which you can use for reference)***
+> 3. Do we observe cycles or chaotic dynamics in the continuous-time logistic model?  
 > 4. Given these differences, what are the long-term implications for discrete-time vs. continuous-time population dynamics? 
 > 5. What ecological factors might promote continuous- vs. discrete-time population dynamics?
 
