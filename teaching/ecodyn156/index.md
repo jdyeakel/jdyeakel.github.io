@@ -32,7 +32,7 @@ For some assignments, AI will be allowed and encouraged in certain capacities. S
 
 
 
-## Errata!
+## Errata
 
 This is the first time that I am teaching this course as a conjoined undergraduate/graduate offering. While I am excited to offer this material in a way that is accessible and useful for both undergraduate and graduate students, there will be times where I may have to make some alterations as we go along to ensure a smooth delivery. 
 
