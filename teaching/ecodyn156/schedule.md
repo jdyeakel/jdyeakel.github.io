@@ -48,7 +48,7 @@ tr:nth-child(odd) {background: #FFF}
 | 10 | Thu | 2/19 | **Exam I** |  |  |
 | 11 | Tue | 2/24 | Saddle-node bifurcations |  |  |
 | 12 | Thu | 2/26 | Pitchfork bifurcations |  |  |
-| 13 | Tue | 3/3 | Competition and 2D systems | 7-7.3.3 |  |
+| 13 | Tue | 3/3 | Competition and 2D systems | 7-7.3.2 |  |
 | 14 | Thu | 3/5 | Equilibria and stability in 2D |  |  |
 | 15 | Tue | 3/10 | 2D stability (cont.) |  |  |
 | 16 | Thu | 3/12 | Predation | 8-Pg308 |  |
