@@ -51,15 +51,15 @@ tr:nth-child(odd) {background: #FFF}
 | 13 | Tue | 3/3 | Competition and 2D systems | 7-7.3.2 |  |
 | 14 | Thu | 3/5 | Equilibria and stability in 2D |  |  |
 | 15 | Tue | 3/10 | 2D stability (cont.) |  |  |
-| 16 | Thu | 3/12 | Predation | 8-Pg308 |  |
+| 16 | Thu | 3/12 | 2D stability (cont.) | 8-Pg308 |  |
 | 17 | Tue | 3/17 | Review |  |  |
 | 18 | Thu | 3/19 | **Exam II** | |  |
 | -- | Tue | 3/24 | *Spring Break* | |  |
 | -- | Thu | 3/26 | *Spring Break* | |  |
-| 19 | Tue | 3/31 | Life-history models | 10 |  |
-| 20 | Thu | 4/2 | Life-history models (cont.) |  |  |
-| 21 | Tue | 4/7 | Allometric reasoning |  |  |
-| 22 | Thu | 4/9 | Allometric reasoning (cont.) |  |  |
+| 19 | Tue | 3/31 | Predation | 8-Pg308 |  |
+| 20 | Thu | 4/2 | Life-history models |  10-10.2 |  |
+| 21 | Tue | 4/7 | Life-history models (cont.) | 10.6-10.7 |  |
+| 22 | Thu | 4/9 | Allometric reasoning |  |  |
 | 23 | Tue | 4/14 | Review |  |  |
 | 24 | Thu | 4/16 | **Exam III** |  |  |
 | 25 | Tue | 4/21 | Probabilistic models 1 | Primer 3 |  |
