@@ -59,7 +59,7 @@ tr:nth-child(odd) {background: #FFF}
 | 19 | Tue | 3/31 | Predation | 8-Pg308 |  |
 | 20 | Thu | 4/2 | Life-history models |  10-10.2 |  |
 | 21 | Tue | 4/7 | Life-history models (cont.) | 10.6-10.7 |  |
-| 22 | Thu | 4/9 | Allometric reasoning |  |  |
+| 22 | Thu | 4/9 | Epidemiological models | 3.5, 8-8.2.2 |  |
 | 23 | Tue | 4/14 | Review |  |  |
 | 24 | Thu | 4/16 | **Exam III** |  |  |
 | 25 | Tue | 4/21 | Probabilistic models 1 | Primer 3 |  |
