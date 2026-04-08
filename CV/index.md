@@ -16,9 +16,9 @@ comments: true
 
 **<span style="color:#6bdc61;">In Review</span>**
 : <dd class="review"> <div markdown="1">
-* ☕ <span style="color:#4292E5;">Yeakel J.D.</span>, Fan M., McTavish E.J., de Almeida A.C., Kempes C.P., Bettencourt L.M.A., Kim S., Breed G. An origin for the allometric scaling of mammalian fat reflects populations living on the edge. In Revision @ The American Naturalist.  
+* ☕ <span style="color:#4292E5;">Yeakel J.D.</span>, Fan M., McTavish E.J., de Almeida A.C., Kempes C.P., Bettencourt L.M.A., Kim S., Breed G. 2026. An origin for the allometric scaling of mammalian fat reflects populations living on the edge. In Revision @ The American Naturalist.  
 <br>
-* Hoover S.H., Satterfield D.R., Gil M.A., Hein A.M., Moses M.E., <span style="color:#4292E5;">Yeakel J.D.</span>, Fahimipour A.K. 2026. Collective learning and manifold behaviors in predator groups. [Preprint](https://www.biorxiv.org/content/10.64898/2026.03.27.714769v1){:target="_blank"}  
+* Hoover S.H., Satterfield D.R., Gil M.A., Hein A.M., Moses M.E., <span style="color:#4292E5;">Yeakel J.D.</span>, Fahimipour A.K. 2026. Collective learning and manifold behaviors in predator groups. In Review @ PLoS Computational Biology. [Preprint](https://www.biorxiv.org/content/10.64898/2026.03.27.714769v1){:target="_blank"}  
 <br>
 
 <br>
