@@ -26,12 +26,12 @@ comments: true
 **2026**
 :	* ☕ <span style="color:#4292E5;">Yeakel J.D.</span>, Hutchinson M.C., Kempes C.P., Koch P.L., Ugarte P.D.S., Gill J.L., Pires M.M. Bioenergetic trophic trade-offs determine mass-dependent extinction thresholds across the Cenozoic. Accepted @ Ecology. [Preprint](http://arxiv.org/abs/2410.18849){:target="_blank"}.  
 
-	* ☕ Birskis-Barros I., Assis A.P.A. , James H.F., Kim S.L., <span style="color:#4292E5;">Yeakel J.D.</span> Morphological variability as a buffer against extinction: Insights from Hawaiian honeycreepers. *Accepted @ Proceedings of the Royal Society B: Biological Sciences*.  
+	* ☕ Birskis-Barros I., Assis A.P.A. , James H.F., Kim S.L., <span style="color:#4292E5;">Yeakel J.D.</span> [Morphological variability as a buffer against extinction: Insights from Hawaiian honeycreepers](https://royalsocietypublishing.org/rspb/article/293/2068/20252594/481220/Morphological-variability-as-a-buffer-against){:target="_blank"}. Proceedings of the Royal Society B: Biological Sciences* 293 (2068) 20252594.  
 
 	* Massing J., Gross T., <span style="color:#4292E5;">Yeakel J.D.</span>, Fahimipour A.K. [Generalized dynamics of cross-feeding bacteria](https://royalsocietypublishing.org/rsif/article/23/235/20250437/480510/Generalized-dynamics-of-cross-feeding-bacteria?searchresult=1){:target="_blank"}. *Journal of the Royal Society Interface* 23 (235) 20250437.  
 
 
-	* Habermann M., Fahimipour A.K., <span style="color:#4292E5;">Yeakel J.D.</span>, Gross T. [Functional motifs in food webs and networks.](https://www.pnas.org/doi/10.1073/pnas.2521927123) *Proceedings of the National Academy of Sciences USA* 123 (5) e2521927123.    
+	* Habermann M., Fahimipour A.K., <span style="color:#4292E5;">Yeakel J.D.</span>, Gross T. [Functional motifs in food webs and networks](https://www.pnas.org/doi/10.1073/pnas.2521927123){:target="_blank"}. *Proceedings of the National Academy of Sciences USA* 123 (5) e2521927123.    
 
 <br>
 
