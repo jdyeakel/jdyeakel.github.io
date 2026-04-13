@@ -62,9 +62,9 @@ tr:nth-child(odd) {background: #FFF}
 | 22 | Thu | 4/9 | Epidemiological models | 3.5, 8-8.2.2 |  |
 | 23 | Tue | 4/14 | Review |  |  |
 | 24 | Thu | 4/16 | **Exam III** |  |  |
-| 25 | Tue | 4/21 | Probabilistic models 1 | Primer 3 |  |
+| 25 | Tue | 4/21 | Probabilistic models 1 | Primer 3, 13-13.3, 13.7 |  |
 | 26 | Thu | 4/23 | No class |  |  |
-| 27 | Tue | 4/28 | Probabilistic models 2 | 13 |  |
+| 27 | Tue | 4/28 | Probabilistic models 2 |  |  |
 | 28 | Thu | 4/30 | Probabilistic models 3 |  |  |
-| 29 | Tue | 5/5 | Review + activity work |  |  |
+| 29 | Tue | 5/5 | Graduate Student Symposium |  |  |
 | 30 | Thu | 5/7 | **Exam IV** |  |  |
