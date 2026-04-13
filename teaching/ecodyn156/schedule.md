@@ -65,6 +65,6 @@ tr:nth-child(odd) {background: #FFF}
 | 25 | Tue | 4/21 | Probabilistic models 1 | Primer 3, 13-13.3, 13.7 |  |
 | 26 | Thu | 4/23 | No class |  |  |
 | 27 | Tue | 4/28 | Probabilistic models 2 |  |  |
-| 28 | Thu | 4/30 | Probabilistic models 3 |  |  |
+| 28 | Thu | 4/30 | The art of modeling |  |  |
 | 29 | Tue | 5/5 | Graduate Student Symposium |  |  |
 | 30 | Thu | 5/7 | **Exam IV** |  |  |
