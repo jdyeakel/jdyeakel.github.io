@@ -5,7 +5,7 @@ modified:
 excerpt:
 tags: [Research]
 image:
-  feature: art_desk.jpeg
+  feature: desk_banner.jpeg
   credit: jdyeakel
 ---
 
