@@ -5,7 +5,7 @@ modified:
 excerpt:
 tags: [Research]
 image:
-  feature: mudflats.jpg
+  feature: art_desk.jpeg
   credit: jdyeakel
 ---
 
