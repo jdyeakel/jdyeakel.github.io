@@ -24,6 +24,8 @@ image:
   By deploying models that capture these silhouettes from multiple angles, we seek to understand how the constraints operating on individuals within populations, and populations within communities, contribute to the long-term ecological and evolutionary dynamics shaping ecosystems past, present, and future.
 </p>
 
+---
+
 As of **Summer 2026**, some exciting current areas of active research include:  
 * How the bioenergetics of terrestrial predation influenced the evolution of carnivores and their herbivore prey throughout the Cenozoic (publication coming soon!)   
 * The origin and scaling of body fat and its macroevolutionary implications (publication coming soon)  
