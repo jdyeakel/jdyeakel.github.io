@@ -28,7 +28,7 @@ image:
 
 As of **Summer 2026**, some exciting current areas of active research include:  
 * How the bioenergetics of terrestrial predation influenced the evolution of carnivores and their herbivore prey throughout the Cenozoic (publication coming soon!)   
-* The origin and scaling of body fat and its macroevolutionary implications (publication coming soon!)  
+* The origin of the allometric scaling of body fat and its macroevolutionary implications (publication coming soon!)  
 * How marine megapredators such as *Otodus megalodon* (and other giant megatooth sharks) and *Livyatan melvillei* (and other giant raptorial whales) balanced their bioenergetic budgets, and the implications this likely had for Cenozoic marine communities  
 * Exploring how grazing, browsing, and mixed feeding mammals met their energetic needs with the opening of landscapes during the Eocene-Oligocene transition (34 Ma) and into the global cool-house characterizing the latter half of the Cenozoic  
 
