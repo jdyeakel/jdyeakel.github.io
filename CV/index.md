@@ -54,14 +54,17 @@ comments: true
 **2023**
 :	* Valdovinos F.S., Hale K.R.S., Dritz S., Glaum P.R., Mccann K.S., Simon S.M., Thébault E., Wetzel W.C., Wootton K.L., <span style="color:#4292E5;">Yeakel J.D.</span> [A bioenergetic framework for aboveground terrestrial food webs](https://www.sciencedirect.com/science/article/pii/S0169534722002841){:target="_blank"} *Trends in Ecology and Evolution*.
 
+<br>
 
 **2022**
 :	* ☕ $${}^\dagger$$Kim S.L., $${}^\dagger$$<span style="color:#4292E5;">Yeakel J.D.</span>, Balk M.A., Eberle J.J., Zeichner S., Fieman D., Kriwet J. [Decoding the dynamics of dental distributions: insights from shark demography and dispersal](https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2022.0808){:target="_blank"} *Proceedings of the Royal Society B: Biological Sciences*.
 
+<br>
 
 **2021**
 :	* Fannin, L. <span style="color:#4292E5;">Yeakel J.D.</span>,Venkataraman V.V., Seyoum C., Geraads D., Fashing P., Nguyen N., Fox-Dobbs K., Dominy N.J. [Carbon and strontium isotope ratios shed new light on the paleobiology and collapse of *Theropithecus*, a primate experiment in graminivory](https://www.sciencedirect.com/science/article/abs/pii/S0031018221001784){:target="_blank"} *Palaeogeography, Palaeoclimatology, Palaeoecology*.  
 
+<br>
 
 **2020**
 :	* ☕ <span style="color:#4292E5;">Yeakel J.D.</span>, Pires M.M., de Aguiar M.A.M., O'Donnell J.L., Guimarães P.R., Gravel D., Gross T. [Diverse interactions and ecosystem engineering can stabilize community assembly](https://www.nature.com/articles/s41467-020-17164-x){:target="_blank"} *Nature Communications*.
