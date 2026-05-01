@@ -16,97 +16,97 @@ comments: true
 
 **<span style="color:#6bdc61;">In Review</span>**
 : <dd class="review"> <div markdown="1">
-* ☕ <span style="color:#4292E5;">Yeakel J.D.</span>, Fan M., McTavish E.J., de Almeida A.C., Kempes C.P., Bettencourt L.M.A., Kim S., Breed G. 2026. An origin for the allometric scaling of mammalian fat reflects populations living on the edge. Provisionally Accepted @ The American Naturalist.  
-<br>
-* Hoover S.H., Satterfield D.R., Gil M.A., Hein A.M., Moses M.E., <span style="color:#4292E5;">Yeakel J.D.</span>, Fahimipour A.K. 2026. Collective learning and manifold behaviors in predator groups. In Review @ Journal of the Royal Society Interface. [Preprint](https://www.biorxiv.org/content/10.64898/2026.03.27.714769v1){:target="_blank"}  
+* Hoover S.H., Satterfield D.R., Gil M.A., Hein A.M., Moses M.E., <span style="color:#6bdc61;">Yeakel J.D.</span>, Fahimipour A.K. 2026. Collective learning and manifold behaviors in predator groups. In Review @ Journal of the Royal Society Interface. [Preprint](https://www.biorxiv.org/content/10.64898/2026.03.27.714769v1){:target="_blank"}  
 <br>
 
 <br>
 
 **2026**
-:	* ☕ <span style="color:#4292E5;">Yeakel J.D.</span>, Hutchinson M.C., Kempes C.P., Koch P.L., Ugarte P.D.S., Gill J.L., Pires M.M. Bioenergetic trophic trade-offs determine mass-dependent extinction thresholds across the Cenozoic. Accepted @ Ecology. [Preprint](http://arxiv.org/abs/2410.18849){:target="_blank"}.  
+:	* ☕ <span style="color:#6bdc61;">Yeakel J.D.</span>, Fan M., McTavish E.J., de Almeida A.C., Kempes C.P., Bettencourt L.M.A., Kim S., Breed G. 2026. An origin for the allometric scaling of mammalian fat reflects populations living on the edge. Provisionally Accepted @ The American Naturalist.  
 
-	* ☕ Birskis-Barros I., Assis A.P.A. , James H.F., Kim S.L., <span style="color:#4292E5;">Yeakel J.D.</span> [Morphological variability as a buffer against extinction: Insights from Hawaiian honeycreepers](https://royalsocietypublishing.org/rspb/article/293/2068/20252594/481220/Morphological-variability-as-a-buffer-against){:target="_blank"}. Proceedings of the Royal Society B: Biological Sciences* 293 (2068) 20252594.  
+	* ☕ <span style="color:#6bdc61;">Yeakel J.D.</span>, Hutchinson M.C., Kempes C.P., Koch P.L., Ugarte P.D.S., Gill J.L., Pires M.M. 2026. Bioenergetic trophic trade-offs determine mass-dependent extinction thresholds across the Cenozoic. Accepted @ Ecology. [Preprint](http://arxiv.org/abs/2410.18849){:target="_blank"}.  
 
-	* Massing J., Gross T., <span style="color:#4292E5;">Yeakel J.D.</span>, Fahimipour A.K. [Generalized dynamics of cross-feeding bacteria](https://royalsocietypublishing.org/rsif/article/23/235/20250437/480510/Generalized-dynamics-of-cross-feeding-bacteria?searchresult=1){:target="_blank"}. *Journal of the Royal Society Interface* 23 (235) 20250437.  
+	* ☕ Birskis-Barros I., Assis A.P.A. , James H.F., Kim S.L., <span style="color:#6bdc61;">Yeakel J.D.</span> [Morphological variability as a buffer against extinction: Insights from Hawaiian honeycreepers](https://royalsocietypublishing.org/rspb/article/293/2068/20252594/481220/Morphological-variability-as-a-buffer-against){:target="_blank"}. Proceedings of the Royal Society B: Biological Sciences* 293 (2068) 20252594.  
+
+	* Massing J., Gross T., <span style="color:#6bdc61;">Yeakel J.D.</span>, Fahimipour A.K. [Generalized dynamics of cross-feeding bacteria](https://royalsocietypublishing.org/rsif/article/23/235/20250437/480510/Generalized-dynamics-of-cross-feeding-bacteria?searchresult=1){:target="_blank"}. *Journal of the Royal Society Interface* 23 (235) 20250437.  
 
 
-	* Habermann M., Fahimipour A.K., <span style="color:#4292E5;">Yeakel J.D.</span>, Gross T. [Functional motifs in food webs and networks](https://www.pnas.org/doi/10.1073/pnas.2521927123){:target="_blank"}. *Proceedings of the National Academy of Sciences USA* 123 (5) e2521927123.    
+	* Habermann M., Fahimipour A.K., <span style="color:#6bdc61;">Yeakel J.D.</span>, Gross T. [Functional motifs in food webs and networks](https://www.pnas.org/doi/10.1073/pnas.2521927123){:target="_blank"}. *Proceedings of the National Academy of Sciences USA* 123 (5) e2521927123.    
 
 <br>
 
 **2025**
-:	* ☕ <span style="color:#4292E5;">Yeakel J.D.</span> [Distilling food web dynamics: Top-down and bottom-up drivers of extinction and trophic cascades](https://nsojournals.onlinelibrary.wiley.com/doi/10.1002/oik.11449){:target="_blank"}. *Oikos* 2025:e11449.  
+:	* ☕ <span style="color:#6bdc61;">Yeakel J.D.</span> [Distilling food web dynamics: Top-down and bottom-up drivers of extinction and trophic cascades](https://nsojournals.onlinelibrary.wiley.com/doi/10.1002/oik.11449){:target="_blank"}. *Oikos* 2025:e11449.  
 
-	* Fannin L.D., Seyoum C.M., Venkataraman V.V., <span style="color:#4292E5;">Yeakel J.D.</span>, Janis C.M., Cerling T.E., Dominy N.J. [Behavior drives morphological change during human evolution](https://www.science.org/doi/10.1126/science.ado2359){:target="_blank"}. *Science* 389, 488-493.  
+	* Fannin L.D., Seyoum C.M., Venkataraman V.V., <span style="color:#6bdc61;">Yeakel J.D.</span>, Janis C.M., Cerling T.E., Dominy N.J. [Behavior drives morphological change during human evolution](https://www.science.org/doi/10.1126/science.ado2359){:target="_blank"}. *Science* 389, 488-493.  
 
-	* Rosien J., Fannin L., <span style="color:#4292E5;">Yeakel J.D.</span>, Malaivijitnond S., Dominy N.J., Tan A. [Food-washing monkeys recognize the law of diminishing returns.](https://elifesciences.org/articles/98520){:target="_blank"}. *eLife* 13, RP98520.
+	* Rosien J., Fannin L., <span style="color:#6bdc61;">Yeakel J.D.</span>, Malaivijitnond S., Dominy N.J., Tan A. [Food-washing monkeys recognize the law of diminishing returns.](https://elifesciences.org/articles/98520){:target="_blank"}. *eLife* 13, RP98520.
 
 <br>
 
 **2024**
-:	* ☕ Suswaram M., Bhat U., <span style="color:#4292E5;">Yeakel J.D.</span> [Rising above the noise: the influence of population dynamics on the evolution of acoustic signaling.](https://iopscience.iop.org/article/10.1088/2632-072X/ad5e2e){:target="_blank"} *Journal of Physics: Complexity* 5(3), p.035007.  
+:	* ☕ Suswaram M., Bhat U., <span style="color:#6bdc61;">Yeakel J.D.</span> [Rising above the noise: the influence of population dynamics on the evolution of acoustic signaling.](https://iopscience.iop.org/article/10.1088/2632-072X/ad5e2e){:target="_blank"} *Journal of Physics: Complexity* 5(3), p.035007.  
 
-	* ☕ Rallings T., Kempes C.P., <span style="color:#4292E5;">Yeakel J.D.</span> [On the dynamics of mortality and the ephemeral nature of mammalian megafauna.](https://doi.org/10.1086/731331){:target="_blank"} *The American Naturalist* 204 (3) 274-288.
+	* ☕ Rallings T., Kempes C.P., <span style="color:#6bdc61;">Yeakel J.D.</span> [On the dynamics of mortality and the ephemeral nature of mammalian megafauna.](https://doi.org/10.1086/731331){:target="_blank"} *The American Naturalist* 204 (3) 274-288.
 
-	* ☕ Ritwika V.P.S., Gopinathan A.J., <span style="color:#4292E5;">Yeakel J.D.</span> [Beyond the kill: The allometry of predation behaviours among large carnivores](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2656.14070){:target="_blank"} *Journal of Animal Ecology* 93 (5) 554-566.
+	* ☕ Ritwika V.P.S., Gopinathan A.J., <span style="color:#6bdc61;">Yeakel J.D.</span> [Beyond the kill: The allometry of predation behaviours among large carnivores](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2656.14070){:target="_blank"} *Journal of Animal Ecology* 93 (5) 554-566.
 
 **2023**
-:	* Valdovinos F.S., Hale K.R.S., Dritz S., Glaum P.R., Mccann K.S., Simon S.M., Thébault E., Wetzel W.C., Wootton K.L., <span style="color:#4292E5;">Yeakel J.D.</span> [A bioenergetic framework for aboveground terrestrial food webs](https://www.sciencedirect.com/science/article/pii/S0169534722002841){:target="_blank"} *Trends in Ecology and Evolution*.
+:	* Valdovinos F.S., Hale K.R.S., Dritz S., Glaum P.R., Mccann K.S., Simon S.M., Thébault E., Wetzel W.C., Wootton K.L., <span style="color:#6bdc61;">Yeakel J.D.</span> [A bioenergetic framework for aboveground terrestrial food webs](https://www.sciencedirect.com/science/article/pii/S0169534722002841){:target="_blank"} *Trends in Ecology and Evolution*.
 
 <br>
 
 **2022**
-:	* ☕ $${}^\dagger$$Kim S.L., $${}^\dagger$$<span style="color:#4292E5;">Yeakel J.D.</span>, Balk M.A., Eberle J.J., Zeichner S., Fieman D., Kriwet J. [Decoding the dynamics of dental distributions: insights from shark demography and dispersal](https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2022.0808){:target="_blank"} *Proceedings of the Royal Society B: Biological Sciences*.
+:	* ☕ $${}^\dagger$$Kim S.L., $${}^\dagger$$<span style="color:#6bdc61;">Yeakel J.D.</span>, Balk M.A., Eberle J.J., Zeichner S., Fieman D., Kriwet J. [Decoding the dynamics of dental distributions: insights from shark demography and dispersal](https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2022.0808){:target="_blank"} *Proceedings of the Royal Society B: Biological Sciences*.
 
 <br>
 
 **2021**
-:	* Fannin, L. <span style="color:#4292E5;">Yeakel J.D.</span>,Venkataraman V.V., Seyoum C., Geraads D., Fashing P., Nguyen N., Fox-Dobbs K., Dominy N.J. [Carbon and strontium isotope ratios shed new light on the paleobiology and collapse of *Theropithecus*, a primate experiment in graminivory](https://www.sciencedirect.com/science/article/abs/pii/S0031018221001784){:target="_blank"} *Palaeogeography, Palaeoclimatology, Palaeoecology*.  
+:	* Fannin, L. <span style="color:#6bdc61;">Yeakel J.D.</span>,Venkataraman V.V., Seyoum C., Geraads D., Fashing P., Nguyen N., Fox-Dobbs K., Dominy N.J. [Carbon and strontium isotope ratios shed new light on the paleobiology and collapse of *Theropithecus*, a primate experiment in graminivory](https://www.sciencedirect.com/science/article/abs/pii/S0031018221001784){:target="_blank"} *Palaeogeography, Palaeoclimatology, Palaeoecology*.  
 
 <br>
 
 **2020**
-:	* ☕ <span style="color:#4292E5;">Yeakel J.D.</span>, Pires M.M., de Aguiar M.A.M., O'Donnell J.L., Guimarães P.R., Gravel D., Gross T. [Diverse interactions and ecosystem engineering can stabilize community assembly](https://www.nature.com/articles/s41467-020-17164-x){:target="_blank"} *Nature Communications*.
+:	* ☕ <span style="color:#6bdc61;">Yeakel J.D.</span>, Pires M.M., de Aguiar M.A.M., O'Donnell J.L., Guimarães P.R., Gravel D., Gross T. [Diverse interactions and ecosystem engineering can stabilize community assembly](https://www.nature.com/articles/s41467-020-17164-x){:target="_blank"} *Nature Communications*.
 	
-	* Gross T., Allhoff K.T., Blasius B., Brose U., Drossel B., Fahimipour A.K., Guill C., <span style="color:#4292E5;">Yeakel J.D.</span>, Zeng F. [Modern models of trophic meta-communities.](https://royalsocietypublishing.org/doi/10.1098/rstb.2019.0455){:target="_blank"} *Philosophical Transactions of the Royal Society B*. 
+	* Gross T., Allhoff K.T., Blasius B., Brose U., Drossel B., Fahimipour A.K., Guill C., <span style="color:#6bdc61;">Yeakel J.D.</span>, Zeng F. [Modern models of trophic meta-communities.](https://royalsocietypublishing.org/doi/10.1098/rstb.2019.0455){:target="_blank"} *Philosophical Transactions of the Royal Society B*. 
 	
-	* ☕ Bhat U., Kempes C.P., <span style="color:#4292E5;">Yeakel J.D.</span> [Scaling of the risk landscape drives optimal life history strategies and the evolution of grazing.](https://www.pnas.org/content/early/2019/12/16/1907998117){:target="_blank"} *Proceedings of the National Academy of Sciences* 117 (3) 1580-1586.
+	* ☕ Bhat U., Kempes C.P., <span style="color:#6bdc61;">Yeakel J.D.</span> [Scaling of the risk landscape drives optimal life history strategies and the evolution of grazing.](https://www.pnas.org/content/early/2019/12/16/1907998117){:target="_blank"} *Proceedings of the National Academy of Sciences* 117 (3) 1580-1586.
 	
 	* ☕<span style="color:#4292E5;">Yeakel, J.D.</span>, Bhat U., Newsome S.D. [Caching in or falling back at the Sevilleta: the effects of body size and seasonal uncertainty on desert rodent foraging.](https://www.journals.uchicago.edu/doi/10.1086/709019){:target="_blank"} *American Naturalist*.
 
-	* Pires M.M., O'Donnell J.L., Burkle L.A., Diaz-Castelazo C., Hembry D.H., <span style="color:#4292E5;">Yeakel J.D.</span>, Newman E.A., Medeiros L.P., de Aguiar M.A.M., Guimarães Jr. P.R. [The indirect paths to cascading effects of extinctions in mutualistic networks.](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.3080){:target="_blank"} *Ecology*.
+	* Pires M.M., O'Donnell J.L., Burkle L.A., Diaz-Castelazo C., Hembry D.H., <span style="color:#6bdc61;">Yeakel J.D.</span>, Newman E.A., Medeiros L.P., de Aguiar M.A.M., Guimarães Jr. P.R. [The indirect paths to cascading effects of extinctions in mutualistic networks.](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.3080){:target="_blank"} *Ecology*.
 
 **2019**
-:	* de Aguiar M.A.M., Newman E.A., Pires M.M., <span style="color:#4292E5;">Yeakel J.D.</span>, Boettiger C., Burkle L.A., Gravel D., Guimarães P.R., O'Donnell J.L., Poisot T., Fortin M.J., Hembry D. [Revealing biases in the sampling of ecological interaction networks.](https://peerj.com/articles/7566/){:target="_blank"} *PeerJ* doi.10.7717/peerj.7566.
+:	* de Aguiar M.A.M., Newman E.A., Pires M.M., <span style="color:#6bdc61;">Yeakel J.D.</span>, Boettiger C., Burkle L.A., Gravel D., Guimarães P.R., O'Donnell J.L., Poisot T., Fortin M.J., Hembry D. [Revealing biases in the sampling of ecological interaction networks.](https://peerj.com/articles/7566/){:target="_blank"} *PeerJ* doi.10.7717/peerj.7566.
 
-	* Baiser B., Gravel D., Cirtwill A., Dunne J.A., Fahimpour A.K., Gilarranz L.J., Grochow J.A., Li D., Martinez N.D., McGrew A., Poisot T., Romnuk T.N., Stouffer D.B., Trotta1 L.B.,Valdovinos F.S., Williams R.J., Wood S.A., <span style="color:#4292E5;">Yeakel J.D.</span> [Ecogeographical Rules and the Macroecology of Food Webs.](https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.12925){:target="_blank"} *Global Ecology and Biogeography* doi.10.1111/geb.12925.
+	* Baiser B., Gravel D., Cirtwill A., Dunne J.A., Fahimpour A.K., Gilarranz L.J., Grochow J.A., Li D., Martinez N.D., McGrew A., Poisot T., Romnuk T.N., Stouffer D.B., Trotta1 L.B.,Valdovinos F.S., Williams R.J., Wood S.A., <span style="color:#6bdc61;">Yeakel J.D.</span> [Ecogeographical Rules and the Macroecology of Food Webs.](https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.12925){:target="_blank"} *Global Ecology and Biogeography* doi.10.1111/geb.12925.
 
 	* ☕ Gibert J.P., <span style="color:#4292E5;">Yeakel, J. D.</span> [Eco-evolutionary origins of diverse abundance, biomass, and trophic structures in food webs.](https://doi.org/10.3389/fevo.2019.00015){:target="_blank"} *Frontiers in Ecology and Evolution* 7, 1-15. doi.org/10.3389/fevo.2019.00015. 
 
 	* ☕ Gibert, J. P., & <span style="color:#4292E5;">Yeakel, J. D.</span> [Laplacian matrices and Turing bifurcations: revisiting Levin 1974 and the consequences of spatial structure and movement for ecological dynamics.](http://jdyeakel.github.io/publications/Gibert_Theor._Ecol._2019.pdf){:target="_blank"} *Theoretical Ecology*. 169(2), 1–17. doi.org/10.1007/s12080-018-0403-2
 
 **2018**
-:	* ☕ $${}^\dagger$$<span style="color:#4292E5;">Yeakel J.D.</span>, $${}^\dagger$$Kempes C.P., $${}^\dagger$$Redner S. [Dynamics of starvation and recovery predict extinction risk and both Damuth’s law and Cope's rule](https://www.nature.com/articles/s41467-018-02822-y){:target="_blank"}. *Nature Communications*. doi:0.1038/s41467-018-02822-y
+:	* ☕ $${}^\dagger$$<span style="color:#6bdc61;">Yeakel J.D.</span>, $${}^\dagger$$Kempes C.P., $${}^\dagger$$Redner S. [Dynamics of starvation and recovery predict extinction risk and both Damuth’s law and Cope's rule](https://www.nature.com/articles/s41467-018-02822-y){:target="_blank"}. *Nature Communications*. doi:0.1038/s41467-018-02822-y
 
-	* ☕ <span style="color:#4292E5;">Yeakel J.D.</span>, Gibert J.P., Gross T., Westley P.A.H., Moore J.W. [Eco-evolutionary dynamics and collective dispersal: implications for salmon metapopulation robustness](http://rstb.royalsocietypublishing.org/content/373/1746/20170018){:target="_blank"}. *Philosophical Transactions of the Royal Society B: Biological Sciences*. doi:10.1098/rstb.2017.0018
+	* ☕ <span style="color:#6bdc61;">Yeakel J.D.</span>, Gibert J.P., Gross T., Westley P.A.H., Moore J.W. [Eco-evolutionary dynamics and collective dispersal: implications for salmon metapopulation robustness](http://rstb.royalsocietypublishing.org/content/373/1746/20170018){:target="_blank"}. *Philosophical Transactions of the Royal Society B: Biological Sciences*. doi:10.1098/rstb.2017.0018
 
-	* Delmas E., Besson M., Brice M.-H., Burkle L., Dalla Riva G. V., Fortin M.-J., Gravel D., Guimarães P.R., Hembry D., Newman E., Olesen J.M., Pires M., <span style="color:#4292E5;">Yeakel J.D.</span>, Poisot T. [Analyzing ecological networks of species interactions](https://onlinelibrary.wiley.com/doi/full/10.1111/brv.12433){:target="_blank"}. *Biological Reviews*, 94, 16-36.
+	* Delmas E., Besson M., Brice M.-H., Burkle L., Dalla Riva G. V., Fortin M.-J., Gravel D., Guimarães P.R., Hembry D., Newman E., Olesen J.M., Pires M., <span style="color:#6bdc61;">Yeakel J.D.</span>, Poisot T. [Analyzing ecological networks of species interactions](https://onlinelibrary.wiley.com/doi/full/10.1111/brv.12433){:target="_blank"}. *Biological Reviews*, 94, 16-36.
 
 **2017**
-:	* ☕ Dominy N.J. & <span style="color:#4292E5;">Yeakel J.D.</span>. [*Frankenstein* and the horrors of competitive exclusion](https://academic.oup.com/bioscience/article/67/2/107/2327311/Frankenstein-and-the-Horrors-of-Competitive){:target="_blank"}. *Bioscience*. doi:10.1093/biosci/biw133.
+:	* ☕ Dominy N.J. & <span style="color:#6bdc61;">Yeakel J.D.</span>. [*Frankenstein* and the horrors of competitive exclusion](https://academic.oup.com/bioscience/article/67/2/107/2327311/Frankenstein-and-the-Horrors-of-Competitive){:target="_blank"}. *Bioscience*. doi:10.1093/biosci/biw133.
 
 
 **2016**
-:	* Novak M., <span style="color:#4292E5;">Yeakel J.D.</span>, Noble A.E., Doak D.F., Emmerson M., Estes J.A., Jacob U., Tinker M.T., Wootton J.T. [Characterizing species interactions: What is the community matrix?](http://www.annualreviews.org/doi/abs/10.1146/annurev-ecolsys-032416-010215){:target="_blank"} *Annual Review of Ecology, Evolution, and Systematics*, 47.
+:	* Novak M., <span style="color:#6bdc61;">Yeakel J.D.</span>, Noble A.E., Doak D.F., Emmerson M., Estes J.A., Jacob U., Tinker M.T., Wootton J.T. [Characterizing species interactions: What is the community matrix?](http://www.annualreviews.org/doi/abs/10.1146/annurev-ecolsys-032416-010215){:target="_blank"} *Annual Review of Ecology, Evolution, and Systematics*, 47.
 
-	* Dominy N.J., <span style="color:#4292E5;">Yeakel J.D.</span>, Bhat U., Ramsden L., Wrangham R.W., Lucas P.W. [How chimpanzees integrate sensory information to select figs](http://rsfs.royalsocietypublishing.org/content/6/3/20160001){:target="_blank"}. *Journal of the Royal Society Interface Focus*, 6, 20160001.
+	* Dominy N.J., <span style="color:#6bdc61;">Yeakel J.D.</span>, Bhat U., Ramsden L., Wrangham R.W., Lucas P.W. [How chimpanzees integrate sensory information to select figs](http://rsfs.royalsocietypublishing.org/content/6/3/20160001){:target="_blank"}. *Journal of the Royal Society Interface Focus*, 6, 20160001.
 
-	* ☕ <span style="color:#4292E5;">Yeakel J.D.</span>, Bhat U., Elliott Smith  E.A., Newsome S.D. [Exploring the isotopic niche: isotopic variance, physiological incorporation, and the temporal dynamics of foraging](http://journal.frontiersin.org/article/10.3389/fevo.2016.00001/full#){:target="_blank"}. *Frontiers in Ecology and Evolution*, 4, 2188.
+	* ☕ <span style="color:#6bdc61;">Yeakel J.D.</span>, Bhat U., Elliott Smith  E.A., Newsome S.D. [Exploring the isotopic niche: isotopic variance, physiological incorporation, and the temporal dynamics of foraging](http://journal.frontiersin.org/article/10.3389/fevo.2016.00001/full#){:target="_blank"}. *Frontiers in Ecology and Evolution*, 4, 2188.
 
 
 **2015**
-:	* Crowley B, Melin A.D., <span style="color:#4292E5;">Yeakel J.D.</span>, Dominy N.J. [Oxygen isotope values reflect the ecology and physiology of Neotropical mammals.](http://journal.frontiersin.org/article/10.3389/fevo.2015.00127/abstract){:target="_blank"} *Frontiers in Ecology and Evolution*, 3, 1-8.
+:	* Crowley B, Melin A.D., <span style="color:#6bdc61;">Yeakel J.D.</span>, Dominy N.J. [Oxygen isotope values reflect the ecology and physiology of Neotropical mammals.](http://journal.frontiersin.org/article/10.3389/fevo.2015.00127/abstract){:target="_blank"} *Frontiers in Ecology and Evolution*, 3, 1-8.
 
 	* Galetti M., Guevara R., Neves C. L., Rodarte R. R., Bovendorp, R. S. Moreira M., Hopkins III, J. B., <span style="color:#4292E5;">Yeakel, J. D.</span> Defaunation affects the populations and diets of rodents in Neotropical rainforests. *Biological Conservation*, 190, 2-7.
 
