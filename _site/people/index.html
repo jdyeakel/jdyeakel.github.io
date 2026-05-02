@@ -93,6 +93,7 @@
     display: block;
     height: auto;
     overflow: visible;
+    touch-action: none;
     width: 100%;
   }
 
@@ -104,8 +105,14 @@
   }
 
   .mainpage-network-node {
+    cursor: grab;
     stroke: #ffffff;
     stroke-width: 1.5;
+  }
+
+  .mainpage-network-node.is-dragging {
+    cursor: grabbing;
+    stroke-width: 2;
   }
 
   .mainpage-reading img {
@@ -181,7 +188,7 @@
 
 <h3>Justin D. Yeakel</h3>
 <p>Associate Professor <br> Biology Program Chair <br> UC Merced <br> External Professor <br> Santa Fe Institute</p>
-<a href="mailto:jdyeakel@gmail.com" class="author-social" target="_blank"><i class="fa fa-envelope-square"></i> Email</a>
+<a href="mailto:jyeakel@ucmerced.edu" class="author-social" target="_blank"><i class="fa fa-envelope-square"></i> Email</a>
 
 
 
@@ -499,6 +506,7 @@ My wife Charlene Chow is an artist. [Check out her website here!](http://charlen
     var colors = ['#207191', '#eb6235', '#6f9f93', '#74746f', '#d6a64f'];
     var nodes = [];
     var links = [];
+    var activeDrag = null;
     var linkGroup = svg.querySelector('.mainpage-network-links');
     var nodeGroup = svg.querySelector('.mainpage-network-nodes');
 
@@ -512,6 +520,7 @@ My wife Charlene Chow is an artist. [Check out her website here!](http://charlen
         y: randomBetween(18, height - 18),
         vx: randomBetween(-0.022, 0.022),
         vy: randomBetween(-0.018, 0.018),
+        isDragging: false,
         color: colors[i % colors.length]
       });
     }
@@ -542,6 +551,88 @@ My wife Charlene Chow is an artist. [Check out her website here!](http://charlen
       return circle;
     });
 
+    function clamp(value, min, max) {
+      return Math.max(min, Math.min(max, value));
+    }
+
+    function pointerPosition(event) {
+      var point = svg.createSVGPoint();
+      point.x = event.clientX;
+      point.y = event.clientY;
+      return point.matrixTransform(svg.getScreenCTM().inverse());
+    }
+
+    function startDrag(event, index) {
+      if (prefersReducedMotion) {
+        return;
+      }
+
+      event.preventDefault();
+      var node = nodes[index];
+      var point = pointerPosition(event);
+      node.isDragging = true;
+      node.vx = 0;
+      node.vy = 0;
+      nodeEls[index].classList.add('is-dragging');
+      nodeEls[index].setPointerCapture(event.pointerId);
+      activeDrag = {
+        index: index,
+        pointerId: event.pointerId,
+        offsetX: point.x - node.x,
+        offsetY: point.y - node.y,
+        lastX: node.x,
+        lastY: node.y,
+        lastTime: performance.now()
+      };
+    }
+
+    function dragNode(event) {
+      if (!activeDrag || event.pointerId !== activeDrag.pointerId) {
+        return;
+      }
+
+      event.preventDefault();
+      var node = nodes[activeDrag.index];
+      var point = pointerPosition(event);
+      var now = performance.now();
+      var elapsed = Math.max(now - activeDrag.lastTime, 1);
+      var nextX = clamp(point.x - activeDrag.offsetX, radius, width - radius);
+      var nextY = clamp(point.y - activeDrag.offsetY, radius, height - radius);
+
+      node.vx = clamp((nextX - activeDrag.lastX) / elapsed, -0.14, 0.14);
+      node.vy = clamp((nextY - activeDrag.lastY) / elapsed, -0.14, 0.14);
+      node.x = nextX;
+      node.y = nextY;
+
+      activeDrag.lastX = nextX;
+      activeDrag.lastY = nextY;
+      activeDrag.lastTime = now;
+      draw();
+    }
+
+    function endDrag(event) {
+      if (!activeDrag || event.pointerId !== activeDrag.pointerId) {
+        return;
+      }
+
+      var node = nodes[activeDrag.index];
+      node.isDragging = false;
+      nodeEls[activeDrag.index].classList.remove('is-dragging');
+      nodeEls[activeDrag.index].releasePointerCapture(event.pointerId);
+      node.vx = clamp(node.vx * 0.85, -0.055, 0.055);
+      node.vy = clamp(node.vy * 0.85, -0.045, 0.045);
+      activeDrag = null;
+    }
+
+    nodeEls.forEach(function(circle, index) {
+      circle.addEventListener('pointerdown', function(event) {
+        startDrag(event, index);
+      });
+      circle.addEventListener('pointermove', dragNode);
+      circle.addEventListener('pointerup', endDrag);
+      circle.addEventListener('pointercancel', endDrag);
+    });
+
     function draw() {
       links.forEach(function(link, index) {
         var source = nodes[link[0]];
@@ -560,6 +651,10 @@ My wife Charlene Chow is an artist. [Check out her website here!](http://charlen
 
     function step(delta) {
       nodes.forEach(function(node) {
+        if (node.isDragging) {
+          return;
+        }
+
         node.x += node.vx * delta;
         node.y += node.vy * delta;
 

@@ -57,12 +57,27 @@ image:
     flex: 0 0 92px;
     height: 92px;
     object-fit: cover;
+    position: relative;
+    transform: scale(1);
+    transition: transform 260ms cubic-bezier(0.34, 1.56, 0.64, 1);
     width: 92px;
+    z-index: 1;
+  }
+
+  .research-topic-image:hover {
+    transform: scale(1.2);
+    z-index: 2;
   }
 
   .research-topic-image-placeholder {
     border: 1px dashed #333332;
     display: block;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .research-topic-image {
+      transition: none;
+    }
   }
 
   @media (max-width: 520px) {
