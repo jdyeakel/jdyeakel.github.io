@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Teaching" 
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
@@ -8,6 +7,10 @@ image:
   feature: tracks-leadville.jpg
   credit: jdyeakel
 ---
+
+<!-- dontshow -->
+
+## $$\because$$ Undergraduate and Graduate Courses $$\because$$
 
 > ### [Ecological Dynamics (Spring, 2026)]({{ site.url }}/teaching/ecodyn156/)   
 > BIO/ESS 156  
