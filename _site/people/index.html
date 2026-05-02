@@ -78,6 +78,50 @@
 <script type="text/javascript" async
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
+<style>
+  .mainpage-reading {
+    margin-top: 24px;
+    max-width: 250px;
+  }
+
+  .mainpage-network {
+    margin-top: 24px;
+    max-width: 180px;
+  }
+
+  .mainpage-network svg {
+    display: block;
+    height: auto;
+    overflow: visible;
+    width: 100%;
+  }
+
+  .mainpage-network-link {
+    stroke: #74746f;
+    stroke-linecap: round;
+    stroke-opacity: 0.34;
+    stroke-width: 1.2;
+  }
+
+  .mainpage-network-node {
+    stroke: #ffffff;
+    stroke-width: 1.5;
+  }
+
+  .mainpage-reading img {
+    display: block;
+    height: auto;
+    margin-bottom: 14px;
+    max-width: 180px;
+    width: 100%;
+  }
+
+  .mainpage-reading-text {
+    color: #333332;
+    min-height: 5em;
+    text-align: left;
+  }
+</style>
 </head>
 
 <body class="page">
@@ -130,7 +174,7 @@
 
 <div id="main" role="main">
   <div class="article-author-side">
-	  
+    
 
 
 	<img src="//jdyeakel.github.io/images/justin-web.jpg" class="bio-photo" alt="Justin D. Yeakel bio photo"></a>
@@ -152,7 +196,24 @@
 
 
 
-	  <br>
+    <div class="mainpage-network" aria-hidden="true">
+      <svg id="mainpage-network" viewBox="0 0 180 140" role="img">
+        <g class="mainpage-network-links"></g>
+        <g class="mainpage-network-nodes"></g>
+      </svg>
+    </div>
+    <div class="mainpage-reading">
+      <img src="//jdyeakel.github.io/images/book.jpg" alt="What are we reading">
+      <div class="mainpage-reading-text">
+        
+        
+          <p><strong>Justin:</strong> <em>Green Mars</em><br />
+<strong>Anna:</strong></p>
+
+        
+      </div>
+    </div>
+    <br>
     <!-- <a class="twitter-timeline"  href="https://twitter.com/hashtag/YeakelLab" data-widget-id="906212927526412288">#YeakelLab Tweets</a>
     <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
     </script> -->
@@ -421,7 +482,115 @@ My wife Charlene Chow is an artist. [Check out her website here!](http://charlen
 
 
   
-          
+
+
+<script>
+  (function() {
+    var svg = document.getElementById('mainpage-network');
+    if (!svg) {
+      return;
+    }
+
+    var prefersReducedMotion = window.matchMedia &&
+      window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    var width = 180;
+    var height = 140;
+    var radius = 5.4;
+    var colors = ['#207191', '#eb6235', '#6f9f93', '#74746f', '#d6a64f'];
+    var nodes = [];
+    var links = [];
+    var linkGroup = svg.querySelector('.mainpage-network-links');
+    var nodeGroup = svg.querySelector('.mainpage-network-nodes');
+
+    function randomBetween(min, max) {
+      return min + Math.random() * (max - min);
+    }
+
+    for (var i = 0; i < 10; i += 1) {
+      nodes.push({
+        x: randomBetween(18, width - 18),
+        y: randomBetween(18, height - 18),
+        vx: randomBetween(-0.022, 0.022),
+        vy: randomBetween(-0.018, 0.018),
+        color: colors[i % colors.length]
+      });
+    }
+
+    for (var ring = 0; ring < nodes.length; ring += 1) {
+      links.push([ring, (ring + 1) % nodes.length]);
+    }
+
+    for (var chord = 0; chord < nodes.length; chord += 2) {
+      links.push([chord, (chord + 3) % nodes.length]);
+    }
+
+    links.push([1, 6], [3, 8]);
+
+    var linkEls = links.map(function(link) {
+      var line = document.createElementNS('http://www.w3.org/2000/svg', 'line');
+      line.setAttribute('class', 'mainpage-network-link');
+      linkGroup.appendChild(line);
+      return line;
+    });
+
+    var nodeEls = nodes.map(function(node) {
+      var circle = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
+      circle.setAttribute('class', 'mainpage-network-node');
+      circle.setAttribute('r', radius);
+      circle.setAttribute('fill', node.color);
+      nodeGroup.appendChild(circle);
+      return circle;
+    });
+
+    function draw() {
+      links.forEach(function(link, index) {
+        var source = nodes[link[0]];
+        var target = nodes[link[1]];
+        linkEls[index].setAttribute('x1', source.x);
+        linkEls[index].setAttribute('y1', source.y);
+        linkEls[index].setAttribute('x2', target.x);
+        linkEls[index].setAttribute('y2', target.y);
+      });
+
+      nodes.forEach(function(node, index) {
+        nodeEls[index].setAttribute('cx', node.x);
+        nodeEls[index].setAttribute('cy', node.y);
+      });
+    }
+
+    function step(delta) {
+      nodes.forEach(function(node) {
+        node.x += node.vx * delta;
+        node.y += node.vy * delta;
+
+        if (node.x < radius || node.x > width - radius) {
+          node.x = Math.max(radius, Math.min(width - radius, node.x));
+          node.vx *= -1;
+        }
+
+        if (node.y < radius || node.y > height - radius) {
+          node.y = Math.max(radius, Math.min(height - radius, node.y));
+          node.vy *= -1;
+        }
+      });
+
+      draw();
+    }
+
+    draw();
+
+    if (!prefersReducedMotion) {
+      var lastTime = performance.now();
+      function animate(now) {
+        var delta = Math.min(now - lastTime, 34);
+        lastTime = now;
+        step(delta);
+        window.requestAnimationFrame(animate);
+      }
+      window.requestAnimationFrame(animate);
+    }
+  }());
+</script>
 
 </body>
 </html>

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: mainpage
 date: 
 modified:
 excerpt:

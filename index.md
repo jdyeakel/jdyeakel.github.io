@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: mainpage
 excerpt: "Quantitative ecology, population dynamics, ecological networks"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
