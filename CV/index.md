@@ -96,6 +96,7 @@ comments: true
 **2017**
 :	* ☕ Dominy N.J. & <span style="color:#eb6235;">Yeakel J.D.</span>. [*Frankenstein* and the horrors of competitive exclusion](https://academic.oup.com/bioscience/article/67/2/107/2327311/Frankenstein-and-the-Horrors-of-Competitive){:target="_blank"}. *Bioscience*. doi:10.1093/biosci/biw133.
 
+<br>
 
 **2016**
 :	* Novak M., <span style="color:#eb6235;">Yeakel J.D.</span>, Noble A.E., Doak D.F., Emmerson M., Estes J.A., Jacob U., Tinker M.T., Wootton J.T. [Characterizing species interactions: What is the community matrix?](http://www.annualreviews.org/doi/abs/10.1146/annurev-ecolsys-032416-010215){:target="_blank"} *Annual Review of Ecology, Evolution, and Systematics*, 47.
