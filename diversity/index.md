@@ -16,10 +16,9 @@ image:
 <style>
   .diversity-network-image {
     float: right;
-    height: 170px;
+    height: auto;
     margin: 0 0 1em 1.4em;
-    object-fit: cover;
-    width: 170px;
+    width: 220px;
   }
 
   @media (max-width: 520px) {
