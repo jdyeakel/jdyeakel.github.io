@@ -16,10 +16,10 @@ image:
 <p>
   <span class="firstcharacter">O</span>
   ur EcoDynamics Lab studies systems in which difference matters. Species differ in traits, histories, constraints, and interactions, and those differences shape the structure and function of ecological communities. Research groups are not so different. A lab is stronger when people bring different backgrounds, identities, experiences, and ways of seeing pattern to shared scientific problems.
-  <br>
+  <br>  <br>
   We reject racism, sexism, homophobia, transphobia, religious intolerance, and other forms of exclusion. We recognize that academic science has not been equally accessible or welcoming to all people, and that this history continues to shape who feels entitled to belong in scientific spaces.
-  <br>
+  <br>  <br>
   I want this group to be a place where students and collaborators can ask questions, learn hard things, make mistakes, disagree and argue, and develop our own scientific instincts without being diminished or made to feel like outsiders.
-  <br>
+  <br>  <br>
   Diversity has moral importance, but it also has intellectual force. It expands the range of questions we ask, the metaphors we reach for, the patterns we notice, the futures we imagine.
 </p>
