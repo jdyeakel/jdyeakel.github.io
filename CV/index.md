@@ -16,15 +16,15 @@ comments: true
 
 **<span style="color:#6bdc61;">In Review</span>**
 : <dd class="review"> <div markdown="1">
-* Hoover S.H., Satterfield D.R., Gil M.A., Hein A.M., Moses M.E., <span style="color:#eb6235;">Yeakel J.D.</span>, Fahimipour A.K. 2026. Collective learning and manifold behaviors in predator groups. In Review @ Journal of the Royal Society Interface. [Preprint](https://www.biorxiv.org/content/10.64898/2026.03.27.714769v1){:target="_blank"}  
+* Hoover S.H., Satterfield D.R., Gil M.A., Hein A.M., Moses M.E., <span style="color:#eb6235;">Yeakel J.D.</span>, Fahimipour A.K. 2026. Collective learning and manifold behaviors in predator groups. In Review @ *Journal of the Royal Society Interface*. [Preprint](https://www.biorxiv.org/content/10.64898/2026.03.27.714769v1){:target="_blank"}  
 <br>
 
 <br>
 
 **2026**
-:	* ☕ <span style="color:#eb6235;">Yeakel J.D.</span>, Fan M., McTavish E.J., de Almeida A.C., Kempes C.P., Bettencourt L.M.A., Kim S., Breed G. 2026. An origin for the allometric scaling of mammalian fat reflects populations living on the edge. Provisionally Accepted @ The American Naturalist.  
+:	* ☕ <span style="color:#eb6235;">Yeakel J.D.</span>, Fan M., McTavish E.J., de Almeida A.C., Kempes C.P., Bettencourt L.M.A., Kim S., Breed G. 2026. An origin for the allometric scaling of mammalian fat reflects populations living on the edge. Provisionally Accepted @ *The American Naturalist*.  
 
-	* ☕ <span style="color:#eb6235;">Yeakel J.D.</span>, Hutchinson M.C., Kempes C.P., Koch P.L., Ugarte P.D.S., Gill J.L., Pires M.M. 2026. Bioenergetic trophic trade-offs determine mass-dependent extinction thresholds across the Cenozoic. Accepted @ Ecology. [Preprint](http://arxiv.org/abs/2410.18849){:target="_blank"}.  
+	* ☕ <span style="color:#eb6235;">Yeakel J.D.</span>, Hutchinson M.C., Kempes C.P., Koch P.L., Ugarte P.D.S., Gill J.L., Pires M.M. 2026. Bioenergetic trophic trade-offs determine mass-dependent extinction thresholds across the Cenozoic. Accepted @ *Ecology*. [Preprint](http://arxiv.org/abs/2410.18849){:target="_blank"}.  
 
 	* ☕ Birskis-Barros I., Assis A.P.A. , James H.F., Kim S.L., <span style="color:#eb6235;">Yeakel J.D.</span> [Morphological variability as a buffer against extinction: Insights from Hawaiian honeycreepers](https://royalsocietypublishing.org/rspb/article/293/2068/20252594/481220/Morphological-variability-as-a-buffer-against){:target="_blank"}. *Proceedings of the Royal Society B: Biological Sciences* 293 (2068) 20252594.  
 
