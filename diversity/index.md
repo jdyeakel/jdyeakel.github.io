@@ -15,8 +15,6 @@ image:
 
 <style>
   .diversity-network-image {
-    border: 1px solid #eb6235;
-    border-radius: 50%;
     float: right;
     height: 170px;
     margin: 0 0 1em 1.4em;
