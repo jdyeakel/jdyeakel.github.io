@@ -14,6 +14,12 @@ image:
 ## $$\because$$ Diversity Statement $$\because$$  
 
 <p>
-  <span class="firstcharacter">I</span>
-  n the EcoDynamics Lab at UC Merced, we value diversity in all of its myriad forms, and reject actions that marginalize those due to their race, gender identities, orientation, cultural background, religions, and/or creeds. We believe that the systemic racism that plagues institutions (including those in Academia) needs to be acknowledged and confronted directly. We believe that Black Lives Matter. We believe that diversity has intrinsic value that is vital for advancing creative thought. Diversity of background translates to diversity of experience, which influences how each person approaches questions we seek to probe. We believe that enabling diversity within a research group enriches the lives of those within it by exposing individuals to diverse minds, promoting diverse metaphorical reasoning and, by extension, creative problem-solving. We believe that diversity elevates.
+  <span class="firstcharacter">O</span>
+  ur EcoDynamics Lab studies systems in which difference matters. Species differ in traits, histories, constraints, and interactions, and those differences shape the structure and function of ecological communities. Research groups are not so different. A lab is stronger when people bring different backgrounds, identities, experiences, and ways of seeing pattern to shared scientific problems.
+
+  We reject racism, sexism, homophobia, transphobia, religious intolerance, and other forms of exclusion. We recognize that academic science has not been equally accessible or welcoming to all people, and that this history continues to shape who feels entitled to belong in scientific spaces.
+
+  I want this group to be a place where students and collaborators can ask questions, learn hard things, make mistakes, disagree and argue, and develop our own scientific instincts without being diminished or made to feel like outsiders.
+
+  Diversity has moral importance, but it also has intellectual force. It expands the range of questions we ask, the metaphors we reach for, the patterns we notice, the futures we imagine.
 </p>
