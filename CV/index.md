@@ -24,7 +24,7 @@ comments: true
 **2026**
 :	* ☕ <span style="color:#eb6235;">Yeakel J.D.</span>, Fan M., McTavish E.J., de Almeida A.C., Kempes C.P., Bettencourt L.M.A., Kim S., Breed G. 2026. An origin for the allometric scaling of mammalian fat reflects populations living on the edge. Provisionally Accepted @ *The American Naturalist*.  
 
-	* ☕ <span style="color:#eb6235;">Yeakel J.D.</span>, Hutchinson M.C., Kempes C.P., Koch P.L., Ugarte P.D.S., Gill J.L., Pires M.M. 2026. Bioenergetic trophic trade-offs determine mass-dependent extinction thresholds across the Cenozoic. Accepted @ *Ecology*. [Preprint](http://arxiv.org/abs/2410.18849){:target="_blank"}.  
+	* ☕ <span style="color:#eb6235;">Yeakel J.D.</span>, Hutchinson M.C., Kempes C.P., Koch P.L., Ugarte P.D.S., Gill J.L., Pires M.M. 2026. [Bioenergetic trophic trade-offs determine mass-dependent extinction thresholds across the Cenozoic](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70390){:target="_blank"}. *Ecology* 107 (5) e70390.  
 
 	* ☕ Birskis-Barros I., Assis A.P.A. , James H.F., Kim S.L., <span style="color:#eb6235;">Yeakel J.D.</span> [Morphological variability as a buffer against extinction: Insights from Hawaiian honeycreepers](https://royalsocietypublishing.org/rspb/article/293/2068/20252594/481220/Morphological-variability-as-a-buffer-against){:target="_blank"}. *Proceedings of the Royal Society B: Biological Sciences* 293 (2068) 20252594.  
 
