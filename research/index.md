@@ -100,7 +100,7 @@ As of **Summer 2026**, some exciting current areas of active research include:
   <li>
     <div class="research-topic-row">
       <span class="research-topic-text">How the bioenergetics of terrestrial predation influenced the evolution of carnivores and their herbivore prey throughout the Cenozoic. <a href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70390">Just Published!</a></span>
-      <img class="research-topic-image" src="/images/pred_square.jpg" alt="Terrestrial predator and prey research image">
+      <a href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70390"><img class="research-topic-image" src="/images/pred_square.jpg" alt="Terrestrial predator and prey research image"></a>
     </div>
   </li>
   <li>
