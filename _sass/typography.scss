@@ -111,31 +111,34 @@ blockquote {
 /* CV */
 /*lists*/ /*Orig: dt color: #626262; dd border-left #dfdfdf*/ 
 dt {
-	position: relative;
-	left: 0;
-	top: 30px;
+	position: absolute;
+	left: 44px;
+	top: 0;
+	writing-mode: vertical-lr;
+	transform: rotate(180deg);
 	color: #74ADD1;
-	font-size: 14px;
+	font-size: 18px;
 	text-transform: none;
-	width: 57px;
+	width: 17px;
 }
 
 
 dd {
 	border-left: 3px solid #74ADD1;
-	margin: -5px 0 -15px 63px;
+	margin: 0 0 0 63px;
 	padding: 0 0 0 9px;
 }
 
 dd.review {
-	border-left: 3px solid #6bdc61; // New border color
-	margin: -5px 0 -15px 63px;
+	border-left: 3px solid #6bdc61;
+	margin: 0 0 0 63px;
 	padding: 0 0 0 9px;
 }
 
 dl {
+	position: relative;
 	margin-bottom: 20px;
-	margin-top: -20px;
+	margin-top: 0;
 }
 
 img {

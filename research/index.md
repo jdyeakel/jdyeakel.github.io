@@ -142,7 +142,9 @@ image:
   }
 </style>
 
-As of **Summer 2026**, some exciting current areas of active research include:
+As of **Summer 2026**, some exciting current areas of active research include the following...
+
+<h3 style="color:#eb6235;">Hot off the press or nearly finished:</h3>
 
 <ul class="research-topics">
   <li>
@@ -153,10 +155,15 @@ As of **Summer 2026**, some exciting current areas of active research include:
   </li>
   <li>
     <div class="research-topic-row">
-      <span class="research-topic-text">The origin of the allometric scaling of body fat and its macroevolutionary implications (publication coming soon!)</span>
+      <span class="research-topic-text">The origin of the allometric scaling of body fat and its macroevolutionary implications (In press at <em>The American Naturalist!</em>)</span>
       <img id="fat-paper-img" class="research-topic-image" src="/images/elephant_square.jpg" alt="Body fat allometry research image">
     </div>
   </li>
+</ul>
+
+<h3 style="color:#eb6235;">Still in the oven:</h3>
+
+<ul class="research-topics">
   <li>
     <div class="research-topic-row">
       <span class="research-topic-text">How marine megapredators such as <em>Otodus megalodon</em> (and other giant megatooth sharks) and <em>Livyatan melvillei</em> (and other giant raptorial whales) balanced their bioenergetic budgets, and the implications this likely had for Cenozoic marine communities</span>
@@ -166,7 +173,7 @@ As of **Summer 2026**, some exciting current areas of active research include:
   </li>
   <li>
     <div class="research-topic-row">
-      <span class="research-topic-text">Exploring how grazing, browsing, and mixed feeding mammals met their energetic needs with the opening of landscapes during the Eocene-Oligocene transition (34 Ma) and into the global cool-house characterizing the latter half of the Cenozoic</span>
+      <span class="research-topic-text">How grazing, browsing, and mixed feeding mammals met their energetic needs with the opening of landscapes during the Eocene-Oligocene transition (34 Ma) and into the global cool-house characterizing the latter half of the Cenozoic</span>
       <!-- Replace this placeholder with: <img class="research-topic-image" src="/images/TBD_grazing_browsing_square.jpg" alt="Grazing and browsing mammals research image"> -->
       <img class="research-topic-image" src="/images/gazelle_square.jpg" alt="Body fat allometry research image">
     </div>
