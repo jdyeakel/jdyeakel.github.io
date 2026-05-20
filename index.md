@@ -11,7 +11,7 @@ image:
 
 
 <div style="display: flex; align-items: flex-start;margin-bottom: 15px;">
-    <div>
+    <div style="text-align: left;">
         <span style="text-align=left;font-size:1.3em;color:#207191;font-weight: bold;">Quantitative Ecological Dynamics (QED)</span>
         <br><span style="text-align=left;font-size:1.0em;color:#333332;">&nbsp;&nbsp;&nbsp;&nbsp;Dept. of Life &amp; Environmental Sciences</span>
         <br><span style="text-align=left;font-size:1.0em;color:#333332;">&nbsp;&nbsp;&nbsp;&nbsp;School of Natural Sciences</span> 
