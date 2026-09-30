@@ -11,7 +11,10 @@ gem "faraday-retry"
 
 gem 'octopress', '~> 3.0.0.rc.12'
 
-gem "uri", ">= 1.0.3"
+gem "uri", ">= 1.0.4"
+
+# Security: stay on the patched 2.x line (Dependabot CVE-2026-54696)
+gem "json", "~> 2.19", ">= 2.19.9"
 
 # source 'https://rubygems.org'
 # # ruby "3.3.4"
