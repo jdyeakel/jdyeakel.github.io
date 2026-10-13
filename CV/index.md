@@ -22,7 +22,7 @@ comments: true
 <br>
 
 **2026**
-:	* ☕ <span style="color:#eb6235;">Yeakel J.D.</span>, Fan M., McTavish E.J., de Almeida A.C., Kempes C.P., Bettencourt L.M.A., Kim S., Breed G. 2026. An origin for the allometric scaling of mammalian fat reflects populations living on the edge. In Press @ **The American Naturalist**.  
+:	* ☕ <span style="color:#eb6235;">Yeakel J.D.</span>, Fan M., McTavish E.J., de Almeida A.C., Kempes C.P., Bettencourt L.M.A., Kim S., Breed G.A. 2026. [An origin for the allometric scaling of mammalian fat reflects populations living on the edge]({{ site.url }}/publications/Yeakel_AmNat_2026.pdf){:target="_blank"}. **The American Naturalist** 208(5). [Supplement.]({{ site.url }}/publications/Yeakel_AmNat_2026_supp.pdf){:target="_blank"}  
 
 	* ☕ <span style="color:#eb6235;">Yeakel J.D.</span>, Hutchinson M.C., Kempes C.P., Koch P.L., Ugarte P.D.S., Gill J.L., Pires M.M. 2026. [Bioenergetic trophic trade-offs determine mass-dependent extinction thresholds across the Cenozoic](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70390){:target="_blank"}. **Ecology** 107 (5) e70390.  
 
